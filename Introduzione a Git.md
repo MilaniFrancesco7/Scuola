@@ -28,6 +28,7 @@ nano .bashrc //Per modificare aliases
 aliases=gl = 'git log --oneline'
 git reset --hard //Lascia inalterati i file non tracciati (file nuovi), torna al commit precedente di quelli tracciati
 git clean -f //Elimina tutti gli untracked file
+git branch -d "nomebranch" #Branch da eliminare
 ```
 
 ## Branch
@@ -38,3 +39,16 @@ Ogni repository crea un branch chiamato "master", i commit vengono eseguiti sul 
 Per creare un nuovo branch, da un commit qualsiasi, si creerà un altro ramo, senza alterare il ramo master.
 
 Al termine del ramo secondario, se si vuole mantenere le modifiche, si può fare un merge con il ramo master.
+
+>https://learngitbranching.js.org/
+
+
+## Aliases
+```bash
+gl = git log --oneline
+ga = git add
+gc = git commit -m
+gs = git status
+```
+
+
