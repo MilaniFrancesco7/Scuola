@@ -38,6 +38,3 @@ Ogni repository crea un branch chiamato "master", i commit vengono eseguiti sul 
 Per creare un nuovo branch, da un commit qualsiasi, si creerà un altro ramo, senza alterare il ramo master.
 
 Al termine del ramo secondario, se si vuole mantenere le modifiche, si può fare un merge con il ramo master.
-
-
-
