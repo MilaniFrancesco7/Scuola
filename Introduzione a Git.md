@@ -29,6 +29,7 @@ aliases=gl = 'git log --oneline'
 git reset --hard //Lascia inalterati i file non tracciati (file nuovi), torna al commit precedente di quelli tracciati
 git clean -f //Elimina tutti gli untracked file
 git branch -d "nomebranch" #Branch da eliminare
+git config --global core.editor nano
 ```
 
 ## Branch
