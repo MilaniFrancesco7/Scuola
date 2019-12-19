@@ -30,18 +30,18 @@ git reset --hard //Lascia inalterati i file non tracciati (file nuovi), torna al
 git clean -f //Elimina tutti gli untracked file
 
 git branch -d "nomebranch" #Branch da eliminare
-<<<<<<< HEAD
 git checkout -b "nomebranch" #Crea branch e sposta il puntatore
 git merge "nomebranch" #Esegue il merge del branch a cui si è fatto il checkout con il nome branch
 git rebase "nomebranch" #tipologia di merge
 
 git clone "link" # copia la cartella in locale
 git checkout o/master #branch della repository remota
-git fetch #funziona come il git pull
+git fetch #scarica la repository remota, ma non aggiorna il master
+git pull #Aggiorna il master -> fetch e merge insieme
+git push #Carica le modifiche nella repository remota
 
-=======
-git config --global core.editor nano
->>>>>>> 81746ff31449288d75128e808040465d7759c575
+git fakeTeamwork "nome","numero" #esegue dei commit automatici per simulare che qualcuno abbia fatto delle modifiche
+
 ```
 
 ## Branch
