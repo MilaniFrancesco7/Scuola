@@ -28,7 +28,16 @@ nano .bashrc //Per modificare aliases
 aliases=gl = 'git log --oneline'
 git reset --hard //Lascia inalterati i file non tracciati (file nuovi), torna al commit precedente di quelli tracciati
 git clean -f //Elimina tutti gli untracked file
+
 git branch -d "nomebranch" #Branch da eliminare
+git checkout -b "nomebranch" #Crea branch e sposta il puntatore
+git merge "nomebranch" #Esegue il merge del branch a cui si è fatto il checkout con il nome branch
+git rebase "nomebranch" #tipologia di merge
+
+git clone "link" # copia la cartella in locale
+git checkout o/master #branch della repository remota
+git fetch #funziona come il git pull
+
 ```
 
 ## Branch
@@ -42,6 +51,11 @@ Al termine del ramo secondario, se si vuole mantenere le modifiche, si può fare
 
 >https://learngitbranching.js.org/
 
+## Remotes
+
+Permette di creare delle repository locali scaricandole da github o gitlab ecc.
+
+origin -> Nome di default per le repository remote
 
 ## Aliases
 ```bash
@@ -50,5 +64,3 @@ ga = git add
 gc = git commit -m
 gs = git status
 ```
-
-
