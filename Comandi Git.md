@@ -7,7 +7,7 @@ Tiene traccia di ciascun cambiamento che avviene nel tuo progetto, e chi li ha f
 
 Due sistemi:
 > Distribuito
-Centralizzato
+> Centralizzato
 
 # Comandi git
 
@@ -68,3 +68,39 @@ ga = git add
 gc = git commit -m
 gs = git status
 ```
+
+# Ripasso
+
+- Cos'è e come è strutturato
+- Funzionalità di base
+- Segui il tutorial https://www.e-fermi.it/moodle27/mod/url/view.php?id=17016 Fino a rewriting history
+
+- Segui tutorial https://learngitbranching.js.org/ 
+- Parti 1,2,3
+- No Rebase
+- Si Remote
+
+
+## Introduzione
+
+- Git è un sistema di controllo versione, (VCS, Version Control System), creato per    gestire le modifiche ai file.
+- Permette di tracciare ogni modifica al proprio progetto, diventando quindi essenziale per la realizzazione dei progetti più impegnativi.
+
+- Viene creato nel 2005 per sostituire "BitKeeper", di cui linux aveva perso la licenza.
+
+### Inizializzare una repository
+
+- git init 
+Crea una repository .git dove potranno essere utilizzati tutti i comandi di Git
+
+### Stato della repository
+
+- git status
+Mostra lo stato della repository, dove sono presenti i tracked e gli untracked file.
+Git non traccia automaticamente i file
+
+### Fare uno snapshot
+
+- git add * (* per tutto)
+Aggiunge i file allo snapshot per il prossimo commit
+Lo snapshot rappresenta lo stato del progetto fino a quel momento
