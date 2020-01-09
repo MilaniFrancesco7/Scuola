@@ -1,0 +1,5 @@
+Creazione del Certificato SSL
+
+Il certificato SSL viene utilizzato per garantire la sicurezza della comunicazione tra un server ed i vari client, certificando per l'appunto che le informazioni non vengono modificate o intercettate durante il trasporto.
+
+Esistono tre tipi di certificati: a pagamento, ovvero il certificato acquistabile da agenzie specializzate nel garantire la certezza del server e la sicurezza(Lucchetto verde o grigio); gratis, attraverso l'utilizzo di software affidabili che creano la sicurezza della comunicazione ma non l'affidabilità del server (lucchetto grigio); Autofirmato, creato nel server stesso, ma dato che la chiave privata è accedibile dal root del server, non è assicurata la privatezza della comunicazione (Lucchetto con triangolo giallo)

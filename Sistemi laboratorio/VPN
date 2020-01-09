@@ -1,0 +1,39 @@
+# VPN a coppie
+
+VPN: IPSEC: Tunnels
+
+## Local net Remote net
+
+LAN 192.168.2.0/24 ###Indirizzo ip privato dell'altro pc
+
+## Interface Remote gw
+
+WAN 172.30.4.110    ###Indirizzo ip pubblico dell'altro pc
+
+## DPD interval
+
+60 seconds
+
+## P1 mode
+
+aggressive
+
+## DH key group
+
+86400
+
+## PFS key group
+
+86400
+
+## P1 Encryption
+
+3DES
+
+## P1 Hash Algo
+
+MD5
+
+### Description 
+
+Client Zen
