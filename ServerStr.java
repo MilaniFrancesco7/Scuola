@@ -1,13 +1,21 @@
+/*
+ * Milani Francesco
+ * 5AI
+ * 140120 
+ * 
+ * Server in Java che presa una stringa da client input restituisce la stringa in caratteri maiuscoli
+ * 
+ */
 import java.io.*;
 import java.net.*;
 import java.util.*;
 
 public class ServerStr 
 {
-	ServerSocket server      = null;
-	Socket client            = null;
-	String stringaRicevuta   = null;
-	String stringaModificata = null;
+	ServerSocket server      = null;  	// Variabile per la creazione del server
+	Socket client            = null;  	// Variabile per l'accettazione del client
+	String stringaRicevuta   = null;  	// Stringa di supporto per l'input
+	String stringaModificata = null;  	// Stringa di supporto per l'output
 	BufferedReader   inDalClient; 
 	DataOutputStream outVersoClient;
 
@@ -40,18 +48,23 @@ public class ServerStr
 	{
 		try
 		{
-			// rimango in attesa della riga trasnmessa dal client
-			System.out.println("3 benvenuto client, scrivi una frase e la trasformo in maiuscolo. Attendo ...");
-			stringaRicevuta = inDalClient.readLine();
-			System.out.println("6 ricevuta la stringa dal cliente : "+stringaRicevuta);
+			while(stringaRicevuta != "f")
+			{
+				
+				// rimango in attesa della riga trasmessa dal client
+				System.out.println("Benvenuto client, scrivi una frase e la trasformo in maiuscolo. Attendo ...");
+				stringaRicevuta = inDalClient.readLine();
+				System.out.println("Ricevuta la stringa dal cliente : "+stringaRicevuta);
 
-			//la modifico e la rispedisco al client  
-			stringaModificata=stringaRicevuta.toUpperCase();
-			System.out.println("7 invio la stringa modificata al client ...");
-			outVersoClient.writeBytes(stringaModificata+'\n');
+				//la modifico e la rispedisco al client  
+				stringaModificata=stringaRicevuta.toUpperCase();
+				System.out.println("Invio la stringa modificata al client ...");
+				outVersoClient.writeBytes(stringaModificata+'\n');
+			}
 
 			//termina elaborazione sul server : chiudo la connessione del client 
-			System.out.println("9 SERVER: fine elaborazione  ... buona notte!");
+			System.out.println("SERVER: fine elaborazione ");
+			
 			client.close();
 		}  
 		catch (Exception e) 
