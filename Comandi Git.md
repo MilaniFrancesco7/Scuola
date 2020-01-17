@@ -135,6 +135,11 @@ git add
 git commit
 git branch
 
+## Gitignore
+
+File utilizzato per tenere fuori dalla cartella di git i file che non si vogliono aggiungere al progetto
+- Per questo è fondamentale creare un file .gitignore
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTU0MTUyOTUyOCwtNjA1Mzg2MTY4XX0=
 -->
