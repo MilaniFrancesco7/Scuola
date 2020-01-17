@@ -61,8 +61,6 @@ git fetch #scarica la repository remota, ma non aggiorna il master
 git pull #Aggiorna il master -> fetch e merge insieme
 git push #Carica le modifiche nella repository remota
 
-git fakeTeamwork "nome","numero" #esegue dei commit automatici per simulare che qualcuno abbia fatto delle modifiche
-
 ```
 
 ## Branch
@@ -80,7 +78,13 @@ Al termine del ramo secondario, se si vuole mantenere le modifiche, si può fare
 
 Permette di creare delle repository locali scaricandole da github o gitlab ecc.
 
-origin -> Nome di default per le repository remote
+origin -> Nome di default per le repository locali
+
+## Rete scolastica
+```bash
+#Nella cartella principale:
+
+```
 
 ## Aliases
 ```bash
@@ -132,5 +136,5 @@ nome del branch = origin/master
 "nomeremoto"/"nomebranch"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzkyNDY0MF19
+eyJoaXN0b3J5IjpbMjUyMzk2MDBdfQ==
 -->
