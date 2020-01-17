@@ -7,7 +7,15 @@ Tiene traccia di ciascun cambiamento che avviene nel tuo progetto, e chi li ha f
 
 ## Configurazione per cartella remota
 ```bash
+git config --global user.email "email" #Configurazione della email
+git config --global user.name "username" #Configurazione dell'username
 
+git init #inizializza una repository
+
+git clone "url" #Clona la repository in locale
+
+git pus
+```
 ## Comandi
 ```bash
 git init #Inizializzare una repository .git
@@ -121,5 +129,5 @@ nome del branch = origin/master
 "nomeremoto"/"nomebranch"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTkxNjM0MF19
+eyJoaXN0b3J5IjpbNzk3NzQ1NjU4XX0=
 -->
