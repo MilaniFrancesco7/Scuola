@@ -5,22 +5,24 @@
 E' un sistema di versioning (controllo di versione), per gestire i cambiamenti dei file.
 Tiene traccia di ciascun cambiamento che avviene nel tuo progetto, e chi li ha fatti.
 
-# Comandi git
-
+## Configurazione per cartella remota
 ```bash
-git init //Inizializzare una repository .git
-git status //Controllare lo stato delle modifiche e gli untracked file
-git log Storico dei commit realizzati
+
+## Comandi
+```bash
+git init #Inizializzare una repository .git
+git status #Controllare lo stato delle modifiche e gli untracked file
+git log #Storico dei commit realizzati
 git log --oneline #Formato compresso
 
-git add "nomefile" //Aggiungere un file alla lista per il prossimo commit
-git add * (o .) //Aggiungi tutti i file alla lista per il prossimo commit
+git add "nomefile" #Aggiungere un file alla lista per il prossimo commit
+git add * (o .) #Aggiungi tutti i file alla lista per il prossimo commit
 
-git commit -m"messaggio" //"Tasto della fotocamera", Snapshot, registare un messaggio
-git config --global user.email "email" //Configurazione git
-git config --global user.name "username" //Configurazione git
-git log //Storico dei commit realizzati
-git log --oneline //In una sola line
+git commit -m"messaggio" #"Tasto della fotocamera", Snapshot, registare un messaggio
+
+git config --global user.email "email" #Configurazione git
+git config --global user.name "username" #Configurazione git
+
 git tag -a v1.0 -m "Messaggio" //Taggare i file
 git revert "idcommit" //Torna indietro creando un altro commit uguale al precedente
 git checkout[caratteri/tag] //Serve a cambiare il puntatore che di solitao punta all'ultimo commit, per controllare una versione precedente del programma
@@ -119,5 +121,5 @@ nome del branch = origin/master
 "nomeremoto"/"nomebranch"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTEwNjRdfQ==
+eyJoaXN0b3J5IjpbMTU4MTkxNjM0MF19
 -->
