@@ -2,8 +2,12 @@
 
 ## Cos'è Git?
 
-E' un sistema di versioning (controllo di versione), per gestire i cambiamenti dei file.
-Tiene traccia di ciascun cambiamento che avviene nel tuo progetto, e chi li ha fatti.
+### Introduzione
+
+- Git è un sistema di controllo versione, (VCS, Version Control System), creato per    gestire le modifiche ai file.
+- Permette di tracciare ogni modifica al proprio progetto, diventando quindi essenziale per la realizzazione dei progetti più impegnativi.
+
+- Viene creato nel 2005 per sostituire "BitKeeper", di cui linux aveva perso la licenza.
 
 ## Configurazione per cartella remota
 ```bash
@@ -83,7 +87,13 @@ origin -> Nome di default per le repository locali
 ## Rete scolastica
 ```bash
 #Nella cartella principale:
+nano .gitconfig
 
+#gitconfig
+[http]
+	proxy = 172.30.1.199:3128
+[https]
+	proxy = 172.30.1.199:3128
 ```
 
 ## Aliases
@@ -93,26 +103,6 @@ ga = git add
 gc = git commit -m
 gs = git status
 ```
-
-# Ripasso
-
-- Cos'è e come è strutturato
-- Funzionalità di base
-- Segui il tutorial https://www.e-fermi.it/moodle27/mod/url/view.php?id=17016 Fino a rewriting history
-
-- Segui tutorial https://learngitbranching.js.org/ 
-- Parti 1,2,3
-- No Rebase
-- Si Remote
-
-
-## Introduzione
-
-- Git è un sistema di controllo versione, (VCS, Version Control System), creato per    gestire le modifiche ai file.
-- Permette di tracciare ogni modifica al proprio progetto, diventando quindi essenziale per la realizzazione dei progetti più impegnativi.
-
-- Viene creato nel 2005 per sostituire "BitKeeper", di cui linux aveva perso la licenza.
-
 ### Inizializzare una repository
 
 - git init 
@@ -136,5 +126,5 @@ nome del branch = origin/master
 "nomeremoto"/"nomebranch"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMzk2MDBdfQ==
+eyJoaXN0b3J5IjpbNTQ2NjkwNTU0XX0=
 -->
