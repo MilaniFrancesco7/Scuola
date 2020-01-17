@@ -1,6 +1,6 @@
 # Introduzione a Git
 
-### Cos'è Git?
+## Cos'è Git?
 
 E' un sistema di versioning (controllo di versione), per gestire i cambiamenti dei file.
 Tiene traccia di ciascun cambiamento che avviene nel tuo progetto, e chi li ha fatti.
@@ -13,8 +13,6 @@ git config --global user.name "username" #Configurazione dell'username
 git init #inizializza una repository
 
 git clone "url" #Clona la repository in locale
-
-git pus
 ```
 ## Comandi
 ```bash
@@ -32,8 +30,12 @@ git config --global user.email "email" #Configurazione git
 git config --global user.name "username" #Configurazione git
 
 git tag -a v1.0 -m "Messaggio" //Taggare i file
-git revert "idcommit" //Torna indietro creando un altro commit uguale al precedente
-git checkout[caratteri/tag] //Serve a cambiare il puntatore che di solitao punta all'ultimo commit, per controllare una versione precedente del programma
+
+git revert "idcommit" #Torna indietro creando un altro commit uguale al precedente
+
+git checkout"caratteri/tag" #ìpostare il puntatore che di solito punta all'ultimo commit, per controllare una versione precedente del programma
+git checkout -b "nomebranch" # 
+
 git checkout master //Torna all'ultimo commit
 nano .bashrc //Per modificare aliases
 aliases=gl = 'git log --oneline'
@@ -129,5 +131,5 @@ nome del branch = origin/master
 "nomeremoto"/"nomebranch"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3NzQ1NjU4XX0=
+eyJoaXN0b3J5IjpbOTU2NTU2NDQ5XX0=
 -->
