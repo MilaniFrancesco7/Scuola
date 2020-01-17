@@ -127,7 +127,14 @@ gc = git commit -m
 gs = git status
 ```
 
+git checkout -b nomebranch
+git reset --hard
+git clean -f
+git init
+git add
+git commit
+git branch
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwNjMyMjIsLTYwNTM4NjE2OF19
+eyJoaXN0b3J5IjpbLTU0MTUyOTUyOCwtNjA1Mzg2MTY4XX0=
 -->
