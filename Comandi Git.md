@@ -8,9 +8,14 @@ Tiene traccia di ciascun cambiamento che avviene nel tuo progetto, e chi li ha f
 # Comandi git
 
 ```bash
-git init //Inizializza una cartella git
-git status //Controllare lo stato delle modifiche
-git add "nomefile" //Aggiungere un file
+git init //Inizializzare una repository .git
+git status //Controllare lo stato delle modifiche e gli untracked file
+git log Storico dei commit realizzati
+git log --oneline #Formato compresso
+
+git add "nomefile" //Aggiungere un file alla lista per il prossimo commit
+git add * (o .) //Aggiungi tutti i file alla lista per il prossimo commit
+
 git commit -m"messaggio" //"Tasto della fotocamera", Snapshot, registare un messaggio
 git config --global user.email "email" //Configurazione git
 git config --global user.name "username" //Configurazione git
@@ -114,5 +119,5 @@ nome del branch = origin/master
 "nomeremoto"/"nomebranch"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTIxMzg1OV19
+eyJoaXN0b3J5IjpbLTc1MTEwNjRdfQ==
 -->
