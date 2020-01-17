@@ -39,25 +39,24 @@ git revert "idcommit" #Torna indietro creando un altro commit uguale al preceden
 git checkout"caratteri/tag" #Sposta il puntatore che di solito punta all'ultimo commit, per controllare una versione precedente del programma
 git checkout -b "nomebranch" #Crea un nuovo branch e ci sposta il puntatore
 git checkout master #Torna all'ultimo commit
+git checkout origin/master #branch della repository remota
 
 
 git reset --hard #Lascia inalterati i file non tracciati (file nuovi), torna al commit precedente di quelli tracciati
 git clean -f #Elimina tutti i file untracked
 
-git branch -d "nomebranch" #E
-git checkout -b "nomebranch" #Crea branch e sposta il puntatore
+git branch -d "nomebranch" #Eliminare un branch
 git merge "nomebranch" #Esegue il merge del branch a cui si è fatto il checkout con il nome branch
-git rebase "nomebranch" #tipologia di merge
+git rebase "nomebranch" #Si utilizza per mostrare una sequenzialità nella progettazione nonostante i branch siano stati sviluppati in modo parallelo
 
-
-git branch -f "branchname" "position" # Riassegna il branch ad un commit specifico
+git branch -f "branchname" "posizione" #Riassegna il branch ad un commit specifico
 
 git reset HEAD # Torna al commit precedente
 git revert HEAD # Crea un commit successivo sovrascrivendo le modifiche
 
 
-git clone "link" # copia la cartella in locale
-git checkout o/master #branch della repository remota
+git clone "url" # copia la cartella in locale
+
 git fetch #scarica la repository remota, ma non aggiorna il master
 git pull #Aggiorna il master -> fetch e merge insieme
 git push #Carica le modifiche nella repository remota
@@ -133,5 +132,5 @@ nome del branch = origin/master
 "nomeremoto"/"nomebranch"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQyMDQzNzVdfQ==
+eyJoaXN0b3J5IjpbMTk4NzkyNDY0MF19
 -->
