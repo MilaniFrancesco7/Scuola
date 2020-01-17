@@ -13,6 +13,9 @@ git config --global user.name "username" #Configurazione dell'username
 git init #inizializza una repository
 
 git clone "url" #Clona la repository in locale
+
+nano .bashrc #Per modificare gli aliases
+aliases=gl = 'git log --oneline'
 ```
 ## Comandi
 ```bash
@@ -33,16 +36,15 @@ git tag -a v1.0 -m "Messaggio" //Taggare i file
 
 git revert "idcommit" #Torna indietro creando un altro commit uguale al precedente
 
-git checkout"caratteri/tag" #ìpostare il puntatore che di solito punta all'ultimo commit, per controllare una versione precedente del programma
-git checkout -b "nomebranch" # 
+git checkout"caratteri/tag" #Sposta il puntatore che di solito punta all'ultimo commit, per controllare una versione precedente del programma
+git checkout -b "nomebranch" #Crea un nuovo branch e ci sposta il puntatore
+git checkout master #Torna all'ultimo commit
 
-git checkout master //Torna all'ultimo commit
-nano .bashrc //Per modificare aliases
-aliases=gl = 'git log --oneline'
-git reset --hard //Lascia inalterati i file non tracciati (file nuovi), torna al commit precedente di quelli tracciati
-git clean -f //Elimina tutti gli untracked file
 
-git branch -d "nomebranch" #Branch da eliminare
+git reset --hard #Lascia inalterati i file non tracciati (file nuovi), torna al commit precedente di quelli tracciati
+git clean -f #Elimina tutti i file untracked
+
+git branch -d "nomebranch" #E
 git checkout -b "nomebranch" #Crea branch e sposta il puntatore
 git merge "nomebranch" #Esegue il merge del branch a cui si è fatto il checkout con il nome branch
 git rebase "nomebranch" #tipologia di merge
@@ -131,5 +133,5 @@ nome del branch = origin/master
 "nomeremoto"/"nomebranch"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NTU2NDQ5XX0=
+eyJoaXN0b3J5IjpbLTE1NzQyMDQzNzVdfQ==
 -->
