@@ -127,6 +127,7 @@ gc = git commit -m
 gs = git status
 ```
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTM4NjE2OF19
+eyJoaXN0b3J5IjpbNzgwNjMyMjIsLTYwNTM4NjE2OF19
 -->
