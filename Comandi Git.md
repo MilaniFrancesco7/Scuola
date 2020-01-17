@@ -5,14 +5,10 @@
 E' un sistema di versioning (controllo di versione), per gestire i cambiamenti dei file.
 Tiene traccia di ciascun cambiamento che avviene nel tuo progetto, e chi li ha fatti.
 
-Due sistemi:
-> Distribuito
-> Centralizzato
-
 # Comandi git
 
 ```bash
-git init //Cartella git
+git init //Inizializza una cartella git
 git status //Controllare lo stato delle modifiche
 git add "nomefile" //Aggiungere un file
 git commit -m"messaggio" //"Tasto della fotocamera", Snapshot, registare un messaggio
@@ -33,6 +29,13 @@ git branch -d "nomebranch" #Branch da eliminare
 git checkout -b "nomebranch" #Crea branch e sposta il puntatore
 git merge "nomebranch" #Esegue il merge del branch a cui si è fatto il checkout con il nome branch
 git rebase "nomebranch" #tipologia di merge
+
+
+git branch -f "branchname" "position" # Riassegna il branch ad un commit specifico
+
+git reset HEAD # Torna al commit precedente
+git revert HEAD # Crea un commit successivo sovrascrivendo le modifiche
+
 
 git clone "link" # copia la cartella in locale
 git checkout o/master #branch della repository remota
@@ -104,3 +107,12 @@ Git non traccia automaticamente i file
 - git add * (* per tutto)
 Aggiunge i file allo snapshot per il prossimo commit
 Lo snapshot rappresenta lo stato del progetto fino a quel momento
+
+### Cartella remota
+
+nome del branch = origin/master
+"nomeremoto"/"nomebranch"
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEyMTIxMzg1OV19
+-->
