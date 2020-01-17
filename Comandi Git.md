@@ -9,6 +9,47 @@
 
 - Viene creato nel 2005 per sostituire "BitKeeper", di cui linux aveva perso la licenza.
 
+### Inizializzare una repository
+
+- git init 
+Crea una repository .git dove potranno essere utilizzati tutti i comandi di Git
+
+### Stato della repository
+
+- git status
+Mostra lo stato della repository, dove sono presenti i tracked e gli untracked file.
+Git non traccia automaticamente i file
+
+### Fare uno snapshot
+
+- git add * (* per tutto)
+Aggiunge i file allo snapshot per il prossimo commit
+Lo snapshot rappresenta lo stato del progetto fino a quel momento
+
+### Cartella remota
+
+nome del branch = origin/master
+"nomeremoto"/"nomebranch"
+
+### Branch
+
+Sono delle "linee indipendenti di sviluppo"
+
+Ogni repository crea un branch chiamato "master", i commit vengono eseguiti sul branch master.
+Per creare un nuovo branch, da un commit qualsiasi, si creerà un altro ramo, senza alterare il ramo master.
+
+Al termine del ramo secondario, se si vuole mantenere le modifiche, si può fare un merge con il ramo master.
+
+>https://learngitbranching.js.org/
+
+### Remotes
+
+Permette di creare delle repository locali scaricandole da github o gitlab ecc.
+
+origin -> Nome di default per le repository locali
+
+
+
 ## Configurazione per cartella remota
 ```bash
 git config --global user.email "email" #Configurazione della email
@@ -66,24 +107,6 @@ git pull #Aggiorna il master -> fetch e merge insieme
 git push #Carica le modifiche nella repository remota
 
 ```
-
-## Branch
-
-Sono delle "linee indipendenti di sviluppo"
-
-Ogni repository crea un branch chiamato "master", i commit vengono eseguiti sul branch master.
-Per creare un nuovo branch, da un commit qualsiasi, si creerà un altro ramo, senza alterare il ramo master.
-
-Al termine del ramo secondario, se si vuole mantenere le modifiche, si può fare un merge con il ramo master.
-
->https://learngitbranching.js.org/
-
-## Remotes
-
-Permette di creare delle repository locali scaricandole da github o gitlab ecc.
-
-origin -> Nome di default per le repository locali
-
 ## Rete scolastica
 ```bash
 #Nella cartella principale:
@@ -103,28 +126,7 @@ ga = git add
 gc = git commit -m
 gs = git status
 ```
-### Inizializzare una repository
-
-- git init 
-Crea una repository .git dove potranno essere utilizzati tutti i comandi di Git
-
-### Stato della repository
-
-- git status
-Mostra lo stato della repository, dove sono presenti i tracked e gli untracked file.
-Git non traccia automaticamente i file
-
-### Fare uno snapshot
-
-- git add * (* per tutto)
-Aggiunge i file allo snapshot per il prossimo commit
-Lo snapshot rappresenta lo stato del progetto fino a quel momento
-
-### Cartella remota
-
-nome del branch = origin/master
-"nomeremoto"/"nomebranch"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2NjkwNTU0XX0=
+eyJoaXN0b3J5IjpbLTYwNTM4NjE2OF19
 -->
