@@ -27,9 +27,11 @@ direttive
 
 secret./etc/openvpn/chiave.key
 
-- log-append /var/log
+- log-append /var/log/openvpn-miavpn.log
+#per i file di log
+#attuare la rotazione dei log
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI5MzE5NzcsLTEzMjk2NzI5ODldfQ
+eyJoaXN0b3J5IjpbLTExNzE4NDM0NzEsLTEzMjk2NzI5ODldfQ
 ==
 -->
