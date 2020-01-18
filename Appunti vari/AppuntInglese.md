@@ -72,3 +72,16 @@ one of the basic elements of human civilization is that we use technology
 Foto
 
 ##  
+
+
+
+# Activity 18/01
+
+1) In your opinion which invention has had the greatest impact on society in the last 100 years? (Explain your choice)
+
+2) Which things should never heve been invented? Why?
+
+3) What could never be repk
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY0MzQ4NTcwNF19
+-->
