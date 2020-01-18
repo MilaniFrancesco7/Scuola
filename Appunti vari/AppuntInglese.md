@@ -82,9 +82,10 @@ Foto
 2) Which things should never heve been invented? Why?
 
 3) What could never be replaced by technology? Why?
+
 4) What would you like to see invented in the future?
 5) You are stranded on a desert island. What would you wish
 you had with you? Explain why?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA0NjgzMTddfQ==
+eyJoaXN0b3J5IjpbNzE3NDkzMzkzLC0xMzQwNDY4MzE3XX0=
 -->
