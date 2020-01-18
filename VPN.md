@@ -25,9 +25,11 @@ direttive
 - openvpn --genkey --secret chiave.key
 (condivisione)
 
-secret./etc/openvpn/
+secret./etc/openvpn/chiave.key
+
+- log-append /var/log
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUzNTA5NDEsLTEzMjk2NzI5ODldfQ
+eyJoaXN0b3J5IjpbLTIwNTI5MzE5NzcsLTEzMjk2NzI5ODldfQ
 ==
 -->
