@@ -9,7 +9,8 @@ Direttive
 - proto udp
 
 ifconfig IPmio IPaltro
-ifconfig 
+esempio: ifconfig 192.168.209.1 192.168.210.1
+ip
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjM0MDY1Ml19
+eyJoaXN0b3J5IjpbMjkzMzgyODc1XX0=
 -->
