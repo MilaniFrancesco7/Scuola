@@ -81,7 +81,7 @@ Foto
 
 2) Which things should never heve been invented? Why?
 
-3) What could never be repk
+3) What could never be replaced by technology? Why?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzQ4NTcwNF19
+eyJoaXN0b3J5IjpbLTQ0NzUxMTc1MV19
 -->
