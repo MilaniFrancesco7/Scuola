@@ -32,12 +32,8 @@ secret./etc/openvpn/chiave.key
 #attuare la rotazione dei log
 
 opzioni da inserire
-- comp-lzo #comprimere il traffico (ottimizzare il flusso dati)
-
-
-- 
-
+- comp-lzo #comprimere il traffico (ottimizzare il flusso dati) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI2MzkwMzksLTExNzE4NDM0NzEsLT
-EzMjk2NzI5ODldfQ==
+eyJoaXN0b3J5IjpbNTAzMDEyOTIwLC0xNDgyNjM5MDM5LC0xMT
+cxODQzNDcxLC0xMzI5NjcyOTg5XX0=
 -->
