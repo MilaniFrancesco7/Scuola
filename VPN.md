@@ -3,14 +3,15 @@ Sul server
 sudo apt-get install openvpn
 
 
-Direttive
+Direttive server
 - dev tun "num"
 - port "porta"
 - proto udp
 - non serve direttiva remote ( se non c'è vuol dire che è un server )
-Ho nec
+Ho necessità che il server sia in ascolto su una precisa interfaccia
+[listen IPmio] -> non serve
 
-ifconfig IPmio IPaltro
+- ifconfig IPmio IPaltro
 esempio: ifconfig 192.168.209.1 192.168.210.1
 ip
 
@@ -20,5 +21,5 @@ direttive
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE2NTYzMzBdfQ==
+eyJoaXN0b3J5IjpbLTEzMjk2NzI5ODldfQ==
 -->
