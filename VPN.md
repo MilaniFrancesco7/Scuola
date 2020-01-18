@@ -7,6 +7,9 @@ Direttive
 - dev tun "num"
 - port "porta"
 - proto udp
+
+ifconfig IPmio IPaltro
+ifconfig 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY2MzY3MjldfQ==
+eyJoaXN0b3J5IjpbMTI5MjM0MDY1Ml19
 -->
