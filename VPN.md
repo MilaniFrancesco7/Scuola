@@ -19,8 +19,15 @@ client
 direttive
 - remote IPWANaltro
 
+-- No certificati
+-- chiave segreta
 
+- openvpn --genkey --secret chiave.key
+(condivisione)
+
+secret./etc/openvpn/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg2OTgwNywtMTMyOTY3Mjk4OV19
+eyJoaXN0b3J5IjpbLTE4MDUzNTA5NDEsLTEzMjk2NzI5ODldfQ
+==
 -->
