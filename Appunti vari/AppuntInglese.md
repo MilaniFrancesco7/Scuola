@@ -79,7 +79,7 @@ Foto
 
 1) In your opinion which invention has had the greatest impact on society in the last 100 years? (Explain your choice)
 
-2) Which things should never heve been invented? WWWWWWWWWWWWWWWWWWWWWWWWWWWWWaWhy?
+2) Which things should never heve been invented? Why?
 
 3) What could never be replaced by technology? Why?
 
@@ -87,6 +87,6 @@ Foto
 5) You are stranded on a desert island. What would you wish
 you had with you? Explain why?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTYwNzE2Myw3MTc0OTMzOTMsLTEzND
-A0NjgzMTddfQ==
+eyJoaXN0b3J5IjpbNzE3NDkzMzkzLDcxNzQ5MzM5MywtMTM0MD
+Q2ODMxN119
 -->
