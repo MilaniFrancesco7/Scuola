@@ -11,7 +11,7 @@ Direttive server
 Ho necessità che il server sia in ascolto su una precisa interfaccia
 [listen IPmio] -> non serve
 
-- ifconfig IPmio IPaltro 
+- ifconfig IPmio IPaltro //Differenza tra i due
 esempio: ifconfig 192.168.209.1 192.168.210.1
 ip
 
@@ -33,9 +33,11 @@ secret./etc/openvpn/chiave.key
 
 opzioni da inserire
 - comp-lzo #comprimere il traffico (ottimizzare il flusso dati)
+
+
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTQ5OTUyMywtMTE3MTg0MzQ3MSwtMT
-MyOTY3Mjk4OV19
+eyJoaXN0b3J5IjpbLTE0ODI2MzkwMzksLTExNzE4NDM0NzEsLT
+EzMjk2NzI5ODldfQ==
 -->
