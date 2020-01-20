@@ -87,4 +87,12 @@ Può andare in APPROVAZIONE o BOCCIATURA
 
 
 
+# 20.01.20
 
+Governo -> Motore politico delle decisioni, chi sta al timone della nave quotidianamente
+
+## Come viene selezionato?
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyNjAwMDk0MTFdfQ==
+-->
