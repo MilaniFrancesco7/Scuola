@@ -93,7 +93,8 @@ Governo -> Motore politico delle decisioni, chi sta al timone della nave quotidi
 
 ## Come viene selezionato?
 6  io
+..mmm\
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDkxMzM3MSwtNzgyNDI1MDQ2LC0xMj
-YwMDA5NDExXX0=
+eyJoaXN0b3J5IjpbNDk4NDI0MjU0LC03ODI0MjUwNDYsLTEyNj
+AwMDk0MTFdfQ==
 -->
