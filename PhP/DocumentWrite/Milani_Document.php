@@ -1,5 +1,4 @@
-
-</body>
+<html>
 <head>
 	<title>Fibonacci_Pitagorico</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
