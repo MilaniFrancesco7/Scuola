@@ -92,7 +92,7 @@ Può andare in APPROVAZIONE o BOCCIATURA
 Governo -> Motore politico delle decisioni, chi sta al timone della nave quotidianamente
 
 ## Come viene selezionato?
-
+6  i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjAwMDk0MTFdfQ==
+eyJoaXN0b3J5IjpbLTc4MjQyNTA0NiwtMTI2MDAwOTQxMV19
 -->
