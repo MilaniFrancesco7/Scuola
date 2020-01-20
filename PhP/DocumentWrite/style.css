@@ -1,0 +1,23 @@
+h1 
+{
+  background-color: #26734d;
+  border-style:solid;
+}
+
+body 
+{
+  background-color: #79d2a6;
+}
+
+h4 
+{
+  background-color: #339966;
+  border-style:double;
+  border-width: 5px;
+}
+a 
+{	
+  border-style:	solid;
+  border-width: 2px;
+}
+
