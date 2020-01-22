@@ -17,6 +17,7 @@ public class ServerStr
 	String stringaRicevuta   = null;  	// Stringa di supporto per l'input
 	String stringaModificata = null;  	// Stringa di supporto per l'output
 	String quit	= "quit";
+	String exit = "exit";
 	int PORTA = 8888;
 	int contaclient = 1;
 	int contaserver = 1;
@@ -30,7 +31,8 @@ public class ServerStr
 			System.out.println("Server numero "+contaserver+" in esecuzione...\n");
 			System.out.println("\tPorta = "+PORTA);
 			System.out.println("\tStabilire una connessione= nc localhost "+PORTA);
-			System.out.println("\tPer uscire inserire: "+quit+"\n");
+			System.out.println("\tPer uscire inserire: "+quit);
+			System.out.println("\tPer chiudere il server inserire: "+exit+"\n");
 			// creo un server sulla porta 8888 
 			server = new ServerSocket(PORTA);
 			// rimane in attesa di un client 
@@ -69,6 +71,11 @@ public class ServerStr
 					System.out.println("\n\n\tChiudo la connessione...\n");
 					contaclient = 1;
 					client.close();
+				}
+				else if(stringaRicevuta.equals(exit))
+				{
+					System.out.println("\nChiudo il server...\n");
+					System.exit(1);
 				}
 				else
 				{
