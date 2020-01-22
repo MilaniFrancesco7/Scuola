@@ -1,9 +1,4 @@
-
-</body>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
+<html>
 <head>
 	<title>Fibonacci_Pitagorico</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -36,7 +31,8 @@
 	
 	Fibonacci();
 
-
+	echo "<h4>Tavola Pitagorica</h4>";
+	
 		function TavolaPitagorica()
 		{
 			$r=11;
@@ -44,15 +40,15 @@
 			$riga;
 			$colonna;
 			
-			echo "<table border=\"5\">";
+			echo "\n<table border=\"5\">";
 		  for ($riga = 0; $riga < $r; $riga++)
 		  {
-			echo "<tr>"; // scrivo il tag di apertura riga
+			echo "\n<tr>\n";// scrivo il tag di apertura riga
 		    
 		    for ($colonna = 0; $colonna < $c; $colonna++)
-				echo "<td>".$riga*$colonna."</td>";
+				echo "\t\t<td>".$riga*$colonna."</td>\n";
 		      
-			echo "</tr>"; // scrivo il tag per chiusura riga  
+			echo "</tr>\n"; // scrivo il tag per chiusura riga  
 		  }
 		  echo "</table>";  // chiudo il tag table
 		  
