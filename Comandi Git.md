@@ -109,6 +109,7 @@ git fetch #scarica la repository remota, ma non aggiorna il master
 git pull #Aggiorna il master -> fetch e merge insieme
 git push #Carica le modifiche nella repository remota
 
+git release #fa qualcosa
 ```
 ## Rete scolastica
 ```bash
