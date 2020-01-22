@@ -68,6 +68,9 @@ git init #Inizializzare una repository .git
 git status #Controllare lo stato delle modifiche e gli untracked file
 git log #Storico dei commit realizzati
 git log --oneline #Formato compresso
+git log --oneline --graph #grafico delle modifiche
+
+git dif "nome" #ultima modifica
 
 git add "nomefile" #Aggiungere un file alla lista per il prossimo commit
 git add * (o .) #Aggiungi tutti i file alla lista per il prossimo commit
