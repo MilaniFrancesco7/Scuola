@@ -33,7 +33,17 @@ secret./etc/openvpn/chiave.key
 
 opzioni da inserire
 - comp-lzo #comprimere il traffico (ottimizzare il flusso dati) 
+
+
+## File server.conf
+dev tun10
+port 1194
+proto udp
+remote 172.30.4.110
+ifconfig 192.168.202.1 192.168.231.1
+secret /etc/openvpn/secret.key
+log-append /
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzMDEyOTIwLC0xNDgyNjM5MDM5LC0xMT
-cxODQzNDcxLC0xMzI5NjcyOTg5XX0=
+eyJoaXN0b3J5IjpbLTEzMTkzNjgzODEsNTAzMDEyOTIwLC0xND
+gyNjM5MDM5LC0xMTcxODQzNDcxLC0xMzI5NjcyOTg5XX0=
 -->
