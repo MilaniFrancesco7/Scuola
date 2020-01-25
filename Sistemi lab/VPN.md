@@ -42,8 +42,9 @@ proto udp
 remote 172.30.4.110
 ifconfig 192.168.202.1 192.168.231.1
 secret /etc/openvpn/secret.key
-log-append /
+log-append /var/log/openvpn-zenmilani.log
+comp-lzo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTkzNjgzODEsNTAzMDEyOTIwLC0xND
-gyNjM5MDM5LC0xMTcxODQzNDcxLC0xMzI5NjcyOTg5XX0=
+eyJoaXN0b3J5IjpbNzU2MTczNzczLDUwMzAxMjkyMCwtMTQ4Mj
+YzOTAzOSwtMTE3MTg0MzQ3MSwtMTMyOTY3Mjk4OV19
 -->
