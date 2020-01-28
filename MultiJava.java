@@ -9,7 +9,7 @@ import java.util.*;
 class NuovoClient extends Thread
 {
 	ServerSocket server      = null;
-	Socket client            = null;
+	public static Socket client            = null;
 	String stringaRicevuta   = null;
 	String stringaModificata = null;
 	BufferedReader   	       inDalClient;
@@ -43,14 +43,14 @@ class NuovoClient extends Thread
 		{
 			inDalClient = new BufferedReader(new InputStreamReader (client.getInputStream()));
 			outVersoClient = new DataOutputStream(client.getOutputStream());
-			System.out.println("Client Connesso. Questo server riceve una stringa e la riinvia in maiuscolo");
-			outVersoClient.writeBytes("Benvenuto nel Server | v1.5\n");
-			outVersoClient.writeBytes("Inserisci una stringa per convertirla in maiuscolo\n");
+			outVersoClient.writeBytes("HTTP/1.1 200 OK\nContent-Type: text/html; charset=UTF-8\nConnection: keep-alive\n\n");
+			outVersoClient.writeBytes("<h1>MultiServer Web in Java</h1>");
+			outVersoClient.writeBytes("<h2> Connessione client numero: "+MultiJava.temp+"</h2>");
+			MultiJava.temp=MultiJava.temp + client;
+			
 			for(;;)
 			{
 				//rimango in attesa della riga trasmessa dal client
-				System.out.println(MultiJava.ContatoreClient + "° Client");
-				System.out.println("\t" + NuovoClient.Contatore + "° transazione");
 				stringaRicevuta = inDalClient.readLine();
 				if(stringaRicevuta.equals(exit) || stringaRicevuta.equals(quit))
 				{
@@ -58,19 +58,12 @@ class NuovoClient extends Thread
 					client.close();
 					inDalClient.close();
 					outVersoClient.close();
-					MultiJava.ContatoreClient++;
 					break;
 				}
 				else
 				{
-					System.out.println("\t\tStringa ricevuta: " + stringaRicevuta);
-
 					//la modifico e la rispedisco al client  
-					stringaModificata = stringaRicevuta.toUpperCase();
-					System.out.println("\t\tRiinvio stringa in maiuscolo");
-					outVersoClient.writeBytes(stringaModificata + '\n');
 					NuovoClient.Contatore++;
-					outVersoClient.writeBytes("Inserisci un'altra stringa\n");
 				}
 			}
 			outVersoClient.close();
@@ -89,7 +82,8 @@ class NuovoClient extends Thread
 public class MultiJava
 {
 	public static int Porta= 7777;
-	public static int ContatoreClient = 0;
+	public static int ContatoreClient = 1;
+	public static String temp=NuovoClient.client;
 	public void StartServer()
 	{
 		try
@@ -102,6 +96,7 @@ public class MultiJava
 				//System.out.println("Server avviato ! \n\tPorta " + Porta + "\n\tStringa di chiusura: \033[0;1m" + exit + "\033[0m/\033[0;1m" + quit + "\033[0m\n\tStringa di kill: \033[0;1m" + kill + "\033[0m\nAttendo Connessioni...");
 				Socket socket = server.accept();
 				NuovoClient NuovoThread = new NuovoClient(socket);
+				MultiJava.ContatoreClient++;
 				NuovoThread.start();
 			}
 		}
