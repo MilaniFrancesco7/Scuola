@@ -1,4 +1,4 @@
-# Creazione VPN
+log# Creazione VPN
 Sul server
 sudo apt-get install openvpn
 
