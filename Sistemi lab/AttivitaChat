@@ -1,0 +1,10 @@
+Seconda attività
+Con Java e Socket
+Programma per chattare in rete locale in udp
+1. Chat in p2p
+2. indirizzo di broadcast 172.30.4.255
+3. Programma in ascolto nell'indirizzo di broadcast
+4. 	<id> ...... </id>
+	<msg> ...... </msg>
+	Per identificare la provenienza del messaggio
+	

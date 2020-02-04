@@ -9,16 +9,11 @@ import java.util.*;
 class NuovoClient extends Thread
 {
 	ServerSocket server      = null;
-	public static Socket client            = null;
+	Socket client  			 = null;
 	String stringaRicevuta   = null;
 	String stringaModificata = null;
 	BufferedReader   	       inDalClient;
 	DataOutputStream		   outVersoClient;
-	
-	String exit = "exit";
-	String quit = "quit";
-	String kill = "kill";
-	public static int Contatore = 1;
 	
 	public NuovoClient (Socket socket)
 	{
@@ -41,18 +36,17 @@ class NuovoClient extends Thread
 	{
 		try
 		{
+			MultiJavaWeb.Array.add(client.toString());
 			inDalClient = new BufferedReader(new InputStreamReader (client.getInputStream()));
 			outVersoClient = new DataOutputStream(client.getOutputStream());
 			outVersoClient.writeBytes("HTTP/1.1 200 OK\nContent-Type: text/html; charset=UTF-8\nConnection: keep-alive\n\n");
-			outVersoClient.writeBytes("<h1>MultiServer Web in Java</h1>");
-			outVersoClient.writeBytes("<h2> Connessione client numero: "+MultiJava.temp+"</h2>");
-			MultiJava.temp=MultiJava.temp + client;
+			outVersoClient.writeBytes("<html><head><title>MultiServer Java</title></head><h2>MultiServer Java</h2></br><p>" + MultiJavaWeb.Array +"</p></html>");
 			
 			for(;;)
 			{
 				//rimango in attesa della riga trasmessa dal client
 				stringaRicevuta = inDalClient.readLine();
-				if(stringaRicevuta.equals(exit) || stringaRicevuta.equals(quit))
+				if(stringaRicevuta.equals(MultiJavaWeb.exit) || stringaRicevuta.equals(MultiJavaWeb.quit))
 				{
 					outVersoClient.writeBytes("La connessione verra' interrotta\n");
 					client.close();
@@ -60,15 +54,10 @@ class NuovoClient extends Thread
 					outVersoClient.close();
 					break;
 				}
-				else
-				{
-					//la modifico e la rispedisco al client  
-					NuovoClient.Contatore++;
-				}
 			}
 			outVersoClient.close();
 			inDalClient.close();
-			System.out.println("Chiusura socket" + client);
+			System.out.println("Chiusura " + client);
 			client.close();
 		}
 		catch(Exception e)
@@ -79,11 +68,15 @@ class NuovoClient extends Thread
 	}
 }
 
-public class MultiJava
+public class MultiJavaWeb
 {
+	int Temp2 = 0;			//Variabile utilizzata per verificare se non si è ancora connesso nessun client
 	public static int Porta= 7777;
-	public static int ContatoreClient = 1;
-	public static String temp=NuovoClient.client;
+	static String exit = "exit";
+	static String quit = "quit";
+	static String kill = "kill";
+	static ArrayList<String> Array = new ArrayList<String>();
+	
 	public void StartServer()
 	{
 		try
@@ -92,12 +85,21 @@ public class MultiJava
 			ServerSocket server = new ServerSocket(Porta);
 			for(;;)
 			{
-				System.out.println("Server in attesa ");
-				//System.out.println("Server avviato ! \n\tPorta " + Porta + "\n\tStringa di chiusura: \033[0;1m" + exit + "\033[0m/\033[0;1m" + quit + "\033[0m\n\tStringa di kill: \033[0;1m" + kill + "\033[0m\nAttendo Connessioni...");
-				Socket socket = server.accept();
-				NuovoClient NuovoThread = new NuovoClient(socket);
-				MultiJava.ContatoreClient++;
-				NuovoThread.start();
+				if(Temp2 == 0)
+				{
+					System.out.println("Server in attesa ");
+					//System.out.println("Server avviato ! \n\tPorta " + Porta + "\n\tStringa di chiusura: \033[0;1m" + "exit" + "\033[0m/\033[0;1m" + "quit" + "\033[0m\n\tStringa di kill: \033[0;1m" + "kill" + "\033[0m\nAttendo Connessioni...");
+					Socket socket = server.accept();
+					NuovoClient NuovoThread = new NuovoClient(socket);
+					NuovoThread.start();
+					Temp2++;
+				}
+				else
+				{
+					Socket socket = server.accept();
+					NuovoClient NuovoThread = new NuovoClient(socket);
+					NuovoThread.start();
+				}
 			}
 		}
 		catch(Exception e)
@@ -108,7 +110,7 @@ public class MultiJava
 		}
 	}
 
-	public static MultiJava servente = new MultiJava();
+	public static MultiJavaWeb servente = new MultiJavaWeb();
 
 	public static void main(String args[])
 	{
