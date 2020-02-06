@@ -12,6 +12,9 @@ Sulla community string inserire il nomehost
 nome host scelto= milani
 
 ```
+```
+sudo apt-get install snmp snmpd -y
+```
 sudo apt-get install mrtg -y
 ```
 sudo mkdir /var/www/mrtg
@@ -27,5 +30,6 @@ Per permettere l'accesso alla cartella da parte dell'apache si creerà un link s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODU4MDMzNCwtMTQwNTI0MDkyMF19
+eyJoaXN0b3J5IjpbMTAwMzc0OTk4NiwtODE4NTgwMzM0LC0xND
+A1MjQwOTIwXX0=
 -->
