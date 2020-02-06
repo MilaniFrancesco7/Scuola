@@ -9,6 +9,8 @@ Community string: sorta di password o metodo di controllo utilizzato per dare l'
 
 Sulla community string inserire il nomehost
 
+nome host scelto= milani
+
 Inserire il comando da terminale
 ```bash
 cfgmaker community@nomehost
@@ -21,5 +23,5 @@ La cartella di default è posizionata in /var/lib/mrtg
 Questa directory non va bene in quanto non sarà accessibile direttamente dall'apache.
 Per permettere l'accesso alla cartella da parte dell'apache si creerà un link simbolico, che permetterà di lasciare la cartella nella posizione originale, quindi senza creare problemi ad eventuali file di configurazione, ma potrà essere visionata anche da un'altra posizione. Nel nostro caso il link simbolico verrà creato con la cartella /var/www/mrtg
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODkyMDU1OF19
+eyJoaXN0b3J5IjpbLTE0MDUyNDA5MjBdfQ==
 -->
