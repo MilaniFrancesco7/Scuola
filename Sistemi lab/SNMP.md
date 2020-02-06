@@ -15,7 +15,8 @@ nome host scelto= milani
 sudo apt-get install snmp snmpd -y
 sudo apt-get install mrtg -y
 
-sudo systemctl start snmpdsudo systemctl enable snmpd
+sudo systemctl start snmpd
+sudo systemctl enable snmpd
 
 sudo mkdir /var/www/mrtg
 ```
@@ -28,6 +29,6 @@ Per permettere l'accesso alla cartella da parte dell'apache si creerà un link s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyMDMyNDMxLC04MTg1ODAzMzQsLTE0MD
-UyNDA5MjBdfQ==
+eyJoaXN0b3J5IjpbODQ3MTYzOTMzLDI3MjAzMjQzMSwtODE4NT
+gwMzM0LC0xNDA1MjQwOTIwXX0=
 -->
