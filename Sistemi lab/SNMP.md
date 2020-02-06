@@ -16,7 +16,10 @@ cfgmaker community@nomehost
 
 Questo creerà un prototipo di file di tipo mrtg per il nostro host
 
-La cartella predefinita è messa sotto var/
+La cartella di default è posizionata in /var/lib/mrtg
+
+Questa directory non va bene in quanto non sarà accessibile direttamente dall'apache.
+Per permettere l'accesso alla cartella da parte dell'apache si creerà un link simbolico, che permetterà di lasciare la cartella nella posizione originale, quindi senza creare pro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDQ5NDQ3NV19
+eyJoaXN0b3J5IjpbMTgxMzYwMTQ0OF19
 -->
