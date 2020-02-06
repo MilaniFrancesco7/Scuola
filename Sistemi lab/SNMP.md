@@ -7,10 +7,9 @@ Community string: sorta di password o metodo di controllo utilizzato per dare l'
 
 ## Configurazione
 
-Sulla community string inserire il nomehost
+nome community= public
 
-nome host scelto= milani
-
+Regola sulla wan -> UDP DMZ net * host-server 161 Allow SNMP connection
 ```
 sudo apt-get install snmp snmpd -y
 sudo apt-get install mrtg -y
@@ -29,6 +28,6 @@ Per permettere l'accesso alla cartella da parte dell'apache si creerà un link s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3MTYzOTMzLDI3MjAzMjQzMSwtODE4NT
-gwMzM0LC0xNDA1MjQwOTIwXX0=
+eyJoaXN0b3J5IjpbNjEwNzA3MTM3LDg0NzE2MzkzMywyNzIwMz
+I0MzEsLTgxODU4MDMzNCwtMTQwNTI0MDkyMF19
 -->
