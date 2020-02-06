@@ -25,9 +25,10 @@ La cartella di default è posizionata in /var/lib/mrtg
 Questa directory non va bene in quanto non sarà accessibile direttamente dall'apache.
 Per permettere l'accesso alla cartella da parte dell'apache si creerà un link simbolico, che permetterà di lasciare la cartella nella posizione originale, quindi senza creare problemi ad eventuali file di configurazione, ma potrà essere visionata anche da un'altra posizione. Nel nostro caso il link simbolico verrà creato con la cartella /var/www/mrtg
 
-
+http://guide.debianizzati.org/index.php/Mrtg:_monitoriamo_la_banda
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwNzA3MTM3LDg0NzE2MzkzMywyNzIwMz
-I0MzEsLTgxODU4MDMzNCwtMTQwNTI0MDkyMF19
+eyJoaXN0b3J5IjpbLTIzMTQ4MDIzOSw2MTA3MDcxMzcsODQ3MT
+YzOTMzLDI3MjAzMjQzMSwtODE4NTgwMzM0LC0xNDA1MjQwOTIw
+XX0=
 -->
