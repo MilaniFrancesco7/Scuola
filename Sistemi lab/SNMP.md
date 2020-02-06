@@ -11,17 +11,21 @@ Sulla community string inserire il nomehost
 
 nome host scelto= milani
 
-Inserire il comando da terminale
-```bash
-cfgmaker community@nomehost
+```
+sudo apt-get install mrtg -y
+```
+sudo mkdir /var/www/mrtg
 ```
 
-Questo creerà un prototipo di file di tipo mrtg per il nostro host
+```
 
 La cartella di default è posizionata in /var/lib/mrtg
 
 Questa directory non va bene in quanto non sarà accessibile direttamente dall'apache.
 Per permettere l'accesso alla cartella da parte dell'apache si creerà un link simbolico, che permetterà di lasciare la cartella nella posizione originale, quindi senza creare problemi ad eventuali file di configurazione, ma potrà essere visionata anche da un'altra posizione. Nel nostro caso il link simbolico verrà creato con la cartella /var/www/mrtg
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDUyNDA5MjBdfQ==
+eyJoaXN0b3J5IjpbLTgxODU4MDMzNCwtMTQwNTI0MDkyMF19
 -->
