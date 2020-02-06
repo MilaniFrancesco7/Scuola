@@ -7,10 +7,16 @@ Community string: sorta di password o metodo di controllo utilizzato per dare l'
 
 ## Configurazione
 
-Inserire il comando
-```bash
+Sulla community string inserire il nomehost
 
+Inserire il comando da terminale
+```bash
+cfgmaker community@nomehost
 ```
+
+Questo creerà un prototipo di file di tipo mrtg per il nostro host
+
+La cartella predefinita è messa sotto var/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTE2ODMzM119
+eyJoaXN0b3J5IjpbLTk5NDQ5NDQ3NV19
 -->
