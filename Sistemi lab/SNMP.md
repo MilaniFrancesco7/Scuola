@@ -34,9 +34,9 @@ Configurazione snmpd sul sever
 
 Il server deve poter interrogare tutti gli alberi , quindi vanno tolte le restrizioni ai sottoalberi.
 
-Difficoltà -> parametro community -> restrizione dal campo commu
+Difficoltà -> parametro community -> restrizione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzg3NTMxNSwtMjMxNDgwMjM5LDYxMD
+eyJoaXN0b3J5IjpbMTk5NDE1NjUwNSwtMjMxNDgwMjM5LDYxMD
 cwNzEzNyw4NDcxNjM5MzMsMjcyMDMyNDMxLC04MTg1ODAzMzQs
 LTE0MDUyNDA5MjBdfQ==
 -->
