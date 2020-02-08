@@ -8,12 +8,12 @@
 6. A
 
 ## Es.2 Reading - B2
-1. A
+1. E
 2. B
 3. C
 4. G
 5. D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDkzOTEzMSwtOTg4MTk4MjQzLDc5Mz
-c5MjYwNF19
+eyJoaXN0b3J5IjpbLTEwMzkzNjEwMjMsLTYwMDkzOTEzMSwtOT
+g4MTk4MjQzLDc5Mzc5MjYwNF19
 -->
