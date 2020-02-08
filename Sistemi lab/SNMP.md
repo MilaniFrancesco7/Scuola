@@ -28,9 +28,14 @@ Per permettere l'accesso alla cartella da parte dell'apache si creerà un link s
 http://guide.debianizzati.org/index.php/Mrtg:_monitoriamo_la_banda
 
 
+valori numerici oid -> Standard rispettato per le apparecchiature che supportano snmpd
+
+Configurazione snmpd sul sever
+
+Il server deve poter interrogare tutti gli alberi , quindi vanno tolte le restrizioni ai sottoalberi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTUyNDQzNzEsLTIzMTQ4MDIzOSw2MT
+eyJoaXN0b3J5IjpbLTEyMzI1NTYyMjcsLTIzMTQ4MDIzOSw2MT
 A3MDcxMzcsODQ3MTYzOTMzLDI3MjAzMjQzMSwtODE4NTgwMzM0
 LC0xNDA1MjQwOTIwXX0=
 -->
