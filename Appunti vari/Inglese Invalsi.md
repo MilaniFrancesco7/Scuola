@@ -16,13 +16,14 @@
 
 ## Es.4 Reading - B2	
 
-1. 
+1. D
 2. B
 4. A  
 5. B 
-6.  
-7.  B
+6. D
+7. B
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNDYzNDgyLC0xMTYxMTExMzg2LC02MD
-A5MzkxMzEsLTk4ODE5ODI0Myw3OTM3OTI2MDRdfQ==
+eyJoaXN0b3J5IjpbLTc5NTE1MDQ1Niw1NTM0NjM0ODIsLTExNj
+ExMTEzODYsLTYwMDkzOTEzMSwtOTg4MTk4MjQzLDc5Mzc5MjYw
+NF19
 -->
