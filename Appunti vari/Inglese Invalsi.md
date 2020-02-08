@@ -8,11 +8,12 @@
 6. A
 
 ## Es.2 Reading - B2
-1. 
-2.  
+1. A
+2. B
 3. C
-4.  
-5. 
+4. 
+5. D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODE5ODI0Myw3OTM3OTI2MDRdfQ==
+eyJoaXN0b3J5IjpbLTcyMjE2MzczNCwtOTg4MTk4MjQzLDc5Mz
+c5MjYwNF19
 -->
