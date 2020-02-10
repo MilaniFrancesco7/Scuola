@@ -11,10 +11,18 @@ Per questo ci è stato richiesto di progettare un software per la gestione di tu
 
 ### Requisiti funzionali
 
-Il software si basa sulla visualizzazione di 3 schermate:
+Il software si basa sulla visualizzazione di 4 schermate:
+- Schermata Generale
 - Schermata Reagenti
 - Schermata Vetreria/Attrezzatura
 - Schermata Strumentazione
+---
+#### Schermata Generale
+La schermata generale deve contenere **obbligatoriamente**:
+
+
+
+
 ---
 #### Schermata Reagenti
 La schermata dei reagenti deve contenere **obbligatoriamente**:
@@ -61,8 +69,8 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 ### Requisiti non funzionali
 
 - Visualizzazione da PC
-- Visualizza
+- Visualizzazione da Tablet / Smartphone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjA3NTA1LDE0NzMyNjIyNTcsMTA0MT
-U0OTI4N119
+eyJoaXN0b3J5IjpbMTcyMTY5ODMxNSwxNDczMjYyMjU3LDEwND
+E1NDkyODddfQ==
 -->
