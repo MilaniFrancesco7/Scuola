@@ -46,8 +46,16 @@ La schermata della vetreria e dell'attrezzatura deve contenere **obbligatoriamen
 
 La schermata della strumentazione e dell'apparecchiatura deve contenere **obbligatoriamente**:
 
-- Tipo 
+- Tipo (Testo inserito dal docente)
+- Caratteristiche tecniche (Testo inserito dal docente)
+- Numero di inventario
+- Quantità
+- Collocazione (Armadio, Stanza)
+- Manuale (Collocazione)
+- Manutenzione ordinaria (Data, Storico)
+- Manutenzione straordinaria (Data, Storico, Tecnici esterni)
+- Riparazione
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQwMDQzMDksMTQ3MzI2MjI1NywxMD
-QxNTQ5Mjg3XX0=
+eyJoaXN0b3J5IjpbNjczMTY3MjUxLDE0NzMyNjIyNTcsMTA0MT
+U0OTI4N119
 -->
