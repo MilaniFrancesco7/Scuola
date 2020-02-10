@@ -79,8 +79,10 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Visualizzazione da Tablet / Smartphone
 
 
-
+```
+![https://github.com/MilaniFrancesco7/Scuola/blob/master/Progetto%20Chimica/SplitTree.png](https://github.com/MilaniFrancesco7/Scuola/blob/master/Progetto%20Chimica/SplitTree.png) "Philadelphia's Magic Gardens")
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODE0MzMxMywxNDczMjYyMjU3LDEwND
-E1NDkyODddfQ==
+eyJoaXN0b3J5IjpbLTE2NzE4MTMxMzYsLTcxODE0MzMxMywxND
+czMjYyMjU3LDEwNDE1NDkyODddfQ==
 -->
