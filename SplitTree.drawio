@@ -1,1 +1,59 @@
-<mxfile host="www.draw.io" modified="2020-02-10T14:27:28.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" version="12.6.7" etag="9_dTSQet1YiDeccn9tbr" type="github"><diagram id="s6QQBKC_GsQ0mL6M3exX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-10T15:13:09.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="WVdDuYDTdnUMm0hbJKSP" version="12.6.7" type="github">
+  <diagram id="s6QQBKC_GsQ0mL6M3exX" name="Page-1">
+    <mxGraphModel dx="364" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="59enXD5GD7Ac3wzpqpWK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="59enXD5GD7Ac3wzpqpWK-2" value="Software Gestionale Laboratori di chimica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="59enXD5GD7Ac3wzpqpWK-8" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="59enXD5GD7Ac3wzpqpWK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="300" as="sourcePoint"/>
+            <mxPoint x="200" y="280" as="targetPoint"/>
+            <Array as="points"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59enXD5GD7Ac3wzpqpWK-9" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint"/>
+            <mxPoint x="200" y="120" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="280" y="120"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59enXD5GD7Ac3wzpqpWK-10" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint"/>
+            <mxPoint x="200" y="440" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="280" y="440"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59enXD5GD7Ac3wzpqpWK-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="59enXD5GD7Ac3wzpqpWK-12" value="Insegnante" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="59enXD5GD7Ac3wzpqpWK-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="59enXD5GD7Ac3wzpqpWK-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="59enXD5GD7Ac3wzpqpWK-19" value="Studente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="59enXD5GD7Ac3wzpqpWK-20" value="Assistente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="40" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
