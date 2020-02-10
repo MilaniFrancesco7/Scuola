@@ -78,8 +78,8 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Visualizzazione da PC
 - Visualizzazione da Tablet / Smartphone
 
-
+![Split tree](https://ibb.co/yyt3nzG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkyMzAzOTksMTk5MTI2OTAwMywtNz
+eyJoaXN0b3J5IjpbLTE0NjY3NzI3MzYsMTk5MTI2OTAwMywtNz
 E4MTQzMzEzLDE0NzMyNjIyNTcsMTA0MTU0OTI4N119
 -->
