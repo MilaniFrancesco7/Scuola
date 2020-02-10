@@ -29,10 +29,16 @@ La schermata dei reagenti deve contenere **obbligatoriamente**:
 	- Consumo (Armadio, Stanza)
 	- Magazzino (Armadio, Stanza)
 - Quantità confezione (data di aggiornamento)
-- Data di scadenza (non t
+- Data di scadenza (non tutti)
+- Esperienze collegate (Testo scritto dal docente)
+	- Nome insegnante
+	- Reagenti utilizzati
 
+#### Schermata Vetreria/Attrezzatura
+
+La schermata della vetreria e dell'attrezzatura deve contenere **obbli
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzNDU2OTAxLDE0NzMyNjIyNTcsMTA0MT
-U0OTI4N119
+eyJoaXN0b3J5IjpbMTQ2MzI1NzE2MywxNDczMjYyMjU3LDEwND
+E1NDkyODddfQ==
 -->
