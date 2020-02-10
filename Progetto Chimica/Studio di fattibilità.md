@@ -66,11 +66,18 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 ---
 ### Requisiti non funzionali
 
+- Tre livelli di accesso:
+	- Base -- Solo consultazione
+	- Intermedio -- aggiornamento quantità, uscita per riparazioni, registrazione riparazioni, tarature tecniche, manutenzione ordinaria/straordinaria.
+	- Elevato -- Possibilà 
 - Visualizzazione da PC
 - Visualizzazione da Tablet / Smartphone
 - Deve poter essere utilizzato da 
-	-	Insegnanti (
+	-	Insegnanti
+	-	Studenti
+	-	Personale / Assistenti
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODYzNTE0NiwxNDczMjYyMjU3LDEwND
-E1NDkyODddfQ==
+eyJoaXN0b3J5IjpbLTE2NTE3OTQ2MzAsMTQ3MzI2MjI1NywxMD
+QxNTQ5Mjg3XX0=
 -->
