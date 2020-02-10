@@ -79,8 +79,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Visualizzazione da Tablet / Smartphone
 
 
-![https://github.com/MilaniFrancesco7/Scuola/blob/master/Progetto%20Chimica/SplitTree.png](https://github.com/MilaniFrancesco7/Scuola/blob/master/Progetto%20Chimica/SplitTree.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTI2OTAwMywtNzE4MTQzMzEzLDE0Nz
-MyNjIyNTcsMTA0MTU0OTI4N119
+eyJoaXN0b3J5IjpbLTE1NDkyMzAzOTksMTk5MTI2OTAwMywtNz
+E4MTQzMzEzLDE0NzMyNjIyNTcsMTA0MTU0OTI4N119
 -->
