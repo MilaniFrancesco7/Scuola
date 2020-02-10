@@ -6,7 +6,7 @@ Il laboratorio di chimica dell'ITIS E. Fermi di Bassano del Grappa è provvisto 
 Ad oggi il tracciamento di ogni singolo componente è stato fatto tramite un semplice file di testo, dove ogni professore avrebbe dovuto inserire i materiali utilizzati e le varie quantità, le loro posizioni all'interno degli armadi e le eventuali mancanze.
 Tutto ciò avviene in maniera sporadica, infatti molti professori non aggiornano il file, portando quindi a continue differenze per esempio tra le quantità registrate e le quantità effettivamente presenti in aula. 
 Per questo ci è stato richiesto di progettare un software per la gestione di tutto ciò che riguarda il materiale dei laboratori chimici.
-
+---
 ## Requisiti richiesti
 
 ### Requisiti funzionali
@@ -40,7 +40,6 @@ La schermata dei reagenti deve contenere **obbligatoriamente**:
 	- Nome insegnante
 	- Reagenti utilizzati
 ---
----
 #### Schermata Vetreria/Attrezzatura
 
 La schermata della vetreria e dell'attrezzatura deve contenere **obbligatoriamente**:
@@ -48,7 +47,6 @@ La schermata della vetreria e dell'attrezzatura deve contenere **obbligatoriamen
 	- Misura
 - Quantità (data di update)
 - Collocazione (Stanza, Armadio)
----
 ---
 #### Schermata Strumentazione/Apparecchiatura
 
@@ -63,7 +61,6 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Manutenzione ordinaria (Data, Storico)
 - Manutenzione straordinaria (Data, Storico, Tecnici esterni)
 - Riparazione (Motivo, data di uscita, data di rientro, ditta riparatrice)
-
 ---
 ### Requisiti non funzionali
 
@@ -81,9 +78,9 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 ---
 ## Split Tree
 <img src="https://i.ibb.co/0MTwj08/Split-Tree.png" alt="Split-Tree" border="0"></a>
-
+---
 ## Attività
-
+---
 ## Osservazioni
 - Il server dovrà essere creato sul server master della scuola
 - Per le frasi di rischio potrebbe essere utile un database
