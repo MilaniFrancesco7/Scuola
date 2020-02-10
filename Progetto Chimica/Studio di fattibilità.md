@@ -23,10 +23,16 @@ La schermata dei reagenti deve contenere **obbligatoriamente**:
 - Stato(Liquido, Solido, Aeriforme)
 - Ditta di provenienza
 - Pittogramma di sicurezza
-- Frasi di ri
+- Frasi di rischio
+- Scheda di sicurezza ( Cartacea, digitale, data di update )
+- Collocazione
+	- Consumo (Armadio, Stanza)
+	- Magazzino (Armadio, Stanza)
+- Quantità confezione (data di aggiornamento)
+- Data di scadenza (non t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQwNDEwMTYsMTQ3MzI2MjI1NywxMD
-QxNTQ5Mjg3XX0=
+eyJoaXN0b3J5IjpbNDgzNDU2OTAxLDE0NzMyNjIyNTcsMTA0MT
+U0OTI4N119
 -->
