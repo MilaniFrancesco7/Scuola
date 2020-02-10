@@ -91,8 +91,9 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Per la data di scadenza potrebbe essere utile inserire un avviso appena all'accesso
 - Per le quantità della vetreria potrebbe essere utile inserire uno storico per tenere traccia delle modifiche
 - La strumentazione sotto i 200€ non viene inventariata
-- Sarebbe utile trovare in rete il manuale in formato digitale 
+- Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc3NTI1NDksMTk5MTI2OTAwMywtNz
-E4MTQzMzEzLDE0NzMyNjIyNTcsMTA0MTU0OTI4N119
+eyJoaXN0b3J5IjpbLTkwMzA1NzIzNSwxOTkxMjY5MDAzLC03MT
+gxNDMzMTMsMTQ3MzI2MjI1NywxMDQxNTQ5Mjg3XX0=
 -->
