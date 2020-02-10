@@ -19,10 +19,8 @@ Il software si basa sulla visualizzazione di 4 schermate:
 ---
 #### Schermata Generale
 La schermata generale deve contenere **obbligatoriamente**:
-
-
-
-
+-	Funzione di ricerca
+-	Collegamenti alle altre schermate
 ---
 #### Schermata Reagenti
 La schermata dei reagenti deve contenere **obbligatoriamente**:
@@ -70,7 +68,9 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 
 - Visualizzazione da PC
 - Visualizzazione da Tablet / Smartphone
+- Deve poter essere utilizzato da 
+	-	Insegnanti (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTY5ODMxNSwxNDczMjYyMjU3LDEwND
+eyJoaXN0b3J5IjpbMTYxODYzNTE0NiwxNDczMjYyMjU3LDEwND
 E1NDkyODddfQ==
 -->
