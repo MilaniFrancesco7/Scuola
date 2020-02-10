@@ -89,8 +89,10 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Per i pittogrammi di sicurezza potrebbe essere utili un database
 - Per la quantità della confezione potrebbe essere utile inserire una emoji che indichi il livello della quantità ( Bassa, Media, Alta )
 - Per la data di scadenza potrebbe essere utile inserire un avviso appena all'accesso
-- Gli o
+- Per le quantità della vetreria potrebbe essere utile inserire uno storico per tenere traccia delle modifiche
+- La strumentazione sotto i 200€ non viene inventariata
+- Sarebbe utile trovare in rete il manuale in formato digitale 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODc3OTc3OCwxOTkxMjY5MDAzLC03MT
-gxNDMzMTMsMTQ3MzI2MjI1NywxMDQxNTQ5Mjg3XX0=
+eyJoaXN0b3J5IjpbLTIwMjc3NTI1NDksMTk5MTI2OTAwMywtNz
+E4MTQzMzEzLDE0NzMyNjIyNTcsMTA0MTU0OTI4N119
 -->
