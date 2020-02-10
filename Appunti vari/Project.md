@@ -20,8 +20,6 @@ Per realizzare questo progetto noi ragazzi abbiamo avuto l'occasione di lavorare
 Inoltre abbiamo definito oppure consolidato conoscenze su diversi ambiti rilegati al nostro indirizzo di Informatica come nuovi linguaggi di programmazione (python, php, html, css...), approfondito la creazione e l'utilizzo di database(mysql), utilizzato programmi come cordova, materialdesign...
 Siamo anche fieri del fatto che la nostra idea non è destinata a morire, ma sarà il primo passo per un servizio che dopo verrà utilizzato dagli organi istituzionali e che sarà utile al nostro territorio.
 Abbiamo anche realizzato durante lo sviluppo di BrentAlert che la strada non è sempre liscia, ma più che tortuosa, richiede competenze per risolvere i problemi, idee ed intuizione per rendere il nostro prodotto utile e bello ma allo stesso tempo efficace ed affidabile.
-
-Prendendo parte a questo progetto abbiamo accettato una sfida con noi stessi, riusc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjgwODk0NywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTgzNjI0NDY3MSwtMjA4ODc0NjYxMl19
 -->
