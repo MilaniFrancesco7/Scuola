@@ -21,7 +21,7 @@ Inoltre abbiamo definito oppure consolidato conoscenze su diversi ambiti rilegat
 Siamo anche fieri del fatto che la nostra idea non è destinata a morire, ma sarà il primo passo per un servizio che dopo verrà utilizzato dagli organi istituzionali e che sarà utile al nostro territorio.
 Abbiamo anche realizzato durante lo sviluppo di BrentAlert che la strada non è sempre liscia, ma più che tortuosa, richiede competenze per risolvere i problemi, idee ed intuizione per rendere il nostro prodotto utile e bello ma allo stesso tempo efficace ed affidabile.
 
-Grazie a questo progetto abbiamo vissuto l'esperienza di un team di
+Prendendo parte a questo progetto abbiamo accettato una sfida con noi stessi, riusc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3NzM2OTY2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTExNjgwODk0NywtMjA4ODc0NjYxMl19
 -->
