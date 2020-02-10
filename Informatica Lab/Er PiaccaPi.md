@@ -8,7 +8,7 @@
 Interagisce con l'html
 
 s01563
-
+Engeid0	Trovare lettera maiuscola
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTE4MDI5OCwtNjM3NDM1NTg2XX0=
+eyJoaXN0b3J5IjpbLTE0MjI3MjYzODIsLTYzNzQzNTU4Nl19
 -->
