@@ -8,8 +8,10 @@ Cosa defe fare il sofware
 Prestazioni e caratteristiche richieste per soddisfare la necessità del cliente
 
 ### Redazione del del documento SRS
+Specifica dei requisiti software, ovvero la trasformazione dei requisiti in un documento formalizzato
 
-
+### Convalida delle specifiche
+SRS analizzato e rivisto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTQ0NDk1OF19
+eyJoaXN0b3J5IjpbMTA0MTU0OTI4N119
 -->
