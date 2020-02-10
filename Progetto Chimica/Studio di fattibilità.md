@@ -11,10 +11,18 @@ Per questo ci è stato richiesto di progettare un software per la gestione di tu
 
 ### Requisiti funzionali
 
-- 
+Il software si basa sulla visualizzazione di 3 schermate:
+- Schermata Reagenti
+- Schermata Vetreria/Attrezzatura
+- Schermata Strumentazione
+
+#### Schermata Reagenti
+La schermata dei reagenti deve contenere 
+- Nome
+- Formula
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5ODExNDUsMTQ3MzI2MjI1NywxMDQxNT
-Q5Mjg3XX0=
+eyJoaXN0b3J5IjpbMTY0OTMwNTQyNCwxNDczMjYyMjU3LDEwND
+E1NDkyODddfQ==
 -->
