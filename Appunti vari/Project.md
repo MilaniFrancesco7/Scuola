@@ -3,6 +3,13 @@ in un gruppo come un vero e proprio team di sviluppatori, gestendo i nostri comp
 prefissati, coordinandoci l'uno con l'altro, assumendo determinate responsabilità e ruoli ben definiti al fine di creare un'applicazione di qualità per una ragione importante. Dal punto di vista tecnico, abbiamo potuto arricchire il nostro bagaglio di competenze informatiche acquisendo conoscenze trasversali nell'ambito dello sviluppo di applicazioni, lavorando con ambienti e tecniche all'avanguardia e molto diffuse nel mondo del lavoro. Insomma, è stata un'esperienza profondamente formativa per il nostro profilo sia personale che professionale!
 
 Lavoro di gruppo :
+- Compiti
+- limiti di tempo
+- coordinazione
+- responsabilità e ruoli
+
+Tecnico:
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTk2NDUwNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTA5OTU5OTUzMCwtMjA4ODc0NjYxMl19
 -->
