@@ -9,7 +9,11 @@ Lavoro di gruppo :
 - responsabilità e ruoli
 
 Tecnico:
-- 
+- Arrichimento bagaglio: 	
+	- Conoscenze informatiche
+	- ambienti e techinche all'avanguardia nel mondo del lavoro
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTU5OTUzMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE0MjYyMjg2OTUsLTIwODg3NDY2MTJdfQ
+==
 -->
