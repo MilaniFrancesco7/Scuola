@@ -18,12 +18,22 @@
 
 1. D
 2. B
-4. C 
-5. B 
-6. D
-7. B
+3. C 
+4. B 
+5. D
+6. B
+
+
+## Es 1 Listening
+1. 
+2.  
+3.  
+4.  
+5.  
+6.  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTM4ODMzNCwtNzk1MTUwNDU2LDU1Mz
-Q2MzQ4MiwtMTE2MTExMTM4NiwtNjAwOTM5MTMxLC05ODgxOTgy
-NDMsNzkzNzkyNjA0XX0=
+eyJoaXN0b3J5IjpbMTgzMDgzOTU3MywtNDU5Mzg4MzM0LC03OT
+UxNTA0NTYsNTUzNDYzNDgyLC0xMTYxMTExMzg2LC02MDA5Mzkx
+MzEsLTk4ODE5ODI0Myw3OTM3OTI2MDRdfQ==
 -->
