@@ -40,13 +40,13 @@
 3. Thoughts 
 4. Light
 5. Full
-6.  
-7.  
-8.  
-9.  
+6. Time
+7. Livel
+8. Door 
+9. Sunglasses 
 10.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyMDExNjQwLC0xMTY4Nzg3NDU0LC04Nj
+eyJoaXN0b3J5IjpbMzk3Mzk0NDgzLC0xMTY4Nzg3NDU0LC04Nj
 kyNDA2NDYsLTQ1OTM4ODMzNCwtNzk1MTUwNDU2LDU1MzQ2MzQ4
 MiwtMTE2MTExMTM4NiwtNjAwOTM5MTMxLC05ODgxOTgyNDMsNz
 kzNzkyNjA0XX0=
