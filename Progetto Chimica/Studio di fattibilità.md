@@ -17,12 +17,16 @@ Il software si basa sulla visualizzazione di 3 schermate:
 - Schermata Strumentazione
 
 #### Schermata Reagenti
-La schermata dei reagenti deve contenere 
+La schermata dei reagenti deve contenere **obbligatoriamente**:
 - Nome
 - Formula
+- Stato(Liquido, Solido, Aeriforme)
+- Ditta di provenienza
+- Pittogramma di sicurezza
+- Frasi di ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTMwNTQyNCwxNDczMjYyMjU3LDEwND
-E1NDkyODddfQ==
+eyJoaXN0b3J5IjpbLTE0NjQwNDEwMTYsMTQ3MzI2MjI1NywxMD
+QxNTQ5Mjg3XX0=
 -->
