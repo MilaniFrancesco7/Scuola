@@ -40,6 +40,7 @@ La schermata dei reagenti deve contenere **obbligatoriamente**:
 	- Nome insegnante
 	- Reagenti utilizzati
 ---
+---
 #### Schermata Vetreria/Attrezzatura
 
 La schermata della vetreria e dell'attrezzatura deve contenere **obbligatoriamente**:
@@ -62,7 +63,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Manutenzione ordinaria (Data, Storico)
 - Manutenzione straordinaria (Data, Storico, Tecnici esterni)
 - Riparazione (Motivo, data di uscita, data di rientro, ditta riparatrice)
----
+
 ---
 ### Requisiti non funzionali
 
@@ -92,8 +93,8 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Per le quantità della vetreria potrebbe essere utile inserire uno storico per tenere traccia delle modifiche
 - La strumentazione sotto i 200€ non viene inventariata
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
-- 
+- Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzA1NzIzNSwxOTkxMjY5MDAzLC03MT
-gxNDMzMTMsMTQ3MzI2MjI1NywxMDQxNTQ5Mjg3XX0=
+eyJoaXN0b3J5IjpbLTExODUzNzQ4MzYsMTk5MTI2OTAwMywtNz
+E4MTQzMzEzLDE0NzMyNjIyNTcsMTA0MTU0OTI4N119
 -->
