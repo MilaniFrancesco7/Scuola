@@ -15,7 +15,7 @@ Il software si basa sulla visualizzazione di 3 schermate:
 - Schermata Reagenti
 - Schermata Vetreria/Attrezzatura
 - Schermata Strumentazione
-
+---
 #### Schermata Reagenti
 La schermata dei reagenti deve contenere **obbligatoriamente**:
 - Nome
@@ -33,7 +33,7 @@ La schermata dei reagenti deve contenere **obbligatoriamente**:
 - Esperienze collegate (Testo scritto dal docente)
 	- Nome insegnante
 	- Reagenti utilizzati
-
+---
 #### Schermata Vetreria/Attrezzatura
 
 La schermata della vetreria e dell'attrezzatura deve contenere **obbligatoriamente**:
@@ -41,7 +41,8 @@ La schermata della vetreria e dell'attrezzatura deve contenere **obbligatoriamen
 	- Misura
 - Quantità (data di update)
 - Collocazione (Stanza, Armadio)
-
+---
+---
 #### Schermata Strumentazione/Apparecchiatura
 
 La schermata della strumentazione e dell'apparecchiatura deve contenere **obbligatoriamente**:
@@ -54,8 +55,8 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Manuale (Collocazione)
 - Manutenzione ordinaria (Data, Storico)
 - Manutenzione straordinaria (Data, Storico, Tecnici esterni)
-- Riparazione
+- Riparazione (Motivo, data di uscita, data di rientro, ditta riparatrice)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMTY3MjUxLDE0NzMyNjIyNTcsMTA0MT
-U0OTI4N119
+eyJoaXN0b3J5IjpbMTQ0MTUzNzc5MiwxNDczMjYyMjU3LDEwND
+E1NDkyODddfQ==
 -->
