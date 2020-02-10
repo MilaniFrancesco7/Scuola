@@ -81,7 +81,12 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 ## Split Tree
 <img src="https://i.ibb.co/0MTwj08/Split-Tree.png" alt="Split-Tree" border="0"></a>
 
+## Attività
+
+## Osservazioni
+- Il server dovrà essere creato sul server master della scuola
+- Per le frasi di rischio potrebbe essere utile un database 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODkyNTUyOSwxOTkxMjY5MDAzLC03MT
+eyJoaXN0b3J5IjpbLTYwNjc3NjkwNCwxOTkxMjY5MDAzLC03MT
 gxNDMzMTMsMTQ3MzI2MjI1NywxMDQxNTQ5Mjg3XX0=
 -->
