@@ -4,4 +4,5 @@
   $username = "s01244"; // utente che accede al db
   $password = "bae2deiX";
   $database = "5ai_19_20_s01244"; // nome del database
+  $tabella = "contatto"
 ?>
