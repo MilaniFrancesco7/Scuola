@@ -85,8 +85,12 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 
 ## Osservazioni
 - Il server dovrà essere creato sul server master della scuola
-- Per le frasi di rischio potrebbe essere utile un database 
+- Per le frasi di rischio potrebbe essere utile un database
+- Per i pittogrammi di sicurezza potrebbe essere utili un database
+- Per la quantità della confezione potrebbe essere utile inserire una emoji che indichi il livello della quantità ( Bassa, Media, Alta )
+- Per la data di scadenza potrebbe essere utile inserire un avviso appena all'accesso
+- Gli o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjc3NjkwNCwxOTkxMjY5MDAzLC03MT
+eyJoaXN0b3J5IjpbMTU5ODc3OTc3OCwxOTkxMjY5MDAzLC03MT
 gxNDMzMTMsMTQ3MzI2MjI1NywxMDQxNTQ5Mjg3XX0=
 -->
