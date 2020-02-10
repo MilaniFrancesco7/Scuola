@@ -36,9 +36,18 @@ La schermata dei reagenti deve contenere **obbligatoriamente**:
 
 #### Schermata Vetreria/Attrezzatura
 
-La schermata della vetreria e dell'attrezzatura deve contenere **obbli
+La schermata della vetreria e dell'attrezzatura deve contenere **obbligatoriamente**:
+- Tipo
+	- Misura
+- Quantità (data di update)
+- Collocazione (Stanza, Armadio)
 
+#### Schermata Strumentazione/Apparecchiatura
+
+La schermata della strumentazione e dell'apparecchiatura deve contenere **obbligatoriamente**:
+
+- Tipo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzI1NzE2MywxNDczMjYyMjU3LDEwND
-E1NDkyODddfQ==
+eyJoaXN0b3J5IjpbLTIwODQwMDQzMDksMTQ3MzI2MjI1NywxMD
+QxNTQ5Mjg3XX0=
 -->
