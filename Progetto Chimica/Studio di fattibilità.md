@@ -2,7 +2,8 @@
 
 ## Descrizione del progetto
 
-Il laboratorio di chimica dell'ITIS E. Fermi di Bassano del Grappa possiede 
+Il laboratorio di chimica dell'ITIS E. Fermi di Bassano del Grappa è provvisto di reagenti, vetreria e varie attrezzature.
+Ad oggi l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDkxOTA0OSwxMDQxNTQ5Mjg3XX0=
+eyJoaXN0b3J5IjpbMzA5NjIyMjU1LDEwNDE1NDkyODddfQ==
 -->
