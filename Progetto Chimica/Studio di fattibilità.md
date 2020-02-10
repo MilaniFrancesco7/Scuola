@@ -56,7 +56,13 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Manutenzione ordinaria (Data, Storico)
 - Manutenzione straordinaria (Data, Storico, Tecnici esterni)
 - Riparazione (Motivo, data di uscita, data di rientro, ditta riparatrice)
+---
+---
+### Requisiti non funzionali
+
+- Visualizzazione da PC
+- Visualizza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTUzNzc5MiwxNDczMjYyMjU3LDEwND
-E1NDkyODddfQ==
+eyJoaXN0b3J5IjpbLTUyNjA3NTA1LDE0NzMyNjIyNTcsMTA0MT
+U0OTI4N119
 -->
