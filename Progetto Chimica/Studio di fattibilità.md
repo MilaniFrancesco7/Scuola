@@ -72,13 +72,15 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 	- Intermedio -- Aggiornamento quantità, uscita per riparazioni, registrazione riparazioni, tarature tecniche, manutenzione ordinaria/straordinaria.
 	- Elevato -- Aggiunta di nuovi record
 - Deve poter essere utilizzato da 
-	-	Insegnanti
-	-	Studenti
-	-	Personale / Assistenti
+	-	Insegnanti (Livello elevato)
+	-	Studenti (Livello base)
+	-	Personale / Assistenti (Livello intermedio)
 - Visualizzazione da PC
 - Visualizzazione da Tablet / Smartphone
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjQ3MjU0OCwxNDczMjYyMjU3LDEwND
+eyJoaXN0b3J5IjpbLTcxODE0MzMxMywxNDczMjYyMjU3LDEwND
 E1NDkyODddfQ==
 -->
