@@ -15,7 +15,7 @@
    </tr>
 
         <?php
-           $db =mysqli_connect("localhost","root","","agenzia");
+           $db =mysqli_connect("localhost","s01244","bae2deiX","5ai_19_20_s01244");
             if(!$db)  {
                 print ("Errore di connessione");
                 die();
