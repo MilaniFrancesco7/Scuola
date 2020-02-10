@@ -77,9 +77,11 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 	-	Personale / Assistenti (Livello intermedio)
 - Visualizzazione da PC
 - Visualizzazione da Tablet / Smartphone
+---
+## Split Tree
+<img src="https://i.ibb.co/0MTwj08/Split-Tree.png" alt="Split-Tree" border="0"></a>
 
-![Split tree](https://ibb.co/yyt3nzG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY3NzI3MzYsMTk5MTI2OTAwMywtNz
-E4MTQzMzEzLDE0NzMyNjIyNTcsMTA0MTU0OTI4N119
+eyJoaXN0b3J5IjpbLTMzODkyNTUyOSwxOTkxMjY5MDAzLC03MT
+gxNDMzMTMsMTQ3MzI2MjI1NywxMDQxNTQ5Mjg3XX0=
 -->
