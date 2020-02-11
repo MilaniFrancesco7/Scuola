@@ -18,6 +18,8 @@ Esempi di deliverable: Piani di progetto, documentazione
 
 Nella WBS si scompone il progetto in attività, fino ad arrivare ad un WP, Work Package, ovvero le attività che non si possono più scomporre
 
+Importante **numerare** le attività
+
 Dividere un progetto:
 - Per parti
 	- Si decompone l'output nelle sue parti componenti
@@ -35,6 +37,7 @@ Dividere un progetto:
 
 ## Controllo dei tempi
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ3MzMzMTNdfQ==
+eyJoaXN0b3J5IjpbNTY5MTAzNV19
 -->
