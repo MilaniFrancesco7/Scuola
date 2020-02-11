@@ -31,6 +31,8 @@ Dividere un progetto:
 	- Si decompone il progetto secondo la sequenza delle fasi
 - Per rilasci progressivi
 	- Si decompone il progetto identificando eventuali rilasci progressivi dell'output.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE4NTcwMjBdfQ==
+eyJoaXN0b3J5IjpbLTIwNjMwOTIwMDBdfQ==
 -->
