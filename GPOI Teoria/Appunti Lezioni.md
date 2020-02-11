@@ -33,6 +33,8 @@ Dividere un progetto:
 	- Si decompone il progetto identificando eventuali rilasci progressivi dell'output.
 
 
+## Controllo dei tempi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjMwOTIwMDBdfQ==
+eyJoaXN0b3J5IjpbLTExODQ3MzMzMTNdfQ==
 -->
