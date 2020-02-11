@@ -11,7 +11,12 @@ Le milestone rappresentano dei momenti in cui ognuno che partecipa al progetto s
 ### Work Breakdown Structure (WBS)
 Prima attività
 
-Serve per scomporre le diverse fasi del progetto in fase di realizzazione
+Serve per scomporre le diverse fasi del progetto in fase di realizzazione.
+**deliverable**, un risultato intermedio o finale di progetto.
+
+Esempi di deliverable: Piani di progetto, documentazione
+
+- Nella WBS si scompone il progetto in attività, fino ad arrivare all
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3MDQ5MzhdfQ==
+eyJoaXN0b3J5IjpbMTc0ODcxNjE0NF19
 -->
