@@ -37,7 +37,8 @@ Dividere un progetto:
 
 ## Controllo dei tempi
 
-
+Diagramma di **Gantt**
+E' uno strumento fondamentale nella pianificazione del progetto, potendo dare una rappresentazione del progetto fino alla sua fine, permettendoci di determinare la grandezza delle nostre attività e sottoattività, per poterle organizzare meglio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MTAzNV19
+eyJoaXN0b3J5IjpbLTIwODEwMDg2Ml19
 -->
