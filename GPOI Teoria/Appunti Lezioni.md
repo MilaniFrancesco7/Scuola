@@ -40,6 +40,10 @@ Dividere un progetto:
 Diagramma di **Gantt**
 E' uno strumento fondamentale nella pianificazione del progetto, potendo dare una rappresentazione del progetto fino alla sua fine, permettendoci di determinare la grandezza delle nostre attività e sottoattività, per poterle organizzare meglio.
 
+Gantt non spiega però le relazioni di precedenza tra le attività.
+
+Gantt in project libre è una via di mezzo tra Gantt e il CPM
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzQwNDYyNl19
+eyJoaXN0b3J5IjpbLTE1MDU2MjE1NTksMTI0NzQwNDYyNl19
 -->
