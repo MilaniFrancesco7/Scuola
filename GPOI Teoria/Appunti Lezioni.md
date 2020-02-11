@@ -24,10 +24,13 @@ Dividere un progetto:
 	- Frontend/Backend
 - Per funzioni
 	- Si decompone il progetto secondo le funzionalità che deve svolgere l'output
-	- 
+	- Inserimento/Modifica
 - Per obiettivi
+	- Si decompone il progetto secondo le prestazioni dell'output
 - Per fasi
+	- Si decompone il progetto secondo la sequenza delle fasi
 - Per rilasci progressivi
+	- Si decompone il progetto identificando eventuali rilasci progressivi dell'output.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNzAyOTA1XX0=
+eyJoaXN0b3J5IjpbLTEzMjE4NTcwMjBdfQ==
 -->
