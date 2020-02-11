@@ -16,8 +16,8 @@ Serve per scomporre le diverse fasi del progetto in fase di realizzazione.
 
 Esempi di deliverable: Piani di progetto, documentazione
 
-- Nella WBS si scompone il progetto in attività, fino ad arrivare ad un WP, Work Package.
-- 
+Nella WBS si scompone il progetto in attività, fino ad arrivare ad un WP, Work Package, ovvero le attività che non si possono più scomporre
+Le attività devono esere ***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTEzNjc4OF19
+eyJoaXN0b3J5IjpbLTIwNjMxNjc3MTZdfQ==
 -->
