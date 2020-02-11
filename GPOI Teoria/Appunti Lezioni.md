@@ -43,11 +43,8 @@ E' uno strumento fondamentale nella pianificazione del progetto, potendo dare un
 Gantt non spiega però le relazioni di precedenza tra le attività.
 
 Gantt in project libre è una via di mezzo tra Gantt e il CPM
-#### benvenuti a sauce or loss con l'SSC Napoli
-lore facci vedere il tuo hentai
-certo mister
-# GOl
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTkyNjAyNSwxMjQ3NDA0NjI2XX0=
+eyJoaXN0b3J5IjpbLTE3NTk3MjEwMzMsMTI0NzQwNDYyNl19
 -->
