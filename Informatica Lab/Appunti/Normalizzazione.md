@@ -29,7 +29,9 @@ Processo di analisi degli schemi forniti, basato sulle loro dipendenze funzional
 #### Chiave primaria
 Insieme di uno o più attributi che identificano univocamente una tupla di una tabella
 #### Chiave candidata
-Insieme di uno o più att
+Insieme di uno o più attributi che possono svolgere la funzione di chiave primaria
+#### Attributo no chiave
+Campo che non fa parte della chiave primaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc1NjAwN119
+eyJoaXN0b3J5IjpbNjE5Mzc1OTE1XX0=
 -->
