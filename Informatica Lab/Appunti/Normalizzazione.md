@@ -24,6 +24,11 @@ Processo di analisi degli schemi forniti, basato sulle loro dipendenze funzional
 	- **Modifica**
 	- **Cancellazione**
 
+## Dipendenza funzionale
+Si ha dipendenza funzionale tra attributi quando il valore di un insieme di attributi A determina un singolo valore dell'attributo B
+
+Es. A(Nome, Cognome) ->
+
 ## Definizioni utili
 
 #### Chiave primaria
@@ -32,6 +37,9 @@ Insieme di uno o più attributi che identificano univocamente una tupla di una t
 Insieme di uno o più attributi che possono svolgere la funzione di chiave primaria
 #### Attributo no chiave
 Campo che non fa parte della chiave primaria
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5Mzc1OTE1XX0=
+eyJoaXN0b3J5IjpbLTYzNjc2MjU5NSw2MTkzNzU5MTVdfQ==
 -->
