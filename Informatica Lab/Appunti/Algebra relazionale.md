@@ -65,9 +65,15 @@ Si indica con il " π "
 La selezione di una relazione si può compiere in ogni caso.
 
 Si indica con il " ϱ " (Rho)
-- La selezione sarù
+- Il risultato sarà una relazione che contiene tutte e sole le tuple che verificano il predicato F
+
+ϱF(R) = Selezione su una relazione R dato un predicato F.
+
+### Predicati
+
+Predicato **semplice** : <. >. =. <=. >=
+Combinazione **booleana** : AND, OR, NOT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ2OTY2MDQsLTE1NjU2NjI4MjNdfQ
-==
+eyJoaXN0b3J5IjpbMjA0NTY0Njg4NSwtMTU2NTY2MjgyM119
 -->
