@@ -54,11 +54,18 @@ Si indica con la " x "
 R x S = Prodotto cartesiano di grado k= kr + ks
 
 ## Proiezione
-La proiezione di una relazione si può fare in ogni caso
+La proiezione di una relazione si può fare in ogni caso.
 
 Si indica con il " π "
-- La relazione avrà grado n, dipendendte 
+- La relazione avrà grado n, dipendente dagli attributi proiettati
+
+πA1,A2...AM(R) = Proiezione di R su un insieme di attributi A
+
+## Selezione
+La selezione di una relazione si può compiere in ogni caso.
+
+Si indica con 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTM2ODk0MiwtMTU2NTY2MjgyM119
+eyJoaXN0b3J5IjpbMTk3MDMwNzc4MywtMTU2NTY2MjgyM119
 -->
