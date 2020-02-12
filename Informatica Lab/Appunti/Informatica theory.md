@@ -2,6 +2,8 @@
 
 3 tipi diversi:
 - Numerici
+- Associativi
+- Multidimensionali
 
 
 ## Array Numerici
@@ -18,5 +20,5 @@ Metodi di accesso ->
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTA2ODE0LDE5MDUyOTk3OTZdfQ==
+eyJoaXN0b3J5IjpbMjMxNTY2NjI2LDE5MDUyOTk3OTZdfQ==
 -->
