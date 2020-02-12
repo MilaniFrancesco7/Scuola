@@ -54,7 +54,12 @@ Normalizzata:
 		B			2
 
 ## Seconda Forma Normale (2NF)
-Da una relazione già in prima forma normale, tutti i suoi attributi dipendono dall'intera chiave, cioè non possiede attributi che dipendono soltanto da una parte della chiave.
+Da una relazione già in prima forma normale, tutti i suoi attributi 
+devono dipendere dall'intera chiave, cioè non deve possedere attributi che dipendono soltanto da una parte della chiave.
+
+La secn
+
+Es.	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4MzkyMDE3LDYxOTM3NTkxNV19
+eyJoaXN0b3J5IjpbNTkzNDMxMDAwLDYxOTM3NTkxNV19
 -->
