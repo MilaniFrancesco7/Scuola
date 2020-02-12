@@ -22,6 +22,9 @@ Metodi di accesso ->
 ## Array Multidimensionali
 
 
+Get e 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE0MzA0NzksMTkwNTI5OTc5Nl19
+eyJoaXN0b3J5IjpbMTQzMDYyMzQwMCwtMTYyMTQzMDQ3OSwxOT
+A1Mjk5Nzk2XX0=
 -->
