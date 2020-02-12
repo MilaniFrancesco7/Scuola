@@ -72,8 +72,14 @@ Si indica con il " ϱ " (Rho)
 ### Predicati
 
 Predicato **semplice** : <. >. =. <=. >=
-Combinazione **booleana** : AND (∧), OR(∨), NOT(
+Combinazione **booleana** : AND (∧), OR (∨), NOT (¬)
 
+## Join
+La Join è un'operazione composta, ovvero un **prodotto cartesiano** seguito da una **selezione**.
+
+Si indica con " |X| "
+- Il grado risultante, come nel prodotto cartesiano, sarà la somma dei gradi
+- Il risultato sarà 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4OTg0NzY0LC0xNTY1NjYyODIzXX0=
+eyJoaXN0b3J5IjpbMTk1OTI2NzQ4MCwtMTU2NTY2MjgyM119
 -->
