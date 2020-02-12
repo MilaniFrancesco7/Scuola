@@ -14,6 +14,9 @@ E' costituita da un insieme di operatori definiti su relazioni, che producono re
  - **Selezione**
  - **Join**
 
+L'Unione, la Differenza, il Prodotto Cartesiano e la Join sono operazioni **binarie** perchè si servono di due relazioni.
+La Proiezione e 
+
 Sono le operazioni che definiscono l'algebra relazionale.
 Ogni operazione restituisce una relazione.
 La join è un esempio di operazione addizionale, ovvero più operazioni di base combinate, che non aggiungono potere, ma sono utili per abbreviare.
@@ -46,9 +49,11 @@ Il prodotto cartesiano di due tuple si può compiere in ogni caso.
 
 Si indica con la " x "
 - I nomi degli attributi rimangono invariati, se sono uguali tra le due relazioni sarà opportuno rinominarli.
-- Il grado risultante della relazione sarà la somma dei gradi relazi
+- Il grado risultante della relazione sarà la somma dei gradi relazioni operandi
+
+R x S = Prodotto cartesiano di grado k= kr + ks
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTUwNzc2NSwtMTU2NTY2MjgyM119
+eyJoaXN0b3J5IjpbOTg5MDkxMzY1LC0xNTY1NjYyODIzXX0=
 -->
