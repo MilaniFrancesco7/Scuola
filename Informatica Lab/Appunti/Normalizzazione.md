@@ -27,7 +27,7 @@ Processo di analisi degli schemi forniti, basato sulle loro dipendenze funzional
 ## Dipendenza funzionale
 Si ha dipendenza funzionale tra attributi quando il valore di un insieme di attributi A determina un singolo valore dell'attributo B
 
-Es. A(Nome, Cognome) ->
+Es. A(Nome, Cognome) -> B(Codice Fiscale)
 
 ## Definizioni utili
 
@@ -38,8 +38,16 @@ Insieme di uno o più attributi che possono svolgere la funzione di chiave prima
 #### Attributo no chiave
 Campo che non fa parte della chiave primaria
 
+# Forme normali
 
+## Prima Forma Normale (1NF)
+
+Il dominio di un attributo (ovvero i valori che può assumere) deve comprendere solo valori atomici (semplici, indivisibili)
+e il valore di qualsiasi attributo in una tupla è un valore singolo del dominio
+
+Es. 	Voto
+		1Semes
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjc2MjU5NSw2MTkzNzU5MTVdfQ==
+eyJoaXN0b3J5IjpbLTk0NDgxMjA4Miw2MTkzNzU5MTVdfQ==
 -->
