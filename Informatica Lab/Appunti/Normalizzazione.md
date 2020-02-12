@@ -46,8 +46,15 @@ Il dominio di un attributo (ovvero i valori che può assumere) deve comprendere 
 e il valore di qualsiasi attributo in una tupla è un valore singolo del dominio
 
 Es. 	Voto
-		1Semes
+		1Semestre A, 2Semestre B
 
+Normalizzata: 
+		Voto	Semestre
+		A			1
+		B			2
+
+## Seconda Forma Normale (2NF)
+Da una relazione già in prima forma normale, tutti i suoi attributi dipendono dall'intera chiave, cioè non possiede attributi che dipendono soltanto da una parte della chiave.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDgxMjA4Miw2MTkzNzU5MTVdfQ==
+eyJoaXN0b3J5IjpbNzQ4MzkyMDE3LDYxOTM3NTkxNV19
 -->
