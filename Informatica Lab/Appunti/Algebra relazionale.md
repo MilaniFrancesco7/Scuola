@@ -82,7 +82,15 @@ Si indica con " |X| "
 - Il risultato sarà una relazione, come nella selezione, che conterrà tutte e sole le tuple che verificheranno il predicato
 
 R |X| a0a' S = Join di due relazioni R ed S, con attributi a(R) e a'(S).
+a0a' = predicato di join.
 
+### Equi-Join
+Condizione di Join composta solo da uguaglianze
+
+R |X| r.b=s.b S = Join di due relazioni R ed S con attributi b(R) e b(S).
+r.b=s.b = predicato di uguaglianza
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzMxNDQ3MSwtMTU2NTY2MjgyM119
+eyJoaXN0b3J5IjpbLTgxOTA0NTkxMiwtMTU2NTY2MjgyM119
 -->
