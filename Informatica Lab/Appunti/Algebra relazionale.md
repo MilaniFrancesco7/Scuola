@@ -20,7 +20,16 @@ La join è un esempio di operazione addizionale, ovvero più operazioni di base 
 
 ## Unione
 
+L'unione di due tuple si può compiere solo se:
+- Hanno lo stesso **grado**
+- Gli attributi sono **compatibili** cioè sono dello stesso tipo
+
+Si indica con la " U "
+- Le tuple duplicate vengono **eliminate**
+- Il grado risultante della relazione è uguale al grado delle relazioni operandi.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3MTc3Njc5LC0xNTY1NjYyODIzXX0=
+eyJoaXN0b3J5IjpbLTIwNDAwNzMzMzMsLTE1NjU2NjI4MjNdfQ
+==
 -->
