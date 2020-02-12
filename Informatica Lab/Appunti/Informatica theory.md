@@ -12,7 +12,7 @@ Array in php -> Non sono solamente elementi omogenei ma possono essere elementi 
 
 Metodi di accesso ->
  - Costrutto for con funzioni **sizeof** o **count**
- - Costrutto foreach -> esaminazione degli 
+ - Costrutto foreach -> esaminazione degli elementi degli array
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjg1MTE5N119
+eyJoaXN0b3J5IjpbMTkwNTI5OTc5Nl19
 -->
