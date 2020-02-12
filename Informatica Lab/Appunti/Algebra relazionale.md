@@ -72,8 +72,8 @@ Si indica con il " ϱ " (Rho)
 ### Predicati
 
 Predicato **semplice** : <. >. =. <=. >=
-Combinazione **booleana** : AND, OR, NOT
+Combinazione **booleana** : AND (∧), OR(∨), NOT(
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTY0Njg4NSwtMTU2NTY2MjgyM119
+eyJoaXN0b3J5IjpbNTM4OTg0NzY0LC0xNTY1NjYyODIzXX0=
 -->
