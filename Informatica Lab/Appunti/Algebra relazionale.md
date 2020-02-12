@@ -65,7 +65,7 @@ Si indica con il " π "
 La selezione di una relazione si può compiere in ogni caso.
 
 Si indica con il " ϱ " (Rho)
-- Il risultato sarà una relazione che contiene tutte e sole le tuple che verificano il predicato F
+- Il risultato sarà una relazione che conterrà tutte e sole le tuple che verificheranno il predicato
 
 ϱF(R) = Selezione su una relazione R dato un predicato F.
 
@@ -79,7 +79,10 @@ La Join è un'operazione composta, ovvero un **prodotto cartesiano** seguito da 
 
 Si indica con " |X| "
 - Il grado risultante, come nel prodotto cartesiano, sarà la somma dei gradi
-- Il risultato sarà 
+- Il risultato sarà una relazione, come nella selezione, che conterrà tutte e sole le tuple che verificheranno il predicato
+
+R |X| a0a' S = Join di due relazioni R ed S, con attributi a(R) e a'(S).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTI2NzQ4MCwtMTU2NTY2MjgyM119
+eyJoaXN0b3J5IjpbLTI1NzMxNDQ3MSwtMTU2NTY2MjgyM119
 -->
