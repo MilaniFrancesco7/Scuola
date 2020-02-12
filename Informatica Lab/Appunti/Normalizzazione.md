@@ -1,8 +1,6 @@
-﻿# Normalizzazione di schemi relazionali
+# Normalizzazione di schemi relazionali
 
-## Forme normali
-
-Definizione: Proprietà di uno schema relazionale che ne garantisce la **qualità**, cioè l'**assenza di determinati difetti**
+La Forma normale di una base di dati è un aspetto che ne garantisce la **qualità** e assicura l'assenza di ridondanze e anomalie ne
 
 ### Relazione non normalizzata: 
 - Ridondante
@@ -52,3 +50,6 @@ Impiegato, Progetto -> Funzione
 - Definizione:
 	- Uno schema R(X) è in seconda forma normale se e solo se ogni attributo non primo ( Non appartenente a nessuna chiave )
 	 dipende completamente da ogni chiave ( Non dipende solo da una parte ) 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1MjU1MjY1NjZdfQ==
+-->
