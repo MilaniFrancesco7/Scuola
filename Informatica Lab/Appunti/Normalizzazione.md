@@ -67,7 +67,8 @@ Stabilisce quindi che non esistano dipendenze tra le colonne di una tabella se n
 
 Se un attributo A ne determina un altro B, allora sarà necessario creare un'altra tabella con l'attributo A come chiave.
 
-## Forma Normale di Boyce-Codd
+## Forma Normale di Boyce-Codd (BCNF)
+Da una relazione già in prima, seconda e terza forma normale, quando in essa ogni determinante è una chiave candidata, cioè ogni attributo può svolgere la funzione di chiave primaria.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4OTc1MDQ5LDYxOTM3NTkxNV19
+eyJoaXN0b3J5IjpbLTExOTQ4MTcyMjQsNjE5Mzc1OTE1XX0=
 -->
