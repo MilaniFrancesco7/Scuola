@@ -91,7 +91,7 @@ R |X| r.b=s.b S = Join di due relazioni R ed S con attributi b(R) e b(S).
 r.b=s.b = predicato di uguaglianza
 
 ### Join naturale
-Equi-Joi
+Equi-Join di tutti gli attributi omonimi
 
 ### Inner Join 
 Visualizza soltanto le righe che hanno una corrispondenza in entrambe le tabelle unite
@@ -102,5 +102,6 @@ I campi della tabella che non corrisponderanno saranno settati a NULL
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTE1NzAwOSwtMTU2NTY2MjgyM119
+eyJoaXN0b3J5IjpbLTE5MjAxMTgxMTgsLTE1NjU2NjI4MjNdfQ
+==
 -->
