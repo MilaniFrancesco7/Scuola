@@ -28,7 +28,7 @@ Si indica con la " U "
 - Le tuple duplicate vengono **eliminate**
 - Il grado risultante della relazione è uguale al grado delle relazioni operandi.
 
-R U S = Insieme delle tuple 
+R U S = Insieme delle tuple in R, in S o in entrambe
 
 ## Differenza
 La differenza di due tuple si può compiere solo se:
@@ -36,9 +36,16 @@ La differenza di due tuple si può compiere solo se:
 - Gli attributi sono **compatibili**
 
 Si indica con la " --- "
+- I nomi degli attributi sono quelli della prima relazione
+- Il grado risultante della relazione è uguale al grado delle relazioni operandi
+
+R --- S = insieme delle tuple che sono in R ma non in S
+
+## Prodotto Cartesiano
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ1NTcwOTksLTE1NjU2NjI4MjNdfQ
-==
+eyJoaXN0b3J5IjpbLTQxNjE5OTE5MCwtMTU2NTY2MjgyM119
 -->
