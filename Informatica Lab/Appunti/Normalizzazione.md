@@ -1,6 +1,8 @@
 # Normalizzazione di schemi relazionali
 
-La Forma normale di una base di dati è un aspetto che ne garantisce la **qualità** e assicura l'assenza di ridondanze e anomalie ne
+La forma normale di una base di dati è un aspetto che ne garantisce la **qualità** e assicura l'assenza di **ridondanze** e anomalie nelle **fasi di inserimento, modifica e cancellazione**
+
+La forma normale viene definita nel modello ER
 
 ### Relazione non normalizzata: 
 - Ridondante
@@ -51,5 +53,5 @@ Impiegato, Progetto -> Funzione
 	- Uno schema R(X) è in seconda forma normale se e solo se ogni attributo non primo ( Non appartenente a nessuna chiave )
 	 dipende completamente da ogni chiave ( Non dipende solo da una parte ) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU1MjY1NjZdfQ==
+eyJoaXN0b3J5IjpbMjAyMjQwMTI3OF19
 -->
