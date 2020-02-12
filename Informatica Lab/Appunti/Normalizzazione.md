@@ -17,7 +17,19 @@ Il processo di normalizzazione è composto da una serie di test che certificano 
 
 ## Processo di normalizzazione dei dati
 
-Processo di analisi degli schemi forniti, basato sulle loro dipendenze funzionali e sulle chiavi primarie, per raggiungere le proprie
+Processo di analisi degli schemi forniti, basato sulle loro dipendenze funzionali e sulle chiavi primarie, per raggiungere le proprietà desiderate di:
+- **Minimizzazione delle ridondanze**
+- **Minimizzazione delle anomalie di:**
+	- **Inserimento**
+	- **Modifica**
+	- **Cancellazione**
+
+## Definizioni utili
+
+#### Chiave primaria
+Insieme di uno o più attributi che identificano univocamente una tupla di una tabella
+#### Chiave candidata
+Insieme di uno o più att
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc1MzI4NDRdfQ==
+eyJoaXN0b3J5IjpbLTE1Njc1NjAwN119
 -->
