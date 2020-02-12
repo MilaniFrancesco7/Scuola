@@ -42,10 +42,13 @@ Si indica con la " --- "
 R --- S = insieme delle tuple che sono in R ma non in S
 
 ## Prodotto Cartesiano
+Il prodotto cartesiano di due tuple si può compiere in ogni caso.
 
-
+Si indica con la " x "
+- I nomi degli attributi rimangono invariati, se sono uguali tra le due relazioni sarà opportuno rinominarli.
+- Il grado risultante della relazione sarà la somma dei gradi relazi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjE5OTE5MCwtMTU2NTY2MjgyM119
+eyJoaXN0b3J5IjpbLTIxOTUwNzc2NSwtMTU2NTY2MjgyM119
 -->
