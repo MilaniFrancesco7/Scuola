@@ -57,9 +57,12 @@ Normalizzata:
 Da una relazione già in prima forma normale, tutti i suoi attributi 
 devono dipendere dall'intera chiave, cioè non deve possedere attributi che dipendono soltanto da una parte della chiave.
 
-La secn
+La seconda forma normale elimina così la dipendenza parziale degli attributi della chiave.
 
-Es.	
+Riguarda le tabelle in cui la chiave primaria è composta da più attributi.
+
+## Terza Forma Normale (3NF)
+Da una relazione già in sec
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNDMxMDAwLDYxOTM3NTkxNV19
+eyJoaXN0b3J5IjpbMTY3MzYzODc2Niw2MTkzNzU5MTVdfQ==
 -->
