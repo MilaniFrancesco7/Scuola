@@ -62,7 +62,12 @@ La seconda forma normale elimina così la dipendenza parziale degli attributi de
 Riguarda le tabelle in cui la chiave primaria è composta da più attributi.
 
 ## Terza Forma Normale (3NF)
-Da una relazione già in sec
+Da una relazione già in prima e seconda forma normale, tutti gli attributi devono dipendere direttamente dalla chiave.
+Stabilisce quindi che non esistano dipendenze tra le colonne di una tabella se non basate sulla chiave primaria.
+
+Se un attributo A ne determina un altro B, allora sarà necessario creare un'altra tabella con l'attributo A come chiave.
+
+## Forma Normale di Boyce-Codd
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzYzODc2Niw2MTkzNzU5MTVdfQ==
+eyJoaXN0b3J5IjpbMjg4OTc1MDQ5LDYxOTM3NTkxNV19
 -->
