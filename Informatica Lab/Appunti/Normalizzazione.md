@@ -4,14 +4,15 @@ La forma normale di una base di dati è un aspetto che ne garantisce la **qualit
 
 La forma normale viene definita nel modello ER
 
-### Relazione non normalizzata: 
-- Ridondante
-- Comportamenti poco desiderabili durante gli aggiornamenti -> anomalie
+## Processo di normalizzazione
 
-### Normalizzazione:
-- Attività che permette di trasformare schemi non normalizzati in schemi che soddisfano una forma normale
-- Tecnica di verifica dei risultati di progettazione
-- **NON**è una tecnica di progettazione
+Il processo di normalizzazione è composto da una serie di test che certificano se il modello soddisfa una data forma normale
+
+#### Forme normali esistenti:
+- Prima forma normale (1FN)
+- Seconda forma normale (2FN)
+- Terza forma normale (3FN)
+- Forma 
 
 ## Dipendenze funzionali
 - Tipo di vincolo (FD)
@@ -53,5 +54,5 @@ Impiegato, Progetto -> Funzione
 	- Uno schema R(X) è in seconda forma normale se e solo se ogni attributo non primo ( Non appartenente a nessuna chiave )
 	 dipende completamente da ogni chiave ( Non dipende solo da una parte ) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjQwMTI3OF19
+eyJoaXN0b3J5IjpbLTE0Mjg5NzI0MTRdfQ==
 -->
