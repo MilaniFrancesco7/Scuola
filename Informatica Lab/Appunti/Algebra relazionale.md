@@ -14,8 +14,8 @@ E' costituita da un insieme di operatori definiti su relazioni, che producono re
  - **Selezione**
  - **Join**
 
-L'Unione, la Differenza, il Prodotto Cartesiano e la Join sono operazioni **binarie** perchè si servono di due relazioni.
-La Proiezione e 
+L'Unione, la Differenza e il Prodotto Cartesiano sono operazioni **binarie** perchè si servono di due relazioni.
+La Proiezione e la Selezione sono operazioni **unarie** perchè si servono di una sola relazione.
 
 Sono le operazioni che definiscono l'algebra relazionale.
 Ogni operazione restituisce una relazione.
@@ -45,7 +45,7 @@ Si indica con la " --- "
 R --- S = insieme delle tuple che sono in R ma non in S
 
 ## Prodotto Cartesiano
-Il prodotto cartesiano di due tuple si può compiere in ogni caso.
+Il prodotto cartesiano di due relazioni si può compiere in ogni caso.
 
 Si indica con la " x "
 - I nomi degli attributi rimangono invariati, se sono uguali tra le due relazioni sarà opportuno rinominarli.
@@ -53,7 +53,12 @@ Si indica con la " x "
 
 R x S = Prodotto cartesiano di grado k= kr + ks
 
+## Proiezione
+La proiezione di una relazione si può fare in ogni caso
+
+Si indica con il " π "
+- La relazione avrà grado n, dipendendte 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5MDkxMzY1LC0xNTY1NjYyODIzXX0=
+eyJoaXN0b3J5IjpbMTA4OTM2ODk0MiwtMTU2NTY2MjgyM119
 -->
