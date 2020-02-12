@@ -26,7 +26,10 @@ Comando che permette l'inserimento di nuovi record in una tabella
 ### SELECT
 Comando che permette l'interrogazione delle tabelle
 ### DELETE
-Comando che permette di eliminare
+Comando che permette di eliminare uno o più record da una tabella
+### UPDATE
+Comando che permette l'aggiornamento di uno o più record di una tabella
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE2NDg1NzJdfQ==
+eyJoaXN0b3J5IjpbMTQ5NDg4MzE0Nl19
 -->
