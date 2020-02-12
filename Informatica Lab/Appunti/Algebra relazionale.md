@@ -91,14 +91,16 @@ R |X| r.b=s.b S = Join di due relazioni R ed S con attributi b(R) e b(S).
 r.b=s.b = predicato di uguaglianza
 
 ### Join naturale
-Join che combina le tuple con valori uguali sugli attributi comuni
+Equi-Joi
 
 ### Inner Join 
 Visualizza soltanto le righe che hanno una corrispondenza in entrambe le tabelle unite
 
 ### Left / Right Outer Join
 Include determinate righe che possono essere della tabella di sinistra piuttosto che della tabella di destra, anche se non corrispondono a righe correlate nell'altra tabella.
-I campi della tabella che non co
+I campi della tabella che non corrisponderanno saranno settati a NULL
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ3MDkwMywtMTU2NTY2MjgyM119
+eyJoaXN0b3J5IjpbLTQzNTE1NzAwOSwtMTU2NTY2MjgyM119
 -->
