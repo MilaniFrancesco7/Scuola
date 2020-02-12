@@ -64,8 +64,10 @@ Si indica con il " π "
 ## Selezione
 La selezione di una relazione si può compiere in ogni caso.
 
-Si indica con 
+Si indica con il " ϱ " (Rho)
+- La selezione sarù
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDMwNzc4MywtMTU2NTY2MjgyM119
+eyJoaXN0b3J5IjpbLTEzMTQ2OTY2MDQsLTE1NjU2NjI4MjNdfQ
+==
 -->
