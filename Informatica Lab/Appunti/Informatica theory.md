@@ -1,4 +1,5 @@
 # Array associativi
+Array i cui elementi sono accessibili mediante nomi, quindi stringhe anziché indici puramente numerici.
 
 3 tipi diversi:
 - Numerici
@@ -18,9 +19,9 @@ Metodi di accesso ->
 
 ## Array Associativi
 
-## Array Mo
+## Array Multidimensionali
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTcwMTAyOSwxOTA1Mjk5Nzk2XX0=
+eyJoaXN0b3J5IjpbLTE2MjE0MzA0NzksMTkwNTI5OTc5Nl19
 -->
