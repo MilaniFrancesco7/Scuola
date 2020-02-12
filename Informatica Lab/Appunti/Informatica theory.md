@@ -22,9 +22,9 @@ Metodi di accesso ->
 ## Array Multidimensionali
 
 
-Get e 
+Get e Post sono metodi che prendono i dati e li trasmettono secondo la regola degli array associativi, per essere assegnati ad una variabile e recuperati nella pagina successiva
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDYyMzQwMCwtMTYyMTQzMDQ3OSwxOT
+eyJoaXN0b3J5IjpbLTkyMzYwMjYwMywtMTYyMTQzMDQ3OSwxOT
 A1Mjk5Nzk2XX0=
 -->
