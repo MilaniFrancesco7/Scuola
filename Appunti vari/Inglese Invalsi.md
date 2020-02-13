@@ -8,6 +8,11 @@
 6. A
 
 ## Es.2 Reading - B1
+1.  
+2.  
+3.  
+4.  
+5.  
 
 ## Es.2 Reading - B2
 1. E
@@ -48,7 +53,7 @@
 10. Sunglasses 
 11. Five 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzUxNjAxMCwyMjI5NTYxNTgsLTEyND
+eyJoaXN0b3J5IjpbMjExNDgyODc1NywyMjI5NTYxNTgsLTEyND
 IzMTU4OTMsLTExNjg3ODc0NTQsLTg2OTI0MDY0NiwtNDU5Mzg4
 MzM0LC03OTUxNTA0NTYsNTUzNDYzNDgyLC0xMTYxMTExMzg2LC
 02MDA5MzkxMzEsLTk4ODE5ODI0Myw3OTM3OTI2MDRdfQ==
