@@ -44,13 +44,7 @@ ifconfig 192.168.202.1 192.168.231.1
 secret /etc/openvpn/secret.key
 log-append /var/log/openvpn-zenmilani.log
 comp-lzo
+
 <!--stackedit_data:
-<<<<<<< HEAD
-eyJoaXN0b3J5IjpbNTAzMDEyOTIwLC0xNDgyNjM5MDM5LC0xMT
-cxODQzNDcxLC0xMzI5NjcyOTg5XX0=
+eyJoaXN0b3J5IjpbMTA3ODIzODAwM119
 -->
-=======
-eyJoaXN0b3J5IjpbNzU2MTczNzczLDUwMzAxMjkyMCwtMTQ4Mj
-YzOTAzOSwtMTE3MTg0MzQ3MSwtMTMyOTY3Mjk4OV19
--->
->>>>>>> 5b4c31b37852f410c7c21967906fc28fe9a877a9
