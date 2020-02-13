@@ -41,10 +41,11 @@ Configurazione snmpd sul sever
 ```
 sudo dpkg -i cfgstoragemaker_1.1-3_all.deb
 ```
-
-
+5. Creare un file nominato "HOST-RESOURCES-MIB.t
+copiare il contenuto dal seguente link all'interno del file /usr/share/snmp/mibs/HOST-RESOURCES-MIB.txt [https://github.com/haad/net-snmp/blob/master/mibs/HOST-RESOURCES-MIB.txt](https://github.com/haad/net-snmp/blob/master/mibs/HOST-RESOURCES-MIB.txt)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA2NzY3ODgsMTk5NDE1NjUwNSwtMj
-MxNDgwMjM5LDYxMDcwNzEzNyw4NDcxNjM5MzMsMjcyMDMyNDMx
-LC04MTg1ODAzMzQsLTE0MDUyNDA5MjBdfQ==
+eyJoaXN0b3J5IjpbLTE2MDg4ODE5ODksLTE1NjA2NzY3ODgsMT
+k5NDE1NjUwNSwtMjMxNDgwMjM5LDYxMDcwNzEzNyw4NDcxNjM5
+MzMsMjcyMDMyNDMxLC04MTg1ODAzMzQsLTE0MDUyNDA5MjBdfQ
+==
 -->
