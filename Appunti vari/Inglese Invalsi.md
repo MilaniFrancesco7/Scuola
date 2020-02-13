@@ -46,15 +46,22 @@
 2. Six
 3. Thoughts 
 4. Light
-6. Full
-7. Time
-8. Liver
-9. Door 
-10. Sunglasses 
-11. Five 
+5. Full
+6. Time
+7. Liver
+8. Door 
+9. Sunglasses 
+10. Five 
+
+## Es 3 Listening
+1. 
+2. 
+3.  
+4.  
+5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDgyODc1NywyMjI5NTYxNTgsLTEyND
-IzMTU4OTMsLTExNjg3ODc0NTQsLTg2OTI0MDY0NiwtNDU5Mzg4
-MzM0LC03OTUxNTA0NTYsNTUzNDYzNDgyLC0xMTYxMTExMzg2LC
-02MDA5MzkxMzEsLTk4ODE5ODI0Myw3OTM3OTI2MDRdfQ==
+eyJoaXN0b3J5IjpbLTIxMTI1ODIwOTUsMjIyOTU2MTU4LC0xMj
+QyMzE1ODkzLC0xMTY4Nzg3NDU0LC04NjkyNDA2NDYsLTQ1OTM4
+ODMzNCwtNzk1MTUwNDU2LDU1MzQ2MzQ4MiwtMTE2MTExMTM4Ni
+wtNjAwOTM5MTMxLC05ODgxOTgyNDMsNzkzNzkyNjA0XX0=
 -->
