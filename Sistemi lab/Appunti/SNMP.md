@@ -36,16 +36,22 @@ Configurazione snmpd sul sever
 
 1.  scaricare il pacchetto cfgstoragemaker
 [http://snapshot.debian.org/archive/debian-archive/20090802T004153Z/debian/pool/main/c/cfgstoragemaker/cfgstoragemaker_1.1-3_all.deb](http://snapshot.debian.org/archive/debian-archive/20090802T004153Z/debian/pool/main/c/cfgstoragemaker/cfgstoragemaker_1.1-3_all.deb)
-3.  trasferirlo da host a server con sftp ( Attraverso FileZilla )
-4.  Nel server inserire il comando:
+2.  trasferirlo da host a server con sftp ( Attraverso FileZilla )
+3.  Nel server inserire il comando:
 ```
 sudo dpkg -i cfgstoragemaker_1.1-3_all.deb
 ```
-5. Creare un file nominato "HOST-RESOURCES-MIB.t
+4. Creare un file nominato "HOST-RESOURCES-MIB.txt" 
+5. Copiare all'interno 
+ [https://github.com/haad/net-snmp/blob/master/mibs/HOST-RESOURCES-MIB.txt](https://github.com/haad/net-snmp/blob/master/mibs/HOST-RESOURCES-MIB.txt)
+ 6. Trasferirlo al server con FileZilla
+ 7. Nel server spostarlo con
+ ```
+ sudo mv HOST-RESOURCES-MIB.txt /usr/share/snmp/mibs
+ ```
 copiare il contenuto dal seguente link all'interno del file /usr/share/snmp/mibs/HOST-RESOURCES-MIB.txt [https://github.com/haad/net-snmp/blob/master/mibs/HOST-RESOURCES-MIB.txt](https://github.com/haad/net-snmp/blob/master/mibs/HOST-RESOURCES-MIB.txt)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg4ODE5ODksLTE1NjA2NzY3ODgsMT
-k5NDE1NjUwNSwtMjMxNDgwMjM5LDYxMDcwNzEzNyw4NDcxNjM5
-MzMsMjcyMDMyNDMxLC04MTg1ODAzMzQsLTE0MDUyNDA5MjBdfQ
-==
+eyJoaXN0b3J5IjpbNTY3NTQ3Nzk2LC0xNTYwNjc2Nzg4LDE5OT
+QxNTY1MDUsLTIzMTQ4MDIzOSw2MTA3MDcxMzcsODQ3MTYzOTMz
+LDI3MjAzMjQzMSwtODE4NTgwMzM0LC0xNDA1MjQwOTIwXX0=
 -->
