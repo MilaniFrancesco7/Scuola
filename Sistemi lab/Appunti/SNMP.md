@@ -5,7 +5,7 @@ Protocollo di rete senza connessione che appartiene alla suite di protocolli Int
 
 Community string: sorta di password o metodo di controllo utilizzato per dare l'accesso alle statistiche del router o di altri dispositivi
 
-## Configurazione
+## Configurazione 
 
 nome community= public
 
@@ -32,7 +32,7 @@ valori numerici oid -> Standard rispettato per le apparecchiature che supportano
 
 Configurazione snmpd sul sever
 
-SNMPD Server pr
+### SNMPD Server per mostrare le informazioni del file system
 
 1.  scaricare il pacchetto cfgstoragemaker
 [http://snapshot.debian.org/archive/debian-archive/20090802T004153Z/debian/pool/main/c/cfgstoragemaker/cfgstoragemaker_1.1-3_all.deb](http://snapshot.debian.org/archive/debian-archive/20090802T004153Z/debian/pool/main/c/cfgstoragemaker/cfgstoragemaker_1.1-3_all.deb)
@@ -41,8 +41,10 @@ SNMPD Server pr
 ```
 sudo dpkg -i cfgstoragemaker_1.1-3_all.deb
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODAwNTExMSwxOTk0MTU2NTA1LC0yMz
-E0ODAyMzksNjEwNzA3MTM3LDg0NzE2MzkzMywyNzIwMzI0MzEs
-LTgxODU4MDMzNCwtMTQwNTI0MDkyMF19
+eyJoaXN0b3J5IjpbLTE1NjA2NzY3ODgsMTk5NDE1NjUwNSwtMj
+MxNDgwMjM5LDYxMDcwNzEzNyw4NDcxNjM5MzMsMjcyMDMyNDMx
+LC04MTg1ODAzMzQsLTE0MDUyNDA5MjBdfQ==
 -->
