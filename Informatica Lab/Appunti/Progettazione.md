@@ -17,6 +17,9 @@ Attività principali:
 - Eliminazione di sinonimi, omonimi
 - Raggruppamento di requisiti omogenei
 
+**Schema concettuale** : Descrizione formalizzata e integrata delle esigenze aziendali, indipendente dal dipo di dbms utilizzato
+
+## Progetta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTI3MzMzN119
+eyJoaXN0b3J5IjpbMjA4NjM2NTA2OV19
 -->
