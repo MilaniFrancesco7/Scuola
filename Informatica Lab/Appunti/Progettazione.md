@@ -30,7 +30,10 @@ E' composta da due sottofasi:
 - Ristrutturazione dello schema concettuale
 - Traduzione verso il modello logico
 
-## Progettazione fi
+## Progettazione fiica
+Fase di scelta di uno specifico DBMS, con risultato uno schema fisico che descrive le strutture di memorizzazione e accesso ai dati
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDgyNDUzMjBdfQ==
+eyJoaXN0b3J5IjpbMjEzMDcwNjY1Nl19
 -->
