@@ -32,11 +32,17 @@ valori numerici oid -> Standard rispettato per le apparecchiature che supportano
 
 Configurazione snmpd sul sever
 
-Il server deve poter interrogare tutti gli alberi , quindi vanno tolte le restrizioni ai sottoalberi.
+SNMPD Server pr
 
-Difficoltà -> parametro community -> restrizione
+1.  scaricare il pacchetto cfgstoragemaker
+[http://snapshot.debian.org/archive/debian-archive/20090802T004153Z/debian/pool/main/c/cfgstoragemaker/cfgstoragemaker_1.1-3_all.deb](http://snapshot.debian.org/archive/debian-archive/20090802T004153Z/debian/pool/main/c/cfgstoragemaker/cfgstoragemaker_1.1-3_all.deb)
+3.  trasferirlo da host a server con sftp ( Attraverso FileZilla )
+4.  Nel server inserire il comando:
+```
+sudo dpkg -i cfgstoragemaker_1.1-3_all.deb
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDE1NjUwNSwtMjMxNDgwMjM5LDYxMD
-cwNzEzNyw4NDcxNjM5MzMsMjcyMDMyNDMxLC04MTg1ODAzMzQs
-LTE0MDUyNDA5MjBdfQ==
+eyJoaXN0b3J5IjpbMjAxODAwNTExMSwxOTk0MTU2NTA1LC0yMz
+E0ODAyMzksNjEwNzA3MTM3LDg0NzE2MzkzMywyNzIwMzI0MzEs
+LTgxODU4MDMzNCwtMTQwNTI0MDkyMF19
 -->
