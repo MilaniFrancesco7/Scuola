@@ -19,7 +19,18 @@ Attività principali:
 
 **Schema concettuale** : Descrizione formalizzata e integrata delle esigenze aziendali, indipendente dal dipo di dbms utilizzato
 
-## Progetta
+## Progettazione logica
+Fase di traduzione dello schema concettuale nel modelli dei dati del DBMS
+
+In questa fase si considerano:
+- Vincoli di integrità e consistenza
+- Efficienza
+
+E' composta da due sottofasi:
+- Ristrutturazione dello schema concettuale
+- Traduzione verso il modello logico
+
+## Progettazione fi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjM2NTA2OV19
+eyJoaXN0b3J5IjpbLTE4MDgyNDUzMjBdfQ==
 -->
