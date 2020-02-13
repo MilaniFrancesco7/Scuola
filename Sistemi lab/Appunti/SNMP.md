@@ -51,10 +51,10 @@ sudo dpkg -i cfgstoragemaker_1.1-3_all.deb
  ```
 6. Eseguire il comando 
 ```
- sudo cfgstoragemaker public@localhost
+sudo cfgstoragemaker public@localhost
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTMyNTgxNCwtMTU2MDY3Njc4OCwxOT
-k0MTU2NTA1LC0yMzE0ODAyMzksNjEwNzA3MTM3LDg0NzE2Mzkz
-MywyNzIwMzI0MzEsLTgxODU4MDMzNCwtMTQwNTI0MDkyMF19
+eyJoaXN0b3J5IjpbMzQ2ODE4MDAyLC0xNTYwNjc2Nzg4LDE5OT
+QxNTY1MDUsLTIzMTQ4MDIzOSw2MTA3MDcxMzcsODQ3MTYzOTMz
+LDI3MjAzMjQzMSwtODE4NTgwMzM0LC0xNDA1MjQwOTIwXX0=
 -->
