@@ -94,9 +94,9 @@ E' l'inizio dei partiti di massa
 
 Agrari -> Proprietari terrieri, non contadini
 
-
+Durane
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzQ0NzM1MSwtMTMyNDQ1OTA3MSw1MT
-A3MDQ3NzFdfQ==
+eyJoaXN0b3J5IjpbLTEzODkxMjgxMTAsLTI3NzQ0NzM1MSwtMT
+MyNDQ1OTA3MSw1MTA3MDQ3NzFdfQ==
 -->
