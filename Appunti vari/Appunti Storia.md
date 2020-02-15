@@ -91,6 +91,12 @@ Biennio tra il 1919 e 1920, con una penuria di rivolte da parte di operai e da p
 Figura molto importante: Don Luigi Sturzo per la fondazione del PCI, che avrà una base chiaramente cristiana.
 E' l'inizio dei partiti di massa
 
+
+Agrari -> Proprietari terrieri, non contadini
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ0NTkwNzEsNTEwNzA0NzcxXX0=
+eyJoaXN0b3J5IjpbLTI3NzQ0NzM1MSwtMTMyNDQ1OTA3MSw1MT
+A3MDQ3NzFdfQ==
 -->
