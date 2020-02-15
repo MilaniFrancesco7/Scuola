@@ -81,8 +81,10 @@ Alcune erano rimaste vedove, spesso con lavori a salari minimi, o addirittura se
 La donna aveva guadagnato indipendenza durante la guerra, iniziando a lavorare nelle industrie belliche.
 Dopo la guerra, le donne all'interno delle aziende verranno soppiantate dagli uomini, a favore dell'immagine della perdita del ruolo sociale della donna lavoratrice, quindi indipendente, e ritornare all'immagine della donna madre e sottostante al marito.
 
-- 
+- Pazzi di guerra:
+I mutilati ad esempio, non potevano più lavorare avendo perso parti del corpo, oppure gli sfigurati erano visti male ovunque.
+La parte positiva è l'in
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI0MjgwMDYsNTEwNzA0NzcxXX0=
+eyJoaXN0b3J5IjpbLTE1NDA0NjE3NTQsNTEwNzA0NzcxXX0=
 -->
