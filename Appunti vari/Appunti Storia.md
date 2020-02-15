@@ -83,8 +83,11 @@ Dopo la guerra, le donne all'interno delle aziende verranno soppiantate dagli uo
 
 - Pazzi di guerra:
 I mutilati ad esempio, non potevano più lavorare avendo perso parti del corpo, oppure gli sfigurati erano visti male ovunque.
-La parte positiva è l'in
+La parte positiva è l'inizio dello sviluppo della medicina plastica, ma la nota sociale è molto negativa, con molti soldati rinchiusi in manicomio.
+
+### Biennio rosso
+Biennio tra il 1919 e 1920, con una pe
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA0NjE3NTQsNTEwNzA0NzcxXX0=
+eyJoaXN0b3J5IjpbLTE2MDg0MzQzMjQsNTEwNzA0NzcxXX0=
 -->
