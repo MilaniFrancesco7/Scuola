@@ -72,11 +72,13 @@ Nel **1924** nasce la **nuova Costituzione**
 
  ## Interrogazione 150220
 
-La riconversione: 
+ - La riconversione: 
 Le fabbriche che erano state impegnate per la creazione di armi e munizioni per le battaglie in guerra, devono ritornare alla produzione pre bellica.
 Lo stato, non avendo soldi per pagare la riconversione, l'industria si trovava bloccata.
 
+- Problema delle donne dopo la guerra:
+Alcune erano rimaste vedove, spesso con lavori a salari minimi, o addirittura senza impiego, e il dover mandare avanti la famiglia si faceva difficile.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzE4MTEzNjgsNTEwNzA0NzcxXX0=
+eyJoaXN0b3J5IjpbLTIwNjQ1OTAxNDYsNTEwNzA0NzcxXX0=
 -->
