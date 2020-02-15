@@ -78,7 +78,11 @@ Lo stato, non avendo soldi per pagare la riconversione, l'industria si trovava b
 
 - Problema delle donne dopo la guerra:
 Alcune erano rimaste vedove, spesso con lavori a salari minimi, o addirittura senza impiego, e il dover mandare avanti la famiglia si faceva difficile.
+La donna aveva guadagnato indipendenza durante la guerra, iniziando a lavorare nelle industrie belliche.
+Dopo la guerra, le donne all'interno delle aziende verranno soppiantate dagli uomini, a favore dell'immagine della perdita del ruolo sociale della donna lavoratrice, quindi indipendente, e ritornare all'immagine della donna madre e sottostante al marito.
+
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ1OTAxNDYsNTEwNzA0NzcxXX0=
+eyJoaXN0b3J5IjpbLTEwODI0MjgwMDYsNTEwNzA0NzcxXX0=
 -->
