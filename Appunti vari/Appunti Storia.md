@@ -88,8 +88,9 @@ La parte positiva è l'inizio dello sviluppo della medicina plastica, ma la nota
 ### Biennio rosso
 Biennio tra il 1919 e 1920, con una penuria di rivolte da parte di operai e da parte delle categorie sociali più basse.
 
-
+Figura molto importante: Don Luigi Sturzo per la fondazione del PCI, che avrà una base chiaramente cristiana.
+E' l'inizio dei partiti di massa
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzQ0MTgxNiw1MTA3MDQ3NzFdfQ==
+eyJoaXN0b3J5IjpbLTEzMjQ0NTkwNzEsNTEwNzA0NzcxXX0=
 -->
