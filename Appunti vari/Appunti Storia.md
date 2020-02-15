@@ -94,9 +94,9 @@ E' l'inizio dei partiti di massa
 
 Agrari -> Proprietari terrieri, non contadini
 
-Durane
+Durante l'esilio Lenin viaggia per paesi liberali, arrivando a creare l'internazionales
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODkxMjgxMTAsLTI3NzQ0NzM1MSwtMT
-MyNDQ1OTA3MSw1MTA3MDQ3NzFdfQ==
+eyJoaXN0b3J5IjpbNDc5MTg3NDM5LC0yNzc0NDczNTEsLTEzMj
+Q0NTkwNzEsNTEwNzA0NzcxXX0=
 -->
