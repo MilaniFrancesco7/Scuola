@@ -86,8 +86,9 @@ I mutilati ad esempio, non potevano più lavorare avendo perso parti del corpo, 
 La parte positiva è l'inizio dello sviluppo della medicina plastica, ma la nota sociale è molto negativa, con molti soldati rinchiusi in manicomio.
 
 ### Biennio rosso
-Biennio tra il 1919 e 1920, con una pe
+Biennio tra il 1919 e 1920, con una penuria di rivolte da parte di operai e da parte delle categorie sociali più basse.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg0MzQzMjQsNTEwNzA0NzcxXX0=
+eyJoaXN0b3J5IjpbLTc0ODczMTA3OCw1MTA3MDQ3NzFdfQ==
 -->
