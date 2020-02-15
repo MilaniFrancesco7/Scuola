@@ -1,7 +1,79 @@
 
 # Storia 130220
 
- 
+ # La Rivoluzione Russa  
+  
+Inizio '900 Russia **paese agricolo**: 82% popolazione vive nelle campagne.  
+Le **proprietà terriere** appartengono alle **famiglie benestanti**.  
+Durante la **Prima Guerra Mondiale** molti contadini erano stati costretti ad **arruolarsi**.  
+Gli **operai** lavorano fino a 12 ore al giorno, percepivano **retribuzioni scarse** e **non** avevano diritto di **sciopero**.  
+Non esiste un **ceto borghese**, il primo sviluppo dell'industrializzazione è stato possibile grazie all'**intervento statale**.  
+**L'autocrazia** zarista, potere illimitato nelle mani di 1 sola persona.  
+Nel **1800** l'opposizione si era incarnata nel **populismo** che difendeva i valori del mondo contadino e operava anche attraverso il terrorismo.  
+I **pariti** nel 1900:  
+  
+- Partito Operaio Socialdemocratico Russo: Nel 1903 era separato in:  
+  
+- Bolscevichi: corrente rivoluzionaria maxista detta maggioritaria, che auspicano a un partito di militanti disciplinati (**Lenin**)  
+- Menscevichi: minoranza che mirava a un partito di massa sul modello tedesco e alla trasformazione riformistica della società  
+- Partito Socialrivoluzionario  
+- Partito Costituzionale Democratico  
+  
+**Rivoluzione del 1905**  
+La **sconfitta del Giappone** aveva generato ammutinamenti, e poi una **prima rivoluzione nel 1905**.  
+Erano scomparsi i **Soviet**, consigli di operai e soldati, che cercavano di dare unità alla rivoluzione e guidarla verso uno sbocco positivo  
+Lo **Zar Nicola II** è costretto a concedere un parlamento rappresentativo  
+Il primo ministro **Peter** introdusse delle riforme agrarie che prevedeva la **divisione e la vendita** delle terre comuni a piccoli e medi proprietari terrieri.  
+Nel **1914** lo zar, decise di entrare in guerra che portò a innumerevoli morti.  
+Nel 1915 si susseguirono scioperi e la propaganda socialista si diffuse.  
+Nel 1917 la situazione precipitò.  
+Il **23 febbraio** a Pietrogrado scoppiò una protesta contro lo zar che dilagò in tutto il paese, la quale venne definita **Rivoluzione di Febbraio**. Questo atto segna la fine dell'impero.  
+**Nicola II** abdica e il **12 marzo 1917** si costituisce un **governo provvisorio** presieduto da l'**Vov**.  
+La situazione rimane grave.  
+Nell'**aprile 1917** Lenin enuncia le sue celebri "**Tesi d'aprile**:  
+  
+- Tutto il potere ai soviet  
+- Nazionalizzazione delle terre  
+- Fine della guerra imperialista  
+- Nessuno appoggio al governo provvisorio  
+  
+I Bolscevichi prendono il potere. La notte del **6 novembre** si ebbe la terza rivoluzione, detta "**Rivoluzione d'Ottobre**.  
+Si forma un nuovo **governo** presieduto da Lenin, il quale legalizza l'occupazione delle terre e avvia i trattati di pace.  
+  
+Il **6 gennaio 1918** i bolscevichi decisero un colpo di stato e imposero dure restrizioni contro i socialrivoluzionari  
+A **marzo** vene fondato il **Partito Comunista**, la capitale viene spostata a Mosca  
+Le **Armate bianche** , ebbero il sostegno degli stati europei e si contrapposero alle **armate rosse** capeggiate da Lenin  
+Le 2 armate si scontrarono e i bolscevichi trionfarono.  
+Il **3 marzo 1918** venne firmata la pace di Brest Litovsk  
+  
+**Comunismo di Guerra**  
+  
+- Requisizione dei prodotti agricoli ai contadini ripagati a bassi prezzi  
+- Redistribuzione dei beni agricoli controllata dai funzionari statali  
+- Sviluppo del mercato nero  
+- la CEKA arresta in modo sommario e giustizia le persone accusate di speculazione sul mercato nero  
+- Lo stato nato dalla rivoluzione assume la forma di un organismo burocratico centralizzato e onnipotente  
+- Costituzione del luglio 1918  
+- Tutto il potere ai soviet  
+  
+Nel **1921** i Comunisti abbandonano il comunismo di guerra e introducono la **NEP** (Nuova politica economica)  
+  
+- E' abolita la requisitizione dei raccolti  
+- Il raccolto residuo può essere venduto sul mercato  
+- Venne reintrodotta la proprietà privata della terra  
+- Si arricchiscono i proprietari di medie aziende agricole  
+  
+Nel **1922** nasce l'**Unione delle Repubbliche Socialiste Sovietiche (URSS)**  
+Nel **1924** nasce la **nuova Costituzione**  
+  
+- Il potere è affidato al Congresso dei Soviet dell'Unione  
+- A capo dell'URSS si pose **
+
+
+ ## Interrogazione 150220
+
+La riconversione: Le fabbriche che erano state impegnate per la creazione di armi e munizioni per le battaglie in guerra, devono ritornare alla produzione pre bellica.
+Il problema era che lo stato non aveva minim
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1MTIxNTQzLDUxMDcwNDc3MV19
+eyJoaXN0b3J5IjpbMTU4NDUyODExMCw1MTA3MDQ3NzFdfQ==
 -->
