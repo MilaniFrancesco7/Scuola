@@ -63,9 +63,12 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Riparazione (Motivo, data di uscita, data di rientro, ditta riparatrice)
 ---
 ### Requisiti non funzionali
-
+- Visualizzazione da PC
+- Visualizzazione da Tablet / Smartphone
+- Tempo di
 
 ### Requisiti di dominio
+
 - Architettura Client/Server
 - Tre livelli di accesso:
 	- Base -- Solo consultazione
@@ -75,8 +78,6 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 	-	Insegnanti (Livello elevato)
 	-	Studenti (Livello base)
 	-	Personale / Assistenti (Livello intermedio)
-- Visualizzazione da PC
-- Visualizzazione da Tablet / Smartphone
 ---
 ## Split Tree
 <img src="https://i.ibb.co/0MTwj08/Split-Tree.png" alt="Split-Tree" border="0"></a>
@@ -94,7 +95,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
 - Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwNDI2NiwtMTE4NTM3NDgzNiwxOTkxMj
-Y5MDAzLC03MTgxNDMzMTMsMTQ3MzI2MjI1NywxMDQxNTQ5Mjg3
-XX0=
+eyJoaXN0b3J5IjpbLTE5NjYzNTU4MDEsLTExODUzNzQ4MzYsMT
+k5MTI2OTAwMywtNzE4MTQzMzEzLDE0NzMyNjIyNTcsMTA0MTU0
+OTI4N119
 -->
