@@ -96,11 +96,9 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 |                      |                         | Pianificazione Temporale(GANTT) |                              |
 |                      |                         | Analisi tecnologie utilizzate   |                              |
 |                      |                         | Individuazione obiettivi        |                              |
-|  Ricerca e sviluppo  | Definizione    | Schermata di accesso            | Entro il                     |
-|                      |                         | Schermata principale            |                              |
-|                      |                         | Schermate secondarie            |                              |
-|                      | Design dell'interfaccia | Interfaccia PC                  |                              |
-|                      |                         | Interfaccia dispositivi mobili  |                              |
+|  Ricerca e sviluppo  | Definizione moduli del progetto   |             | Entro il                     |
+|                   |        Sviluppo backend                    |           |                              |
+|                      |   Sviluppo frontend                      |          
 |  Design  | Design delle funzioni   | Schermata di accesso            | Entro il                     |
 |                      |                         | Schermata principale            |                              |
 |                      |                         | Schermate secondarie            |                              |
@@ -120,7 +118,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
 - Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc2NjIwOTcsLTc0MjM3MTEwMCwtMj
-I0OTY1NDM5LC0xMTg1Mzc0ODM2LDE5OTEyNjkwMDMsLTcxODE0
-MzMxMywxNDczMjYyMjU3LDEwNDE1NDkyODddfQ==
+eyJoaXN0b3J5IjpbMTc0NDMyNDEzNywtNzQyMzcxMTAwLC0yMj
+Q5NjU0MzksLTExODUzNzQ4MzYsMTk5MTI2OTAwMywtNzE4MTQz
+MzEzLDE0NzMyNjIyNTcsMTA0MTU0OTI4N119
 -->
