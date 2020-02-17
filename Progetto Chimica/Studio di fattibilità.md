@@ -63,6 +63,11 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Riparazione (Motivo, data di uscita, data di rientro, ditta riparatrice)
 ---
 ### Requisiti non funzionali
+- Visualizzazione da PC
+- Visualizzazione da Tablet / Smartphone
+- Tempo di risposta inferiore ai 5 secondi
+
+### Requisiti di dominio
 
 - Architettura Client/Server
 - Tre livelli di accesso:
@@ -73,13 +78,38 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 	-	Insegnanti (Livello elevato)
 	-	Studenti (Livello base)
 	-	Personale / Assistenti (Livello intermedio)
-- Visualizzazione da PC
-- Visualizzazione da Tablet / Smartphone
+
+- Login per insegnanti (Livello elevato) e personale (Livello intermedio) tramite user-id e password
 ---
 ## Split Tree
 <img src="https://i.ibb.co/0MTwj08/Split-Tree.png" alt="Split-Tree" border="0"></a>
 ---
 ## Attività
+| Fasi di progetto | Attività | Sottoattività  | Tempo di scadenza |
+| ----------------- | -------- | -------------- | ---------------- |
+| Pianificazione del progetto | Studio di fattibilità    |  Requisiti funzionali            |    Entro il 18/02/20 alle 00.00                          |
+|                      |                         | Requisiti non funzionali        |                              |
+|                      |                         | Requisiti di dominio            |                              |
+|                      |                         | Split tree                      |                              |
+|                      |                         | Analisi attività                |                              |
+|                      | Piano di progetto       | Work Breakdown Structure        | Entro il 25/02/20 alle 00.00 |
+|                      |                         | Pianificazione Temporale(GANTT) |                              |
+|                      |                         | Analisi tecnologie utilizzate   |                              |
+|                      |                         | Individuazione obiettivi        |                              |
+|  Ricerca e sviluppo  | Definizione moduli del progetto   |             | Entro il   25/02/20 alle 00.00                  |
+|                   |        Sviluppo backend                    |           |  Entro il   30/04/20 alle 00.00  |
+|                      |   Sviluppo frontend    || Entro il   30/04/20 alle 00.00         
+|  Design  | Design delle funzioni   | Schermata di accesso            | Entro il 30/03/20 alle 00.00                    |
+|                      |                         | Schermata principale            |                              |
+|                      |                         | Schermate secondarie            |                              |
+|                      | Design dell'interfaccia | Interfaccia PC                  | Entro il 30/03/20 alle 00.00 |
+|                      |                         | Interfaccia dispositivi mobili  |                              |
+| Testing              | Testing interno                |                       |  Entro il 11/05/20 alle 00.00 |
+|                      | Testing di integrazione        |                       |                               |
+|                      | Analisi dei risultati del test |                       |                               |
+| Rilascio             | Installazione software         |                       | Entro il 31/05/20             |
+|                      | Integrazione nel sistema       |                       |                               |
+|                      | Training                       |                       |                               |
 ---
 ## Osservazioni
 - Il server dovrà essere creato sul server master della scuola
@@ -92,6 +122,8 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
 - Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUzNzQ4MzYsMTk5MTI2OTAwMywtNz
-E4MTQzMzEzLDE0NzMyNjIyNTcsMTA0MTU0OTI4N119
+eyJoaXN0b3J5IjpbMzM0ODA2MDIzLDEyMjM1MDQwNDMsLTc0Mj
+M3MTEwMCwtMjI0OTY1NDM5LC0xMTg1Mzc0ODM2LDE5OTEyNjkw
+MDMsLTcxODE0MzMxMywxNDczMjYyMjU3LDEwNDE1NDkyODddfQ
+==
 -->
