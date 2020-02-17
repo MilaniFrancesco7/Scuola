@@ -80,7 +80,6 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 	-	Insegnanti (Livello elevato)
 	-	Studenti (Livello base)
 	-	Personale / Assistenti (Livello intermedio)
-
 - Login per insegnanti (Livello elevato) e personale (Livello intermedio) tramite user-id e password
 - Scrittura delle pagine attraverso PHP
 - Utilizzo di un database MySQL
@@ -126,8 +125,8 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
 - Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0ODA2MDIzLDEyMjM1MDQwNDMsLTc0Mj
-M3MTEwMCwtMjI0OTY1NDM5LC0xMTg1Mzc0ODM2LDE5OTEyNjkw
-MDMsLTcxODE0MzMxMywxNDczMjYyMjU3LDEwNDE1NDkyODddfQ
-==
+eyJoaXN0b3J5IjpbNDI1MjA0MDYyLDMzNDgwNjAyMywxMjIzNT
+A0MDQzLC03NDIzNzExMDAsLTIyNDk2NTQzOSwtMTE4NTM3NDgz
+NiwxOTkxMjY5MDAzLC03MTgxNDMzMTMsMTQ3MzI2MjI1NywxMD
+QxNTQ5Mjg3XX0=
 -->
