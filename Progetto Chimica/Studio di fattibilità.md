@@ -64,6 +64,8 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 ---
 ### Requisiti non funzionali
 
+
+### Requisiti di dominio
 - Architettura Client/Server
 - Tre livelli di accesso:
 	- Base -- Solo consultazione
@@ -92,6 +94,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
 - Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUzNzQ4MzYsMTk5MTI2OTAwMywtNz
-E4MTQzMzEzLDE0NzMyNjIyNTcsMTA0MTU0OTI4N119
+eyJoaXN0b3J5IjpbOTMwNDI2NiwtMTE4NTM3NDgzNiwxOTkxMj
+Y5MDAzLC03MTgxNDMzMTMsMTQ3MzI2MjI1NywxMDQxNTQ5Mjg3
+XX0=
 -->
