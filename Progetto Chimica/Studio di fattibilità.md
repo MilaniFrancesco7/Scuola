@@ -65,7 +65,6 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 ### Requisiti non funzionali
 - Visualizzazione da PC
 - Visualizzazione da Tablet / Smartphone
-- Tempo di
 
 ### Requisiti di dominio
 
@@ -78,6 +77,8 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 	-	Insegnanti (Livello elevato)
 	-	Studenti (Livello base)
 	-	Personale / Assistenti (Livello intermedio)
+
+- Login per insegnanti (Livello elevato) tramite user-id
 ---
 ## Split Tree
 <img src="https://i.ibb.co/0MTwj08/Split-Tree.png" alt="Split-Tree" border="0"></a>
@@ -95,7 +96,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
 - Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYzNTU4MDEsLTExODUzNzQ4MzYsMT
+eyJoaXN0b3J5IjpbLTE2MDc2NjU1MjIsLTExODUzNzQ4MzYsMT
 k5MTI2OTAwMywtNzE4MTQzMzEzLDE0NzMyNjIyNTcsMTA0MTU0
 OTI4N119
 -->
