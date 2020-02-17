@@ -87,8 +87,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 ## Attività
 | Fasi di progetto | Attività | Sottoattività  | Tempo di scadenza |
 | ----------------- | -------- | -------------- | ---------------- |
-| Pianificazione del progetto | Studio di fattibilità    | 
- Requisiti funzionali            |                              |
+| Pianificazione del progetto | Studio di fattibilità    |  Requisiti funzionali            |    Entro il 18/02/20 alle 00.00                          |
 |                      |                         | Requisiti non funzionali        |                              |
 |                      |                         | Requisiti di dominio            |                              |
 |                      |                         | Split tree                      |                              |
@@ -97,12 +96,17 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 |                      |                         | Pianificazione Temporale(GANTT) |                              |
 |                      |                         | Analisi tecnologie utilizzate   |                              |
 |                      |                         | Individuazione obiettivi        |                              |
-|                      | Design delle funzioni   | Schermata di accesso            | Entro il                     |
+|  Ricerca e sviluppo  | Definizione    | Schermata di accesso            | Entro il                     |
 |                      |                         | Schermata principale            |                              |
 |                      |                         | Schermate secondarie            |                              |
 |                      | Design dell'interfaccia | Interfaccia PC                  |                              |
 |                      |                         | Interfaccia dispositivi mobili  |                              |
-|                      |                         |                                 |                              |
+|  Design  | Design delle funzioni   | Schermata di accesso            | Entro il                     |
+|                      |                         | Schermata principale            |                              |
+|                      |                         | Schermate secondarie            |                              |
+|                      | Design dell'interfaccia | Interfaccia PC                  |                              |
+|                      |                         | Interfaccia dispositivi mobili  |                              |
+
 
 ---
 ## Osservazioni
@@ -116,7 +120,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
 - Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzOTQyNDY1LC03NDIzNzExMDAsLTIyND
-k2NTQzOSwtMTE4NTM3NDgzNiwxOTkxMjY5MDAzLC03MTgxNDMz
-MTMsMTQ3MzI2MjI1NywxMDQxNTQ5Mjg3XX0=
+eyJoaXN0b3J5IjpbLTE3OTc2NjIwOTcsLTc0MjM3MTEwMCwtMj
+I0OTY1NDM5LC0xMTg1Mzc0ODM2LDE5OTEyNjkwMDMsLTcxODE0
+MzMxMywxNDczMjYyMjU3LDEwNDE1NDkyODddfQ==
 -->
