@@ -85,6 +85,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 <img src="https://i.ibb.co/0MTwj08/Split-Tree.png" alt="Split-Tree" border="0"></a>
 ---
 ## Attività
+
 ---
 ## Osservazioni
 - Il server dovrà essere creato sul server master della scuola
@@ -97,7 +98,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
 - Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDk2NTQzOSwtMTE4NTM3NDgzNiwxOT
-kxMjY5MDAzLC03MTgxNDMzMTMsMTQ3MzI2MjI1NywxMDQxNTQ5
-Mjg3XX0=
+eyJoaXN0b3J5IjpbNzA3MzkwNTQ3LC0yMjQ5NjU0MzksLTExOD
+UzNzQ4MzYsMTk5MTI2OTAwMywtNzE4MTQzMzEzLDE0NzMyNjIy
+NTcsMTA0MTU0OTI4N119
 -->
