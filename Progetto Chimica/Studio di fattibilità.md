@@ -87,10 +87,23 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 ## Attività
 | Fasi di progetto | Attività | Sottoattività  | Tempo di scadenza |
 | ----------------- | -------- | -------------- | ---------------- |
-| Pianificazione del progetto | Studio di fattibilità    |   | Entro il 18/02/20 alle 00.00 |
-|                             | Work Breakdown Structure |   | Entro il 25/02/20 alle 00.00 |
-| Realizzazione del progetto  |                          |   |                              |
-|                             |                          |   |                              |
+| Pianificazione del progetto | Studio di fattibilità    | 
+ Requisiti funzionali            |                              |
+|                      |                         | Requisiti non funzionali        |                              |
+|                      |                         | Requisiti di dominio            |                              |
+|                      |                         | Split tree                      |                              |
+|                      |                         | Analisi attività                |                              |
+|                      | Piano di progetto       | Work Breakdown Structure        | Entro il 25/02/20 alle 00.00 |
+|                      |                         | Pianificazione Temporale(GANTT) |                              |
+|                      |                         | Analisi tecnologie utilizzate   |                              |
+|                      |                         | Individuazione obiettivi        |                              |
+|                      | Design delle funzioni   | Schermata di accesso            | Entro il                     |
+|                      |                         | Schermata principale            |                              |
+|                      |                         | Schermate secondarie            |                              |
+|                      | Design dell'interfaccia | Interfaccia PC                  |                              |
+|                      |                         | Interfaccia dispositivi mobili  |                              |
+|                      |                         |                                 |                              |
+
 ---
 ## Osservazioni
 - Il server dovrà essere creato sul server master della scuola
@@ -103,7 +116,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
 - Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjM3MTEwMCwtMjI0OTY1NDM5LC0xMT
-g1Mzc0ODM2LDE5OTEyNjkwMDMsLTcxODE0MzMxMywxNDczMjYy
-MjU3LDEwNDE1NDkyODddfQ==
+eyJoaXN0b3J5IjpbMzUzOTQyNDY1LC03NDIzNzExMDAsLTIyND
+k2NTQzOSwtMTE4NTM3NDgzNiwxOTkxMjY5MDAzLC03MTgxNDMz
+MTMsMTQ3MzI2MjI1NywxMDQxNTQ5Mjg3XX0=
 -->
