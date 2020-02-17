@@ -104,8 +104,12 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 |                      |                         | Schermate secondarie            |                              |
 |                      | Design dell'interfaccia | Interfaccia PC                  | Entro il 30/03/20 alle 00.00 |
 |                      |                         | Interfaccia dispositivi mobili  |                              |
-
-
+| Testing              | Testing interno                |                       |  Entro il 11/05/20 alle 00.00 |
+|                      | Testing di integrazione        |                       |                               |
+|                      | Analisi dei risultati del test |                       |                               |
+| Rilascio             | Installazione software         |                       | Entro il 31/05/20             |
+|                      | Integrazione nel sistema       |                       |                               |
+|                      | Training                       |                       |                               |
 ---
 ## Osservazioni
 - Il server dovrà essere creato sul server master della scuola
@@ -118,7 +122,8 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
 - Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzUwNDA0MywtNzQyMzcxMTAwLC0yMj
-Q5NjU0MzksLTExODUzNzQ4MzYsMTk5MTI2OTAwMywtNzE4MTQz
-MzEzLDE0NzMyNjIyNTcsMTA0MTU0OTI4N119
+eyJoaXN0b3J5IjpbMzM0ODA2MDIzLDEyMjM1MDQwNDMsLTc0Mj
+M3MTEwMCwtMjI0OTY1NDM5LC0xMTg1Mzc0ODM2LDE5OTEyNjkw
+MDMsLTcxODE0MzMxMywxNDczMjYyMjU3LDEwNDE1NDkyODddfQ
+==
 -->
