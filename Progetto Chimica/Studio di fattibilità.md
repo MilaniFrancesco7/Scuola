@@ -66,6 +66,8 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Visualizzazione da PC
 - Visualizzazione da Tablet / Smartphone
 - Tempo di risposta inferiore ai 5 secondi
+- Facilità d'uso per i nuovi utenti attraverso interfaccia semplice
+- Utilizzo del server scolastico
 
 ### Requisiti di dominio
 
@@ -80,6 +82,8 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 	-	Personale / Assistenti (Livello intermedio)
 
 - Login per insegnanti (Livello elevato) e personale (Livello intermedio) tramite user-id e password
+- Scrittura delle pagine attraverso PHP
+- Utilizzo di un database MySQL
 ---
 ## Split Tree
 <img src="https://i.ibb.co/0MTwj08/Split-Tree.png" alt="Split-Tree" border="0"></a>
