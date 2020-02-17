@@ -85,7 +85,8 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 <img src="https://i.ibb.co/0MTwj08/Split-Tree.png" alt="Split-Tree" border="0"></a>
 ---
 ## Attività
-
+| Fasi di progetto | Attività | Sottoattività  | Tempo di scadenza |
+| ----------------- | -------- | -------------- | ---------------- |
 | Pianificazione del progetto | Studio di fattibilità    |   | Entro il 18/02/20 alle 00.00 |
 |-----------------------------|--------------------------|---|------------------------------|
 |                             | Work Breakdown Structure |   | Entro il 25/02/20 alle 00.00 |
@@ -103,7 +104,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
 - Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTEwNzUzNSwtMjI0OTY1NDM5LC0xMT
+eyJoaXN0b3J5IjpbLTY5NjA2MzEwMiwtMjI0OTY1NDM5LC0xMT
 g1Mzc0ODM2LDE5OTEyNjkwMDMsLTcxODE0MzMxMywxNDczMjYy
 MjU3LDEwNDE1NDkyODddfQ==
 -->
