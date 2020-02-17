@@ -86,6 +86,11 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 ---
 ## Attività
 
+| Pianificazione del progetto | Studio di fattibilità    |   | Entro il 18/02/20 alle 00.00 |
+|-----------------------------|--------------------------|---|------------------------------|
+|                             | Work Breakdown Structure |   | Entro il 25/02/20 alle 00.00 |
+| Realizzazione del progetto  |                          |   |                              |
+|                             |                          |   |                              |
 ---
 ## Osservazioni
 - Il server dovrà essere creato sul server master della scuola
@@ -98,7 +103,7 @@ La schermata della strumentazione e dell'apparecchiatura deve contenere **obblig
 - Sarebbe utile trovare in rete il manuale in formato digitale per le apparecchiature antiquate
 - Sarebbe utile mantenere uno storico per la manutenzione ordinaria e straordinaria
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3MzkwNTQ3LC0yMjQ5NjU0MzksLTExOD
-UzNzQ4MzYsMTk5MTI2OTAwMywtNzE4MTQzMzEzLDE0NzMyNjIy
-NTcsMTA0MTU0OTI4N119
+eyJoaXN0b3J5IjpbMTM4NTEwNzUzNSwtMjI0OTY1NDM5LC0xMT
+g1Mzc0ODM2LDE5OTEyNjkwMDMsLTcxODE0MzMxMywxNDczMjYy
+MjU3LDEwNDE1NDkyODddfQ==
 -->
