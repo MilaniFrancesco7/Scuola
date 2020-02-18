@@ -1,0 +1,16 @@
+#!/bin/bash    
+
+while (true)
+
+do
+
+    nc.traditional -l -p 2080 -c 'echo -e "HTTP/1.1 200 OK\r\nContent-Type: text/html\r\n\r\n<html>\r\n\r\n<body>\r\n\r\nEcco il mio testo.\r\n\r\n</body>\r\n\r\n</html>"'
+
+done
+
+# Milani Francesco
+# 5AI
+# 161019
+# Microserver web in porta 2080 che restituisce una pagina html
+# \r = newline -> porta il cursore in basso di una riga
+# \n = carriage return -> porta il cursore al primo carattere della riga corrente

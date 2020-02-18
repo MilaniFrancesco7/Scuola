@@ -1,0 +1,55 @@
+HTTP/1.1 200 OK
+POST /rubrica.xmlhttp HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
+Host: localhost:8888
+Content-Type: text/xml; charset=utf-8
+Content-Length: 663
+Accept-Language: it-IT,it;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rubrica SYSTEM "rubrica.dtd">
+<rubrica>
+	<contact> 	
+		<name>Francesco</name>
+		<middlename>Luigi</middlename>
+		<surname>Milani</surname>
+		<birth y="2000" m="09" d="08" />
+		<phone>3492121901</phone>
+		<city>Rossano Veneto</city>
+		<email>milaniwork@gmail.com</email>
+	</contact>
+	
+	<contact>
+		<name>Giacomino</name>
+		<middlename>Sugar</middlename>
+		<surname>Poretti</surname>
+		<birth y="1975" m="10" d="19" />
+		<phone>3492846289</phone>
+		<city>Milano</city>
+		<email>sugarporetti@tiscali.it</email>
+	</contact>
+	
+	<contact>
+		<name>Cataldo</name>
+		<middlename>Dexter</middlename>
+		<surname>Baglio</surname>
+		<birth y="1973" m="8" d="25" />
+		<phone>34956567801</phone>
+		<city>Milano</city>
+		<email>dexterbaglio@alice.it</email>
+	</contact>	
+	
+	<contact>
+		<name>Giovanni</name>
+		<middlename>Esagerato</middlename>
+		<surname>Storti</surname>
+		<birth y="1976" m="2" d="21" />
+		<phone>3492278015</phone>
+		<city>Milano</city>
+		<email>esageratostorti@hotmail.com</email>
+	</contact>		
+	
+</rubrica>

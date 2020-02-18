@@ -1,0 +1,23 @@
+Milani Francesco 
+5AI
+Verifica TPSIT Laboratorio 241019
+Esercizio 1 
+
+Eseguire il comando: 
+
+nc -v www.e-fermi.it 80 	-> nc -verbose
+
+Connessione avvenuta
+Inserire la richiesta:
+
+GET HTTP://www.e-fermi.it   -> Richiesta HTTP
+
+
+HTTP/1.1 403 Forbidden
+Date: Thu, 24 Oct 2019 08:34:16 GMT
+Content-Type: text/html
+Content-Length: 166
+X-Cache: MISS from proxy.fermi.intra
+X-Cache-Lookup: MISS from proxy.fermi.intra:3128
+Via: 1.1 proxy.fermi.intra (squid/3.5.23)       -> Versione del proxy
+Connection: close

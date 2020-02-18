@@ -1,0 +1,11 @@
+<!DOCTYPE rubrica		
+[
+<!ELEMENT rubrica (name,middlename,surname,birth,phone,city,email)> 
+<!ELEMENT name (#PCDATA)>						
+<!ELEMENT middlename (#PCDATA)>					
+<!ELEMENT surname (#PCDATA)>					
+<!ELEMENT birth (#PCDATA)>					
+<!ELEMENT phone (#PCDATA)>						
+<!ELEMENT city (#PCDATA)>						
+<!ELEMENT email (#PCDATA)>						
+]>
