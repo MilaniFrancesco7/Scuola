@@ -113,7 +113,10 @@ Rapimento Matteotti -> Trovato un mese dopo morto
 
 Il parlamento si ritira sul monte aventino -> Per protesta
 
+Elezioni 1925 -> Mussolini si assume le colpe dell'omicidio matteotti
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExNzU0NTIyLDQ3OTE4NzQzOSwtMjc3ND
-Q3MzUxLC0xMzI0NDU5MDcxLDUxMDcwNDc3MV19
+eyJoaXN0b3J5IjpbLTYxNDAwMjkxOCw3MTE3NTQ1MjIsNDc5MT
+g3NDM5LC0yNzc0NDczNTEsLTEzMjQ0NTkwNzEsNTEwNzA0Nzcx
+XX0=
 -->
