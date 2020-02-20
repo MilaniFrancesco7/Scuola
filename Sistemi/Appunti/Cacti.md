@@ -22,12 +22,12 @@ sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
 #modificare le righe
 character-set-server = utf8mb4
 collation-server = utf8mb4_unicode_ci
-```
-restartare mariadb
-```bash
-sudo systemctl restart mariadb
+
+sudo systemctl restart mariadb #restart mariadb
+sudo apt install php php-mysql php-snmp
+sudo apt install cacti snmpd #installa cacti
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjgyODU3MCwyMDg2NDcwNTgyLC0xND
+eyJoaXN0b3J5IjpbLTczODI3Mzc0MCwyMDg2NDcwNTgyLC0xND
 kzODU0MzhdfQ==
 -->
