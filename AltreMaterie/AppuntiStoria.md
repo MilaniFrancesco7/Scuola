@@ -119,10 +119,12 @@ Elezioni 1925 -> Mussolini si assume le colpe dell'omicidio matteotti
 
 Gli intellettuali devono schierarsi, a favore o contro il fascismo, con la conseguente pubblicazione dei nomi
 
+
+
 Un solo sindacato, sindacato fascista
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzkzNTY0MiwtNjE0MDAyOTE4LDcxMT
-c1NDUyMiw0NzkxODc0MzksLTI3NzQ0NzM1MSwtMTMyNDQ1OTA3
-MSw1MTA3MDQ3NzFdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzk1MzA2OTAsMTEwMzkzNTY0MiwtNj
+E0MDAyOTE4LDcxMTc1NDUyMiw0NzkxODc0MzksLTI3NzQ0NzM1
+MSwtMTMyNDQ1OTA3MSw1MTA3MDQ3NzFdfQ==
 -->
