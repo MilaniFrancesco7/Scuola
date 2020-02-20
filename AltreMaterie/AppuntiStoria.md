@@ -96,7 +96,13 @@ Agrari -> Proprietari terrieri, non contadini
 
 Durante l'esilio Lenin viaggia per paesi liberali, arrivando a creare l'internazionales
 
+
+# Fasciscmo in italia
+
+Mussolini + Persone di fiducia -> Gran consiglio del Fasciscmo, che progressivamente sostituirà il parlamento.
+
+Il parlamento rimane 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MTg3NDM5LC0yNzc0NDczNTEsLTEzMj
-Q0NTkwNzEsNTEwNzA0NzcxXX0=
+eyJoaXN0b3J5IjpbLTEyMTA0NzcyOTYsNDc5MTg3NDM5LC0yNz
+c0NDczNTEsLTEzMjQ0NTkwNzEsNTEwNzA0NzcxXX0=
 -->
