@@ -101,8 +101,15 @@ Durante l'esilio Lenin viaggia per paesi liberali, arrivando a creare l'internaz
 
 Mussolini + Persone di fiducia -> Gran consiglio del Fasciscmo, che progressivamente sostituirà il parlamento.
 
-Il parlamento rimane 
+Il parlamento rimane attivo, ma non venendo convocato non può prendere decisioni, come invece il gran consiglio prenderà
+
+1924 -> Nuove votazioni ed elezioni
+Giacomo Acerbo (Sottosegretario alla presidenza del consiglio)
+### LEGGE ACERBO
+
+La lista che avesse vinto le elezioni con almeno il 25% dei voti sarebbe stato concesso i 2/3 dei seggi disponibili i
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA0NzcyOTYsNDc5MTg3NDM5LC0yNz
+eyJoaXN0b3J5IjpbLTEwMzE2MzkyODcsNDc5MTg3NDM5LC0yNz
 c0NDczNTEsLTEzMjQ0NTkwNzEsNTEwNzA0NzcxXX0=
 -->
