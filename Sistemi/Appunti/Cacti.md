@@ -33,8 +33,8 @@ Password-> lasolita
 
 credenziali
 nome utente -> admin
-password -> lasolita
+password -> lasolita           
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTMwMjY5OTQsLTc5NDI4NTA3OSwyMD
-g2NDcwNTgyLC0xNDkzODU0MzhdfQ==
+eyJoaXN0b3J5IjpbLTExMzUxOTA4NzQsLTE1NTMwMjY5OTQsLT
+c5NDI4NTA3OSwyMDg2NDcwNTgyLC0xNDkzODU0MzhdfQ==
 -->
