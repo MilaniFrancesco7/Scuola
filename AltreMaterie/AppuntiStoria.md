@@ -128,9 +128,10 @@ I patti lateranensi erano composti da due documenti:
 #### Patto 1
 Libertà di professare la religione cattolica, obbligatorietà dell'insegnamento della religione nelle scuole, Matrimonio religioso con valore civile
 
-####
+#### Convenzione 2
+Lo stato doveva un indenizzo annuale al vaticano, anche per l'insegnae
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDE4ODU4NSwxMTAzOTM1NjQyLC02MT
+eyJoaXN0b3J5IjpbMjA2MjAyMDkyNiwxMTAzOTM1NjQyLC02MT
 QwMDI5MTgsNzExNzU0NTIyLDQ3OTE4NzQzOSwtMjc3NDQ3MzUx
 LC0xMzI0NDU5MDcxLDUxMDcwNDc3MV19
 -->
