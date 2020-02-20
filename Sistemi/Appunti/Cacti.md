@@ -15,6 +15,7 @@ sudo apt install mariadb-server mariadb-client
 In modalità root
 ```bash
 mysql_secure_installation
+#password sempre lasolita
 ```
 y sempre
 ```bash
@@ -27,7 +28,9 @@ sudo systemctl restart mariadb #restart mariadb
 sudo apt install php php-mysql php-snmp
 sudo apt install cacti snmpd #installa cacti
 ```
+Configure database for cacti with dbconfig-common? -> yes
+Password-> lasolita
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODI3Mzc0MCwyMDg2NDcwNTgyLC0xND
+eyJoaXN0b3J5IjpbLTc5NDI4NTA3OSwyMDg2NDcwNTgyLC0xND
 kzODU0MzhdfQ==
 -->
