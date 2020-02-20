@@ -123,8 +123,14 @@ Gli intellettuali devono schierarsi, a favore o contro il fascismo, con la conse
 
 Un solo sindacato, sindacato fascista
 
+
+I patti lateranensi erano composti da due documenti:
+#### Patto 1
+Libertà di professare la religione cattolica, obbligatorietà dell'insegnamento della religione nelle scuole, Matrimonio religioso con valore civile
+
+####
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk1MzA2OTAsMTEwMzkzNTY0MiwtNj
-E0MDAyOTE4LDcxMTc1NDUyMiw0NzkxODc0MzksLTI3NzQ0NzM1
-MSwtMTMyNDQ1OTA3MSw1MTA3MDQ3NzFdfQ==
+eyJoaXN0b3J5IjpbLTQ4MDE4ODU4NSwxMTAzOTM1NjQyLC02MT
+QwMDI5MTgsNzExNzU0NTIyLDQ3OTE4NzQzOSwtMjc3NDQ3MzUx
+LC0xMzI0NDU5MDcxLDUxMDcwNDc3MV19
 -->
