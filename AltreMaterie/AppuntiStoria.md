@@ -115,8 +115,14 @@ Il parlamento si ritira sul monte aventino -> Per protesta
 
 Elezioni 1925 -> Mussolini si assume le colpe dell'omicidio matteotti
 
+#### LEGGI FASCISTISSIME
+
+Gli intellettuali devono schierarsi, a favore o contro il fascismo, con la conseguente pubblicazione dei nomi
+
+Un solo sindacato, sindacato fascista
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDAwMjkxOCw3MTE3NTQ1MjIsNDc5MT
-g3NDM5LC0yNzc0NDczNTEsLTEzMjQ0NTkwNzEsNTEwNzA0Nzcx
-XX0=
+eyJoaXN0b3J5IjpbMTEwMzkzNTY0MiwtNjE0MDAyOTE4LDcxMT
+c1NDUyMiw0NzkxODc0MzksLTI3NzQ0NzM1MSwtMTMyNDQ1OTA3
+MSw1MTA3MDQ3NzFdfQ==
 -->
