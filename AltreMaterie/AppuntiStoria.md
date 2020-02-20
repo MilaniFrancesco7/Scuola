@@ -107,9 +107,11 @@ Il parlamento rimane attivo, ma non venendo convocato non può prendere decision
 Giacomo Acerbo (Sottosegretario alla presidenza del consiglio)
 ### LEGGE ACERBO
 
-La lista che avesse vinto le elezioni con almeno il 25% dei voti sarebbe stato concesso i 2/3 dei seggi disponibili i
+La lista che avesse vinto le elezioni con almeno il 25% dei voti sarebbe stato concesso i 2/3 dei seggi disponibili in parlamento -> IL LISTONE
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE2MzkyODcsNDc5MTg3NDM5LC0yNz
-c0NDczNTEsLTEzMjQ0NTkwNzEsNTEwNzA0NzcxXX0=
+eyJoaXN0b3J5IjpbLTc3MDk3NTY4Miw0NzkxODc0MzksLTI3Nz
+Q0NzM1MSwtMTMyNDQ1OTA3MSw1MTA3MDQ3NzFdfQ==
 -->
