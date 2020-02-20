@@ -109,9 +109,11 @@ Giacomo Acerbo (Sottosegretario alla presidenza del consiglio)
 
 La lista che avesse vinto le elezioni con almeno il 25% dei voti sarebbe stato concesso i 2/3 dei seggi disponibili in parlamento -> IL LISTONE
 
+Rapimento Matteotti -> Trovato un mese dopo morto
 
+Il parlamento si ritira sul monte aventino -> Per protesta
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDk3NTY4Miw0NzkxODc0MzksLTI3Nz
-Q0NzM1MSwtMTMyNDQ1OTA3MSw1MTA3MDQ3NzFdfQ==
+eyJoaXN0b3J5IjpbNzExNzU0NTIyLDQ3OTE4NzQzOSwtMjc3ND
+Q3MzUxLC0xMzI0NDU5MDcxLDUxMDcwNDc3MV19
 -->
