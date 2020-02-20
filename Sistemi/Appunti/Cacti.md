@@ -30,7 +30,11 @@ sudo apt install cacti snmpd #installa cacti
 ```
 Configure database for cacti with dbconfig-common? -> yes
 Password-> lasolita
+
+credenziali
+nome utente -> admin
+password -> lasolita
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDI4NTA3OSwyMDg2NDcwNTgyLC0xND
-kzODU0MzhdfQ==
+eyJoaXN0b3J5IjpbLTE1NTMwMjY5OTQsLTc5NDI4NTA3OSwyMD
+g2NDcwNTgyLC0xNDkzODU0MzhdfQ==
 -->
