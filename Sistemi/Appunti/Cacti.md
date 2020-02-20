@@ -17,7 +17,17 @@ In modalità root
 mysql_secure_installation
 ```
 y sempre
-
+```bash
+sudo nano /etc/mysql/mariadb.conf.d/50-server.cnf
+#modificare le righe
+character-set-server = utf8mb4
+collation-server = utf8mb4_unicode_ci
+```
+restartare mariadb
+```bash
+sudo systemctl restart mariadb
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjQ3MDU4MiwtMTQ5Mzg1NDM4XX0=
+eyJoaXN0b3J5IjpbMTQ2NjgyODU3MCwyMDg2NDcwNTgyLC0xND
+kzODU0MzhdfQ==
 -->
