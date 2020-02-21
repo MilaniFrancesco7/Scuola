@@ -8,8 +8,9 @@
 - 7 fasi: ***killchain*** di un attacco informatico
 - Differenza tra hacker e cracker
 - Payload = Carico malevolo (Codice informatico progettato da un carico) inoculato con una tecnologia innocua, rendendola pericolosa
+- Gli attacchi si basano sullo "sbilanciamento" dell'equilibrio creato dalla Confidenzialità, Disponibilità ed Integrità
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDk5Mjk3MywyMTA5NzUyNDg2LC0xMz
-QwNzc0NzAzLC0xMzQwNzc0NzAzXX0=
+eyJoaXN0b3J5IjpbMTAwNjU3MTYxMCwtOTEwOTkyOTczLDIxMD
+k3NTI0ODYsLTEzNDA3NzQ3MDMsLTEzNDA3NzQ3MDNdfQ==
 -->
