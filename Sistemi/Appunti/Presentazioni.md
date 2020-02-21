@@ -2,7 +2,9 @@
 
 Non scrivere WEP, ma utilizzare WPA/WPA2
 
+Einaudi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA3NzQ3MDNdfQ==
+eyJoaXN0b3J5IjpbLTE1NTM2Mzc4NzQsLTEzNDA3NzQ3MDNdfQ
+==
 -->
