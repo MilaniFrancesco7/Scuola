@@ -10,8 +10,9 @@
 - Payload = Carico malevolo (Codice informatico progettato da un carico) inoculato (sin. "iniettare", inserire) con una tecnologia innocua, rendendola pericolosa
 - Gli attacchi si basano sullo "sbilanciamento" dell'equilibrio creato dalla Confidenzialità, Disponibilità ed Integrità
 - 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTU4NTU1LDEwMDY1NzE2MTAsLTkxMD
-k5Mjk3MywyMTA5NzUyNDg2LC0xMzQwNzc0NzAzLC0xMzQwNzc0
-NzAzXX0=
+eyJoaXN0b3J5IjpbLTk4MDEwNTU2OCwxMDA2NTcxNjEwLC05MT
+A5OTI5NzMsMjEwOTc1MjQ4NiwtMTM0MDc3NDcwMywtMTM0MDc3
+NDcwM119
 -->
