@@ -9,10 +9,9 @@
 - Differenza tra hacker e cracker
 - Payload = Carico malevolo (Codice informatico progettato da un carico) inoculato (sin. "iniettare", inserire) con una tecnologia innocua, rendendola pericolosa
 - Gli attacchi si basano sullo "sbilanciamento" dell'equilibrio creato dalla Confidenzialità, Disponibilità ed Integrità
-- 
-- 
+- Phishing -> Social engeneering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDEwNTU2OCwxMDA2NTcxNjEwLC05MT
+eyJoaXN0b3J5IjpbMTcxODE5NjY5NCwxMDA2NTcxNjEwLC05MT
 A5OTI5NzMsMjEwOTc1MjQ4NiwtMTM0MDc3NDcwMywtMTM0MDc3
 NDcwM119
 -->
