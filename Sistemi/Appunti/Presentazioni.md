@@ -7,8 +7,9 @@
 # Brunello - Gli attacchi informatici
 - 7 fasi: ***killchain*** di un attacco informatico
 - Differenza tra hacker e cracker
-- Payload = Carico malevolo che viene 
+- Payload = Carico malevolo (Codice informatico progettato da un carico) inoculato con una tecnologia innocua, rendendola pericolosa
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY1OTExLDIxMDk3NTI0ODYsLTEzND
-A3NzQ3MDMsLTEzNDA3NzQ3MDNdfQ==
+eyJoaXN0b3J5IjpbLTkxMDk5Mjk3MywyMTA5NzUyNDg2LC0xMz
+QwNzc0NzAzLC0xMzQwNzc0NzAzXX0=
 -->
