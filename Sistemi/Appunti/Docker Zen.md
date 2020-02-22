@@ -32,8 +32,10 @@ docker0-> Dentro -> Switch ipotetico -> Container
 
 Il docker all'installazione sarà totalmente senza servizi
 
-Anche per ragioni di sicurezza, il docker viene chiuso dentro al 
+Anche per ragioni di sicurezza, il docker viene chiuso dentro al suo contesto, in modo tale da non fare danni.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzY2MDk5Nyw2MzM2NzI0NTBdfQ==
+eyJoaXN0b3J5IjpbMTM3NDI0OTEyOSw2MzM2NzI0NTBdfQ==
 -->
