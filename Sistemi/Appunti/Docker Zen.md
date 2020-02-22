@@ -20,9 +20,10 @@ docker images
 ```
 #### Comandi
 ```bash
-
+docker run -it --name debian debian:latest #del nome debian,lancia l'istanza debian:latest
 ```
+Ora sare
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDMxMDY4XX0=
+eyJoaXN0b3J5IjpbLTMzNDkzNTM1OV19
 -->
