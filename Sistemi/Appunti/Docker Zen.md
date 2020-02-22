@@ -22,8 +22,10 @@ docker images
 ```bash
 docker run -it --name debian debian:latest #del nome debian,lancia l'istanza debian:latest
 ```
-Ora sare
+Ora saremo entrati dentro ad una sottomacchina.
+Le dimensioni del disco e le specifiche sono quelle della macchina, ma possono essere limitate.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDkzNTM1OV19
+eyJoaXN0b3J5IjpbNjMzNjcyNDUwXX0=
 -->
