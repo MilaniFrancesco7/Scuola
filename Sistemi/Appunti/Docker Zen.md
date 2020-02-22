@@ -30,6 +30,8 @@ L'indirizzo sarà 172.17.0.1 -> ovvero la scheda di rete che si affaccia verso t
 eth0-> Fuori
 docker0-> Dentro -> Switch ipotetico -> Container
 
+Il docker all'installazione sarà totalmente
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA5ODI3MzksNjMzNjcyNDUwXX0=
+eyJoaXN0b3J5IjpbMjI1MDU4NDU2LDYzMzY3MjQ1MF19
 -->
