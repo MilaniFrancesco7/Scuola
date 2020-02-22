@@ -11,18 +11,18 @@ sudo apt-get install docker.io
 
 ## Utilizzo
 Copia di un sistema ( ultima versione debian )
-```
+```bash
 docker pull debian:latest
 ```
 Visualizzare i docker presenti
-```
+```bash
 docker images
 ```
 #### Comandi
-```
+```bash
 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc2OTc3MTJdfQ==
+eyJoaXN0b3J5IjpbLTk2NDMxMDY4XX0=
 -->
