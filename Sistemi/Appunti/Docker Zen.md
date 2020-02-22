@@ -25,7 +25,11 @@ docker run -it --name debian debian:latest #del nome debian,lancia l'istanza deb
 Ora saremo entrati dentro ad una sottomacchina.
 Le dimensioni del disco e le specifiche sono quelle della macchina, ma possono essere limitate.
 
+L'indirizzo sarà 172.17.0.1 -> ovvero la scheda di rete che si affaccia verso tutti i docker presenti
+
+eth0-> Fuori
+docker0-> Dentro -> Switch ipotetico -> Container
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzNjcyNDUwXX0=
+eyJoaXN0b3J5IjpbLTE0NzA5ODI3MzksNjMzNjcyNDUwXX0=
 -->
