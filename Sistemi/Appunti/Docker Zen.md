@@ -30,8 +30,10 @@ L'indirizzo sarà 172.17.0.1 -> ovvero la scheda di rete che si affaccia verso t
 eth0-> Fuori
 docker0-> Dentro -> Switch ipotetico -> Container
 
-Il docker all'installazione sarà totalmente
+Il docker all'installazione sarà totalmente senza servizi
+
+Anche per ragioni di sicurezza, il docker viene chiuso dentro al 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MDU4NDU2LDYzMzY3MjQ1MF19
+eyJoaXN0b3J5IjpbMTkyMzY2MDk5Nyw2MzM2NzI0NTBdfQ==
 -->
