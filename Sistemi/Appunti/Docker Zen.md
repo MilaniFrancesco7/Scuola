@@ -39,8 +39,10 @@ Anche per ragioni di sicurezza, il docker viene chiuso dentro al suo contesto, i
 Verrà creata un salvataggio allo stato del docker, in modo tale da poter tornare a lavorarci
 Le modifiche vengono sommate al docker,  creando quindi un docker con le modifiche.
 
-Per l'eliminazione, basta non eseguire il commit e tutto verrò 
+Per l'eliminazione, basta non eseguire il commit e tutto verrà eliminato automaticamente
+
+Per utilizzare un docker di versione prece
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwMDI0MjIxLDEzNzQyNDkxMjksNjMzNj
-cyNDUwXX0=
+eyJoaXN0b3J5IjpbLTEyMzg5MzM1MzIsMTM3NDI0OTEyOSw2Mz
+M2NzI0NTBdfQ==
 -->
