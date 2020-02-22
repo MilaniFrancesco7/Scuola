@@ -14,8 +14,15 @@ Copia di un sistema ( ultima versione debian )
 ```
 docker pull debian:latest
 ```
+Visualizzare i docker presenti
+```
+docker images
+```
+#### Comandi
+```
 
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5MzM1MjldfQ==
+eyJoaXN0b3J5IjpbLTE1OTc2OTc3MTJdfQ==
 -->
