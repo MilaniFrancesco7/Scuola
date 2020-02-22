@@ -42,7 +42,9 @@ Le modifiche vengono sommate al docker,  creando quindi un docker con le modific
 Per l'eliminazione, basta non eseguire il commit e tutto verrà eliminato automaticamente
 
 Per utilizzare un docker di versione precedente occorre eliminare le modifiche successive
+
+I container vengono salvati in /var/lib/docker
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM4NDMzODksMTM3NDI0OTEyOSw2Mz
-M2NzI0NTBdfQ==
+eyJoaXN0b3J5IjpbMTQxODk3NDMxMywxMzc0MjQ5MTI5LDYzMz
+Y3MjQ1MF19
 -->
