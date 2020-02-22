@@ -37,8 +37,10 @@ Anche per ragioni di sicurezza, il docker viene chiuso dentro al suo contesto, i
 ### Chiusura
 ```docker commit debian debian:v1 ```
 Verrà creata un salvataggio allo stato del docker, in modo tale da poter tornare a lavorarci
-Le modifiche vengono sommate al docker, ve
+Le modifiche vengono sommate al docker,  creando quindi un docker con le modifiche.
+
+Per l'eliminazione, basta non eseguire il commit e tutto verrò 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzI1MzQ5NSwxMzc0MjQ5MTI5LDYzMz
-Y3MjQ1MF19
+eyJoaXN0b3J5IjpbNzcwMDI0MjIxLDEzNzQyNDkxMjksNjMzNj
+cyNDUwXX0=
 -->
