@@ -34,8 +34,11 @@ Il docker all'installazione sarà totalmente senza servizi
 
 Anche per ragioni di sicurezza, il docker viene chiuso dentro al suo contesto, in modo tale da non fare danni.
 
-
-
+### Chiusura
+```docker commit debian debian:v1 ```
+Verrà creata un salvataggio allo stato del docker, in modo tale da poter tornare a lavorarci
+Le modifiche vengono sommate al docker, ve
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDI0OTEyOSw2MzM2NzI0NTBdfQ==
+eyJoaXN0b3J5IjpbMjA2NzI1MzQ5NSwxMzc0MjQ5MTI5LDYzMz
+Y3MjQ1MF19
 -->
