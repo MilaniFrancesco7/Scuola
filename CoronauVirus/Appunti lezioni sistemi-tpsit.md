@@ -156,7 +156,9 @@ Il server dell'itis riceve le richieste e le inoltra ad altri server che si occu
 # Raid
 In informatica il RAID, acronimo di Redundant Array of Independent Disks ovvero insieme ridondante di dischi indipendenti, è una tecnica di installazione raggruppata di diversi dischi rigidi in un computer (o collegati ad esso) che fa sì che gli stessi nel sistema appaiano e siano utilizzabili come se fossero un unico volume di memorizzazione.
 
-In pratica il raid si utilizza per dare una continuità di ser
+In pratica il raid si utilizza per dare una continuità di servizio all'utente. Si usa infatti per avere una copia completa dei file sempre attiva durante il funzionamento, che in caso di guasti non porterebbe alla perdita completa del lavoro.
+
+Al momento dell'acquisto di due dischi, che possono costare all'incirca 100€ l'uno, si può dire come si paghino 200€ per avere 100€ dio 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDgxMDg1MF19
+eyJoaXN0b3J5IjpbLTIxMDk2MTI4MDRdfQ==
 -->
