@@ -149,7 +149,12 @@ Appunti durante l'installazione:
 Un reverse proxy è un tipo di proxy che recupera i contenuti per conto di un client da uno o più server. Questi contenuti sono poi trasferiti al client come se provenissero dallo stesso proxy, che quindi appare al client come un server.
 
 Permete quindi di mascherare il fatto che si stia utilizzando un altro sito per accedere a determinate funzioni, ma mostrandolo sempre sotto lo stesso dominio.
-Un esempio può essere
+
+Un esempio può essere il sito del registro scolastico.
+Il server dell'itis riceve le richieste e le inoltra ad altri server che si occupano dei servizi richiesti.
+
+# Raid
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzI0MzAyN119
+eyJoaXN0b3J5IjpbMjg1MTk5OTgxXX0=
 -->
