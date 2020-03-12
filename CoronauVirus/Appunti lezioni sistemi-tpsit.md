@@ -181,7 +181,12 @@ Ci ricorderemo di impostare il controller dischi con minimo 4 porte disco
 Durante l'installazione partizioneremo i due dischi con lo stesso schema di partizionamento, ma di tipo 0xfd(Volume fisico per il raid)
 
 - Procedura particolare per abbinare correttamente  i numeri in /dev/md_
-si crea md0(sda2,sdb2), poi i crea md1(sda1,sdb1), si elimina md0 e si crea md2(sda2,sdb2) così i numeri saranno abbinati correttamente
+si crea md0(sda2,sdb2), poi i crea md1(sda1,sdb1), si elimina md0 e si crea md2(sda2,sdb2) così i numeri saranno abbinati correttamente.
+
+## Controllo raid /proc/mdstat
+
+## Disconnessione di un disco live
+Usando i tool da riga di comando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk5MDE0NDldfQ==
+eyJoaXN0b3J5IjpbLTgxNjIxNzQ2OV19
 -->
