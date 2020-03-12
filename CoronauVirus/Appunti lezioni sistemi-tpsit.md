@@ -174,6 +174,11 @@ La differenza tra raid 4 e 5 dipende infatti solamente dalla strategia utilizzat
 ## Creazione pc virtuale con 2 dischi in raid 1
 
 Disco da 4 GB
+Dopo la creazione della VM su virtualbox creeremo un secondo disco e lo collegheremo alla macchina
+Ci ricorderemo di impostare il controller dischi con minimo 4 porte disco
+
+## Installazione pc virtuale con 2 dischi in raid 1 software
+Durante l'installazione partizioneremo i due dischi con lo stesso schema di partizionamento, ma di tipo 0xf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzU1MjMwOF19
+eyJoaXN0b3J5IjpbMTc3NTI0MzA0Ml19
 -->
