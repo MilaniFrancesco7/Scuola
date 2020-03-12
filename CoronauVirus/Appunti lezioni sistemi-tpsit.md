@@ -136,7 +136,13 @@ Per cancellare tutti i docker in status di "Exit" utilizzare il seguente comando
 
 # ProxMox
 
-ProxMox è il "concorrente open-source" di VMWare, si utiliz
+ProxMox è il "concorrente open-source" di VMWare, si tratta di una distribuzione Linux basata su Debian con un kernel Ubuntu LTS modificato e consente l'implementazione e la gestione di macchine virtuali e container.
+
+## Container LXC
+LXC è un ambiente di virtualizzazione a container, che opera a livello del sistema operativo e permette di eseguire diversi ambienti Linux virtuali isolati tra loro su una singola macchina reale avente il kernel Linux.
+
+Appunti durante l'installazione:
+- Non serve essere tassativi con i numeri come con le macchine virtuali durante la creazione di R
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzk1NzI0XX0=
+eyJoaXN0b3J5IjpbMTYyOTE2NjIyN119
 -->
