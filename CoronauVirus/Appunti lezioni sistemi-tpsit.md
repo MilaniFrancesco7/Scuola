@@ -138,11 +138,18 @@ Per cancellare tutti i docker in status di "Exit" utilizzare il seguente comando
 
 ProxMox è il "concorrente open-source" di VMWare, si tratta di una distribuzione Linux basata su Debian con un kernel Ubuntu LTS modificato e consente l'implementazione e la gestione di macchine virtuali e container.
 
-## Container LXC
+# Container LXC
 LXC è un ambiente di virtualizzazione a container, che opera a livello del sistema operativo e permette di eseguire diversi ambienti Linux virtuali isolati tra loro su una singola macchina reale avente il kernel Linux.
 
 Appunti durante l'installazione:
-- Non serve essere tassativi con i numeri come con le macchine virtuali durante l'assegnazione di RAM, Disco e Core, in quanto non si ha la pesantezza di una macchina virtuale emulata completamente, quindi le risorse non saranno mai occupate totalmente, perchè lo scheduler penserà a controllare i processi in modo da non creare 
+- Non serve essere tassativi con i numeri come con le macchine virtuali durante l'assegnazione di RAM, Disco e Core, in quanto non si ha la pesantezza di una macchina virtuale emulata completamente, quindi le risorse non saranno mai occupate totalmente, perchè lo scheduler penserà a controllare i processi in modo da non creare rallentamenti.
+
+# Reverse proxy
+
+Un reverse proxy è un tipo di proxy che recupera i contenuti per conto di un client da uno o più server. Questi contenuti sono poi trasferiti al client come se provenissero dallo stesso proxy, che quindi appare al client come un server.
+
+Permete quindi di mascherare il fatto che si stia utilizzando un altro sito per accedere a determinate funzioni, ma mostrandolo sempre sotto lo stesso dominio.
+Un esempio può essere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTMxNzc1OF19
+eyJoaXN0b3J5IjpbMTMwNzI0MzAyN119
 -->
