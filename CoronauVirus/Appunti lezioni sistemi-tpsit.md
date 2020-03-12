@@ -162,7 +162,10 @@ Al momento dell'acquisto di due dischi, che possono costare all'incirca 100€ l
 Questo porta ad un incremento dell'affidabilità e delle prestazioni in lettura, ma non in scrittura.
 
 ## Raid 4
- Il raid 4 si basa sullo XOR, ovvero 0 0 -> 1, cioè metà del lavoro viene scritto su un
+ Il raid 4 si basa sullo XOR, ovvero 0 0 -> 1, cioè metà del lavoro viene scritto su un disco, metà sull'altro, e il lavoro completo viene salvato sul disco 3. In questo modo però l'usura del terzo disco sarà incrementata notevolmente rispetto agli altri due, dovuto alla massiccia quantità di lavoro da svolgere, in quanto la parità di disco viene eseguita solamente al suo interno.
+
+## Raid 5
+Per risolvere il problema dell'usura del terzo disco, è stato creato il Raid 5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzE1ODQ5MTVdfQ==
+eyJoaXN0b3J5IjpbMTQ1MTI4Njc1Ml19
 -->
