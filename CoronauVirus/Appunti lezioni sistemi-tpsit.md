@@ -154,7 +154,9 @@ Un esempio può essere il sito del registro scolastico.
 Il server dell'itis riceve le richieste e le inoltra ad altri server che si occupano dei servizi richiesti.
 
 # Raid
+In informatica il RAID, acronimo di Redundant Array of Independent Disks ovvero insieme ridondante di dischi indipendenti, è una tecnica di installazione raggruppata di diversi dischi rigidi in un computer (o collegati ad esso) che fa sì che gli stessi nel sistema appaiano e siano utilizzabili come se fossero un unico volume di memorizzazione.
 
+In pratica il raid si utilizza per dare una continuità di ser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MTk5OTgxXX0=
+eyJoaXN0b3J5IjpbLTc3NDgxMDg1MF19
 -->
