@@ -158,7 +158,11 @@ In informatica il RAID, acronimo di Redundant Array of Independent Disks ovvero 
 
 In pratica il raid si utilizza per dare una continuità di servizio all'utente. Si usa infatti per avere una copia completa dei file sempre attiva durante il funzionamento, che in caso di guasti non porterebbe alla perdita completa del lavoro.
 
-Al momento dell'acquisto di due dischi, che possono costare all'incirca 100€ l'uno, si può dire come si paghino 200€ per avere 100€ dio 
+Al momento dell'acquisto di due dischi, che possono costare all'incirca 100€ l'uno, si può dire come si paghino 200€ per avere 100€ di spazio, in quanto un disco sarà completamente copiato all'interno dell'altro e collaboreranno in maniera tale da non perdere i dati se uno dei due dovesse rompersi.
+Questo porta ad un incremento dell'affidabilità e delle prestazioni in lettura, ma non in scrittura.
+
+## Raid 4
+ Il raid 4 si basa sullo XOR, ovvero 0 0 -> 1, cioè metà del lavoro viene scritto su un
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk2MTI4MDRdfQ==
+eyJoaXN0b3J5IjpbLTE2NzE1ODQ5MTVdfQ==
 -->
