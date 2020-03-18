@@ -29,7 +29,18 @@ Selezionare -> sdb
 Partizionamento uguale al precedente
 
 Configurare il RAID software
+Scrivere i cambiamenti -> Si
+Creare un device multidisk (MD)
+Raid1
+device attivi -> 2
+device spare-> 0
+
+Seleziona -> sdb1,sdb2
+
+Creare un device
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjI1MTU2MF19
+eyJoaXN0b3J5IjpbLTE3NjE5MjY1MjRdfQ==
 -->
