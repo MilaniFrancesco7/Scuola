@@ -7,6 +7,8 @@ Tastiera: italiana
 
 Nome host: Debian
 Password: lasolita
+
+Metodo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4NDAxMTEwXX0=
+eyJoaXN0b3J5IjpbMTg5NDAwNDA4NF19
 -->
