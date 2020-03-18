@@ -34,13 +34,15 @@ Creare un device multidisk (MD)
 Raid1
 device attivi -> 2
 device spare-> 0
+Seleziona -> sda2,sdb2
 
-Seleziona -> sdb1,sdb2
-
-Creare un device
-
+Creare un device multidisk(MD)
+Raid1
+device attivi -> 2
+device spare -> 0
+seleziona -> sda1,sdb2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE5MjY1MjRdfQ==
+eyJoaXN0b3J5IjpbLTE0MjUxNDY1ODZdfQ==
 -->
