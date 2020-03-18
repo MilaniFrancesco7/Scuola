@@ -6,7 +6,7 @@ Paese: Italia
 Tastiera: italiana
 
 Nome host: Debian
-Passwo
+Password: lasolita
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc4Nzc3NTFdfQ==
+eyJoaXN0b3J5IjpbOTY4NDAxMTEwXX0=
 -->
