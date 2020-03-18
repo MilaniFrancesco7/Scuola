@@ -14,7 +14,9 @@ Selezionare -> sda
 Nuovo partizionamento -> si
 
 Seleziona -> Spazio libero
-
+Creare nuova partizione
+Dimensione -> 4.0 GB , Primaria, Inizio
+Usare come: ext4, /, discard/noatime, etichetta linuxboot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Njc0MDM1MF19
+eyJoaXN0b3J5IjpbMjA2NTI3Mjc0NV19
 -->
