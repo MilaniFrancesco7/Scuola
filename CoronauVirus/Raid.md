@@ -52,6 +52,7 @@ Raid dispositivo n2 -> usare come area di swap
 Terminare il partizionamento
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMjU0NDM5XX0=
+eyJoaXN0b3J5IjpbLTE5MDkwODU4NjcsMzgwMjU0NDM5XX0=
 -->
