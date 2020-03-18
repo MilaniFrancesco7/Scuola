@@ -47,7 +47,11 @@ Ricrearlo per avere md1(sda1,sdb1) - md2(sda2,sdb2)
 Termina
 
 Raid dispositivo n1 -> usare come ext4 con journaling
-Raid dispositivo n2 -> usare come area di 
+Raid dispositivo n2 -> usare come area di swap
+
+Terminare il partizionamento
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Nzg3MDg5MF19
+eyJoaXN0b3J5IjpbMzgwMjU0NDM5XX0=
 -->
