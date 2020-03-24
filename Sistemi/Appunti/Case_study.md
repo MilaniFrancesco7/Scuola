@@ -43,7 +43,7 @@ Infine come topologia logica viene scelto il tipo broadcast, in cui ogni nodo in
 #### Analisi degli apparati di rete
 
 Date le informazioni ricevute dall'azienda, si può procedere alla definizione degli apparati di rete necessari al funzionamento:
-- Per le 18 postazioni serviranno 18 PC con scheda di rete, divisi second
+- Per le 18 postazioni serviranno 18 PC con scheda di rete, ciascuna da 1 Gbit/s, che garantisce 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTQ5MjE2OSwyMDU0MzQ0NTg5XX0=
+eyJoaXN0b3J5IjpbNTcxNjc2MDg3LDIwNTQzNDQ1ODldfQ==
 -->
