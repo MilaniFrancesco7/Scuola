@@ -47,7 +47,8 @@ Date le informazioni ricevute dall'azienda, si può procedere alla definizione d
 - Per il server dedicato aziendale sarà quindi necessario 1 server con scheda di rete, anch'essa da 1 Gb/s;
 - Per l'ufficio amministrativo la stampante dovrà avere la scheda di rete sempre da 1 Gb/s;
 
-Le schede di rete scelte sono tutte di velocità uguale, in modo da standardizzare le trasmissioni dei da
+Si prosegue poi alla definizione degli apparati di rete che serviranno per la creazione della rete:
+- Per l'ufficio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTA2NDgzMywyMDU0MzQ0NTg5XX0=
+eyJoaXN0b3J5IjpbMTA1OTQ0OTcyNSwyMDU0MzQ0NTg5XX0=
 -->
