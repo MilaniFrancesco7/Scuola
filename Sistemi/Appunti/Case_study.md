@@ -57,7 +57,9 @@ Si prosegue poi alla definizione degli apparati di rete che serviranno per la cr
 #### Rappresentazione grafica della rete 
 
 Il numero degli switch e delle postazioni è stato definito seguendo i livelli gerarchici dell'azienda.
+
+<a href="https://ibb.co/GkZM4Qz"><img src="https://i.ibb.co/xGngtqx/case-study2.png" alt="case-study2" border="0"></a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzg2MzU3MSw5NzQyOTQ0ODIsMjA1ND
-M0NDU4OV19
+eyJoaXN0b3J5IjpbLTE4NzExOTg2NjMsOTc0Mjk0NDgyLDIwNT
+QzNDQ1ODldfQ==
 -->
