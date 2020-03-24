@@ -52,7 +52,7 @@ Si prosegue poi alla definizione degli apparati di rete che serviranno per la cr
 - Per l'ufficio amministrativo e per lo switch principale, 2 switch da 8 porte da 1 Gb/s;
 - Per l'ufficio programmatori e grafici, 2 switch da 16 porte da 1 Gb/s. 16 porte in quanto, data la potenziale crescita dell'azienda, si prevede un maggior numero di impiegati;
 - Per il controllo della rete 1 router con 2 porte, una di esse da 1 Gb/s per il collegamento alla LAN;
-- 27 cavi UTP di cate
+- 27 cavi UTP di categoria 6. Viene scelta questa categoria per garantire un futuro all'azienda in cui, data la miglioria della connessione dovuta all'avanzamento tecnologico, non sia necessario ri-cablare completamente tutti i pc.et veloci da 10 gigabit con larghezza di banda fino 250 MHz.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODU0OTgxOSwyMDU0MzQ0NTg5XX0=
+eyJoaXN0b3J5IjpbMTY2MDYwNjk2NCwyMDU0MzQ0NTg5XX0=
 -->
