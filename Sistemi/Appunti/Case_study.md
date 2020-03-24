@@ -32,6 +32,8 @@ In totale saranno quindi 18 postazioni + 1 stampante + 1 server.
 
 <a href="https://ibb.co/THwY9Cc"><img src="https://i.ibb.co/GVdnzh7/case-study.png" alt="case-study" border="0"></a>
 
+Il numero degli switch e dei pc è stato definito seguendo la
+
 ### Progettazione della rete
 
 In base alla classificazione delle reti, la tipologia consona alla Sabbioni Grafica S.r.l è la LAN, Local Area Network, con un'estensione ridotta fino a cento metri e confinata in un edificio.
@@ -52,7 +54,11 @@ Si prosegue poi alla definizione degli apparati di rete che serviranno per la cr
 - Per l'ufficio amministrativo e per lo switch principale, 2 switch da 8 porte da 1 Gb/s;
 - Per l'ufficio programmatori e grafici, 2 switch da 16 porte da 1 Gb/s. 16 porte in quanto, data la potenziale crescita dell'azienda, si prevede un maggior numero di impiegati;
 - Per il controllo della rete 1 router con 2 porte, una di esse da 1 Gb/s per il collegamento alla LAN;
-- 27 cavi UTP di categoria 6. Viene scelta questa categoria per garantire un futuro all'azienda in cui, data la miglioria della connessione dovuta all'avanzamento tecnologico, non sia necessario ri-cablare completamente tutta la rete. I cavi verranno usati specificatamente: 20 per collegamenti switch-PC, switch-stampante, switch-server, 6 per collegamenti switch-switch principale, 
+- 27 cavi UTP di categoria 6. Viene scelta questa categoria per garantire un futuro all'azienda in cui, data la miglioria della connessione dovuta all'avanzamento tecnologico, non sia necessario ri-cablare completamente tutta la rete. I cavi verranno usati specificatamente: 20 per collegamenti switch-PC, switch-stampante, switch-server, 6 per collegamenti switch-switch principale, 1 per collegamento switch-router.
+
+#### Rappresentazione grafica della rete 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzMyNjAxNiwyMDU0MzQ0NTg5XX0=
+eyJoaXN0b3J5IjpbLTYxMzYyNzUwOSwyMDU0MzQ0NTg5XX0=
 -->
