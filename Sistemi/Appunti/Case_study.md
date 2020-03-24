@@ -48,7 +48,8 @@ Date le informazioni ricevute dall'azienda, si può procedere alla definizione d
 - Per l'ufficio amministrativo la stampante dovrà avere la scheda di rete sempre da 1 Gb/s;
 
 Si prosegue poi alla definizione degli apparati di rete che serviranno per la creazione della rete:
-- Per l'ufficio direttore, redattori e per la stanza server occorrono 3 swit
+- Per l'ufficio direttore, redattori e per la stanza server occorrono 3 switch da 4 porte da 1 Gb/s;
+- Per l'ufficio amministrativo 1 switch da 8 porte da 1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTczMjUwMCwyMDU0MzQ0NTg5XX0=
+eyJoaXN0b3J5IjpbLTkwNDYwNjEyNywyMDU0MzQ0NTg5XX0=
 -->
