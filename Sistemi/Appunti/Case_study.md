@@ -43,8 +43,11 @@ Infine come topologia logica viene scelto il tipo broadcast, in cui ogni nodo in
 #### Analisi degli apparati di rete
 
 Date le informazioni ricevute dall'azienda, si può procedere alla definizione degli apparati di rete necessari al funzionamento:
-- Per le 18 postazioni serviranno 18 PC con scheda di rete, ciascuna da 1 Gbit/s, che garantisce prestazioni ottime.
-- Per il server dedicato aziendale sarà quindi necessario 1 server con sc
+- Per le 18 postazioni serviranno 18 PC con scheda di rete, ciascuna da 1 Gb/s, che garantisce prestazioni ottime;
+- Per il server dedicato aziendale sarà quindi necessario 1 server con scheda di rete, anch'essa da 1 Gb/s;
+- Per l'ufficio amministrativo la stampante dovrà avere la scheda di rete sempre da 1 Gb/s;
+
+Le schede di rete scelte sono tutte di velocità uguale, in modo da standardizzare le trasmissioni dei da
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjYyNzQ2OSwyMDU0MzQ0NTg5XX0=
+eyJoaXN0b3J5IjpbMTE5OTA2NDgzMywyMDU0MzQ0NTg5XX0=
 -->
