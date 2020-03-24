@@ -32,8 +32,6 @@ In totale saranno quindi 18 postazioni + 1 stampante + 1 server.
 
 <a href="https://ibb.co/THwY9Cc"><img src="https://i.ibb.co/GVdnzh7/case-study.png" alt="case-study" border="0"></a>
 
-Il numero degli switch e dei pc è stato definito seguendo la
-
 ### Progettazione della rete
 
 In base alla classificazione delle reti, la tipologia consona alla Sabbioni Grafica S.r.l è la LAN, Local Area Network, con un'estensione ridotta fino a cento metri e confinata in un edificio.
@@ -58,7 +56,7 @@ Si prosegue poi alla definizione degli apparati di rete che serviranno per la cr
 
 #### Rappresentazione grafica della rete 
 
-
+Il numero degli switch e delle postazioni è stato definito seguendo i livelli gerarchici dell'azienda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzYyNzUwOSwyMDU0MzQ0NTg5XX0=
+eyJoaXN0b3J5IjpbOTc0Mjk0NDgyLDIwNTQzNDQ1ODldfQ==
 -->
