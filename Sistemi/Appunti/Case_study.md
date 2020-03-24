@@ -16,10 +16,16 @@ Per la progettazione della rete aziendale, la Sabbioni Grafica S.r.l. si è rivo
 #### Operazione preliminare: richiesta di maggiori informazioni
 
 > Abbiamo chiesto informazioni sulla struttura e sull’estensione dell’azienda Sabbioni Grafici S.r.l. , sul numero di postazioni presenti, su quelle da creare, sulla loro dislocazione, e sulle ulteriori esigenze.
-Siamo dunque partiti documentandoci sulla classificazione delle reti in modo da capire in quale tipologia rientra la rete che dobbiamo progettare. 
-Abbiamo proseguito con un’analisi delle varie topologie di rete fisiche e logiche e con un’analisi degli apparati per l’interconnessione di rete, per valutare quali dobbiamo impiegare.
-Infine, siamo approdati alla progettazione di una rete LAN con una trasmissione di tipo broadcast e con una topologia a stella estesa.
+
+Secondo le informazioni che ci ha comunicato la Sabbioni Grafica S.r.l., l’azienda è costituita da 5 uffici: 
+- l’ufficio del direttore, con 2 postazioni; 
+- l’ufficio dei redattori, con 2 postazioni; 
+- l’ufficio amministrativo, con 2 postazioni e 1 stampante; 
+-  l’ufficio dei programmatori, con 5 postazioni più 2 libere; 
+-  l’ufficio dei grafici, con 5 postazioni.
+
+La Sabbioni Grafica S.r.l. ha anche l’esigenza di avere un collegamento a Internet per fruire dei servizi Web e di salvare i propri dati informatici in un server dedicato. Quindi occorre una stanza nuova, in cui collocare il server.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTg4NjYyOF19
+eyJoaXN0b3J5IjpbNDY5NzkxMzk5XX0=
 -->
