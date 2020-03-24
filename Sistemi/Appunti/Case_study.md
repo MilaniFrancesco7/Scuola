@@ -35,7 +35,7 @@ In totale saranno quindi 18 postazioni + 1 stampante + 1 server.
 ### Progettazione della rete
 
 In base alla classificazione delle reti, la tipologia consona alla Sabbioni Grafica S.r.l è la LAN, Local Area Network, con un'estensione ridotta fino a cento metri e confinata in un edificio.
-Per quanto riguarda la topologia fisica, viene scelta la topologia a stella, che p
+Per quanto riguarda la topologia fisica, viene scelta la topologia a stella, che prevede che ciascuno dei nodi sia collegato ad un dispositivo centrale, uno switch, che mette quindi i vari nodi in comunicazione tra loro. Questa topologia garantisce la tolleranza ai guasti, semplicità di gestione e soprattutto flessibilitò ed espandibilità, ovvero le caratteristiche che sono state richieste dall'azienda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY4MzExMDAsMjA1NDM0NDU4OV19
+eyJoaXN0b3J5IjpbNzk5NDQ1NzIxLDIwNTQzNDQ1ODldfQ==
 -->
