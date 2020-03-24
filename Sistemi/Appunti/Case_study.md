@@ -30,7 +30,7 @@ In totale saranno quindi 18 postazioni + 1 stampante + 1 server.
 
 #### Rappresentazione grafica dell'azienda
 
-<a href="https://ibb.co/THwY9Cc"><img src="https://i.ibb.co/GVdnzh7/case-study.png" alt="case-study" border="0"></a>
+<a href="https://ibb.co/QFc31GB"><img src="https://i.ibb.co/0jXRd3N/case-study-1.png" alt="case-study-1" border="0"></a>
 
 ### Progettazione della rete
 
@@ -58,5 +58,6 @@ Si prosegue poi alla definizione degli apparati di rete che serviranno per la cr
 
 Il numero degli switch e delle postazioni è stato definito seguendo i livelli gerarchici dell'azienda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0Mjk0NDgyLDIwNTQzNDQ1ODldfQ==
+eyJoaXN0b3J5IjpbMTUyNzg2MzU3MSw5NzQyOTQ0ODIsMjA1ND
+M0NDU4OV19
 -->
