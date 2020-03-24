@@ -26,6 +26,11 @@ Secondo le informazioni che ci ha comunicato la Sabbioni Grafica S.r.l., l’azi
 
 La Sabbioni Grafica S.r.l. ha anche l’esigenza di avere un collegamento a Internet per fruire dei servizi Web e di salvare i propri dati informatici in un server dedicato. Quindi occorre una stanza nuova, in cui collocare il server.
 
+In totale saranno quindi 18 postazioni + 1 stampante + 1 server.
+
+#### Rappresentazione grafica dell'azienda
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NzkxMzk5XX0=
+eyJoaXN0b3J5IjpbMjA1NDM0NDU4OV19
 -->
