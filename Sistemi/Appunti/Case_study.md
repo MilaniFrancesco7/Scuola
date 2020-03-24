@@ -30,7 +30,7 @@ In totale saranno quindi 18 postazioni + 1 stampante + 1 server.
 
 #### Rappresentazione grafica dell'azienda
 
-
+<a href="https://ibb.co/THwY9Cc"><img src="https://i.ibb.co/GVdnzh7/case-study.png" alt="case-study" border="0"></a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDM0NDU4OV19
+eyJoaXN0b3J5IjpbMTk2MTY5NjM0MywyMDU0MzQ0NTg5XX0=
 -->
