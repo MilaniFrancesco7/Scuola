@@ -49,7 +49,8 @@ Date le informazioni ricevute dall'azienda, si può procedere alla definizione d
 
 Si prosegue poi alla definizione degli apparati di rete che serviranno per la creazione della rete:
 - Per l'ufficio direttore, redattori e per la stanza server occorrono 3 switch da 4 porte da 1 Gb/s;
-- Per l'ufficio amministrativo 1 switch da 8 porte da 1
+- Per l'ufficio amministrativo e per lo switch princi 1 switch da 8 porte da 1 Gb/s;
+- Per l'ufficio programmatori e grafici 2 switch da 16 porte da 1 Gb/s. 16 porte in quanto, data la potenziale crescita dell'azienda, si prevede un maggior numero di impiegati.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDYwNjEyNywyMDU0MzQ0NTg5XX0=
+eyJoaXN0b3J5IjpbLTEzNDc0ODg0NDgsMjA1NDM0NDU4OV19
 -->
