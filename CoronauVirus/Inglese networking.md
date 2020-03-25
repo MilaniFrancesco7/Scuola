@@ -11,10 +11,12 @@ NIC - HUB - ROUTER - SWITCH - BRIDGE - REPEATER - GATEWAY
 7. To provide the connection between the computer and the network cables. -> NIC
 
 PROS OF NETWORKS
-- Printe
+- Printers and Scanners can be shared among different computers
+- Hardware 
+
 
 
 CONS OF NETWORKS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2NzczMTEzXX0=
+eyJoaXN0b3J5IjpbMTIxNTA4MDU2MF19
 -->
