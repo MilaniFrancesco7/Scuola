@@ -47,10 +47,13 @@ the network. **FULLY CONNECTED**
 7. A hybrid type in which groups of star networks are
 connected to a linear backbone, like in a a family tree. **TREE** 
 
-## Read the
+## Read the texts pp. 104-105 and fill in the table below.
 
+### TOPOLOGY
+### ADVANTAGES
+### DISADVANTAGES
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODI1MTc3NSw2MzU4OTMyMjcsMTIxNT
+eyJoaXN0b3J5IjpbMTYwMTkyNjQwNCw2MzU4OTMyMjcsMTIxNT
 A4MDU2MF19
 -->
