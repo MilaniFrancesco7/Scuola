@@ -89,10 +89,16 @@ Ethernet is not a single proguct, but rather a technical standard developed for 
 Switches and routers use the information which is included in the message to determine where to forward the packet. In a network joined by hubs, the hubs themselves check the address to determine which packets to pay attention to and which to ignore. 
  6.   **How does a node with a message gain access to the network?**
  The network interface card listens to be sure that no other signals are being transmitted along the network. It then sends its message to another node through the network card's transceiver. Each node's network connection has its own transceiver.
- 8. When two nodes send messages simultaneously, the collision of the two messages creates a recognizable electrical interference pattern that travels along the bus. The request results in a "busy line" signal, which is detected by the senders.
- 9. The firs sender to detect a collision sends a special signal that jams the network so that all nodes will know that the network is blocked.
- 10. Transmission from all nodes is halted, and each node waits a random length of time before trying to resend its message. The process repeats itself until one of the nodes sends its message without encountering another node message.
+ 7. **What happens if two computers start transmitting messages simultaneously?**
+When two nodes send messages simultaneously, the collision of the two messages creates a recognizable electrical interference pattern that travels along the bus. The request results in a "busy line" signal, which is detected by the senders.
+ 9. **How will all the other nodes know that the network is blocked?**
+ The first sender to detect a collision sends a special signal that jams the network so that all nodes will know that the network is blocked.
+ 10. **What will these nodes do then?**
+Transmission from all nodes is halted, and each node waits a random length of time before trying to resend its message. The process repeats itself until one of the nodes sends its message without encountering another node message.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3MjAzNTU1LC0yMDk3NzI5NDc1LDYzNT
+eyJoaXN0b3J5IjpbNzM4NzE4MDYzLC0yMDk3NzI5NDc1LDYzNT
 g5MzIyNywxMjE1MDgwNTYwXX0=
 -->
