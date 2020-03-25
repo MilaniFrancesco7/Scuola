@@ -86,8 +86,9 @@ Ethernet is not a single proguct, but rather a technical standard developed for 
  3. When a node needs to send data to another node, it sends the data, or message, through the network interface card (NIC) installed in an expansion slot.
  4. The card listens to be sure that no other signals are being transmitted along the network. It then sends its message to another node through the network card's transceiver. Each node's network connection has its own transceiver.
  5.  
- 6. When two nodes send messages simultaneously, the collision of the two messages creates a recognizable electrical interference pattern that trave
+ 6. When two nodes send messages simultaneously, the collision of the two messages creates a recognizable electrical interference pattern that travels along the bus. The request results in a "busy line" signal, which is detected by the senders.
+ 7. The firs sender to detect a collis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgzNDQ3MzQsLTIwOTc3Mjk0NzUsNj
-M1ODkzMjI3LDEyMTUwODA1NjBdfQ==
+eyJoaXN0b3J5IjpbMTMzNjA3MDcyOSwtMjA5NzcyOTQ3NSw2Mz
+U4OTMyMjcsMTIxNTA4MDU2MF19
 -->
