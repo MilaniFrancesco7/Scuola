@@ -85,8 +85,9 @@ Ethernet is not a single proguct, but rather a technical standard developed for 
  All nodes, clients and servers on an Ethernet network are attached to the LAN which branches off a common line as in a bus configuration.
  3. When a node needs to send data to another node, it sends the data, or message, through the network interface card (NIC) installed in an expansion slot.
  4. The card listens to be sure that no other signals are being transmitted along the network. It then sends its message to another node through the network card's transceiver. Each node's network connection has its own transceiver.
-5. 
+ 5.  
+ 6. When two nodes send messages simultaneously, the collision of the two messages creates a recognizable electrical interference pattern that trave
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDkwMzkwMiwtMjA5NzcyOTQ3NSw2Mz
-U4OTMyMjcsMTIxNTA4MDU2MF19
+eyJoaXN0b3J5IjpbLTEyMDgzNDQ3MzQsLTIwOTc3Mjk0NzUsNj
+M1ODkzMjI3LDEyMTUwODA1NjBdfQ==
 -->
