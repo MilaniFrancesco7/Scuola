@@ -79,9 +79,10 @@ connected to a linear backbone, like in a a family tree. **TREE**
 
 ## Exercise 6-7 p 107
 
-a. What is an Ethernet?
-Ethernet is not a single proguct, but rather a technical standard developed for network communications by  
+1. What is an Ethernet?
+Ethernet is not a single proguct, but rather a technical standard developed for network communications by Xerox, DEC and Intel, which the rest of the computer community have adopted.
+ 2. Which network architecture will be found in an Ethernet?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTE5NjE2NjMsLTIwOTc3Mjk0NzUsNj
-M1ODkzMjI3LDEyMTUwODA1NjBdfQ==
+eyJoaXN0b3J5IjpbMTc2OTE0MTU0NCwtMjA5NzcyOTQ3NSw2Mz
+U4OTMyMjcsMTIxNTA4MDU2MF19
 -->
