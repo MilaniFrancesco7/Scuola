@@ -55,8 +55,8 @@ connected to a linear backbone, like in a a family tree. **TREE**
 
 | TOPOLOGY | ADVANTAGES | DISADVANTAGES |
 | ----------------- | -------- | -------------- | ---------------- |
-| Pia| Studio di fattibilità    |  Requisiti funzionali            |
+| Bus | Inexpensive and easy to set up, it doesn't require much cable    | A damage or failure in the main cable will cause the whole network to fail or unusable. <br> If more tha|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjcyMDYzODUsNjM1ODkzMjI3LDEyMT
-UwODA1NjBdfQ==
+eyJoaXN0b3J5IjpbMTY0ODcxNzAwNSw2MzU4OTMyMjcsMTIxNT
+A4MDU2MF19
 -->
