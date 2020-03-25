@@ -86,6 +86,8 @@ connected to a linear backbone, like in a a family tree. **TREE**
 
 ## Exercise 6-7 p 107
 
+Sequenza testo: D-E-C-G-H-F-A-I
+
 1. **What is an Ethernet?**
 Ethernet is not a single proguct, but rather a technical standard developed for network communications by Xerox, DEC and Intel, which the rest of the computer community have adopted.
  2. **Which network architecture will be found in an Ethernet?**
@@ -112,6 +114,7 @@ If this happens, we say that a **collision** occurs. All the transmitting comput
 If a network is **heavily** loaded, there will be many collisions.
 As a consequence, the network **performance** will deteriorate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTQ3Mzc1LDczODcxODA2MywtMjA5Nz
-cyOTQ3NSw2MzU4OTMyMjcsMTIxNTA4MDU2MF19
+eyJoaXN0b3J5IjpbLTE3ODcwMzg2MTIsMTE5NTQ3Mzc1LDczOD
+cxODA2MywtMjA5NzcyOTQ3NSw2MzU4OTMyMjcsMTIxNTA4MDU2
+MF19
 -->
