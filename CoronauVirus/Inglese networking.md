@@ -13,11 +13,13 @@ NIC - HUB - ROUTER - SWITCH - BRIDGE - REPEATER - GATEWAY
 PROS OF NETWORKS
 - Printers and Scanners can be shared among different computers
 - Hardware can be shared among different users, it is faster to install and easier to mantain and upgrade
-
+- users have access to a central store of data
 
 
 CONS OF NETWORKS
-- cable
+- cables and servers can be expensives to install and replace
+- 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjYwODIzMSwxMjE1MDgwNTYwXX0=
+eyJoaXN0b3J5IjpbLTE2ODk5MTI5NjEsMTIxNTA4MDU2MF19
 -->
