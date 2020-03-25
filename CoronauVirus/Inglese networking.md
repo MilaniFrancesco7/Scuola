@@ -83,8 +83,10 @@ connected to a linear backbone, like in a a family tree. **TREE**
 Ethernet is not a single proguct, but rather a technical standard developed for network communications by Xerox, DEC and Intel, which the rest of the computer community have adopted.
  2. Which network architecture will be found in an Ethernet?
  All nodes, clients and servers on an Ethernet network are attached to the LAN which branches off a common line as in a bus configuration.
- 3. When a node needs to send data to another node, it sends the data, or message, through the network interface card (NIC) installed in an expansion slot. The card listens to be sure that no other signals are being transmitted along the network. It then sends its message
+ 3. When a node needs to send data to another node, it sends the data, or message, through the network interface card (NIC) installed in an expansion slot.
+ 4. The card listens to be sure that no other signals are being transmitted along the network. It then sends its message to another node through the network card's transceiver. Each node's network connection has its own transceiver.
+Each node along the bus networ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTIzODUwMCwtMjA5NzcyOTQ3NSw2Mz
-U4OTMyMjcsMTIxNTA4MDU2MF19
+eyJoaXN0b3J5IjpbNjE3MzcwODksLTIwOTc3Mjk0NzUsNjM1OD
+kzMjI3LDEyMTUwODA1NjBdfQ==
 -->
