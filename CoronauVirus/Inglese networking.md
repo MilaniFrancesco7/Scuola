@@ -10,7 +10,11 @@ NIC - HUB - ROUTER - SWITCH - BRIDGE - REPEATER - GATEWAY
 6. To inspect incoming traffic. -> GATEWAY
 7. To provide the connection between the computer and the network cables. -> NIC
 
+PROS OF NETWORKS
+- Printe
 
+
+CONS OF NETWORKS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDAyOTM3N119
+eyJoaXN0b3J5IjpbOTI2NzczMTEzXX0=
 -->
