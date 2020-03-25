@@ -83,13 +83,13 @@ connected to a linear backbone, like in a a family tree. **TREE**
 Ethernet is not a single proguct, but rather a technical standard developed for network communications by Xerox, DEC and Intel, which the rest of the computer community have adopted.
  2. Which network architecture will be found in an Ethernet?
  All nodes, clients and servers on an Ethernet network are attached to the LAN which branches off a common line as in a bus configuration.
- 3. 
- 4. The network interface card listens to be sure that no other signals are being transmitted along the network. It then sends its message to another node through the network card's transceiver. Each node's network connection has its own transceiver. The transceiver broadcasts the message in both directions so that it reaches all other nodes on the network. The message includes the addresses of the message destination and source, packets of data to be used for error checking, and the data itself. If a node detects its own address in a message, instead, it reads the data, checks for errors, and sends an acknowledgement to the sender, using sender's address, which was included as part of the incoming message.
- 5.  When a node needs to send data to another node, it sends the data, or message, through the network interface card (NIC) installed in an expansion slot. 
+ 3. When a node needs to send data to another node, it sends the data, or message, through the network interface card (NIC) installed in an expansion slot.
+ 4.  
+ 5.   The network interface card listens to be sure that no other signals are being transmitted along the network. It then sends its message to another node through the network card's transceiver. Each node's network connection has its own transceiver.
  6. When two nodes send messages simultaneously, the collision of the two messages creates a recognizable electrical interference pattern that travels along the bus. The request results in a "busy line" signal, which is detected by the senders.
  7. The firs sender to detect a collision sends a special signal that jams the network so that all nodes will know that the network is blocked.
  8. Transmission from all nodes is halted, and each node waits a random length of time before trying to resend its message. The process repeats itself until one of the nodes sends its message without encountering another node message.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4OTgxNzEyLC0yMDk3NzI5NDc1LDYzNT
+eyJoaXN0b3J5IjpbMzQwNzY5ODE2LC0yMDk3NzI5NDc1LDYzNT
 g5MzIyNywxMjE1MDgwNTYwXX0=
 -->
