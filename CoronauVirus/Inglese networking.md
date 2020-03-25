@@ -79,17 +79,17 @@ connected to a linear backbone, like in a a family tree. **TREE**
 
 ## Exercise 6-7 p 107
 
-1. What is an Ethernet?
+1. **What is an Ethernet?**
 Ethernet is not a single proguct, but rather a technical standard developed for network communications by Xerox, DEC and Intel, which the rest of the computer community have adopted.
- 2. Which network architecture will be found in an Ethernet?
+ 2. **Which network architecture will be found in an Ethernet?**
  All nodes, clients and servers on an Ethernet network are attached to the LAN which branches off a common line as in a bus configuration.
  3. When a node needs to send data to another node, it sends the data, or message, through the network interface card (NIC) installed in an expansion slot.
- 4.  
+ 4. Switches and routers use the information which is included in the message to determine where to forward the packet. In a network joined by hubs, the hubs themselves check the address to determine which packets to pay attention to and which to ignore. 
  5.   The network interface card listens to be sure that no other signals are being transmitted along the network. It then sends its message to another node through the network card's transceiver. Each node's network connection has its own transceiver.
  6. When two nodes send messages simultaneously, the collision of the two messages creates a recognizable electrical interference pattern that travels along the bus. The request results in a "busy line" signal, which is detected by the senders.
  7. The firs sender to detect a collision sends a special signal that jams the network so that all nodes will know that the network is blocked.
  8. Transmission from all nodes is halted, and each node waits a random length of time before trying to resend its message. The process repeats itself until one of the nodes sends its message without encountering another node message.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwNzY5ODE2LC0yMDk3NzI5NDc1LDYzNT
-g5MzIyNywxMjE1MDgwNTYwXX0=
+eyJoaXN0b3J5IjpbLTY1NTU2MDEzNiwtMjA5NzcyOTQ3NSw2Mz
+U4OTMyMjcsMTIxNTA4MDU2MF19
 -->
