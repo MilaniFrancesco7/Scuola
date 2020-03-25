@@ -25,7 +25,7 @@ CONS OF NETWORKS
 - networks are vulnerable to viruses and hackers
 
 ## Match each description with the appropriate network topology
-1. all devices are connected to a main central node or server. the other nodes are connected to it and to each other through a switch or a hub. ****
+1. All devices are connected to a main central node or server. the other nodes are connected to it and to each other through a switch or a hub. **STAR**
 2. All devices are connected to a central cable, called the
 bus or back bone. There are more than two endpoints which
 are created by adding branches to the main section. If data
@@ -37,21 +37,20 @@ using a control signal called token.  **RING**
 4. All the nodes of the network are connected to a common
 transmission mediums with exactly two endpoints. The data
 transmitted is received simultaneously by all the nodes in
-the network.
+the network. **LINE**
 5. There is a direct link between all pairs of nodes. There
 are multiple paths for data provided by a large number of
-redundant links between nodes. **MESHéé
+redundant links between nodes. **MESH**
 6. There are redundant interconnections between network
 nodes. Every node has a connection to any other node in
-the network. **Fully connected**
+the network. **FULLY CONNECTED**
 7. A hybrid type in which groups of star networks are
-connected to a linear backbone, like in a afmily tree.
+connected to a linear backbone, like in a a family tree. **TREE** 
 
-
-
+## Read the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTY4NzI3MSw2MzU4OTMyMjcsMTIxNT
+eyJoaXN0b3J5IjpbMTk5ODI1MTc3NSw2MzU4OTMyMjcsMTIxNT
 A4MDU2MF19
 -->
