@@ -15,6 +15,7 @@ PROS OF NETWORKS
 - Hardware can be shared among different users, it is faster to install and easier to mantain and upgrade
 - users have access to a central store of data
 - communication and transport of files across the network is very quick
+- secure is improved with the use of passwords, and the works is backed up
 
 
 CONS OF NETWORKS
@@ -22,5 +23,6 @@ CONS OF NETWORKS
 - a fault with the server will prevent the  whole network from working
 - a network manager is needed and can be expansive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1ODkzMjI3LDEyMTUwODA1NjBdfQ==
+eyJoaXN0b3J5IjpbMTgwMzE0Nzk3MSw2MzU4OTMyMjcsMTIxNT
+A4MDU2MF19
 -->
