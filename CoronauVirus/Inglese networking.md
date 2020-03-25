@@ -75,7 +75,13 @@ connected to a linear backbone, like in a a family tree. **TREE**
 | Ring | Transmission is fast and there is no risk of data collision | If the main cable fails or any device is faulty the whole network will fail.|
 | Star | If one cable or device fails then all the others will continue to work | Cable and device are expensive to install because this type of network uses the most cable. <br>If also new hubs, switches or routers are required this will lead to extra cost. |
 | Tree (Star bus) | It supports future expandibility of the network much better than a bus or star topology.<br>It is fault tolerant and easy to troubleshoot. |The installation of new hardware and additional cable makes it very expensive.|
+
+
+## Exercise 6-7 p 107
+
+a. What is an Ethernet?
+Ethernet is not a single proguct, but rather a technical standard developed for network communications by  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc3Mjk0NzUsNjM1ODkzMjI3LDEyMT
-UwODA1NjBdfQ==
+eyJoaXN0b3J5IjpbLTEwMTE5NjE2NjMsLTIwOTc3Mjk0NzUsNj
+M1ODkzMjI3LDEyMTUwODA1NjBdfQ==
 -->
