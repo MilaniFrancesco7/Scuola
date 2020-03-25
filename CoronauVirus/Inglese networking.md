@@ -24,6 +24,14 @@ CONS OF NETWORKS
 - a network manager is needed and can be expansive
 - networks are vulnerable to viruses and hackers
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Match each description with the appropriate network topology
 1. All devices are connected to a main central node or server. the other nodes are connected to it and to each other through a switch or a hub. **STAR**
 2. All devices are connected to a central cable, called the
@@ -49,6 +57,16 @@ connected to a linear backbone, like in a a family tree. **TREE**
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Read the texts pp. 104-105 and fill in the table below.
 | TOPOLOGY | ADVANTAGES | DISADVANTAGES |
@@ -58,6 +76,6 @@ connected to a linear backbone, like in a a family tree. **TREE**
 | Star | If one cable or device fails then all the others will continue to work | Cable and device are expensive to install because this type of network uses the most cable. <br>If also new hubs, switches or routers are required this will lead to extra cost. |
 | Tree (Star bus) | It supports future expandibility of the network much better than a bus or star topology.<br>It is fault tolerant and easy to troubleshoot. |The installation of new hardware and additional cable makes it very expensive.|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzA5MDA4Nyw2MzU4OTMyMjcsMTIxNT
-A4MDU2MF19
+eyJoaXN0b3J5IjpbLTIwOTc3Mjk0NzUsNjM1ODkzMjI3LDEyMT
+UwODA1NjBdfQ==
 -->
