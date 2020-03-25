@@ -57,8 +57,9 @@ connected to a linear backbone, like in a a family tree. **TREE**
 | ----------------- | -------- | -------------- |
 | Bus | Inexpensive and easy to set up, it doesn't require much cable    | A damage or failure in the main cable will cause the whole network to fail or unusable. <br> If more than a few dozen computers are added to a bus network, the network will become slower because of possible collisions. <br> Every workstation on the network sees all of the data which is passing through the network|
 | Ring | Transmission is fast and there is no risk of data collision | If the main cable fails or any device is faulty the whole network will fail.|
-| Star | If one cable or device fails then all the others will continue to work | Cable and device are expensive to install because this type of network uses the most cable. <br>If also new hubs, switches or routers are required this will lead to extra cost. | 
+| Star | If one cable or device fails then all the others will continue to work | Cable and device are expensive to install because this type of network uses the most cable. <br>If also new hubs, switches or routers are required this will lead to extra cost. |
+| Tree (Star bus) | It supports future expandibility of the network much better than a bus or star topology.<br>It is fault tolerant and easy to troubleshoot. |The installation of new hardware and additional cable makes it very expensive.|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjQ2MDkwNyw2MzU4OTMyMjcsMTIxNT
-A4MDU2MF19
+eyJoaXN0b3J5IjpbLTEyMDA4OTkyNTcsNjM1ODkzMjI3LDEyMT
+UwODA1NjBdfQ==
 -->
