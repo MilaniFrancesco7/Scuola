@@ -14,6 +14,7 @@ PROS OF NETWORKS
 - Printers and Scanners can be shared among different computers
 - Hardware can be shared among different users, it is faster to install and easier to mantain and upgrade
 - users have access to a central store of data
+- communication and transport of files across the network is very quick
 
 
 CONS OF NETWORKS
@@ -21,5 +22,5 @@ CONS OF NETWORKS
 - 
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk5MTI5NjEsMTIxNTA4MDU2MF19
+eyJoaXN0b3J5IjpbNTI5MzIxMjAxLDEyMTUwODA1NjBdfQ==
 -->
