@@ -97,8 +97,9 @@ When two nodes send messages simultaneously, the collision of the two messages c
 Transmission from all nodes is halted, and each node waits a random length of time before trying to resend its message. The process repeats itself until one of the nodes sends its message without encountering another node message.
 
 
-In the Ethernet access method, all nodes on network operate like a conversation between **polite** people. When people meet and begin talking at the same time, one must wait until the other has finished. This happens very **quickly** as Ethernet LANs transmit **statements** at 2GB per second. The protocol **informs** that all computers must sense the bus at all times. When a computer wants to send data or a message, it can do it **immediately** only if cannot **detect any data on the bus
+In the Ethernet access method, all nodes on network operate like a conversation between **polite** people. When people meet and begin talking at the same time, one must wait until the other has finished. This happens very **quickly** as Ethernet LANs transmit **statements** at 2GB per second. The protocol **informs** that all computers must sense the bus at all times. When a computer wants to send data or a message, it can do it **immediately** only if cannot **detect** any data on the bus. If there are other data being transmitted, then the node has to try later. Sometimes two or more computers start transmitting **simultaneously**.
+If this happens, we say that a **collision** occurs. All the transmitting computers will receive a "busy line" signal and will hate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzkzODk4NCw3Mzg3MTgwNjMsLTIwOT
+eyJoaXN0b3J5IjpbMTM1NzQ5Mjc3OSw3Mzg3MTgwNjMsLTIwOT
 c3Mjk0NzUsNjM1ODkzMjI3LDEyMTUwODA1NjBdfQ==
 -->
