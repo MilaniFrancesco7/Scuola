@@ -56,8 +56,9 @@ connected to a linear backbone, like in a a family tree. **TREE**
 | TOPOLOGY | ADVANTAGES | DISADVANTAGES |
 | ----------------- | -------- | -------------- |
 | Bus | Inexpensive and easy to set up, it doesn't require much cable    | A damage or failure in the main cable will cause the whole network to fail or unusable. <br> If more than a few dozen computers are added to a bus network, the network will become slower because of possible collisions. <br> Every workstation on the network sees all of the data which is passing through the network|
-| Ring |s | s|
+| Ring | Transmission is fast and there is no risk of data collision | If the main cable fails or any device is faulty the whole network will fail.|
+| Star | If one cable or device fails  | |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODU5NzU4OCw2MzU4OTMyMjcsMTIxNT
-A4MDU2MF19
+eyJoaXN0b3J5IjpbLTIxMDg2MzM2MjMsNjM1ODkzMjI3LDEyMT
+UwODA1NjBdfQ==
 -->
