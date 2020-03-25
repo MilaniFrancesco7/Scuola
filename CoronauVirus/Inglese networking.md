@@ -97,8 +97,8 @@ When two nodes send messages simultaneously, the collision of the two messages c
 Transmission from all nodes is halted, and each node waits a random length of time before trying to resend its message. The process repeats itself until one of the nodes sends its message without encountering another node message.
 
 
-
+In the Ethernet access method, all nodes on network operate like a conversation between **polite** people. When people meet and begin talking at the same time, one must wait until the other has finished. This happens very **quickly**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NzE4MDYzLC0yMDk3NzI5NDc1LDYzNT
-g5MzIyNywxMjE1MDgwNTYwXX0=
+eyJoaXN0b3J5IjpbMTE4ODQwMzc3Miw3Mzg3MTgwNjMsLTIwOT
+c3Mjk0NzUsNjM1ODkzMjI3LDEyMTUwODA1NjBdfQ==
 -->
