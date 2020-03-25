@@ -40,10 +40,10 @@ transmitted is received simultaneously by all the nodes in
 the network.
 5. There is a direct link between all pairs of nodes. There
 are multiple paths for data provided by a large number of
-redundant links between nodes. 
+redundant links between nodes. **MESHéé
 6. There are redundant interconnections between network
 nodes. Every node has a connection to any other node in
-the network.
+the network. **Fully connected**
 7. A hybrid type in which groups of star networks are
 connected to a linear backbone, like in a afmily tree.
 
@@ -52,6 +52,6 @@ connected to a linear backbone, like in a afmily tree.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMzE4NDg5LDYzNTg5MzIyNywxMjE1MD
-gwNTYwXX0=
+eyJoaXN0b3J5IjpbLTk0MTY4NzI3MSw2MzU4OTMyMjcsMTIxNT
+A4MDU2MF19
 -->
