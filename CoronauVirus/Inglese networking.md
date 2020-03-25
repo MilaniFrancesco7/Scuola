@@ -47,13 +47,10 @@ the network. **FULLY CONNECTED**
 7. A hybrid type in which groups of star networks are
 connected to a linear backbone, like in a a family tree. **TREE** 
 
+<br>
+<br>
+
 ## Read the texts pp. 104-105 and fill in the table below.
-
-### TOPOLOGY
-### ADVANTAGES
-### DISADVANTAGES
-
-| ----------------- | -------- | -------------- |
 | TOPOLOGY | ADVANTAGES | DISADVANTAGES |
 | ----------------- | -------- | -------------- |
 | Bus | Inexpensive and easy to set up, it doesn't require much cable    | A damage or failure in the main cable will cause the whole network to fail or unusable. <br> If more than a few dozen computers are added to a bus network, the network will become slower because of possible collisions. <br> Every workstation on the network sees all of the data which is passing through the network|
@@ -61,6 +58,6 @@ connected to a linear backbone, like in a a family tree. **TREE**
 | Star | If one cable or device fails then all the others will continue to work | Cable and device are expensive to install because this type of network uses the most cable. <br>If also new hubs, switches or routers are required this will lead to extra cost. |
 | Tree (Star bus) | It supports future expandibility of the network much better than a bus or star topology.<br>It is fault tolerant and easy to troubleshoot. |The installation of new hardware and additional cable makes it very expensive.|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4NjA3NzkwLDYzNTg5MzIyNywxMjE1MD
-gwNTYwXX0=
+eyJoaXN0b3J5IjpbMTI1MzA5MDA4Nyw2MzU4OTMyMjcsMTIxNT
+A4MDU2MF19
 -->
