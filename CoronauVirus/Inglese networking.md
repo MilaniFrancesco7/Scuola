@@ -19,8 +19,8 @@ PROS OF NETWORKS
 
 CONS OF NETWORKS
 - cables and servers can be expensives to install and replace
-- 
-- 
+- a fault with the server will prevent the  whole network from working
+- a network manager is needed and can be expansive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5MzIxMjAxLDEyMTUwODA1NjBdfQ==
+eyJoaXN0b3J5IjpbNjM1ODkzMjI3LDEyMTUwODA1NjBdfQ==
 -->
