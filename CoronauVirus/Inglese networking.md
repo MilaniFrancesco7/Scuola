@@ -23,9 +23,16 @@ CONS OF NETWORKS
 - a fault with the server will prevent the  whole network from working
 - a network manager is needed and can be expansive
 - networks are vulnerable to viruses and hackers
-- 
+
+## Match each description with the appropriate network topology
+1. all devices are connected to a main central node or server. the other nodes are connectre
+
+
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU1ODc2MzEsNjM1ODkzMjI3LDEyMT
-UwODA1NjBdfQ==
+eyJoaXN0b3J5IjpbODEzNTM0NDY0LDYzNTg5MzIyNywxMjE1MD
+gwNTYwXX0=
 -->
