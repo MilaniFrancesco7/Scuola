@@ -53,7 +53,10 @@ connected to a linear backbone, like in a a family tree. **TREE**
 ### ADVANTAGES
 ### DISADVANTAGES
 
+| TOPOLOGY | ADVANTAGES | DISADVANTAGES |
+| ----------------- | -------- | -------------- | ---------------- |
+| Pia| Studio di fattibilità    |  Requisiti funzionali            |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTkyNjQwNCw2MzU4OTMyMjcsMTIxNT
-A4MDU2MF19
+eyJoaXN0b3J5IjpbLTIwMjcyMDYzODUsNjM1ODkzMjI3LDEyMT
+UwODA1NjBdfQ==
 -->
