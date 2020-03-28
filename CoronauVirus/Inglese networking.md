@@ -86,7 +86,7 @@ connected to a linear backbone, like in a a family tree. **TREE**
 
 ## Exercise 6-7 p 107
 
-Sequenza testo: D-E-C-G-H-F-A-I
+Sequenza testo: **D-E-C-G-H-F-A-I**
 
 1. **What is an Ethernet?**
 Ethernet is not a single proguct, but rather a technical standard developed for network communications by Xerox, DEC and Intel, which the rest of the computer community have adopted.
@@ -105,7 +105,7 @@ When two nodes send messages simultaneously, the collision of the two messages c
  10. **What will these nodes do then?**
 Transmission from all nodes is halted, and each node waits a random length of time before trying to resend its message. The process repeats itself until one of the nodes sends its message without encountering another node message.
 
-<br>
+
 <br>
 <br>
 <br>
@@ -114,7 +114,7 @@ If this happens, we say that a **collision** occurs. All the transmitting comput
 If a network is **heavily** loaded, there will be many collisions.
 As a consequence, the network **performance** will deteriorate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODcwMzg2MTIsMTE5NTQ3Mzc1LDczOD
-cxODA2MywtMjA5NzcyOTQ3NSw2MzU4OTMyMjcsMTIxNTA4MDU2
-MF19
+eyJoaXN0b3J5IjpbOTkxODc3NDM0LDExOTU0NzM3NSw3Mzg3MT
+gwNjMsLTIwOTc3Mjk0NzUsNjM1ODkzMjI3LDEyMTUwODA1NjBd
+fQ==
 -->
