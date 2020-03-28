@@ -24,13 +24,7 @@ CONS OF NETWORKS
 - a network manager is needed and can be expansive
 - networks are vulnerable to viruses and hackers
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Match each description with the appropriate network topology
 1. All devices are connected to a main central node or server. the other nodes are connected to it and to each other through a switch or a hub. **STAR**
@@ -55,18 +49,7 @@ the network. **FULLY CONNECTED**
 7. A hybrid type in which groups of star networks are
 connected to a linear backbone, like in a a family tree. **TREE** 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Read the texts pp. 104-105 and fill in the table below.
 | TOPOLOGY | ADVANTAGES | DISADVANTAGES |
@@ -106,7 +89,7 @@ If this happens, we say that a **collision** occurs. All the transmitting comput
 If a network is **heavily** loaded, there will be many collisions.
 As a consequence, the network **performance** will deteriorate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQwNDgyMTYsOTkxODc3NDM0LDExOT
+eyJoaXN0b3J5IjpbLTEwMjYwNTI4NDgsOTkxODc3NDM0LDExOT
 U0NzM3NSw3Mzg3MTgwNjMsLTIwOTc3Mjk0NzUsNjM1ODkzMjI3
 LDEyMTUwODA1NjBdfQ==
 -->
