@@ -84,12 +84,12 @@ When two nodes send messages simultaneously, the collision of the two messages c
 Transmission from all nodes is halted, and each node waits a random length of time before trying to resend its message. The process repeats itself until one of the nodes sends its message without encountering another node message.
 
 
-In the Ethernet access method, all nodes on network operate like a conversation between **polite** people. When people meet and begin talking at the same time, one must wait until the other has finished. This happens very **quickly** as Ethernet LANs transmit **statements** at 2GB per second. The protocol **informs** that all computers must sense the bus at all times. When a computer wants to send data or a message, it can do it **immediately** only if cannot **detect** any data on the bus. If there are other data being transmitted, then the node has to try later. Sometimes two or more computers start transmitting **simultaneously**.
+In the Ethernet access method, all nodes on network operate like a conversation between **polite** people. When people meet and begin talking at the same time, one must wait until the other has finished. This happens very **quickly** as Ethernet LANs transmit **informations** at 2GB per second. The protocol **states** that all computers must sense the bus at all times. When a computer wants to send data or a message, it can do it **immediately** only if cannot **detect** any data on the bus. If there are other data being transmitted, then the node has to try later. Sometimes two or more computers start transmitting **simultaneously**.
 If this happens, we say that a **collision** occurs. All the transmitting computers will receive a "busy line" signal and will have to stop sending data and try again after a random **length** of time.
 If a network is **heavily** loaded, there will be many collisions.
 As a consequence, the network **performance** will deteriorate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDIyNTAxNiwtMTAyNjA1Mjg0OCw5OT
-E4Nzc0MzQsMTE5NTQ3Mzc1LDczODcxODA2MywtMjA5NzcyOTQ3
-NSw2MzU4OTMyMjcsMTIxNTA4MDU2MF19
+eyJoaXN0b3J5IjpbLTIxNDA3MzM1MDcsMTM1NDIyNTAxNiwtMT
+AyNjA1Mjg0OCw5OTE4Nzc0MzQsMTE5NTQ3Mzc1LDczODcxODA2
+MywtMjA5NzcyOTQ3NSw2MzU4OTMyMjcsMTIxNTA4MDU2MF19
 -->
