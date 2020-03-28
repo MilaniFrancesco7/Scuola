@@ -3,11 +3,11 @@
 NIC - HUB - ROUTER - SWITCH - BRIDGE - REPEATER - GATEWAY
 
 1. To connect channels toghether and divide a network into separate segments. -> ROUTER
-2. To connect two different networks. -> BRIDGE
+2. To connect two different networks. -> GATEWAY
 3. To connect several cables to single ouput, -> HUB
 4. To direct signals to the correct destination. -> SWITCH
 5. To improve the quality of degraded signals. -> REPEATER
-6. To inspect incoming traffic. -> GATEWAY
+6. To inspect incoming traffic. -> BRIDGE
 7. To provide the connection between the computer and the network cables. -> NIC
 
 PROS OF NETWORKS
@@ -89,7 +89,7 @@ If this happens, we say that a **collision** occurs. All the transmitting comput
 If a network is **heavily** loaded, there will be many collisions.
 As a consequence, the network **performance** will deteriorate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjYwNTI4NDgsOTkxODc3NDM0LDExOT
-U0NzM3NSw3Mzg3MTgwNjMsLTIwOTc3Mjk0NzUsNjM1ODkzMjI3
-LDEyMTUwODA1NjBdfQ==
+eyJoaXN0b3J5IjpbMTM1NDIyNTAxNiwtMTAyNjA1Mjg0OCw5OT
+E4Nzc0MzQsMTE5NTQ3Mzc1LDczODcxODA2MywtMjA5NzcyOTQ3
+NSw2MzU4OTMyMjcsMTIxNTA4MDU2MF19
 -->
