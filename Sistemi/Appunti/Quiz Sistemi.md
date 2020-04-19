@@ -14,7 +14,13 @@
 - 1/n
 #### La partizione di swap, con il raid software, ha senso metterla in raid
 - Se si vuole rendere affidabile la memoria di scambio: se si sceglie un raid non 0
-#### Con il raid   
+#### Con il raid 0, rispetto alla somma totale delle capacità dei n dischi, lo spazio utile è di circa:
+- 100%
+- n/n
+#### Aggiungendo uno o più dischi spare, lo spazio utile in percentuale:
+- resta invariato
+#### Il raid 0, rispetto al backup dei dati:
+- migliora le prestazioni   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0ODEwMTAzXX0=
+eyJoaXN0b3J5IjpbLTE5ODUxMjE2MF19
 -->
