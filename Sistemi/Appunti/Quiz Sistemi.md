@@ -11,7 +11,10 @@
 #### In un sistema con raid software posso avere diversi tipi di raid su partizioni diverse degli stessi dischi?
 - Vero
 #### Con il raid 1, rispetto alla somma totale delle capacità dei n dischi, lo spazio utile è di circa:
-  
+- 1/n
+#### La partizione di swap, con il raid software, ha senso metterla in raid
+- Se si vuole rendere affidabile la memoria di scambio: se si sceglie un raid non 0
+#### Con il raid   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODQ1MDIyN119
+eyJoaXN0b3J5IjpbNDA0ODEwMTAzXX0=
 -->
