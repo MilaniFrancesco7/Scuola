@@ -32,7 +32,10 @@
 - Non permettono al sistema operativo di conoscere lo stato di salute del raid essendo totalmente trasparenti
 #### Quali motivi fanno preferire Raid 5 al 4?
 - Con il 5 si ha un miglioramento delle prestazioni complessive in lettura e scrittura in condizioni di uso leggero
-- Con il 5 si ha un miglioramento delle prestazioni complessive in scrittura in condizioni di uso leggero  
+- Con il 5 si ha un miglioramento delle prestazioni complessive in lettura e scrittura in condizioni di uso intenso
+- Con il 4 si ha una usura sproporzionata per uno dei dischi dell'array
+#### Utilizzando più dischi in Raid 5, rispetto all'uso di un solo disco, le prestazioni sono
+- Migliori sia in lettura che in scrittura  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDE3NjEyN119
+eyJoaXN0b3J5IjpbMTA2NTIzNzI5XX0=
 -->
