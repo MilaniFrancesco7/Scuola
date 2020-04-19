@@ -13,8 +13,10 @@
 - Vero
 #### Con il raid 1, rispetto alla somma totale delle capacità dei n dischi, lo spazio utile è di circa:
 - 1/n
+- 2/n+n
 #### La partizione di swap, con il raid software, ha senso metterla in raid
 - Se si vuole rendere affidabile la memoria di scambio: se si sceglie un raid non 0
+- Se non si usa un raid 0
 #### Con il raid 0, rispetto alla somma totale delle capacità dei n dischi, lo spazio utile è di circa:
 - 100%
 - n/n
@@ -46,5 +48,5 @@
 #### Utilizzando più dischi in Raid 4, rispetto all'uso di un solo disco, le prestazioni sono:
 - Migliori in scrittura se il numero di dischi è pari  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mzc2MDgzOSw0NDQxNTA5OF19
+eyJoaXN0b3J5IjpbLTkyNzcxNDk2LDQ0NDE1MDk4XX0=
 -->
