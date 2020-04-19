@@ -23,7 +23,10 @@
 - migliora le prestazioni a scapito dell'affidabilità del sistema e del mantenimento dei dati nel tempo
 #### Utilizzando più dischi in Raid 1, rispetto all'uso di un solo disco, le prestazioni sono:
 - migliori solo in lettura
-####   
+#### I raid di tipo software:
+- prevedono predisposizioni apposite nel sistema operativo
+#### I raid diversi dallo 0, rispetto al backup dei dati:
+- garantisce l'affidabilità del sistema a scapito del mantenimento dei   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjI5MzY3Ml19
+eyJoaXN0b3J5IjpbLTExMzA2OTMzNjFdfQ==
 -->
