@@ -18,6 +18,8 @@
 - 100%
 - n/n
 <br>
+<br>
+<br>
 #### Aggiungendo uno o più dischi spare, lo spazio utile in percentuale:
 - resta invariato
 #### Il raid 0, rispetto al backup dei dati:
@@ -36,10 +38,12 @@
 - Con il 5 si ha un miglioramento delle prestazioni complessive in lettura e scrittura in condizioni di uso intenso
 - Con il 4 si ha una usura sproporzionata per uno dei dischi dell'array
 <br>
+<br>
+<br>
 #### Utilizzando più dischi in Raid 5, rispetto all'uso di un solo disco, le prestazioni sono
 - Migliori sia in lettura che in scrittura
 #### Utilizzando più dischi in Raid 4, rispetto all'uso di un solo disco, le prestazioni sono:
 - Migliori in scrittura se il numero di dischi è pari  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzgxODM1OF19
+eyJoaXN0b3J5IjpbNDQ0MTUwOThdfQ==
 -->
