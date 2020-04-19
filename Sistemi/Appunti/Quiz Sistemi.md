@@ -20,7 +20,10 @@
 #### Aggiungendo uno o più dischi spare, lo spazio utile in percentuale:
 - resta invariato
 #### Il raid 0, rispetto al backup dei dati:
-- migliora le prestazioni   
+- migliora le prestazioni a scapito dell'affidabilità del sistema e del mantenimento dei dati nel tempo
+#### Utilizzando più dischi in Raid 1, rispetto all'uso di un solo disco, le prestazioni sono:
+- migliori solo in lettura
+####   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODUxMjE2MF19
+eyJoaXN0b3J5IjpbMTk0NjI5MzY3Ml19
 -->
