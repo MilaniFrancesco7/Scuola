@@ -9,7 +9,9 @@
 #### Utilizzando più dischi in Raid 0, rispetto all'uso di un solo disco, le prestazioni sono:
 - Uguali
 #### In un sistema con raid software posso avere diversi tipi di raid su partizioni diverse degli stessi dischi?
--  
+- Vero
+#### Con il raid 1, rispetto alla somma totale delle capacità dei n dischi, lo spazio utile è di circa:
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc4OTY5MDVdfQ==
+eyJoaXN0b3J5IjpbMTI4ODQ1MDIyN119
 -->
