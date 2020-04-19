@@ -29,7 +29,10 @@
 - garantisce l'affidabilità del sistema a scapito del mantenimento dei dati nel tempo
 #### I raid di tipo hardware
 - Prevedono un hardware specifico
-- Non permettono al sistema operativo di conoscere lo stato di salute del raid essendo totalment  
+- Non permettono al sistema operativo di conoscere lo stato di salute del raid essendo totalmente trasparenti
+#### Quali motivi fanno preferire Raid 5 al 4?
+- Con il 5 si ha un miglioramento delle prestazioni complessive in lettura e scrittura in condizioni di uso leggero
+- Con il 5 si ha un miglioramento delle prestazioni complessive in scrittura in condizioni di uso leggero  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTc3NDc3MF19
+eyJoaXN0b3J5IjpbLTM3MDE3NjEyN119
 -->
