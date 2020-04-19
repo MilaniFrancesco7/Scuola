@@ -35,7 +35,8 @@
 - garantisce l'affidabilità del sistema a scapito del mantenimento dei dati nel tempo
 #### I raid di tipo hardware
 - Prevedono un hardware specifico
-- Non permettono al sistema operativo di conoscere lo stato di salute del raid essendo totalmente trasparenti
+- Potrebbe comportare costi anche significativi in caso di rottura del controller disco per riavere il sistema funzionante
+- Prevedono di far vedere al sistema operativo solo dischi virtuali e non partizio
 #### Quali motivi fanno preferire Raid 5 al 4?
 - Con il 5 si ha un miglioramento delle prestazioni complessive in lettura e scrittura in condizioni di uso leggero
 - Con il 5 si ha un miglioramento delle prestazioni complessive in lettura e scrittura in condizioni di uso intenso
@@ -48,5 +49,5 @@
 #### Utilizzando più dischi in Raid 4, rispetto all'uso di un solo disco, le prestazioni sono:
 - Migliori in scrittura se il numero di dischi è pari  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MTEzOTIyLDQ0NDE1MDk4XX0=
+eyJoaXN0b3J5IjpbMTU1MTgzMzc0Miw0NDQxNTA5OF19
 -->
