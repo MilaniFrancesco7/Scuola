@@ -1,13 +1,14 @@
 
 
 #### Quale tra i seguenti Raid non garantiscono affidabilità di servizio?
- - Raid 0
+ - Raid 0 
 #### Con il raid 4 o 5, rispetto alla comma totale delle capacità dei n dischi, lo spazio utile è di circa:
 - (n-1)/n
+- m/n con m=(m+1)  
 #### E' possibile imbastire un raid 1 con più di due dischi?
 - Vero
 #### Utilizzando più dischi in Raid 0, rispetto all'uso di un solo disco, le prestazioni sono:
-- Uguali
+- Migliori sia in lettura che in scrittura
 #### In un sistema con raid software posso avere diversi tipi di raid su partizioni diverse degli stessi dischi?
 - Vero
 #### Con il raid 1, rispetto alla somma totale delle capacità dei n dischi, lo spazio utile è di circa:
@@ -45,5 +46,5 @@
 #### Utilizzando più dischi in Raid 4, rispetto all'uso di un solo disco, le prestazioni sono:
 - Migliori in scrittura se il numero di dischi è pari  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0MTUwOThdfQ==
+eyJoaXN0b3J5IjpbMTE0Mzc2MDgzOSw0NDQxNTA5OF19
 -->
