@@ -26,7 +26,10 @@
 #### I raid di tipo software:
 - prevedono predisposizioni apposite nel sistema operativo
 #### I raid diversi dallo 0, rispetto al backup dei dati:
-- garantisce l'affidabilità del sistema a scapito del mantenimento dei   
+- garantisce l'affidabilità del sistema a scapito del mantenimento dei dati nel tempo
+#### I raid di tipo hardware
+- Prevedono un hardware specifico
+- Non permettono al sistema operativo di conoscere lo stato di salute del raid essendo totalment  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA2OTMzNjFdfQ==
+eyJoaXN0b3J5IjpbLTUwMTc3NDc3MF19
 -->
