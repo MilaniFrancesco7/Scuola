@@ -21,8 +21,6 @@
 - 100%
 - n/n
 <br>
-<br>
-<br>
 #### Aggiungendo uno o più dischi spare, lo spazio utile in percentuale:
 - diminuisce
 #### Il raid 0, rispetto al backup dei dati:
@@ -48,5 +46,5 @@
 #### Utilizzando più dischi in Raid 4, rispetto all'uso di un solo disco, le prestazioni sono:
 - Migliori solo in lettura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg5ODUxODYsNDQ0MTUwOThdfQ==
+eyJoaXN0b3J5IjpbLTExMzY0NjUzODYsNDQ0MTUwOThdfQ==
 -->
