@@ -27,7 +27,11 @@ In questo modo il database restituirà tutte le righe della tabella, quindi dand
 
 <img src="https://i.ibb.co/2jnNnnt/accesso.png" alt="accesso" border="0"></a>
 
+<img src="https://i.ibb.co/qg3TxVM/accesso.png" alt="accesso" border="0"></a>
 
+Questo determina la non sicurezza del nostro login, data la facilità di accesso tramite SQL Injection.
+
+Per poterci difendere possiamo innanzitutto provvedere ad 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTUyMjIyMCwtMjkwMTA3MjkxXX0=
+eyJoaXN0b3J5IjpbMTEzNTY1MTM0OCwtMjkwMTA3MjkxXX0=
 -->
