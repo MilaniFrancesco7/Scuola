@@ -63,7 +63,8 @@ In questo caso il risultato sarà quindi positivo, dato che la query risultante 
 
     $query = "SELECT  *  FROM users WHERE 1 OR 1=1 AND  password  = 1 OR 1=1"
 
+<a href="https://ibb.co/9tvjzDQ"><img src="https://i.ibb.co/L5PfbFV/accesso.png" alt="accesso" border="0"></a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTczMzI2MywtMTk0MDE4MTgzNSwxMT
+eyJoaXN0b3J5IjpbMTM3MzQ2OTQyMSwtMTk0MDE4MTgzNSwxMT
 M1NjUxMzQ4LC0yOTAxMDcyOTFdfQ==
 -->
