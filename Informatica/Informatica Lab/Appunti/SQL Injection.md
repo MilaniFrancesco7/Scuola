@@ -20,8 +20,13 @@ In questo modo, la query risultante sara:
 
     SELECT * FROM users WHERE email = '' OR '1'='1' AND passowr = '' OR '1'='1';
 
-Come si può notare, attraverso il primo apice andremo a chiudere il testo dove dovrebbe esserci scritto l'username, andando poi ad inserire del codice SQL che ci restituirà TRUE, data l'uguaglianza 1=1 sempre vera.
+Come si può notare, attraverso il primo apice andremo a chiudere il testo dove dovrebbe esserci scritto l'username, andando poi ad inserire un'operazione OR che ci restituirà TRUE, data l'uguaglianza 1=1 sempre vera. 
+La stessa cosa avverrà anche nel campo della password.
+
+In questo modo il database restituirà tutte le righe della tabella, quindi dando una risposta positiva allo script di login che ci lascerà perciò accedere al sito.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM3OTMzOTRdfQ==
+eyJoaXN0b3J5IjpbLTI5MDEwNzI5MV19
 -->
