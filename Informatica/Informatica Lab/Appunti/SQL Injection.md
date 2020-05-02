@@ -12,7 +12,11 @@ La query utilizzata per il login è la seguente:
 
     $query = "SELECT  *  FROM users WHERE email = '$username' AND  password  = '$password'";
 
-Per poter eseguire un attacco SQL Injection sarà necessario andare ad inserire nei campi di nome utente e password 
+Per poter eseguire un attacco SQL Injection sarà necessario andare ad inserire nei campi di nome utente e password questa stringa:
+
+    'OR '1'='1
+
+In questo modo, la quer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTAzMjU4OF19
+eyJoaXN0b3J5IjpbNzY4MzczNzI0XX0=
 -->
