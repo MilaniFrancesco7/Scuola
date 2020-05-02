@@ -1,4 +1,4 @@
-
+## Milani Francesco 5 
 
 # Test con SQL Injection
 
@@ -74,13 +74,14 @@ Quindi il nostro login non è ancora sicuro, dato l'avvenuto accesso attraverso 
 Attraverso la funzione PHP
 
     is_numeric()
-verrà eseguita una verifica sull'input, e se questo sarà di tipo numerico non verrà eseguita la query.
-
-Questo rende impossibile l'accesso attraverso SQL Injection, in quanto non sarà possibile ne inserire caratteri speciali attraverso la funzione vista in precedenza, ne inserire un input numerico.
+sarà eseguita una verifica sull'input, e se questo corrisponderà ad un tipo numerico non verrà eseguita la query.
 
 La sintassi del controllo sarà quindi
 
     if(is_numeric($username))
+    {
+	    //Errore
+    }
 
 
 <img src="https://i.ibb.co/L5PfbFV/accesso.png" alt="accesso" border="0"></a>
@@ -88,7 +89,10 @@ La sintassi del controllo sarà quindi
 <img src="https://i.ibb.co/vvrKgs2/accesso.png" alt="accesso" border="0"></a>
 
 
+
+Questo rende impossibile l'accesso attraverso SQL Injection, in quanto non sarà possibile ne inserire caratteri speciali attraverso la funzione vista in precedenza, ne inserire un input numerico.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDE0NTkyOCwtMTk0MDE4MTgzNSwxMT
-M1NjUxMzQ4LC0yOTAxMDcyOTFdfQ==
+eyJoaXN0b3J5IjpbMzgwNDY3NTk0LC0xOTQwMTgxODM1LDExMz
+U2NTEzNDgsLTI5MDEwNzI5MV19
 -->
