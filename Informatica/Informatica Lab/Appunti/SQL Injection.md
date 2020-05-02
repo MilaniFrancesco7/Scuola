@@ -30,9 +30,10 @@ In questo modo il database restituirà tutte le righe della tabella, quindi dand
 
 <img src="https://i.ibb.co/qg3TxVM/accesso.png" alt="accesso" border="0"></a>
 
+Questo determina la non sicurezza del nostro login, data la facilità di accesso tramite SQL Injection.
+
 ##  Metodi di difesa
 ### Mysql real escape string
-Questo determina la non sicurezza del nostro login, data la facilità di accesso tramite SQL Injection.
 
 Per poterci difendere possiamo inserire una funzione mysql real escape, scrivendola nel nostro codice in questo modo:
 
@@ -41,7 +42,13 @@ Per poterci difendere possiamo inserire una funzione mysql real escape, scrivend
     $password = $_POST["password"];
     $password = mysql_real_escape_string($password);
 
+In questo modo andremo a rimuovere i caratteri speciali, quindi dalla stringa
+
+    ' OR '1'='1'
+ verranno rimossi gli apici.
+ Adesso sarà quasi impossibile 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzAxNjg2OCwxMTM1NjUxMzQ4LC0yOT
+eyJoaXN0b3J5IjpbMTMyMDEwNjEzOCwxMTM1NjUxMzQ4LC0yOT
 AxMDcyOTFdfQ==
 -->
