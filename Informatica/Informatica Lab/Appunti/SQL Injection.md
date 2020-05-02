@@ -25,8 +25,9 @@ La stessa cosa avverrà anche nel campo della password.
 
 In questo modo il database restituirà tutte le righe della tabella, quindi dando una risposta positiva allo script di login che ci lascerà perciò accedere al sito.
 
+<img src="https://i.ibb.co/2jnNnnt/accesso.png" alt="accesso" border="0"></a>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDEwNzI5MV19
+eyJoaXN0b3J5IjpbMTE1MTUyMjIyMCwtMjkwMTA3MjkxXX0=
 -->
