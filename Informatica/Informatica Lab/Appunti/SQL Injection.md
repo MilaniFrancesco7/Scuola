@@ -49,9 +49,8 @@ In questo modo andremo a rimuovere i caratteri speciali, quindi dalla stringa
 
 <img src="https://i.ibb.co/vvrKgs2/accesso.png" alt="accesso" border="0"></a>
 
-Rimane però ancora un problema:
-L'escape string
+Rimane però anco
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDAxODE4MzUsMTEzNTY1MTM0OCwtMj
-kwMTA3MjkxXX0=
+eyJoaXN0b3J5IjpbLTI0MTExODQxMCwtMTk0MDE4MTgzNSwxMT
+M1NjUxMzQ4LC0yOTAxMDcyOTFdfQ==
 -->
