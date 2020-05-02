@@ -53,8 +53,11 @@ Nel caso la query fosse di questo tipo:
 
 `$query = "SELECT  *  FROM users WHERE email = $username AND  password  = $password"`
 
-si può notare come non ci sia il carattere di terminazione ' , quindi la stringa rimane aperta dopo 
+si può notare come non ci sia il carattere di terminazione ' , quindi la query rimane aperta, non viene chiusa.
+
+In questo caso si può procedere all'inserimento di`enter code here`
+1 OR 1=1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzgwNzM2MCwtMTk0MDE4MTgzNSwxMT
+eyJoaXN0b3J5IjpbMTE2OTYwNzE2MSwtMTk0MDE4MTgzNSwxMT
 M1NjUxMzQ4LC0yOTAxMDcyOTFdfQ==
 -->
