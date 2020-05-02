@@ -1,5 +1,4 @@
-## Milani Francesco 5 
-
+## Milani Francesco<br> 5 AI		<br>	02/05/2020
 # Test con SQL Injection
 
 Consegna: 
@@ -93,6 +92,6 @@ La sintassi del controllo sarà quindi
 Questo rende impossibile l'accesso attraverso SQL Injection, in quanto non sarà possibile ne inserire caratteri speciali attraverso la funzione vista in precedenza, ne inserire un input numerico.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNDY3NTk0LC0xOTQwMTgxODM1LDExMz
-U2NTEzNDgsLTI5MDEwNzI5MV19
+eyJoaXN0b3J5IjpbOTM1MDg0NDksLTE5NDAxODE4MzUsMTEzNT
+Y1MTM0OCwtMjkwMTA3MjkxXX0=
 -->
