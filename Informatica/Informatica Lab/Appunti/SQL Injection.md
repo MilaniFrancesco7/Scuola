@@ -6,8 +6,8 @@ Consegna:
 
 > Dopo aver seguito le videolezioni sulle tecniche di SQL injection, verificare su una propria applicazione **(niente prove su applicazioni e siti web altrui)** che richiede inserimento dati quanto questa sia eventualmente vulnerabile e, di seguito, riportare in un documento i risultati ottenuti durante le fasi di test (oscurare informazioni relative ad account e dati personali) e le istruzioni aggiunte in seguito per proteggere l'applicazione da tali attacchi.
 
-
+Ho ese
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjg1MjQzOF19
+eyJoaXN0b3J5IjpbNjIyNDU4MDkyXX0=
 -->
