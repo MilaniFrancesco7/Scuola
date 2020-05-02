@@ -16,7 +16,12 @@ Per poter eseguire un attacco SQL Injection sarà necessario andare ad inserire 
 
     'OR '1'='1
 
-In questo modo, la quer
+In questo modo, la query risultante sara:
+
+    SELECT * FROM users WHERE email = '' OR '1'='1' AND passowr = '' OR '1'='1';
+
+Come si può notare, attraverso il primo apice andremo a chiudere il testo dove dovrebbe esserci scritto l'username, andando poi ad inserire del codice SQL che ci restituirà TRUE, data l'uguaglianza 1=1 sempre vera.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4MzczNzI0XX0=
+eyJoaXN0b3J5IjpbLTE2NDM3OTMzOTRdfQ==
 -->
