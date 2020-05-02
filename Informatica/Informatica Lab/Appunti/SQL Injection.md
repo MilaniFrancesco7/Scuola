@@ -45,10 +45,11 @@ Per poterci difendere possiamo inserire una funzione mysql real escape, scrivend
 In questo modo andremo a rimuovere i caratteri speciali, quindi dalla stringa
 
     ' OR '1'='1'
- verranno rimossi gli apici.
- Adesso sarà quasi impossibile 
+ verranno rimossi gli apici, quindi sarà quasi impossibile un attacco attraverso apici o caratteri speciali.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDEwNjEzOCwxMTM1NjUxMzQ4LC0yOT
-AxMDcyOTFdfQ==
+eyJoaXN0b3J5IjpbLTEzMDkwODUyNDQsMTEzNTY1MTM0OCwtMj
+kwMTA3MjkxXX0=
 -->
