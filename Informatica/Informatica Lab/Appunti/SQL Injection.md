@@ -71,11 +71,13 @@ Quindi il nostro login non è ancora sicuro, dato l'avvenuto accesso attraverso 
 
 ### Funzione is numeric
 
-Attraverso la funzione 
+Attraverso la funzione PHP
 
-    enter code here
+    is_numeric($username)
+verrà eseguita una verifica sull'input, e se questo sarà di tipo numerico non verrà eseguita la query.
 
+Questo rende impossibile l'accesso attraverso SQL Injection, in quanto non sarà possibile nè inserire caratteri speciali attraverso la funzione vista in precedenza, ne 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODQzMDkwNiwtMTk0MDE4MTgzNSwxMT
+eyJoaXN0b3J5IjpbMTk4NzA4MjgxMCwtMTk0MDE4MTgzNSwxMT
 M1NjUxMzQ4LC0yOTAxMDcyOTFdfQ==
 -->
