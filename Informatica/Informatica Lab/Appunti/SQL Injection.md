@@ -31,7 +31,9 @@ In questo modo il database restituirà tutte le righe della tabella, quindi dand
 
 Questo determina la non sicurezza del nostro login, data la facilità di accesso tramite SQL Injection.
 
-Per poterci difendere possiamo innanzitutto provvedere ad 
+Per poterci difendere possiamo inserire una funzione mysql real escape, scrivendola nel nostro codice in questo modo:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTY1MTM0OCwtMjkwMTA3MjkxXX0=
+eyJoaXN0b3J5IjpbMTI5MjgzMTk2OCwxMTM1NjUxMzQ4LC0yOT
+AxMDcyOTFdfQ==
 -->
