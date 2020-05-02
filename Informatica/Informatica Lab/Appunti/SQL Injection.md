@@ -49,8 +49,12 @@ In questo modo andremo a rimuovere i caratteri speciali, quindi dalla stringa
 
 <img src="https://i.ibb.co/vvrKgs2/accesso.png" alt="accesso" border="0"></a>
 
-Rimane però anco
+Nel caso la query fosse di questo tipo:
+
+`$query = "SELECT  *  FROM users WHERE email = $username AND  password  = $password"`
+
+si può notare come non ci sia il carattere di terminazione ' , quindi la stringa rimane aperta dopo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTExODQxMCwtMTk0MDE4MTgzNSwxMT
+eyJoaXN0b3J5IjpbMTYwMzgwNzM2MCwtMTk0MDE4MTgzNSwxMT
 M1NjUxMzQ4LC0yOTAxMDcyOTFdfQ==
 -->
