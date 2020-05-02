@@ -47,9 +47,11 @@ In questo modo andremo a rimuovere i caratteri speciali, quindi dalla stringa
     ' OR '1'='1'
  verranno rimossi gli apici, quindi sarà quasi impossibile un attacco attraverso apici o caratteri speciali.
 
+<img src="https://i.ibb.co/vvrKgs2/accesso.png" alt="accesso" border="0"></a>
 
-
+Rimane però ancora un problema:
+L'escape string, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkwODUyNDQsMTEzNTY1MTM0OCwtMj
-kwMTA3MjkxXX0=
+eyJoaXN0b3J5IjpbMTk3MDA5NjM4NSwxMTM1NjUxMzQ4LC0yOT
+AxMDcyOTFdfQ==
 -->
