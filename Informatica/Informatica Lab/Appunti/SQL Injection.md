@@ -11,7 +11,7 @@ In questo test andrò ad utilizzare un mio form di login.
 ## Attacco SQL Injection
 La query utilizzata per il login è la seguente:
 
-    $query = "SELECT  *  FROM users WHERE email = '$username' AND  password  = '$password'";
+    $query = "SELECT  *  FROM users WHERE email = $username AND  password  = $password";
 
 Per poter eseguire un attacco SQL Injection sarà necessario andare ad inserire nei campi di nome utente e password questa stringa:
 
@@ -52,6 +52,6 @@ In questo modo andremo a rimuovere i caratteri speciali, quindi dalla stringa
 Rimane però ancora un problema:
 L'escape string, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDA5NjM4NSwxMTM1NjUxMzQ4LC0yOT
-AxMDcyOTFdfQ==
+eyJoaXN0b3J5IjpbMjk0MTA0MDQzLDExMzU2NTEzNDgsLTI5MD
+EwNzI5MV19
 -->
