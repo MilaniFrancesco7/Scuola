@@ -33,7 +33,7 @@ In questo modo il database restituirà tutte le righe della tabella, quindi dand
 Questo determina la non sicurezza del nostro login, data la facilità di accesso tramite SQL Injection.
 
 ##  Metodi di difesa
-### Mysql real escape string
+### Funzione mysql real escape string
 
 Per poterci difendere possiamo inserire una funzione mysql real escape, scrivendola nel nostro codice in questo modo:
 
@@ -63,8 +63,19 @@ In questo caso il risultato sarà quindi positivo, dato che la query risultante 
 
     $query = "SELECT  *  FROM users WHERE 1 OR 1=1 AND  password  = 1 OR 1=1"
 
-<a href="https://ibb.co/9tvjzDQ"><img src="https://i.ibb.co/L5PfbFV/accesso.png" alt="accesso" border="0"></a>
+<img src="https://i.ibb.co/L5PfbFV/accesso.png" alt="accesso" border="0"></a>
+
+<img src="https://i.ibb.co/qg3TxVM/accesso.png" alt="accesso" border="0"></a>
+
+Quindi il nostro login non è ancora sicuro, dato l'avvenuto accesso attraverso SQL Injection.
+
+### Funzione is numeric
+
+Attraverso la funzione 
+
+    enter code here
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzQ2OTQyMSwtMTk0MDE4MTgzNSwxMT
+eyJoaXN0b3J5IjpbLTQ4ODQzMDkwNiwtMTk0MDE4MTgzNSwxMT
 M1NjUxMzQ4LC0yOTAxMDcyOTFdfQ==
 -->
