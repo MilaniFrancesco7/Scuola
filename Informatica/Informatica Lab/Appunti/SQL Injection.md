@@ -8,6 +8,7 @@ Consegna:
 
 In questo test andrò ad utilizzare un mio form di login.
 
+## Attacco SQL Injection
 La query utilizzata per il login è la seguente:
 
     $query = "SELECT  *  FROM users WHERE email = '$username' AND  password  = '$password'";
@@ -29,11 +30,18 @@ In questo modo il database restituirà tutte le righe della tabella, quindi dand
 
 <img src="https://i.ibb.co/qg3TxVM/accesso.png" alt="accesso" border="0"></a>
 
+##  Metodi di difesa
+### Mysql real escape string
 Questo determina la non sicurezza del nostro login, data la facilità di accesso tramite SQL Injection.
 
 Per poterci difendere possiamo inserire una funzione mysql real escape, scrivendola nel nostro codice in questo modo:
 
+    $username = $_POST["username"];
+    $username = mysql_real_escape_string($username);
+    $password = $_POST["password"];
+    $password = mysql_real_escape_string($password);
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjgzMTk2OCwxMTM1NjUxMzQ4LC0yOT
+eyJoaXN0b3J5IjpbLTU4NzAxNjg2OCwxMTM1NjUxMzQ4LC0yOT
 AxMDcyOTFdfQ==
 -->
