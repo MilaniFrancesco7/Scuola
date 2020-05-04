@@ -131,7 +131,15 @@ Quindi lo sviluppo della forza va ricercata ma va parallelamente mantenuto il bi
 ## Resistenza
 Capacità psicofisica dell’atleta di opporsi all’affaticamento, cioè la capacità di protrarre un esercizio fisico nel tempo
 
-### Mobilità articolare o flessibilità
+Secondo criteri topografici, cioè sul numero dei distretti muscolari coinvolti: 
+- Resistenza generale impegna più gruppi muscolari unitamente all'apparato cardiocircolatorio e respiratorio. 
+- Resistenza locale (meno di 1/7 della massa muscolare totale)
+
+Se si considera l’aspetto della specificità dello sport abbiamo una: 
+- RESISTENZA GENERALE: aspecifica, detta anche resistenza di base
+- RESISTENZA SPECIALE: si riferisce ad una determinata disciplina sportiva e, quindi, al particolare tipo di resistenza richiesta dal gesto specifico di gara.
+
+## Mobilità articolare o flessibilità
 - Capacità di compiere gesti con l’impiego di una escursione articolare più ampia possibile 
 - Capacità motoria posta in una posizione intermedia fra le capacità coordinative e quelle condizionali.
 
@@ -143,5 +151,6 @@ Capacità psicofisica dell’atleta di opporsi all’affaticamento, cioè la cap
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2ODI1NjA1LC0yOTc5MTk0NDVdfQ==
+eyJoaXN0b3J5IjpbMjA0NDY1MzIxMSwzMzY4MjU2MDUsLTI5Nz
+kxOTQ0NV19
 -->
