@@ -50,8 +50,18 @@ Lo stimolo per essere allenante deve essere progressivo, graduale e continuo, ma
 
 **INDIVIDUALIZZAZIONE**: il carico allenante raggiunge gli scopi prefissati se, oltre a rispettare tutti i principi fin qui enunciati, si considera l’allenamento come un fattore assolutamente personale, soggettivo, ponendo l’attenzione sulle capacità di sopportazione fisica e psicologica, del carico e delle capacità di recupero, fondamentalmente diverse in ogni individuo.
 
-## Capacità condizi
+## Capacità condizionali e capacità coordinative
+Concludendo ricordo che le capacità che si possono migliorare con l’allenamento sono prettamente quelle che vanno sotto il nome di “capacità condizionali”, che sono: forza, velocità e resistenza. Le altre, le “capacità coordinative”, sono sì fondamentali per le prestazioni, ma molto più difficili da migliorare visto che sono capacità e schemi motori che si apprendono da bambini.
+
+Ecco perché per molti sport è fondamentale iniziare anche a 3 – 4 anni di età!
+
+## Principi dell'allenamento
+**Principio dell’alternanza**: Ogni singola seduta, per produrre i suoi effetti positivi, ha bisogno di un periodo di recupero a causa del consumo del potenziale energetico muscolare e psicologico che temporaneamente ne abbassa le capacità prestative. Solo attraverso il giusto periodo di riposo, che diventa a volte il momento più allenante, si ristabilizzano, migliorate, le qualità prestative (supercompensazione).
+
+**Principio della progressività del carico:** se lo stimolo allenante continua a mantenere la medesima intensità e quantità (stesso carico) a lungo andare perde la sua capacità allenante. Di conseguenza per ottenere un incremento graduale della performance anche l’allenamento dovrà crescere in maniera equilibrata per conservare la sua capacità condizionante.
+
+**Principio dell’individualizzazione**: il carico allenante raggiunge gli scopi prefissati se, oltre a rispettare tutti i principi fin qui enunciati, si considera l’allenamento come un fattore assolutamente personale, soggettivo, ponendo l’attenzione sulle capacità di sopportazione fisica e psicologica, del carico e delle capacità di recupero, fondamentalmente diverse in ogni individuo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg1NTg5MTAsMTg4OTgwNzM2MiwtMj
+eyJoaXN0b3J5IjpbLTExOTM1ODcxNDEsMTg4OTgwNzM2MiwtMj
 A4ODc0NjYxMl19
 -->
