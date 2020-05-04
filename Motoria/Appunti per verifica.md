@@ -15,15 +15,20 @@ All’intero del concetto di allenamento, si sviluppa un concetto molto importan
 Ogni seduta di allenamento, deve avere delle caratteristiche principali, che varieranno dal tipo di sport, e di attività, praticata. In generale un allenamento deve avere:
 
 -   Obiettivi
-   -   Contenuti
-    
+-   Contenuti
 -   Mezzi
-    
 -   Metodi
-    
 
 Che devono essere analizzati e sviluppati sul tipo di persona, sulle sue capacità, e sulla sua struttura fisica, più o meno evoluta.
+
+### Allenamento - stress e stimoli
+
+Ma cosa è precisamente l’allenamento? L’allenamento non è altro che uno stimolo, o stress, che va ad interferire con il normale equilibrio fisiologico, detto omeostasi, in cui si trova il nostro organismo!
+
+La conseguenza di questo stimolo, disturbo o stress è la reazione del nostro corpo per ripristinare nuovamente il suo equilibrio, ma lo farà ad un livello superiore rispetto a prima. Questo è quello che viene chiamato “principio della **supercompensazione**”, che permette all’organismo di farsi trovare ad un livello più elevato di capacità atletiche e meno impreparato di fronte ad uno stress successivo. Osservando il grafico di lato risulterà chiaro come ad ogni stimolo di allenamento, sapientemente somministrato, corrisponde un miglioramento del livello di preparazione.
+
+Lo stimolo per essere allenante deve essere **progressivo**, **graduale** e **continuo**, ma soprattutto rispettando i tempi di **recupero** del corpo che sono molto soggettivi. Sul campo si da lo stimolo ma è a casa, quando si riposa, che il corpo migliora. Il rischio infatti è quello di dare lo stimolo prima di aver recuperato. Questo, anziché far crescere le prestazioni fisiche, le rallenta e le fa decrescere. (Vedi schemi sotto). Una vera tragedia, soprattutto per gli atleti di tutte le discipline sportive che temono quello che in gergo viene chiamato **Sovrallenamento**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM3MDYwMDgsMTg4OTgwNzM2MiwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNzU5MTUxMjAwLDE4ODk4MDczNjIsLTIwOD
+g3NDY2MTJdfQ==
 -->
