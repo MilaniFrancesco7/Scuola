@@ -139,6 +139,9 @@ Se si considera l’aspetto della specificità dello sport abbiamo una:
 - RESISTENZA GENERALE: aspecifica, detta anche resistenza di base
 - RESISTENZA SPECIALE: si riferisce ad una determinata disciplina sportiva e, quindi, al particolare tipo di resistenza richiesta dal gesto specifico di gara.
 
+### Resistenza aerobica
+consente di effettuare esercizi di lunga durata temporale, ad un’intensità possibile per quella durata (grande capacità, scarsa potenza)
+
 ## Mobilità articolare o flessibilità
 - Capacità di compiere gesti con l’impiego di una escursione articolare più ampia possibile 
 - Capacità motoria posta in una posizione intermedia fra le capacità coordinative e quelle condizionali.
@@ -151,6 +154,6 @@ Se si considera l’aspetto della specificità dello sport abbiamo una:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDY1MzIxMSwzMzY4MjU2MDUsLTI5Nz
-kxOTQ0NV19
+eyJoaXN0b3J5IjpbMTgwMzQwMjU4MSwyMDQ0NjUzMjExLDMzNj
+gyNTYwNSwtMjk3OTE5NDQ1XX0=
 -->
