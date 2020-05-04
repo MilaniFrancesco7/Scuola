@@ -12,7 +12,9 @@ Comprendono intere azioni motorie o alcune componenti delle azioni.
 In senso lato, ogni azione motoria che realizza una data tecnica sportiva o nella quale viene utilizzato una abilità motoria di base.
 
 Le abilità motorie sono tante quante se ne appredono.
-Non sono uguali per tutti, sono soggette ad apprendime
+Non sono uguali per tutti, sono soggette ad apprendimento tramite ripetizioni.
+Dipendono dall'esperienza.
+Sono visibili.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0OTg5NjcwLC0yOTc5MTk0NDVdfQ==
+eyJoaXN0b3J5IjpbNDg0NTk1NDM5LC0yOTc5MTk0NDVdfQ==
 -->
