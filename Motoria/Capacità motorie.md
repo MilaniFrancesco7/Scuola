@@ -66,6 +66,22 @@ Le C. C. nell’atto motorio permettono:
 - Di realizzare i programmi motori decisi grazie alle precise informazioni degli analizzatori. 
 - Di automatizzare movimenti
 
+### Capacità coordinative speciali
+- Capacità di accoppiamento e combinazione di abilità motorie 
+- Capacità di orientamento: gestire la posizione e il movimento del corpo nello spazio
+- Capacità di differenziazione cinestetica del movimento
+-  Capacità di equilibrio: mantenere il corpo in postura d’equilibrio
+- Capacità di reazione: reagire a stimoli eseguendo azioni motorie adeguate.
+-  Capacità di ritmizzazione: contrarre, decontrarre i muscoli rispettando intervalli di certi stimoli, adattandosi ad un ritmo e a mutarlo. 
+- Capacità di trasformazione: riorganizzare un movimento già in attuazione.
+
+### Metodi di allenamento delle capacità coordinative
+- Variare l’esecuzione del movimento. 
+- Cambiare le condizioni esterne. 
+- Modificare le abitudini di allenamento. 
+- Modificare le regole di gioco. 
+- Combinare più abilità motorie già automatizzate. Eseguire esercizi in tempi stabiliti. Eseguire esercizi in stato di affaticamento. Eseguire esercizi simmetricamente. Esecuzione di sequenze prefissate.
+
 ## Capacità organico muscolari (capacità condizionali/ fisiche)
 - Forza, Rapidità, Resistenza 
 - Si basano sull’efficienza dei muscoli e dell’apparato cardiocircolatorio 
@@ -84,6 +100,11 @@ E’ la capacità di controllare il movimento in funzione dello scopo previsto, 
 
 ## Capacità di adattamento e trasformazione del movimento
 E’ la capacità di cambiare, trasformare ed adattare il programma motorio alla modificazione improvvisa della situazione o delle condizioni esterne
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDQxNDIyMSwtMjk3OTE5NDQ1XX0=
+eyJoaXN0b3J5IjpbLTcyNjI5MDcxMSwtMjk3OTE5NDQ1XX0=
 -->
