@@ -49,12 +49,27 @@ Sono visibili.
 - Sono fondate sull'elaborazione delle informazioni, in stretto rapporto con lo sviluppo delle Capacità Percettive ed il Controllo dell'esecuzione motoria effettuata attraverso l’evoluzione degli Schemi Motori di Base. 
 - Le attività motorie rivolte ai bambini devono essere ludiche e multilaterali.
 
+Permettono di: 
+- ORGANIZZARE
+- REGOLARE 
+- CONTROLLARE 
+il “Movimento”.
+
+Sono controllate prevantelemente dal:
+- SNC
+- Analizzatori motori
+- Effettori motori
+- Patrimonio motorio
+
 ## Capacità organico muscolari (capacità condizionali/ fisiche)
 - Forza, Rapidità, Resistenza 
 - Si basano sull’efficienza dei muscoli e dell’apparato cardiocircolatorio 
 - I fattori che limitano le capacità condizionali sono determinati dalla disponibilità di energia nei muscoli e dai meccanismi che ne regolano l’erogazione (enzimi, qualità fibre muscolari …)
 
-### 
+### Mobilità articolare o flessibilità
+- Capacità di compiere gesti con l’impiego di una escursione articolare più ampia possibile 
+- Capacità motoria posta in una posizione intermedia fra le capacità coordinative e quelle condizionali.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTA1MjQzMywtMjk3OTE5NDQ1XX0=
+eyJoaXN0b3J5IjpbLTE5OTI0OTEyOTgsLTI5NzkxOTQ0NV19
 -->
