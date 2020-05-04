@@ -61,6 +61,11 @@ Sono controllate prevantelemente dal:
 - Effettori motori
 - Patrimonio motorio
 
+Le C. C. nell’atto motorio permettono: 
+- Di rendere più coincidente possibile il modello di movimento al movimento reale.
+- Di realizzare i programmi motori decisi grazie alle precise informazioni degli analizzatori. 
+- Di automatizzare movimenti
+
 ## Capacità organico muscolari (capacità condizionali/ fisiche)
 - Forza, Rapidità, Resistenza 
 - Si basano sull’efficienza dei muscoli e dell’apparato cardiocircolatorio 
@@ -70,6 +75,15 @@ Sono controllate prevantelemente dal:
 - Capacità di compiere gesti con l’impiego di una escursione articolare più ampia possibile 
 - Capacità motoria posta in una posizione intermedia fra le capacità coordinative e quelle condizionali.
 
+
+## Capacità di apprendimento motorio
+Consiste nell'assimilazione e nell'acquisizione di movimenti o di parti di movimenti precedentemente non posseduti che devono essere immediatamente stabilizzati
+
+## Capacità di controllo e direzione del movimento
+E’ la capacità di controllare il movimento in funzione dello scopo previsto, cioè di raggiungere esattamente il risultato programmato mentalmente prima dell’inizio dell’esecuzione.
+
+## Capacità di adattamento e trasformazione del movimento
+E’ la capacità di cambiare, trasformare ed adattare il programma motorio alla modificazione improvvisa della situazione o delle condizioni esterne
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI0OTEyOTgsLTI5NzkxOTQ0NV19
+eyJoaXN0b3J5IjpbMTM4MDQxNDIyMSwtMjk3OTE5NDQ1XX0=
 -->
