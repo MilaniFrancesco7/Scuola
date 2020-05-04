@@ -123,7 +123,13 @@ Quindi lo sviluppo della forza va ricercata ma va parallelamente mantenuto il bi
 ## Rapidità
 - É la capacità che permette di realizzare movimenti nel più breve tempo possibile
 - RAPIDITÀ definisce la pura esecuzione del gesto da parte di un singolo segmento del corpo
-- 
+- VELOCITÀ indica lo spostamento dell'intero corpo
+
+- Rapidità ciclica: successione rapida di azioni motorie uguali 
+- Rapidità aciclica basata sul singolo movimento isolato
+
+## Resistenza
+Capacità psicofisica dell’atleta di opporsi all’affaticamento, cioè la capacità di protrarre un esercizio fisico nel tempo
 
 ### Mobilità articolare o flessibilità
 - Capacità di compiere gesti con l’impiego di una escursione articolare più ampia possibile 
@@ -137,5 +143,5 @@ Quindi lo sviluppo della forza va ricercata ma va parallelamente mantenuto il bi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDcyNTY0NTAsLTI5NzkxOTQ0NV19
+eyJoaXN0b3J5IjpbMzM2ODI1NjA1LC0yOTc5MTk0NDVdfQ==
 -->
