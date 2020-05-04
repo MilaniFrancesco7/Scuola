@@ -10,7 +10,8 @@ Nell’allenamento sportivo si parla di pianificazione, in quanto obiettivi, met
 
 ## Allenabilità
 All’intero del concetto di allenamento, si sviluppa un concetto molto importante che riguarda la persona e i suoi processi evolutivi, che è l’allenabilità. L’allenabilità rispecchia il grado di adattamento ai carichi di allenamento, dipende da una serie di fattori endogeni ed esogeni. Nell’adolescenza e nel periodo infantile, l’allenabilità viene gestita e garantita dalle così dette “fasi sensitive o sensibili”. Queste fasi rappresentano un valido aiuto per migliorare il processo dell’allenamento a lungo termine, in quanto tentano di definire il problema: “cosa occorre fare ed in quale momento”.
-
+<br>
+<br>
 ## Cosa deve avere un allenamento
 Ogni seduta di allenamento, deve avere delle caratteristiche principali, che varieranno dal tipo di sport, e di attività, praticata. In generale un allenamento deve avere:
 
@@ -62,5 +63,5 @@ Ecco perché per molti sport è fondamentale iniziare anche a 3 – 4 anni di et
 
 **Principio dell’individualizzazione**: il carico allenante raggiunge gli scopi prefissati se, oltre a rispettare tutti i principi fin qui enunciati, si considera l’allenamento come un fattore assolutamente personale, soggettivo, ponendo l’attenzione sulle capacità di sopportazione fisica e psicologica, del carico e delle capacità di recupero, fondamentalmente diverse in ogni individuo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTM1ODcxNDFdfQ==
+eyJoaXN0b3J5IjpbMTUyODE1ODVdfQ==
 -->
