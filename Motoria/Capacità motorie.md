@@ -40,7 +40,21 @@ Sono visibili.
 - Le capacità coordinative si sviluppano tra i 6 e gli 11-12 anni. 
 - Le capacità condizionali tra i 12 e i 17- 18 anni.
 
-- Le capacità coordinative non mostrano significative differenze fra maschi e femmine Le capacità organico muscolari mostrano una netta differenza a partire dagli 11 anni, prima di questa età il decorso è parallelo e simile, mentre nell’età adulta la differenza nei valori assoluti può raggiungere il 40 %.
+- Le capacità coordinative non mostrano significative differenze fra maschi e femmine 
+- Le capacità organico muscolari mostrano una netta differenza a partire dagli 11 anni, prima di questa età il decorso è parallelo e simile, mentre nell’età adulta la differenza nei valori assoluti può raggiungere il 40 %.
+
+- Nell’apprendimento della tecnica le capacità coordinative svolgono un ruolo primario, ma anche le capacità organico muscolari devono essere allenate per raggiungere una ragionevole azione motoria.
+
+## Capacità coordinative
+- Sono fondate sull'elaborazione delle informazioni, in stretto rapporto con lo sviluppo delle Capacità Percettive ed il Controllo dell'esecuzione motoria effettuata attraverso l’evoluzione degli Schemi Motori di Base. 
+- Le attività motorie rivolte ai bambini devono essere ludiche e multilaterali.
+
+## Capacità organico muscolari (capacità condizionali/ fisiche)
+- Forza, Rapidità, Resistenza 
+- Si basano sull’efficienza dei muscoli e dell’apparato cardiocircolatorio 
+- I fattori che limitano le capacità condizionali sono determinati dalla disponibilità di energia nei muscoli e dai meccanismi che ne regolano l’erogazione (enzimi, qualità fibre muscolari …)
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTg4NDI1NiwtMjk3OTE5NDQ1XX0=
+eyJoaXN0b3J5IjpbMTAwNTA1MjQzMywtMjk3OTE5NDQ1XX0=
 -->
