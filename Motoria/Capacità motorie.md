@@ -80,17 +80,11 @@ Le C. C. nell’atto motorio permettono:
 - Cambiare le condizioni esterne. 
 - Modificare le abitudini di allenamento. 
 - Modificare le regole di gioco. 
-- Combinare più abilità motorie già automatizzate. Eseguire esercizi in tempi stabiliti. Eseguire esercizi in stato di affaticamento. Eseguire esercizi simmetricamente. Esecuzione di sequenze prefissate.
-
-## Capacità organico muscolari (capacità condizionali/ fisiche)
-- Forza, Rapidità, Resistenza 
-- Si basano sull’efficienza dei muscoli e dell’apparato cardiocircolatorio 
-- I fattori che limitano le capacità condizionali sono determinati dalla disponibilità di energia nei muscoli e dai meccanismi che ne regolano l’erogazione (enzimi, qualità fibre muscolari …)
-
-### Mobilità articolare o flessibilità
-- Capacità di compiere gesti con l’impiego di una escursione articolare più ampia possibile 
-- Capacità motoria posta in una posizione intermedia fra le capacità coordinative e quelle condizionali.
-
+- Combinare più abilità motorie già automatizzate. 
+- Eseguire esercizi in tempi stabiliti. 
+- Eseguire esercizi in stato di affaticamento. 
+- Eseguire esercizi simmetricamente. 
+- Esecuzione di sequenze prefissate.
 
 ## Capacità di apprendimento motorio
 Consiste nell'assimilazione e nell'acquisizione di movimenti o di parti di movimenti precedentemente non posseduti che devono essere immediatamente stabilizzati
@@ -102,9 +96,34 @@ E’ la capacità di controllare il movimento in funzione dello scopo previsto, 
 E’ la capacità di cambiare, trasformare ed adattare il programma motorio alla modificazione improvvisa della situazione o delle condizioni esterne
 
 
+## Capacità organico muscolari (capacità condizionali/ fisiche)
+- Forza, Rapidità, Resistenza 
+- Si basano sull’efficienza dei muscoli e dell’apparato cardiocircolatorio 
+- I fattori che limitano le capacità condizionali sono determinati dalla disponibilità di energia nei muscoli e dai meccanismi che ne regolano l’erogazione (enzimi, qualità fibre muscolari …)
+
+### Forza
+- È la capacità che permette di vincere od opporsi a una resistenza esterna attraverso una tensione del sistema neuromuscolare.
+- Ovviamente la forza dipenderà dalle caratteristiche strutturali del muscolo e da quelle del sistema nervoso che ne definisce e decide il funzionamento.
+- Diverse sono le espressioni della forza a seconda che prevalga l’aspetto quantitativo o l’aspetto qualitativo.
+
+### Forza massimale
+- Se prevale l’aspetto quantitativo ci troviamo di fronte alla forza massimale che è la massima forza prodotta dalla massima contrazione volontaria
+- E’ soggetta ad un notevole incremento solo al momento della pubertà; il tutto è causato dalla produzione degli ormoni sessuali con carattere anabolizzante
+
+### Forza rapida
+
+
+### Mobilità articolare o flessibilità
+- Capacità di compiere gesti con l’impiego di una escursione articolare più ampia possibile 
+- Capacità motoria posta in una posizione intermedia fra le capacità coordinative e quelle condizionali.
+
+
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjI5MDcxMSwtMjk3OTE5NDQ1XX0=
+eyJoaXN0b3J5IjpbLTExNDg3NDc0NDgsLTI5NzkxOTQ0NV19
 -->
