@@ -1,6 +1,0 @@
-#!/bin/bash 
-
-while true #commento
-do
-nc -l -p9800 -c cowsay
-done

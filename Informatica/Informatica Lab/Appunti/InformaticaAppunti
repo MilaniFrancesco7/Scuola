@@ -1,4 +1,0 @@
-Operazione atomica -> Inscindibile dal punto di vista logico, nessun'altra operazione può cominciare prima che la prima sia finita
--> Proprietà ACID (Atomicity, Consistency, Isolation, Durability)
-
-
