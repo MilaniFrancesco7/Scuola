@@ -1,0 +1,88 @@
+nc.traditional
+
+La differenza con il netcat normale si trova nelle options
+Sono due opzioni, ovvero la -c e la -e.
+Queste opzioni hanno tra parentesi la scritta (use with caution)
+Si può legare il netcat con l'esecuzione di uno script o di un programma
+Con netcat e il nostro programma, siamo in grado di crearci un demone
+
+-c e -e si distinguono per alcune problematiche
+
+Alcuni eseguibili funzionano anche al di fuori dell'ambientazione del programma stesso.
+Se il mio programma ha bisogno di avere le sue variabile d'ambiente e il contorno che la shell gli fornisce, uso un'opzione al posto dell'altra
+
+Utilizzerò una bash che creerà un ambiente in cui far andare il demone
+
+Se termina l'esecuzione del programma, termina l'esecuzione anche ad nc
+
+Se il processo si chiude "con cattiveria"co, nc e il processo rimarranno come zombie
+
+Se si chiude "elegantemente", nc si chiude e chiude il processo
+
+
+chmod +X nomefile //Per rendere eseguibile
+
+
+_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._.
+
+cowsay
+ciao
+tutto bene
+ctrl c - termina il programma
+ctrl d - chiusura flusso di dati ( fine file )
+
+
+demone di rete cowsay
+
+(term 1) nc.traditional -l -p9800 -c cowsay
+(term 2) nc localhost 9800 
+
+dinamica
+
+(term 3) netstat -panetu (panetu può essere anche anagrammato)  
+-> vengono elencati tutti i socket della macchina
+-> Alcuni in tcp e altri in udp
+-> pid program = sono abbinati a dei programmi chesolo l'amministratore gestisce, e non sono dati in visione all'utente normale
+
+nc che va da una porta qualsiasi alla 9800
+un' altro nc che fa l'inverso
+
+è il socket che rappresenta la connessione al client e la connesione di rete al server, a connessione avvenuta
+
+
+(term 2) ciao banane
+
+-> Risponde
+
+-> Perchè abbiamo utilizzato l'input e l'output di rete
+
+il -c unisce lo stdin e stdout di rete al cowsay 
+
+(term 1) Ha terminato l'esecuzione, non si è interrotta
+
+La connessione è stata chiusa dal lato server
+
+
+------Chiamate consecutive non contemporanee (Gioco della fenice)-------------------
+
+File bash
+
+
+#!/bin/bash
+
+//Istruzione su come leggere il codice      termine tecnico (SHABANG)
+
+La bash prevede di avere costrutti iterativi - è simile alla powershell, non al prompt
+
+
+
+
+
+
+
+
+
+
+
+
+

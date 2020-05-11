@@ -1,0 +1,57 @@
+html
+{
+	height:120%;
+}
+
+h1 
+{
+  background-color: #26734d;
+  border-style:solid;
+  width:20%;
+}
+
+h4 
+{
+  background-color: #339966;
+  border-style:double;
+  border-width: 5px;
+  width:20%
+}
+
+h3 
+{
+  background-color: #339966;
+  border-style:double;
+  border-width: 5px;
+}
+
+body
+{
+	text-align:center;
+	background: rgb(0,186,43);
+	background: linear-gradient(0deg, rgba(0,186,43,1) 0%, rgba(0,218,179,1) 97%); 
+	background-repeat:no repeat;
+}
+
+input[type=text],select,[type=email],[type=tel]{
+  width:30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit],[type=reset] {
+  background-color:  #006622;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}

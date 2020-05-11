@@ -1,0 +1,11 @@
+#!/bin/bash
+
+PORTA=2080
+
+NOMEFILE=index.htmlhttp
+
+while(true)
+
+do 
+    nc -l -p${PORTA} < "$NOMEFILE"
+done
