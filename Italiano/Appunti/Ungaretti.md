@@ -18,6 +18,14 @@
 - Deciso interventista -> Vede la guerra come mezzo per affermare ideali patriottici e nazionalisti e per rafforzare il suo rapporto spirituale con l'Italia
 - Si arruola volontario (soldato semplice) 
 - Combatte sul Carso e sul fronte Francese
+- Durante le battaglie si rende conto della crudeltà della guerra
+
+1918 - Dopoguerra - Trasferimento a Parigi
+- E' corrispondente per "Il popolo d'Italia", fondato da Mussolini.
+- 1919 - Matrimonio con Jeanne Dupoix
+
+1920 - Ritorno in Italia con la moglie 
+- 1921 / 1936 -> Periodo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDI5Mjk0M119
+eyJoaXN0b3J5IjpbMTc0OTM1NzQzNl19
 -->
