@@ -105,8 +105,20 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 ### Stile
 - Analisi interiore
 - Ricerca della purezza e dell'essenzialità della parola
-- 
+- Rilievo dato dagli spazi bianchi
+- La parola ha una duplice rivelazione
+	- Umana -> Significato della vita
+	- Poetica -> Intima essenza delle cose
+- Ricerca di un assoluto "poetico"
+
+### Sperimentalismo stilistico
+- Abolizione della punteggiatura sostituita da spazi bianchi
+- Rifiuto della lingua aulica
+- Essenzialità della parola
+- Uso dell'analogia
+- Scardinamento della sintassi 
+- Ricorso al verso libero
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDQ3MTkxOV19
+eyJoaXN0b3J5IjpbMTc1OTcwMjU5MV19
 -->
