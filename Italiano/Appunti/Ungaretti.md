@@ -82,19 +82,7 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 
 ### Liriche più importanti
 #### In memoria
-- 1916
-- Dedicata a moammed Sceab -> amico d'infanzia trasferitosi a Parigi con Ungaretti ma mai integrato, morto suicida
-- Pensiero:
-	- Ricerca dell'essenzialità espressiva
-- Contenuti:
-	- Senso di sradicamento
-- Metrica:
-	- Versi liberi, brevi e di misura variabile
-- Temi:
-	- Negazione dell'identità di Moammed
-	- Rievocazione del passato al presente
-	- Analogie con i luoghi di Parigi e quelli dell'Egitto
-
+-
 #### Il porto sepolto
 - Riflessione sull'origine della poesia e dell'ispirazione poetica
 - Ricerca laboriosa
@@ -119,6 +107,20 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 - Scardinamento della sintassi 
 - Ricorso al verso libero
 
+### Poesie
+### In memoria
+- 1916
+- Dedicata a moammed Sceab -> amico d'infanzia trasferitosi a Parigi con Ungaretti ma mai integrato, morto suicida
+- Pensiero:
+	- Ricerca dell'essenzialità espressiva
+- Contenuti:
+	- Senso di sradicamento
+- Metrica:
+	- Versi liberi, brevi e di misura variabile
+- Temi:
+	- Negazione dell'identità di Moammed
+	- Rievocazione del passato al presente
+	- Analogie con i luoghi di Parigi e quelli dell'Egitto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTcwMjU5MV19
+eyJoaXN0b3J5IjpbMTU2NjQwNjgyNF19
 -->
