@@ -47,7 +47,7 @@
 
 1970 - Muore a Milano
 
-## Le opere
+# Le opere
 
 ## L'allegria
 - 1916 -> "Il porto sepolto"
@@ -186,8 +186,15 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 	- Ricordi del passato
 
 ## Vita d'un uomo
-- 
+- 1969
+- Raccolta della sua intera produzione poetica
+	- Autobiografia poetica ideale (modello Canzoniere di Petrarca)
+	- Esigenza di far coincidere vita e letteratura
 
+
+# Il pensiero attraverso le opere
+## Prima fase : lo sperimentalismo
+- Forte sperimentalismo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU4ODM5MjcsMjA2NDA1MTg0NV19
+eyJoaXN0b3J5IjpbLTEzMTIwNTM1NiwyMDY0MDUxODQ1XX0=
 -->
