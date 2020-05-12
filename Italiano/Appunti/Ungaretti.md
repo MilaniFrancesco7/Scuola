@@ -235,7 +235,15 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 	- Fusione tra esperienza barocca e linguaggio analogico di matrice simbolista
 
 ## Terza fase: la compostezza formale
-- Rappresenta le raccolte: il dolore/
+- Rappresenta le raccolte: il dolore/La terra promessa/Un grido e paesaggi/Il taccuino del vecchio
+- Recupero della tradizione classica
+- Apertura al colloquio con gli altri uomini
+	- Temi concreti di carattere universale (Dolore per il figlio - WWII)
+- Compostezza formale
+- Dimensione classica
+
+# Ungaretti come precursore dell'Ermetismo
+- Poesia ermetica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mzk3MTY0MywyMDY0MDUxODQ1XX0=
+eyJoaXN0b3J5IjpbLTEwNzYyOTQzLDIwNjQwNTE4NDVdfQ==
 -->
