@@ -194,7 +194,17 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 
 # Il pensiero attraverso le opere
 ## Prima fase : lo sperimentalismo
-- Forte sperimentalismo 
+- Forte sperimentalismo stilistico
+- Influsso della poesia simbolista francese
+- decisa impronta autobiografica
+	- indicazione del luogo e della data
+- Fondamento nelle esigenze esistenziali recuperate attraverso la memoria
+- La poesia viene innalzata a simbolo di una condizione universale (Simbolismo)
+- Forma:
+	- Ardite metafore
+	- Uso dell'analogia
+	- Legami logici basati sull'intuizione
+	- Rinnovamento del linguaggio poetico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTIwNTM1NiwyMDY0MDUxODQ1XX0=
+eyJoaXN0b3J5IjpbLTE3NzEyODk0MjYsMjA2NDA1MTg0NV19
 -->
