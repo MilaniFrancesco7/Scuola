@@ -87,7 +87,15 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 - Pensiero:
 	- Ricerca dell'essenzialità espressiva
 - Contenuti:
-	- Senso di sra
+	- Senso di sradicamento
+- Metrica:
+	- Versi liberi, brevi e di misura variabile
+- Temi:
+	- Negazione dell'identità di Moammed
+	- Rievocazione del passato al presente
+	- Analogie con i luoghi di Parigi e quelli dell'Egitto
+
+#### Il porto s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTQyMjE1XX0=
+eyJoaXN0b3J5IjpbLTc5OTQ1OTEyN119
 -->
