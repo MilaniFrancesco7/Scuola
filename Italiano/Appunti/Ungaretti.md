@@ -243,7 +243,10 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 - Dimensione classica
 
 # Ungaretti come precursore dell'Ermetismo
-- Poesia ermetica
+- Uguaglianze tra la poesia Ermetica e la poesia Ungarettiana:
+	- Adozione del verso libero
+	- Ricerca della "parola essenziale"
+	- Uso dell'analogia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYyOTQzLDIwNjQwNTE4NDVdfQ==
+eyJoaXN0b3J5IjpbNzIzNzk2MjU2LDIwNjQwNTE4NDVdfQ==
 -->
