@@ -1,6 +1,6 @@
 # Giuseppe Ungaretti
 
-## Vita
+# Vita
 - Nasce -> Alessandria d'Egitto - 10 Febbraio 1888 da emigrati italiani
 - 1890 - Morte del padre
 - Frequenta la scuola ad Alessandria, entra in contatto con gli anarchici italiani
@@ -68,9 +68,20 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 	- "Girovago"
 	- "Prime" -> Nuovo modo di poetare
 
-- Temi:
+- Forma:
 	- Sfondo della WWI
-	- Scritto in forma di diario -> Data/Luogo di composizione (Visto dall'autore come un "esame dic
+	- Scritto in forma di diario -> Data/Luogo di composizione (Visto dall'autore come un "esame di coscienza quotidiano")
+- Temi:
+
+	- Vita del soldato
+	- Senso di precarietà (Soldati)
+	- Volontà di vivere
+	- Valore della fratellanza
+	- Ricordi lontani
+	- Natura coincidente con l'animo straziato del poeta
+
+#### Liriche più importanti
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQyMDY5MzNdfQ==
+eyJoaXN0b3J5IjpbLTEyMDUyMTMwNDldfQ==
 -->
