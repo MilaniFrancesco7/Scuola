@@ -133,7 +133,17 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 	- Versi liberi
 
 ### Fratelli
-- 1917
+- 1916
+- Contenuti:
+	- L'atrocità della guerra fa ricoprire la fratellanza
+- Pensiero:
+	- Poesia come ricerca dell'essenza intima della realtà
+	- Essenzialità espressiva
+
+### I fiumi
+- 1916
+- Fiume isonzo come teatro tragico, con riflessione sugli altri fiumi
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTEwNzQ3MzBdfQ==
+eyJoaXN0b3J5IjpbMTA1NTE4MDY3OF19
 -->
