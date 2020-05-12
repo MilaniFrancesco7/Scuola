@@ -226,7 +226,16 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 - Stile:
 	- Sintassi strutturata
 	- Recupero della punteggiatura
-	- Forme met
+	- Forme metriche tradizionali (Ritorno all'ordine)
+- Forma:
+	- Linguaggio ricercato
+	- Analogie e metafore (Barocco Ungarettiano)
+	- Senso di decadenza
+		- Grandiosità della forma
+	- Fusione tra esperienza barocca e linguaggio analogico di matrice simbolista
+
+## Terza fase: la compostezza formale
+- Rappresenta le raccolte: il dolore/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIyNjUxNzAsMjA2NDA1MTg0NV19
+eyJoaXN0b3J5IjpbMTg1Mzk3MTY0MywyMDY0MDUxODQ1XX0=
 -->
