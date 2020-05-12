@@ -172,8 +172,22 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 - Una volta morto, il poeta si ricongiungerà con la madre dal cospetto di Dio
 - Contenuti:
 	- Attesa del perdono divino
+- Pensiero:
+	- Riscoperta della religiosità
+	- Recupero dei metri della tradizione
+- Metrica:
+	- Libera alternanza di endecasillabi e settenari
+
+## Il dolore
+- 1947
+- Terza fase della poetica
+	- Sensazione di vuoto (Perdita dei cari)
+	- Sofferenza per le atrocità della guerra
+	- Ricordi del passato
+
+## Vita d'un uomo
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkwNTQ5NTksMjA2NDA1MTg0NV19
+eyJoaXN0b3J5IjpbLTEyMzU4ODM5MjcsMjA2NDA1MTg0NV19
 -->
