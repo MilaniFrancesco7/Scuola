@@ -158,8 +158,22 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 	- Senso dell'esistenza
 	- Riproposizione dei miti classici (Divinità mitologiche)
 	- Tensione verso il divino
-	- Sensibilità barocca (Mor
+	- Sensibilità barocca (Morte, meditazione sul tempo)
+- Paesaggi:
+	- Roma barocca
+	- Campagna romana e laziale
+- Stile:
+	- Periodi ampi e articolati
+	- Linguaggio aulico, elevato e prezioso
+	- Analogie complicate
+
+### Poesie
+### La madre
+- Una volta morto, il poeta si ricongiungerà con la madre dal cospetto di Dio
+- Contenuti:
+	- Attesa del perdono divino
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTk5Mzg1OCwyMDY0MDUxODQ1XX0=
+eyJoaXN0b3J5IjpbLTEyMTkwNTQ5NTksMjA2NDA1MTg0NV19
 -->
