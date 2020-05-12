@@ -31,8 +31,16 @@
 - 1928 -> Vive una crisi religiosa che lo porta a riabbracciare la fede cristiana
 - 1930 -> Nasce il figlio Antonietto
 - 1931/1935 -> inviato speciale della "Gazzetta del Popolo"
-	- Tiene confere
+	- Tiene conferenze internazionali sulla leteratura italiana
+	- 1931 - Pubblica "Allegria"
+	- 1933 - Pubblica "Sentimento del tempo"
+
+1936 - Trasferimento in Brasile
+- Ottiene la cattedra di lingua e letteratura italiana all'Università di San Paolo
+- Periodo della morte del fratello e del figlio Antonietto
+
+1943 - Ultimo ritorno 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzNzAxOTE0XX0=
+eyJoaXN0b3J5IjpbLTE3MDA1NDAwMjVdfQ==
 -->
