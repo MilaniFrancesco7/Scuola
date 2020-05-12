@@ -204,7 +204,17 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 	- Ardite metafore
 	- Uso dell'analogia
 	- Legami logici basati sull'intuizione
-	- Rinnovamento del linguaggio poetico
+	- Rinnovamento del linguaggio poetico (Futurismo)
+	- Parola poetica:
+		- Carica di significati profondi
+		- Mezzo per cogliere l'essenza delle cose
+		- recupero di una purezza originale
+		- Sofferto scavo interiore
+-  Innovazioni stilistiche:
+	- Linguaggio scarno, essenziale
+	- Verso libero, spesso attraverso l'unione di più versi si forma un verso regolare
+	- Riduzione del verso, anche ad una singola parola
+	- U
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzEyODk0MjYsMjA2NDA1MTg0NV19
+eyJoaXN0b3J5IjpbLTE3OTA5Mjg2NjUsMjA2NDA1MTg0NV19
 -->
