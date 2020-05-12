@@ -53,7 +53,15 @@
 - 1916 -> "Il porto sepolto"
 - 1919 -> "Allegria di naufragi" (Il porto sepolto diventa la prima sezione)
 - 1931 -> "L'allegria" (Ampliamento definitivo dell'opera)
-- 19
+- 1942 -> Pubblicazione dell'edizione definitiva
+
+L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 anni, con una profonda rielaborazione dei testi
+
+- Titolo:
+	- Rappresenta la ricerca di essenzialità
+	- Trasmette una forza vitale e positiva
+	- Rappresenta l'approdo a una nuova concezione dell'esistenza
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTM0MzYxMF19
+eyJoaXN0b3J5IjpbNDkwNjMxOTUwXX0=
 -->
