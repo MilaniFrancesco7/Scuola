@@ -143,7 +143,13 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 ### I fiumi
 - 1916
 - Fiume isonzo come teatro tragico, con riflessione sugli altri fiumi
-- 
+- Contenuti:
+	- Riemergere dei ricordi del passato
+	- Armonia interiore data dalla natura
+- Pensiero:
+	- Analogie frequenti
+	- Ricerca dell'essenzialità espressiva
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTE4MDY3OF19
+eyJoaXN0b3J5IjpbMjA2NDA1MTg0NV19
 -->
