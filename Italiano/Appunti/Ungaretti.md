@@ -49,8 +49,14 @@
 
 ## Le opere
 
+### L'allegria
+- 1916 -> "Il porto sepolto"
+- 1919 -> "Allegria di naufragi" (Il porto sepolto diventa la prima sezione)
+- 1931 -> "L'allegria" (Ampliamento definitivo dell'opera)
+
+Prima fase della produzione poetica 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkyODg5NV19
+eyJoaXN0b3J5IjpbLTgxODczNDg4MV19
 -->
