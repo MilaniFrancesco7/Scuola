@@ -25,7 +25,14 @@
 - 1919 - Matrimonio con Jeanne Dupoix
 
 1920 - Ritorno in Italia con la moglie 
-- 1921 / 1936 -> Periodo 
+- 1921 / 1936 -> Periodo Romano
+- Periodo di adesione al fascismo
+- 1925 -> Nasce la figlia Anna Maria
+- 1928 -> Vive una crisi religiosa che lo porta a riabbracciare la fede cristiana
+- 1930 -> Nasce il figlio Antonietto
+- 1931/1935 -> inviato speciale della "Gazzetta del Popolo"
+	- Tiene confere
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTM1NzQzNl19
+eyJoaXN0b3J5IjpbNzIzNzAxOTE0XX0=
 -->
