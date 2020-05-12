@@ -80,8 +80,14 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 	- Ricordi lontani
 	- Natura coincidente con l'animo straziato del poeta
 
-#### Liriche più importanti
-
+### Liriche più importanti
+#### In memoria
+- 1916
+- Dedicata a moammed Sceab -> amico d'infanzia trasferitosi a Parigi con Ungaretti ma mai integrato, morto suicida
+- Pensiero:
+	- Ricerca dell'essenzialità espressiva
+- Contenuti:
+	- Senso di sra
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDUyMTMwNDldfQ==
+eyJoaXN0b3J5IjpbLTUzNTQyMjE1XX0=
 -->
