@@ -214,7 +214,19 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 	- Linguaggio scarno, essenziale
 	- Verso libero, spesso attraverso l'unione di più versi si forma un verso regolare
 	- Riduzione del verso, anche ad una singola parola
-	- U
+	- Uso dell'analogia
+	- Frantumazione della sintassi
+	- Presenza di spazi bianchi, rappresentanti pause, silenzi derivati dai futuristi
+	- Verticalizzazione della lirica
+## Seconda fase: il recupero della tradizione
+- Rinnovato sentimento religioso
+- Attenzione al tempo interiore (Bergson)
+	- Tema della percezione del tempo
+	- Meditazione sulla morte
+- Stile:
+	- Sintassi strutturata
+	- Recupero della punteggiatura
+	- Forme met
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA5Mjg2NjUsMjA2NDA1MTg0NV19
+eyJoaXN0b3J5IjpbLTE1MzIyNjUxNzAsMjA2NDA1MTg0NV19
 -->
