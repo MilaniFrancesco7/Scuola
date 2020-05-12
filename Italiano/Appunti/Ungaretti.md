@@ -82,11 +82,10 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 
 ### Liriche più importanti
 #### In memoria
--
+- Dedicata a moammed Sceab
 #### Il porto sepolto
 - Riflessione sull'origine della poesia e dell'ispirazione poetica
 - Ricerca laboriosa
-
 #### Allegria di naufragi
 - Definizione del processo della creazione poetica
 
@@ -121,6 +120,20 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 	- Negazione dell'identità di Moammed
 	- Rievocazione del passato al presente
 	- Analogie con i luoghi di Parigi e quelli dell'Egitto
+	
+### Veglia
+- 1915
+- Veglia accanto al cadavere di un compagno morto nella battaglia
+- Contenuti:
+	- Onore e pietà davanti al dramma della guerra
+	- Vicinanza alla morte -> Amore per la vita
+- Pensiero:
+	- Sperimentalismo formale
+- Metrica:
+	- Versi liberi
+
+### Fratelli
+- 1917
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjQwNjgyNF19
+eyJoaXN0b3J5IjpbLTExMTEwNzQ3MzBdfQ==
 -->
