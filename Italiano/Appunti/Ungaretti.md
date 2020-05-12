@@ -39,8 +39,18 @@
 - Ottiene la cattedra di lingua e letteratura italiana all'Università di San Paolo
 - Periodo della morte del fratello e del figlio Antonietto
 
-1943 - Ultimo ritorno 
+1943 - Ultimo ritorno in Italia
+- Ottiene la cattedra di letteratura italiana a Roma
+- 1947 -> Pubblica "Il dolore"
+- 1958 -> Morte della moglie
+- 1969 -> Pubblica "Vita d'un uomo"
+
+1970 - Muore a Milano
+
+## Le opere
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA1NDAwMjVdfQ==
+eyJoaXN0b3J5IjpbLTE5MDkyODg5NV19
 -->
