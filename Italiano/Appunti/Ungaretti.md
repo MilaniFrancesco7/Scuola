@@ -61,7 +61,16 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 	- Rappresenta la ricerca di essenzialità
 	- Trasmette una forza vitale e positiva
 	- Rappresenta l'approdo a una nuova concezione dell'esistenza
+- 5 sezioni:
+	- "Ultime" -> Superamento dei modi poetici giovanili
+	- "Il porto sepolto"
+	- "Naufragi"
+	- "Girovago"
+	- "Prime" -> Nuovo modo di poetare
 
+- Temi:
+	- Sfondo della WWI
+	- Scritto in forma di diario -> Data/Luogo di composizione (Visto dall'autore come un "esame dic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNjMxOTUwXX0=
+eyJoaXN0b3J5IjpbLTE5OTQyMDY5MzNdfQ==
 -->
