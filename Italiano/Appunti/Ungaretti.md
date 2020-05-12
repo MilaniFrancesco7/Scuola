@@ -49,7 +49,7 @@
 
 ## Le opere
 
-### L'allegria
+## L'allegria
 - 1916 -> "Il porto sepolto"
 - 1919 -> "Allegria di naufragi" (Il porto sepolto diventa la prima sezione)
 - 1931 -> "L'allegria" (Ampliamento definitivo dell'opera)
@@ -95,7 +95,18 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 	- Rievocazione del passato al presente
 	- Analogie con i luoghi di Parigi e quelli dell'Egitto
 
-#### Il porto s
+#### Il porto sepolto
+- Riflessione sull'origine della poesia e dell'ispirazione poetica
+- Ricerca laboriosa
+
+#### Allegria di naufragi
+- Definizione del processo della creazione poetica
+
+### Stile
+- Analisi interiore
+- Ricerca della purezza e dell'essenzialità della parola
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTQ1OTEyN119
+eyJoaXN0b3J5IjpbMTgwNDQ3MTkxOV19
 -->
