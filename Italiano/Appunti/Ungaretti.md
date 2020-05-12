@@ -150,6 +150,16 @@ L'opera rappresenta un lavoro complesso di correzione e sistemazione durato 20 a
 	- Analogie frequenti
 	- Ricerca dell'essenzialità espressiva
 
+
+## Sentimento del tempo
+- 1921/1936 -> Anni del soggiorno Romano
+- Sette sezioni (1943 versione definitiva)
+- Temi:
+	- Senso dell'esistenza
+	- Riproposizione dei miti classici (Divinità mitologiche)
+	- Tensione verso il divino
+	- Sensibilità barocca (Mor
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDA1MTg0NV19
+eyJoaXN0b3J5IjpbMTMwMTk5Mzg1OCwyMDY0MDUxODQ1XX0=
 -->
