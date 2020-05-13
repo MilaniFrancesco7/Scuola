@@ -18,8 +18,8 @@
     }
     %>>
     <center>
-        <h2> Data e Ora attuali: </h3>
-        <h3><% out.print(new Date().toString()); %></h4>
+        <h2> Data e Ora attuali: </h2>
+        <h3><% out.print(new Date().toString()); %></h3>
   
         <h2> Scelta colore con POST</h2>  
         <form action="Data_Ora.jsp" method="post">
