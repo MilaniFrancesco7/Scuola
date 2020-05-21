@@ -40,15 +40,17 @@ L'Access Point verrà collegato al Router, ma per ovviare ad altri problemi, com
 Risolto il problema della rete ospiti, sarà necessario proteggere la rete anche da attacchi su rete locale. 
 Per questo il posizionamento di un firewall diventa necessario.
 
-Andrò ad acquistare un firewall Cisco Small Business Pro SA 540, che corrisponde alle caratteristiche dell'azienda, essendo strutturato 
+Andrò ad acquistare un'apparecchiatura Cisco Small Business Pro SA 540, che corrisponde alle caratteristiche dell'azienda, essendo progettato per aziende con meno di 100 dipendenti, unendo in un device all-in-one le funzionalità di firewall, VPN e sicurezza per e-mail e WEB.
+
+Il 
 
 Dispositivi wifi : settati correttamente -> Computer o stampanti senza Ip Statici
 Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjg0ODEwNywxODI3NDc5NjI1LC0xOT
-MxNzcxMDYxLC0xMjM5NTEwNDczLDE3NjgzMjkzNDgsMTMxMzg2
-MzYyMywtMTg4ODcxOTkyMiwtMTk1MTA5NTQ1MCwtMTQxNDg0Nz
-c1NiwyMDkxMjMwMTI5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEyNjQ5NDc2MTQsMTgyNzQ3OTYyNSwtMT
+kzMTc3MTA2MSwtMTIzOTUxMDQ3MywxNzY4MzI5MzQ4LDEzMTM4
+NjM2MjMsLTE4ODg3MTk5MjIsLTE5NTEwOTU0NTAsLTE0MTQ4ND
+c3NTYsMjA5MTIzMDEyOSwtMjA4ODc0NjYxMl19
 -->
