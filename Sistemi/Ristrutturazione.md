@@ -25,7 +25,9 @@ Le VLAN sono così suddivise:
 I dispositivi Wi-Fi, ovvero:
 - x6 Smartphone
 - x5 Tablet
-Essi sono tutti connessi tramite
+Sono tutti connessi tramite DHCP senza IP statici, quindi non presentano alcun problema da quel punto di vista.
+
+La prima problematica esce 
 
 
 
@@ -34,7 +36,7 @@ Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjA3NzQ1OSwtMTkzMTc3MTA2MSwtMT
+eyJoaXN0b3J5IjpbMTI0NzU3OTg1NywtMTkzMTc3MTA2MSwtMT
 IzOTUxMDQ3MywxNzY4MzI5MzQ4LDEzMTM4NjM2MjMsLTE4ODg3
 MTk5MjIsLTE5NTEwOTU0NTAsLTE0MTQ4NDc3NTYsMjA5MTIzMD
 EyOSwtMjA4ODc0NjYxMl19
