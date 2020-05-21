@@ -28,7 +28,7 @@ I dispositivi Wi-Fi, ovvero:
 - x5 Tablet
 Sono tutti connessi tramite DHCP senza IP statici, quindi non presentano alcun problema da quel punto di vista.
 
-La prima problematica emerge al momento di una connessione da parte di dispositivi ospiti, dato che un dispositivo esterno viene fatto connettere ad unop 
+La prima problematica emerge al momento di una connessione da parte di dispositivi ospiti, dato che un dispositivo esterno viene fatto connettere alla rete WiFi aziendale, data la mancanza 
 
 
 
@@ -37,7 +37,7 @@ Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODcxMTA4NCwtMTkzMTc3MTA2MSwtMT
+eyJoaXN0b3J5IjpbMTgyNzQ3OTYyNSwtMTkzMTc3MTA2MSwtMT
 IzOTUxMDQ3MywxNzY4MzI5MzQ4LDEzMTM4NjM2MjMsLTE4ODg3
 MTk5MjIsLTE5NTEwOTU0NTAsLTE0MTQ4NDc3NTYsMjA5MTIzMD
 EyOSwtMjA4ODc0NjYxMl19
