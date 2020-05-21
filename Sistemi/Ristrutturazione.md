@@ -46,11 +46,11 @@ Il device andrà posizionato dopo il Router, sulla connessione per l'ISP, in mod
 
 Andrei inoltre a posizionare un apparecchio minore, come un router Cisco 886, programmandolo in modalità di firewall. Andrebbe posto nella connessione tra DMZ e router principale, così da poter essere un ulteriore schermo tra la zona demilitarizzata e il nostro router principale.
 
-Concludo la mia relazione sottolineando come per 
+Concludo la mia relazione sottolineando come la rete fosse già solida in precedenza, ma con l'apporto di piccole modifiche è migliorata sotto gli aspetti di sicurezza e 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTE5MDA1MSwtMjAxMjAzODMzOSwxNT
+eyJoaXN0b3J5IjpbMjA4OTU4ODAwMSwtMjAxMjAzODMzOSwxNT
 AxODA5Mzc3LC0yMDYzNjg3MDU2LC0xMjY0OTQ3NjE0LDE4Mjc0
 Nzk2MjUsLTE5MzE3NzEwNjEsLTEyMzk1MTA0NzMsMTc2ODMyOT
 M0OCwxMzEzODYzNjIzLC0xODg4NzE5OTIyLC0xOTUxMDk1NDUw
