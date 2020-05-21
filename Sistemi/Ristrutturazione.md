@@ -42,15 +42,18 @@ Per questo il posizionamento di un firewall diventa necessario.
 
 Andrò ad acquistare un'apparecchiatura Cisco Small Business Pro SA 540, che corrisponde alle caratteristiche dell'azienda, essendo progettato per aziende con meno di 100 dipendenti, unendo in un device all-in-one le funzionalità di firewall, VPN e sicurezza per e-mail e WEB.
 
-Il 
+Il device andrà posizionato dopo il Router, sulla connessione per l'ISP, in modo da poter bloccare la totalità degli attacchi e per poter mantenere sicura la nostra rete.
+
+Andrei inoltre a posizionare un apparecchio minore, come un  
 
 Dispositivi wifi : settati correttamente -> Computer o stampanti senza Ip Statici
 Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ5NDc2MTQsMTgyNzQ3OTYyNSwtMT
-kzMTc3MTA2MSwtMTIzOTUxMDQ3MywxNzY4MzI5MzQ4LDEzMTM4
-NjM2MjMsLTE4ODg3MTk5MjIsLTE5NTEwOTU0NTAsLTE0MTQ4ND
-c3NTYsMjA5MTIzMDEyOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTAyMzQ0NDk2LC0xMjY0OTQ3NjE0LDE4Mj
+c0Nzk2MjUsLTE5MzE3NzEwNjEsLTEyMzk1MTA0NzMsMTc2ODMy
+OTM0OCwxMzEzODYzNjIzLC0xODg4NzE5OTIyLC0xOTUxMDk1ND
+UwLC0xNDE0ODQ3NzU2LDIwOTEyMzAxMjksLTIwODg3NDY2MTJd
+fQ==
 -->
