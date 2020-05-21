@@ -14,7 +14,7 @@ I dispositivi presenti di rete sono:
 
 La struttura gerarchica prevede lo switch multilayer Cisco al centro che ridistribuisce la connessione ai 3 switch e al server dati.
 I 3 switch ZYXEL interconnettono i 6 computer, divisi in 3 per switch, più un computer aggiuntivo per il terzo switch.
-Lo switch centrale è connesso per l'accesso a internet al router Cisco, connesso a sua volta all'ISP. Inoltre il router stesso sostiene l'interconnessione con il server web.
+Lo switch centrale è connesso per l'accesso a internet al router Cisco, connesso a sua volta all'ISP. Inoltre il router stesso sostiene l'interconnessione con il server web e i 2 Access Point per la connessione WiFi.
 
 La rete è stata strutturata anche a livello logico per una miglior suddivisione degli ambiti lavorativi, con la definizione di 4 VLAN.
 Le VLAN sono così suddivise:
@@ -30,7 +30,7 @@ Sono tutti connessi tramite DHCP senza IP statici, quindi non presentano alcun p
 
 La prima problematica emerge al momento di una connessione da parte di dispositivi ospiti, dato che un dispositivo esterno viene fatto connettere alla rete WiFi aziendale, data la mancanza di una rete ospiti.
 Per questo per ovviare al problema predisporrerei l'aggiunta di una VLAN 5, acquistando un ulteriore Access Point, aumentandone quindi il numero a 3. 
-La rete verrà collegata al Router
+L'Access Point verrà collegato al Router
 
 
 
@@ -39,7 +39,7 @@ Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzM3MzEwNSwxODI3NDc5NjI1LC0xOT
+eyJoaXN0b3J5IjpbMTEyMTM0MDYzNCwxODI3NDc5NjI1LC0xOT
 MxNzcxMDYxLC0xMjM5NTEwNDczLDE3NjgzMjkzNDgsMTMxMzg2
 MzYyMywtMTg4ODcxOTkyMiwtMTk1MTA5NTQ1MCwtMTQxNDg0Nz
 c1NiwyMDkxMjMwMTI5LC0yMDg4NzQ2NjEyXX0=
