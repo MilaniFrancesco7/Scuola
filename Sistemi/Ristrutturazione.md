@@ -8,7 +8,7 @@ I dispositivi presenti di rete sono:
 - x3 Switch ZYXEL AMG-T10B da 8 porte
 - x1 Router Cisco RV320
 - x1 Server Dati HP Enterprise D3160
-- x2 Server Web HP Enterprise 
+- x2 Server Web HP Enterprise ProLiant Micro
 - x6 Computer
 - 
 
@@ -18,7 +18,7 @@ Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzgyMDk5OCwtMTg4ODcxOTkyMiwtMT
+eyJoaXN0b3J5IjpbMTMxMzg2MzYyMywtMTg4ODcxOTkyMiwtMT
 k1MTA5NTQ1MCwtMTQxNDg0Nzc1NiwyMDkxMjMwMTI5LC0yMDg4
 NzQ2NjEyXX0=
 -->
