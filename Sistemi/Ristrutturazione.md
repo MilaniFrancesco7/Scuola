@@ -44,16 +44,16 @@ Andrò ad acquistare un'apparecchiatura Cisco Small Business Pro SA 540, che cor
 
 Il device andrà posizionato dopo il Router, sulla connessione per l'ISP, in modo da poter bloccare la totalità degli attacchi e per poter mantenere sicura la nostra rete.
 
-Andrei inoltre a posizionare un apparecchio minore, come un  
+Andrei inoltre a posizionare un apparecchio minore, come un router Cisco 886, programmandolo in mol 
 
 Dispositivi wifi : settati correttamente -> Computer o stampanti senza Ip Statici
 Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzQ0NDk2LC0xMjY0OTQ3NjE0LDE4Mj
-c0Nzk2MjUsLTE5MzE3NzEwNjEsLTEyMzk1MTA0NzMsMTc2ODMy
-OTM0OCwxMzEzODYzNjIzLC0xODg4NzE5OTIyLC0xOTUxMDk1ND
-UwLC0xNDE0ODQ3NzU2LDIwOTEyMzAxMjksLTIwODg3NDY2MTJd
-fQ==
+eyJoaXN0b3J5IjpbMTE4MzQ2MTAwNywtMTI2NDk0NzYxNCwxOD
+I3NDc5NjI1LC0xOTMxNzcxMDYxLC0xMjM5NTEwNDczLDE3Njgz
+MjkzNDgsMTMxMzg2MzYyMywtMTg4ODcxOTkyMiwtMTk1MTA5NT
+Q1MCwtMTQxNDg0Nzc1NiwyMDkxMjMwMTI5LC0yMDg4NzQ2NjEy
+XX0=
 -->
