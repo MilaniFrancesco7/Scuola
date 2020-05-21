@@ -22,7 +22,11 @@ Le VLAN sono così suddivise:
 - VLAN 3 / Programmazione 2 : SW3 ( PC6-PC7-PC8)
 - VLAN 4 / Segreteria-Presidenza : SW4 (PC9-PC10)
 
-I dispositivi Wi-Fi
+I dispositivi Wi-Fi, ovvero:
+- x6 Smartphone
+- x5 Tablet
+Essi sono tutti connessi tramite
+
 
 
 Dispositivi wifi : settati correttamente -> Computer o stampanti senza Ip Statici
@@ -30,8 +34,8 @@ Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDMzNzQxNTksLTE5MzE3NzEwNjEsLT
-EyMzk1MTA0NzMsMTc2ODMyOTM0OCwxMzEzODYzNjIzLC0xODg4
-NzE5OTIyLC0xOTUxMDk1NDUwLC0xNDE0ODQ3NzU2LDIwOTEyMz
-AxMjksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTc1MjA3NzQ1OSwtMTkzMTc3MTA2MSwtMT
+IzOTUxMDQ3MywxNzY4MzI5MzQ4LDEzMTM4NjM2MjMsLTE4ODg3
+MTk5MjIsLTE5NTEwOTU0NTAsLTE0MTQ4NDc3NTYsMjA5MTIzMD
+EyOSwtMjA4ODc0NjYxMl19
 -->
