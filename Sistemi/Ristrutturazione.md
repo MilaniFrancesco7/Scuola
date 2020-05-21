@@ -48,14 +48,10 @@ Andrei inoltre a posizionare un apparecchio minore, come un router Cisco 886,
 programmandolo in modalità di firewall. Andrebbe posto nella connessione tra DMZ e router principale, così da poter essere un ulteriore schermo tra la zona demilitarizzata e il nostro router principale.
 
 
-Dispositivi wifi : settati correttamente -> Computer o stampanti senza Ip Statici
-Dispositivi ospiti non sicuri: rete staff e rete ospiti
-Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
-Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzQ2NTQ2NCwtMTI2NDk0NzYxNCwxOD
-I3NDc5NjI1LC0xOTMxNzcxMDYxLC0xMjM5NTEwNDczLDE3Njgz
-MjkzNDgsMTMxMzg2MzYyMywtMTg4ODcxOTkyMiwtMTk1MTA5NT
-Q1MCwtMTQxNDg0Nzc1NiwyMDkxMjMwMTI5LC0yMDg4NzQ2NjEy
-XX0=
+eyJoaXN0b3J5IjpbLTIwNjM2ODcwNTYsLTEyNjQ5NDc2MTQsMT
+gyNzQ3OTYyNSwtMTkzMTc3MTA2MSwtMTIzOTUxMDQ3MywxNzY4
+MzI5MzQ4LDEzMTM4NjM2MjMsLTE4ODg3MTk5MjIsLTE5NTEwOT
+U0NTAsLTE0MTQ4NDc3NTYsMjA5MTIzMDEyOSwtMjA4ODc0NjYx
+Ml19
 -->
