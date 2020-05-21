@@ -13,7 +13,8 @@ I dispositivi presenti di rete sono:
 
 La struttura gerarchica prevede lo switch multilayer Cisco al centro che ridistribuisce la connessione ai 3 switch e al server dati.
 I 3 switch ZYXEL interconnettono i 6 computer, divisi in 3 per switch, più un computer aggiuntivo per il terzo switch.
-Il ro
+Lo switch centrale è connesso per l'accesso a internet al router Cisco, connesso a sua volta all'ISP. Inoltre il router stesso sostiene l'interconnessione con il server web.
+
 
 
 Dispositivi wifi : settati correttamente -> Computer o stampanti senza Ip Statici
@@ -21,7 +22,7 @@ Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NjAwOTIwLDEzMTM4NjM2MjMsLTE4OD
-g3MTk5MjIsLTE5NTEwOTU0NTAsLTE0MTQ4NDc3NTYsMjA5MTIz
-MDEyOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTc2ODMyOTM0OCwxMzEzODYzNjIzLC0xOD
+g4NzE5OTIyLC0xOTUxMDk1NDUwLC0xNDE0ODQ3NzU2LDIwOTEy
+MzAxMjksLTIwODg3NDY2MTJdfQ==
 -->
