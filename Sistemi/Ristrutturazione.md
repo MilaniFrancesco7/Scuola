@@ -19,6 +19,11 @@ La struttura gerarchica prevede lo switch multilayer Cisco al centro che ridistr
 I 3 switch ZYXEL interconnettono i 6 computer, divisi in 3 per switch, più un computer aggiuntivo per il terzo switch.
 Lo switch centrale è connesso per l'accesso a internet al router Cisco, connesso a sua volta all'ISP. Inoltre il router stesso sostiene l'interconnessione con il server web e i 2 Access Point per la connessione WiFi.
 
+<br>
+<br>
+<br>
+<br>
+
 La rete è stata strutturata anche a livello logico per una miglior suddivisione degli ambiti lavorativi, con la definizione di 4 VLAN.
 Le VLAN sono così suddivise:
 - VLAN 1 / Laboratorio : SW1 ( PC1-PC2)
@@ -44,6 +49,9 @@ Per questo il posizionamento di un firewall diventa necessario.
 
 Andrò ad acquistare un'apparecchiatura Cisco Small Business Pro SA 540, che corrisponde alle caratteristiche dell'azienda, essendo progettato per aziende con meno di 100 dipendenti, unendo in un device all-in-one le funzionalità di firewall, VPN e sicurezza per e-mail e WEB.
 
+<br>
+<br>
+<br>
 Il device andrà posizionato dopo il Router, sulla connessione per l'ISP, in modo da poter bloccare la totalità degli attacchi e per poter mantenere sicura la nostra rete.
 
 Andrei inoltre a posizionare un apparecchio minore, come un router Cisco 886, programmandolo in modalità di firewall. Andrebbe posto nella connessione tra DMZ e router principale, così da poter essere un ulteriore schermo tra la zona demilitarizzata e il nostro router principale.
@@ -53,7 +61,7 @@ Concludo la mia relazione sottolineando come la rete fosse già solida in preced
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTQwNzAxMywtMjAxMjAzODMzOSwxNT
+eyJoaXN0b3J5IjpbLTgzMTQwNDg1NSwtMjAxMjAzODMzOSwxNT
 AxODA5Mzc3LC0yMDYzNjg3MDU2LC0xMjY0OTQ3NjE0LDE4Mjc0
 Nzk2MjUsLTE5MzE3NzEwNjEsLTEyMzk1MTA0NzMsMTc2ODMyOT
 M0OCwxMzEzODYzNjIzLC0xODg4NzE5OTIyLC0xOTUxMDk1NDUw
