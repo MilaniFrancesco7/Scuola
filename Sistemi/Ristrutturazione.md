@@ -48,8 +48,9 @@ Andrei inoltre a posizionare un apparecchio minore, come un router Cisco 886, pr
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE1ODE3NDUsMTUwMTgwOTM3NywtMj
+eyJoaXN0b3J5IjpbLTIwMTIwMzgzMzksMTUwMTgwOTM3NywtMj
 A2MzY4NzA1NiwtMTI2NDk0NzYxNCwxODI3NDc5NjI1LC0xOTMx
 NzcxMDYxLC0xMjM5NTEwNDczLDE3NjgzMjkzNDgsMTMxMzg2Mz
 YyMywtMTg4ODcxOTkyMiwtMTk1MTA5NTQ1MCwtMTQxNDg0Nzc1
