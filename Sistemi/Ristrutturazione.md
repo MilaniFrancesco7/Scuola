@@ -30,9 +30,9 @@ I dispositivi Wi-Fi, ovvero:
 Sono tutti connessi tramite DHCP senza IP statici, quindi non presentano alcun problema da quel punto di vista.
 
 ## Problematiche e risoluzioni
-La prima problematica emerge al momento di una connessione da parte di dispositivi ospiti, dato che un dispositivo esterno viene fatto connettere alla rete WiFi aziendale, data la mancanza di una rete ospiti.
+La prima problematica emerge al momento di una connessione da parte di dispositivi ospiti, che viene fatto connettere alla rete WiFi aziendale. 
 
-Per questo per ovviare al problema predisporrerei l'aggiunta di una VLAN 5, acquistando un ulteriore Access Point, aumentandone quindi il numero a 3. 
+Data la mancanza di una rete ospiti predisporrerei l'aggiunta di una VLAN (5), acquistando un ulteriore Access Point, aumentandone quindi il numero a 3. 
 
 L'Access Point verrà collegato al Router, ma per ovviare ad altri problemi, come dagli attacchi miranti allo stato della rete provenienti dall'esterno, provvederei a creare una DMZ, così da poter posizionare in quella zona sia l'Access Point per gli ospiti, sia il Server Web.
 
@@ -44,14 +44,13 @@ Andrò ad acquistare un'apparecchiatura Cisco Small Business Pro SA 540, che cor
 
 Il device andrà posizionato dopo il Router, sulla connessione per l'ISP, in modo da poter bloccare la totalità degli attacchi e per poter mantenere sicura la nostra rete.
 
-Andrei inoltre a posizionare un apparecchio minore, come un router Cisco 886, 
-programmandolo in modalità di firewall. Andrebbe posto nella connessione tra DMZ e router principale, così da poter essere un ulteriore schermo tra la zona demilitarizzata e il nostro router principale.
+Andrei inoltre a posizionare un apparecchio minore, come un router Cisco 886, programmandolo in modalità di firewall. Andrebbe posto nella connessione tra DMZ e router principale, così da poter essere un ulteriore schermo tra la zona demilitarizzata e il nostro router principale.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM2ODcwNTYsLTEyNjQ5NDc2MTQsMT
-gyNzQ3OTYyNSwtMTkzMTc3MTA2MSwtMTIzOTUxMDQ3MywxNzY4
-MzI5MzQ4LDEzMTM4NjM2MjMsLTE4ODg3MTk5MjIsLTE5NTEwOT
-U0NTAsLTE0MTQ4NDc3NTYsMjA5MTIzMDEyOSwtMjA4ODc0NjYx
-Ml19
+eyJoaXN0b3J5IjpbMTUwMTgwOTM3NywtMjA2MzY4NzA1NiwtMT
+I2NDk0NzYxNCwxODI3NDc5NjI1LC0xOTMxNzcxMDYxLC0xMjM5
+NTEwNDczLDE3NjgzMjkzNDgsMTMxMzg2MzYyMywtMTg4ODcxOT
+kyMiwtMTk1MTA5NTQ1MCwtMTQxNDg0Nzc1NiwyMDkxMjMwMTI5
+LC0yMDg4NzQ2NjEyXX0=
 -->
