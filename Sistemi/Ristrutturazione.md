@@ -1,4 +1,6 @@
 # Descrizione e ristrutturazione di una rete telematica
+> Milani Francesco - 5^AI 
+> 21/05/2020
 
 Nell'anno 2019 ho avuto la possibilità di sostenere un mese di stage, previsto scolasticamente. 
 Sono stato assegnato all'azienda DuoLabs di Bassano Del Grappa, dove ho potuto osservare e studiare la rete telematica aziendale.
@@ -46,11 +48,12 @@ Il device andrà posizionato dopo il Router, sulla connessione per l'ISP, in mod
 
 Andrei inoltre a posizionare un apparecchio minore, come un router Cisco 886, programmandolo in modalità di firewall. Andrebbe posto nella connessione tra DMZ e router principale, così da poter essere un ulteriore schermo tra la zona demilitarizzata e il nostro router principale.
 
-Concludo la mia relazione sottolineando come la rete fosse già solida in precedenza, ma con l'apporto di piccole modifiche è migliorata sotto gli aspetti di sicurezza e 
+Concludo la mia relazione sottolineando come la rete fosse già solida in precedenza, ma con l'apporto di piccole modifiche è migliorata sotto gli aspetti di sicurezza e stabilità.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTU4ODAwMSwtMjAxMjAzODMzOSwxNT
+eyJoaXN0b3J5IjpbLTcyOTQwNzAxMywtMjAxMjAzODMzOSwxNT
 AxODA5Mzc3LC0yMDYzNjg3MDU2LC0xMjY0OTQ3NjE0LDE4Mjc0
 Nzk2MjUsLTE5MzE3NzEwNjEsLTEyMzk1MTA0NzMsMTc2ODMyOT
 M0OCwxMzEzODYzNjIzLC0xODg4NzE5OTIyLC0xOTUxMDk1NDUw
