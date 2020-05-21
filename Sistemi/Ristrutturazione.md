@@ -5,7 +5,7 @@ Sono stato assegnato all'azienda DuoLabs di Bassano Del Grappa, dove ho potuto o
 
 I dispositivi presenti di rete sono:
 - x1 Switch Multilayer Cisco da 32 porte
-- x3 Switch ZYXEL AMG-T10B da 8 porte
+- x4 Switch ZYXEL AMG-T10B da 8 porte
 - x1 Router Cisco RV320
 - x1 Server Dati
 - x2 Server Web
@@ -19,7 +19,9 @@ La rete è stata strutturata anche a livello logico per una miglior suddivisione
 Le VLAN sono così suddivise:
 - VLAN 1 / Laboratorio : SW1 ( PC1-PC2)
 - VLAN 2 / Programmazione 1 : SW2 ( PC3-PC4-PC5)
-- VLAN 3 
+- VLAN 3 / Programmazione 2 : SW3 ( PC6-PC7-PC8)
+- VLAN 4 / Segreteria : SW4 (PC9)
+- VLAN 5 / Presidenza : SW4 (PC10)
 
 
 Come possiamo vedere la rete è ben strutturata, ma presenta alcuni problemi.
@@ -31,8 +33,8 @@ Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3MTgzODcsLTEyMzk1MTA0NzMsMTc2OD
-MyOTM0OCwxMzEzODYzNjIzLC0xODg4NzE5OTIyLC0xOTUxMDk1
-NDUwLC0xNDE0ODQ3NzU2LDIwOTEyMzAxMjksLTIwODg3NDY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbMjA5MDUyNzMyOSwtMTIzOTUxMDQ3MywxNz
+Y4MzI5MzQ4LDEzMTM4NjM2MjMsLTE4ODg3MTk5MjIsLTE5NTEw
+OTU0NTAsLTE0MTQ4NDc3NTYsMjA5MTIzMDEyOSwtMjA4ODc0Nj
+YxMl19
 -->
