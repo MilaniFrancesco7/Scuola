@@ -7,6 +7,8 @@ I dispositivi presenti di rete sono:
 - x1 Switch Multilayer Cisco da 32 porte
 - x3 Switch ZYXEL AMG-T10B da 8 porte
 - x1 Router 
+- x1 Server Dati 
+- x6 Computer
 - 
 
 
@@ -15,7 +17,7 @@ Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzY1MDM0MywtMTg4ODcxOTkyMiwtMT
+eyJoaXN0b3J5IjpbMTA4MDk3NDg4MiwtMTg4ODcxOTkyMiwtMT
 k1MTA5NTQ1MCwtMTQxNDg0Nzc1NiwyMDkxMjMwMTI5LC0yMDg4
 NzQ2NjEyXX0=
 -->
