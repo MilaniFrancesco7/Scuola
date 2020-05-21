@@ -15,6 +15,9 @@ La struttura gerarchica prevede lo switch multilayer Cisco al centro che ridistr
 I 3 switch ZYXEL interconnettono i 6 computer, divisi in 3 per switch, più un computer aggiuntivo per il terzo switch.
 Lo switch centrale è connesso per l'accesso a internet al router Cisco, connesso a sua volta all'ISP. Inoltre il router stesso sostiene l'interconnessione con il server web.
 
+La rete è stata strutturata anche a livello logico per una miglior suddivisione degli ambiti lavorativi, con la definizione di 
+
+
 Come possiamo vedere la rete è ben strutturata, ma presenta alcuni problemi.
 Innanzitutto 
 
@@ -24,8 +27,8 @@ Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjMxNjE2MCwtMTIzOTUxMDQ3MywxNz
-Y4MzI5MzQ4LDEzMTM4NjM2MjMsLTE4ODg3MTk5MjIsLTE5NTEw
-OTU0NTAsLTE0MTQ4NDc3NTYsMjA5MTIzMDEyOSwtMjA4ODc0Nj
-YxMl19
+eyJoaXN0b3J5IjpbLTE4OTQ3NTg5ODcsLTEyMzk1MTA0NzMsMT
+c2ODMyOTM0OCwxMzEzODYzNjIzLC0xODg4NzE5OTIyLC0xOTUx
+MDk1NDUwLC0xNDE0ODQ3NzU2LDIwOTEyMzAxMjksLTIwODg3ND
+Y2MTJdfQ==
 -->
