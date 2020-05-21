@@ -1,6 +1,7 @@
 # Descrizione e ristrutturazione di una rete telematica
 
-Nell'anno 2019 ho avuto la possibilità di 
+Nell'anno 2019 ho avuto la possibilità di sostenere un per
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTIzMDEyOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4NjcwODAyNzUsMjA5MTIzMDEyOSwtMj
+A4ODc0NjYxMl19
 -->
