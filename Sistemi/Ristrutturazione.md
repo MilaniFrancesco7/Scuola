@@ -3,6 +3,7 @@
 Nell'anno 2019 ho avuto la possibilità di sostenere un mese di stage, previsto scolasticamente. 
 Sono stato assegnato all'azienda DuoLabs di Bassano Del Grappa, dove ho potuto osservare e studiare la rete telematica aziendale.
 
+## Descrizione della rete
 I dispositivi presenti di rete sono:
 - x1 Switch Multilayer Cisco da 32 porte
 - x4 Switch ZYXEL AMG-T10B da 8 porte
@@ -28,19 +29,24 @@ I dispositivi Wi-Fi, ovvero:
 - x5 Tablet
 Sono tutti connessi tramite DHCP senza IP statici, quindi non presentano alcun problema da quel punto di vista.
 
+## Problematiche e risoluzioni
 La prima problematica emerge al momento di una connessione da parte di dispositivi ospiti, dato che un dispositivo esterno viene fatto connettere alla rete WiFi aziendale, data la mancanza di una rete ospiti.
+
 Per questo per ovviare al problema predisporrerei l'aggiunta di una VLAN 5, acquistando un ulteriore Access Point, aumentandone quindi il numero a 3. 
-L'Access Point verrà collegato al Router, ma per ovviare ad altri problemi, come dagli attacchi miranti allo stato della rete provenienti dall'esterno, provvederei a creare una DMZ, così da poter posizionare in quella zona sia l'Access Point per lgli
+
+L'Access Point verrà collegato al Router, ma per ovviare ad altri problemi, come dagli attacchi miranti allo stato della rete provenienti dall'esterno, provvederei a creare una DMZ, così da poter posizionare in quella zona sia l'Access Point per gli ospiti, sia il Server Web.
 
 
+Risolto il problema della rete ospiti, sarà necessario proteggere la rete anche da attacchi su rete locale. 
+Per questo il 
 
 Dispositivi wifi : settati correttamente -> Computer o stampanti senza Ip Statici
 Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTExMzE5MTAsMTgyNzQ3OTYyNSwtMT
-kzMTc3MTA2MSwtMTIzOTUxMDQ3MywxNzY4MzI5MzQ4LDEzMTM4
-NjM2MjMsLTE4ODg3MTk5MjIsLTE5NTEwOTU0NTAsLTE0MTQ4ND
-c3NTYsMjA5MTIzMDEyOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTk3NjY2ODY3NywxODI3NDc5NjI1LC0xOT
+MxNzcxMDYxLC0xMjM5NTEwNDczLDE3NjgzMjkzNDgsMTMxMzg2
+MzYyMywtMTg4ODcxOTkyMiwtMTk1MTA5NTQ1MCwtMTQxNDg0Nz
+c1NiwyMDkxMjMwMTI5LC0yMDg4NzQ2NjEyXX0=
 -->
