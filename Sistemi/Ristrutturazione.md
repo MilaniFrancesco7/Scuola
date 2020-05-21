@@ -30,7 +30,7 @@ Sono tutti connessi tramite DHCP senza IP statici, quindi non presentano alcun p
 
 La prima problematica emerge al momento di una connessione da parte di dispositivi ospiti, dato che un dispositivo esterno viene fatto connettere alla rete WiFi aziendale, data la mancanza di una rete ospiti.
 Per questo per ovviare al problema predisporrerei l'aggiunta di una VLAN 5, acquistando un ulteriore Access Point, aumentandone quindi il numero a 3. 
-L'Access Point verrà collegato al Router, ma per ovviare ad altri problemi
+L'Access Point verrà collegato al Router, ma per ovviare ad altri problemi, come dagli attacchi miranti allo stato della rete provenienti dall'esterno, provvederei a creare una DMZ, così da poter posizionare in quella zona sia l'Access Point per lgli
 
 
 
@@ -39,8 +39,8 @@ Dispositivi ospiti non sicuri: rete staff e rete ospiti
 Azioni virus: Problemi -> Non è stato posto un firewall abbastanza potente
 Azioni di attacco : La rete non è dotata di DMZ, dal sito web magari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjE3ODk2NCwxODI3NDc5NjI1LC0xOT
-MxNzcxMDYxLC0xMjM5NTEwNDczLDE3NjgzMjkzNDgsMTMxMzg2
-MzYyMywtMTg4ODcxOTkyMiwtMTk1MTA5NTQ1MCwtMTQxNDg0Nz
-c1NiwyMDkxMjMwMTI5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE4MTExMzE5MTAsMTgyNzQ3OTYyNSwtMT
+kzMTc3MTA2MSwtMTIzOTUxMDQ3MywxNzY4MzI5MzQ4LDEzMTM4
+NjM2MjMsLTE4ODg3MTk5MjIsLTE5NTEwOTU0NTAsLTE0MTQ4ND
+c3NTYsMjA5MTIzMDEyOSwtMjA4ODc0NjYxMl19
 -->
