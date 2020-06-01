@@ -7,6 +7,10 @@
 - Minacce web - Descrivere le più comuni
 - Integrità dei dati nella sicurezza informatica
 - SQL mapping
+- Accorgimenti in fase di definizione 
+	- Criptazione dei dati
+	- Normalizzazione del DB
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTA2MTYwNiw4NTcyMjY0MjVdfQ==
+eyJoaXN0b3J5IjpbMTUzOTA1MzIxLDg1NzIyNjQyNV19
 -->
