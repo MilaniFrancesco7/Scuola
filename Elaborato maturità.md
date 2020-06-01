@@ -4,9 +4,9 @@
 > Le minacce dal web sono in continua evoluzione, descrivere le più comuni; e visto che l’integrità dei dati nell'ambito della sicurezza informatica ha un ruolo fondamentale, descrivere quali accorgimenti il programmatore può prendere in fase di definizione del DB.
 
 ## Cose da inserire
-- Minacce web
+- Minacce web - Descrivere le più comuni
 - Integrità dei dati nella sicurezza informatica
-- 
+- SQL mapping
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3MjI2NDI1XX0=
+eyJoaXN0b3J5IjpbMTQ5NTA2MTYwNiw4NTcyMjY0MjVdfQ==
 -->
