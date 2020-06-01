@@ -10,7 +10,8 @@
 - Accorgimenti in fase di definizione 
 	- Criptazione dei dati
 	- Normalizzazione del DB
-	- 
+	- Posizionamento del DB nella rete
+	- Protezione delle credenziali ->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTA1MzIxLDg1NzIyNjQyNV19
+eyJoaXN0b3J5IjpbLTYyNzA4MDA5MCw4NTcyMjY0MjVdfQ==
 -->
