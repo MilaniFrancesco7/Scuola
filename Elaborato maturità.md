@@ -7,7 +7,7 @@
 - Minacce web - Descrivere le più comuni
 	- SQL injection
 	- Phishing
-	- 
+	- Attacchi vari
 - Integrità dei dati nella sicurezza informatica
 - SQL mapping
 - Accorgimenti in fase di definizione 
@@ -15,6 +15,8 @@
 	- Normalizzazione del DB
 	- Posizionamento del DB nella rete
 	- Protezione delle credenziali 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDcyODMwMSw4NTcyMjY0MjVdfQ==
+eyJoaXN0b3J5IjpbMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLDg1Nz
+IyNjQyNV19
 -->
