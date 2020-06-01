@@ -5,13 +5,16 @@
 
 ## Cose da inserire
 - Minacce web - Descrivere le più comuni
+	- SQL injection
+	- Phishing
+	- 
 - Integrità dei dati nella sicurezza informatica
 - SQL mapping
 - Accorgimenti in fase di definizione 
 	- Criptazione dei dati
 	- Normalizzazione del DB
 	- Posizionamento del DB nella rete
-	- Protezione delle credenziali ->
+	- Protezione delle credenziali 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzA4MDA5MCw4NTcyMjY0MjVdfQ==
+eyJoaXN0b3J5IjpbLTY0NDcyODMwMSw4NTcyMjY0MjVdfQ==
 -->
