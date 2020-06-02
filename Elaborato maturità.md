@@ -54,10 +54,19 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 ### CIA
 Cia : Confidentiality, Integrity, Availability
 Data Confidentiality
-Data Integru
+Data Integrity 
+System Availability
+
+Gli obiettivi da ottenere per la sicurezza del sistema informativo:
+- Autenticazione
+- Autorizzazione
+- Riservatezza 
+- Disponibilità
+- Integrità
+- Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTE4NjYzLC0xMjA4OTM1NTczLDE2MD
-k4OTAyNTYsMTA1Mzk5OTkzOCwxNjQxNTA5MjEsLTE3NjczMDY0
-NjksLTIwNjg2NTgzNiwxMDkzNjM0NDk4LC02NDQ3MjgzMDEsOD
-U3MjI2NDI1XX0=
+eyJoaXN0b3J5IjpbLTYwNTM5OTIxNywtMTIwODkzNTU3MywxNj
+A5ODkwMjU2LDEwNTM5OTk5MzgsMTY0MTUwOTIxLC0xNzY3MzA2
+NDY5LC0yMDY4NjU4MzYsMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLD
+g1NzIyNjQyNV19
 -->
