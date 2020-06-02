@@ -33,9 +33,11 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 - Phishing
 	- tentativo di ottenere dati sensibili – password, pin, etc... – attraverso l’uso di e-mail truffaldine che sembrano provenire da fonti sicure.
 
-##
+
+## Sicurezza informatica
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDMzMzA5NywxNjQxNTA5MjEsLTE3Nj
+eyJoaXN0b3J5IjpbMTA1Mzk5OTkzOCwxNjQxNTA5MjEsLTE3Nj
 czMDY0NjksLTIwNjg2NTgzNiwxMDkzNjM0NDk4LC02NDQ3Mjgz
 MDEsODU3MjI2NDI1XX0=
 -->
