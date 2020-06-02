@@ -36,8 +36,13 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 [https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s](https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s)
 
 ## Minacce al database
-[https://it.wikipedia.org/wiki/Attacco_ai_database](https://it.wikipedia.org/wiki/Attacco_ai_database)
-[https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati)](Protezione delle basi di dati)
+[Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
+[Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
+
+Tipologie di minacce
+-	Segretezza
+-	Privacy
+-	
 
 
 ## Sicurezza delle reti (Libro)
@@ -71,8 +76,8 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3OTIwMDEyLDQ4MTMwMjU5LC0xMjA4OT
-M1NTczLDE2MDk4OTAyNTYsMTA1Mzk5OTkzOCwxNjQxNTA5MjEs
-LTE3NjczMDY0NjksLTIwNjg2NTgzNiwxMDkzNjM0NDk4LC02ND
-Q3MjgzMDEsODU3MjI2NDI1XX0=
+eyJoaXN0b3J5IjpbLTgwMjMzODM0Miw0ODEzMDI1OSwtMTIwOD
+kzNTU3MywxNjA5ODkwMjU2LDEwNTM5OTk5MzgsMTY0MTUwOTIx
+LC0xNzY3MzA2NDY5LC0yMDY4NjU4MzYsMTA5MzYzNDQ5OCwtNj
+Q0NzI4MzAxLDg1NzIyNjQyNV19
 -->
