@@ -33,6 +33,10 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 - Phishing
 	- tentativo di ottenere dati sensibili – password, pin, etc... – attraverso l’uso di e-mail truffaldine che sembrano provenire da fonti sicure.
 
+[https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s](https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s)
+
+## Minacce al database
+[https://it.wikipedia.org/wiki/Attacco_ai_database](https://it.wikipedia.org/wiki/Attacco_ai_database)
 
 ## Sicurezza delle reti (Libro)
 
@@ -65,8 +69,8 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTM5OTIxNywtMTIwODkzNTU3MywxNj
-A5ODkwMjU2LDEwNTM5OTk5MzgsMTY0MTUwOTIxLC0xNzY3MzA2
-NDY5LC0yMDY4NjU4MzYsMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLD
-g1NzIyNjQyNV19
+eyJoaXN0b3J5IjpbNDgxMzAyNTksLTEyMDg5MzU1NzMsMTYwOT
+g5MDI1NiwxMDUzOTk5OTM4LDE2NDE1MDkyMSwtMTc2NzMwNjQ2
+OSwtMjA2ODY1ODM2LDEwOTM2MzQ0OTgsLTY0NDcyODMwMSw4NT
+cyMjY0MjVdfQ==
 -->
