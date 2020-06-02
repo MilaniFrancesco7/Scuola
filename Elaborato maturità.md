@@ -17,8 +17,9 @@
 	- Protezione delle credenziali 
 
 ## Minacce Web
-
+- Cenno storico : Guglielmo Marconi e il primo caso di "hacking" della storia
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg2NTgzNiwxMDkzNjM0NDk4LC02ND
-Q3MjgzMDEsODU3MjI2NDI1XX0=
+eyJoaXN0b3J5IjpbMTA2ODI1NTQzMywtMjA2ODY1ODM2LDEwOT
+M2MzQ0OTgsLTY0NDcyODMwMSw4NTcyMjY0MjVdfQ==
 -->
