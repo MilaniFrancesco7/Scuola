@@ -18,16 +18,14 @@
 
 ## Minacce Web
 - Cenno storico : Guglielmo Marconi e il primo caso di "hacking" della storia
-	- Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento
-
-
-
-la gestione e la protezione di dati e informazioni hanno fatto passi da gigante
-
-01:22
-
-così come le potenziali minacce, che si sono evolute parallelamente.
+	- È un tranquillo pomeriggio di giugno quello in cui Sir John Ambrose Fleming e Guglielmo Marconi stanno per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili.
+I due scienziati sono pronti, a 300 miglia di distanza, quando, ancor prima di cominciare, la macchina riceve due inaspettati messaggi: un insulto e una filastrocca canzonatoria che accusa il futuro premio Nobel di essere un truffatore.
+L’esperimento è un disastro: qualcuno è riuscito a inserirsi in quelle frequenze radio che Marconi dichiarava essere sicure e private.
+Il colpevole?
+L’illusionista e inventore Nevil Maskelyne, che dall’edificio a fianco, con un altro telegrafo, interferisce con la presentazione.
+Per molti, questo, è a tutti gli effetti il primo esempio di hacking della storia
+	- Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento, la gestione e la protezione di dati e informazioni hanno fatto passi da gigante, così come le potenziali minacce, che si sono evolute parallelamente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM5MzQ3ODQsLTIwNjg2NTgzNiwxMD
+eyJoaXN0b3J5IjpbLTEzMjYxNTkwNjksLTIwNjg2NTgzNiwxMD
 kzNjM0NDk4LC02NDQ3MjgzMDEsODU3MjI2NDI1XX0=
 -->
