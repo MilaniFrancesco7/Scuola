@@ -42,7 +42,19 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 Tipologie di minacce
 -	Segretezza
 -	Privacy
--	
+-	Integrità 
+-	Disponibilità
+
+Tipi di attacchi
+- Rilascio improprio di informazioni
+- Modifica impropria di dati
+- Negazione del servizio
+
+Cause
+- Accidentali
+- Fraudolente
+
+
 
 
 ## Sicurezza delle reti (Libro)
@@ -76,7 +88,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjMzODM0Miw0ODEzMDI1OSwtMTIwOD
+eyJoaXN0b3J5IjpbMTc4MTgzNzc2OCw0ODEzMDI1OSwtMTIwOD
 kzNTU3MywxNjA5ODkwMjU2LDEwNTM5OTk5MzgsMTY0MTUwOTIx
 LC0xNzY3MzA2NDY5LC0yMDY4NjU4MzYsMTA5MzYzNDQ5OCwtNj
 Q0NzI4MzAxLDg1NzIyNjQyNV19
