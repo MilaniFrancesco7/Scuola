@@ -32,7 +32,9 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 		- tiene sotto sequestro il pc della vittima – o il suo contenuto, ad esempio crittografandolo – chiedendo poi un riscatto.
 - Phishing
 	- tentativo di ottenere dati sensibili – password, pin, etc... – attraverso l’uso di e-mail truffaldine che sembrano provenire da fonti sicure.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjczMDY0NjksLTIwNjg2NTgzNiwxMD
-kzNjM0NDk4LC02NDQ3MjgzMDEsODU3MjI2NDI1XX0=
+eyJoaXN0b3J5IjpbMTY0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMD
+Y4NjU4MzYsMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQy
+NV19
 -->
