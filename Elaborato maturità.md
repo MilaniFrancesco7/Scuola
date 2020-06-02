@@ -27,7 +27,9 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 	- Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento, la gestione e la protezione di dati e informazioni hanno fatto passi da gigante, così come le potenziali minacce, che si sono evolute parallelamente.
 - DOS - Denial Of Service
 - Malware - Virus, Trojan, Spyware
+	- programmi utilizzati per disturbare le operazioni svolte da un computer, **rubare informazioni sensibili**, ottenere accesso a sistemi informatici privati o addirittura prendere il controllo dell’intero dispositivo
+	- Ramsomware
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzQxMTQwMywtMjA2ODY1ODM2LDEwOT
-M2MzQ0OTgsLTY0NDcyODMwMSw4NTcyMjY0MjVdfQ==
+eyJoaXN0b3J5IjpbLTQwOTI4MDY1LC0yMDY4NjU4MzYsMTA5Mz
+YzNDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV19
 -->
