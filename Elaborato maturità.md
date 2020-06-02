@@ -18,8 +18,16 @@
 
 ## Minacce Web
 - Cenno storico : Guglielmo Marconi e il primo caso di "hacking" della storia
-- 
+	- Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento
+
+
+
+la gestione e la protezione di dati e informazioni hanno fatto passi da gigante
+
+01:22
+
+così come le potenziali minacce, che si sono evolute parallelamente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODI1NTQzMywtMjA2ODY1ODM2LDEwOT
-M2MzQ0OTgsLTY0NDcyODMwMSw4NTcyMjY0MjVdfQ==
+eyJoaXN0b3J5IjpbLTE2NTM5MzQ3ODQsLTIwNjg2NTgzNiwxMD
+kzNjM0NDk4LC02NDQ3MjgzMDEsODU3MjI2NDI1XX0=
 -->
