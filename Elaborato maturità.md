@@ -46,9 +46,11 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 	- Minacce in rete
 		- Con l'avvento di internet le informazioni e l'elaborazione non sono più concentrate ma distribuite, attraverso una comunicazione in "broadcast", su linee condivise.
 		- Le reti locali in broadcast costituiscono un punto debole dal punto di vista della sicurezza.
-			- In una rete LAN Ethernet il mezzo
+			- In una rete LAN Ethernet il mezzo fisico di comunicazione è condiviso da tutti gli host ed è collocato all'interno dello Switch che ha il compito di amplificare il segnale ritrasmettendolo sulle altre sue porte.
+			- La rete è poi connessa a internet tramite un router, passibile di accessi indesiderati da host esterni.
+				- Il problema 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NDQwMDMzLDE2MDk4OTAyNTYsMTA1Mz
-k5OTkzOCwxNjQxNTA5MjEsLTE3NjczMDY0NjksLTIwNjg2NTgz
-NiwxMDkzNjM0NDk4LC02NDQ3MjgzMDEsODU3MjI2NDI1XX0=
+eyJoaXN0b3J5IjpbLTg3MzUxMDQ3NSwxNjA5ODkwMjU2LDEwNT
+M5OTk5MzgsMTY0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMDY4NjU4
+MzYsMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV19
 -->
