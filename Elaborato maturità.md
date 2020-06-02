@@ -42,8 +42,11 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 ### Minacce all'integrità dei dati
 - Minacce naturali
 - Minacce umane
+	- Dovute a soggetti che hanno interessi personali ad acquisire le informazioni di un'azienda o limitare l'operatività danneggiando i processi aziendali
+	- Minacce in rete
+		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTc3NDIyMSwxNjA5ODkwMjU2LDEwNT
+eyJoaXN0b3J5IjpbLTYzOTEzNzAzOSwxNjA5ODkwMjU2LDEwNT
 M5OTk5MzgsMTY0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMDY4NjU4
 MzYsMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV19
 -->
