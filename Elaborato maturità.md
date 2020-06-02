@@ -48,9 +48,12 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 		- Le reti locali in broadcast costituiscono un punto debole dal punto di vista della sicurezza.
 			- In una rete LAN Ethernet il mezzo fisico di comunicazione è condiviso da tutti gli host ed è collocato all'interno dello Switch che ha il compito di amplificare il segnale ritrasmettendolo sulle altre sue porte.
 			- La rete è poi connessa a internet tramite un router, passibile di accessi indesiderati da host esterni.
-				- Il problema 
+	
+### Sicurezza di un sistema informatico
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzUxMDQ3NSwxNjA5ODkwMjU2LDEwNT
-M5OTk5MzgsMTY0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMDY4NjU4
-MzYsMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV19
+eyJoaXN0b3J5IjpbLTEyMDg5MzU1NzMsMTYwOTg5MDI1NiwxMD
+UzOTk5OTM4LDE2NDE1MDkyMSwtMTc2NzMwNjQ2OSwtMjA2ODY1
+ODM2LDEwOTM2MzQ0OTgsLTY0NDcyODMwMSw4NTcyMjY0MjVdfQ
+==
 -->
