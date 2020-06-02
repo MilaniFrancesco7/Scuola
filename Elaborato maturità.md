@@ -50,10 +50,14 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 			- La rete è poi connessa a internet tramite un router, passibile di accessi indesiderati da host esterni.
 	
 ### Sicurezza di un sistema informatico
-
+- Garantire la sicurezza significa impedire a potenziali soggetti attaccanti l'accesso o l'uso non autorizzato di informazioni e risorse
+### CIA
+Cia : Confidentiality, Integrity, Availability
+Data Confidentiality
+Data Integru
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg5MzU1NzMsMTYwOTg5MDI1NiwxMD
-UzOTk5OTM4LDE2NDE1MDkyMSwtMTc2NzMwNjQ2OSwtMjA2ODY1
-ODM2LDEwOTM2MzQ0OTgsLTY0NDcyODMwMSw4NTcyMjY0MjVdfQ
-==
+eyJoaXN0b3J5IjpbMTEyNTE4NjYzLC0xMjA4OTM1NTczLDE2MD
+k4OTAyNTYsMTA1Mzk5OTkzOCwxNjQxNTA5MjEsLTE3NjczMDY0
+NjksLTIwNjg2NTgzNiwxMDkzNjM0NDk4LC02NDQ3MjgzMDEsOD
+U3MjI2NDI1XX0=
 -->
