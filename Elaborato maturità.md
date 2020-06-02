@@ -36,8 +36,14 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 
 ## Sicurezza delle reti (Libro)
 
+### Definizione di sicurezza informatica
+- Insieme dei prodotti, servizi, regole organizzative e comportamenti individuali che proteggono i sistemi informatici di un'azienda.
+
+### Minacce all'integrità dei dati
+- Minacce naturali
+- Minacce umane
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTg5MDI1NiwxMDUzOTk5OTM4LDE2ND
-E1MDkyMSwtMTc2NzMwNjQ2OSwtMjA2ODY1ODM2LDEwOTM2MzQ0
-OTgsLTY0NDcyODMwMSw4NTcyMjY0MjVdfQ==
+eyJoaXN0b3J5IjpbLTMxOTc3NDIyMSwxNjA5ODkwMjU2LDEwNT
+M5OTk5MzgsMTY0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMDY4NjU4
+MzYsMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV19
 -->
