@@ -34,10 +34,10 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 	- tentativo di ottenere dati sensibili – password, pin, etc... – attraverso l’uso di e-mail truffaldine che sembrano provenire da fonti sicure.
 
 
-## Sicurezza informatica
+## Sicurezza delle reti (Libro)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mzk5OTkzOCwxNjQxNTA5MjEsLTE3Nj
-czMDY0NjksLTIwNjg2NTgzNiwxMDkzNjM0NDk4LC02NDQ3Mjgz
-MDEsODU3MjI2NDI1XX0=
+eyJoaXN0b3J5IjpbMTYwOTg5MDI1NiwxMDUzOTk5OTM4LDE2ND
+E1MDkyMSwtMTc2NzMwNjQ2OSwtMjA2ODY1ODM2LDEwOTM2MzQ0
+OTgsLTY0NDcyODMwMSw4NTcyMjY0MjVdfQ==
 -->
