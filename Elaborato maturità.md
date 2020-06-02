@@ -37,6 +37,8 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 
 ## Minacce al database
 [https://it.wikipedia.org/wiki/Attacco_ai_database](https://it.wikipedia.org/wiki/Attacco_ai_database)
+[https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati)](Protezione delle basi di dati)
+
 
 ## Sicurezza delle reti (Libro)
 
@@ -69,8 +71,8 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxMzAyNTksLTEyMDg5MzU1NzMsMTYwOT
-g5MDI1NiwxMDUzOTk5OTM4LDE2NDE1MDkyMSwtMTc2NzMwNjQ2
-OSwtMjA2ODY1ODM2LDEwOTM2MzQ0OTgsLTY0NDcyODMwMSw4NT
-cyMjY0MjVdfQ==
+eyJoaXN0b3J5IjpbNjM3OTIwMDEyLDQ4MTMwMjU5LC0xMjA4OT
+M1NTczLDE2MDk4OTAyNTYsMTA1Mzk5OTkzOCwxNjQxNTA5MjEs
+LTE3NjczMDY0NjksLTIwNjg2NTgzNiwxMDkzNjM0NDk4LC02ND
+Q3MjgzMDEsODU3MjI2NDI1XX0=
 -->
