@@ -25,7 +25,9 @@ Il colpevole?
 L’illusionista e inventore Nevil Maskelyne, che dall’edificio a fianco, con un altro telegrafo, interferisce con la presentazione.
 Per molti, questo, è a tutti gli effetti il primo esempio di hacking della storia
 	- Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento, la gestione e la protezione di dati e informazioni hanno fatto passi da gigante, così come le potenziali minacce, che si sono evolute parallelamente.
+- DOS - Denial Of Service
+- Malware - Virus, Trojan, Spyware
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjYxNTkwNjksLTIwNjg2NTgzNiwxMD
-kzNjM0NDk4LC02NDQ3MjgzMDEsODU3MjI2NDI1XX0=
+eyJoaXN0b3J5IjpbMjAxNzQxMTQwMywtMjA2ODY1ODM2LDEwOT
+M2MzQ0OTgsLTY0NDcyODMwMSw4NTcyMjY0MjVdfQ==
 -->
