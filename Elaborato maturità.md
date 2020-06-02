@@ -16,7 +16,9 @@
 	- Posizionamento del DB nella rete
 	- Protezione delle credenziali 
 
+## Minacce Web
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLDg1Nz
-IyNjQyNV19
+eyJoaXN0b3J5IjpbLTIwNjg2NTgzNiwxMDkzNjM0NDk4LC02ND
+Q3MjgzMDEsODU3MjI2NDI1XX0=
 -->
