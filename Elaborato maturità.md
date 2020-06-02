@@ -28,8 +28,11 @@ Per molti, questo, è a tutti gli effetti il primo esempio di hacking della stor
 - DOS - Denial Of Service
 - Malware - Virus, Trojan, Spyware
 	- programmi utilizzati per disturbare le operazioni svolte da un computer, **rubare informazioni sensibili**, ottenere accesso a sistemi informatici privati o addirittura prendere il controllo dell’intero dispositivo
-	- Ramsomware
+	- Ramsonware
+		- tiene sotto sequestro il pc della vittima – o il suo contenuto, ad esempio crittografandolo – chiedendo poi un riscatto.
+- Phishing
+	- tentativo di ottenere dati sensibili – password, pin, etc... – attraverso l’uso di e-mail truffaldine che sembrano provenire da fonti sicure.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTI4MDY1LC0yMDY4NjU4MzYsMTA5Mz
-YzNDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV19
+eyJoaXN0b3J5IjpbLTE3NjczMDY0NjksLTIwNjg2NTgzNiwxMD
+kzNjM0NDk4LC02NDQ3MjgzMDEsODU3MjI2NDI1XX0=
 -->
