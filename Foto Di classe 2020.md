@@ -41,7 +41,9 @@ Elenco di classe:
 - Guidolin
 	- "Oh ma te lo ricordi Guidolin?"
 	-  "Quello che dormiva?"
-	-  "Eh a mezzanotte ha droppato con SapoBully"
+	-  "Ti ricordi il concerto di Travis Scott su Fortnite?"
+	-  "Si perchè?"
+	-  "Eh domani sera c'è quello di Chedo su Fifa 32"
 - Gusella
 - Lucchin
 - Milani 
@@ -50,5 +52,5 @@ Elenco di classe:
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTY2MzEwLC0xNTA1ODE4MTgzXX0=
+eyJoaXN0b3J5IjpbLTM2MjQ2Njg2OCwtMTUwNTgxODE4M119
 -->
