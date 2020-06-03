@@ -61,8 +61,13 @@ Elenco di classe:
 	- "Oh ma te lo ricordi Rigoni?"
 	- "Lo sborone?"
 	- "Hai presente il baretto di lucchin?"
-	- "Si perchè
+	- "Si perchè?"
+	- "Eh quello senza denti che rompe i coglioni con la chitarra"
 - Zen
+	- "Oh ma te lo ricordi Zen?"
+	- "Quello dei soldi con Minecraft?"
+	- "E' diventato il secondo streamer al mondo, oltre 3 milioni l'anno"
+	- "Dio can gli è sempre andata bene"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NTE4NzAsLTE1MDU4MTgxODNdfQ==
+eyJoaXN0b3J5IjpbLTIyNzIwNTEzOCwtMTUwNTgxODE4M119
 -->
