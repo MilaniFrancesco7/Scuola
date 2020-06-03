@@ -27,9 +27,15 @@ Elenco di classe:
 - De Nadai
 	-  "Oh ma te lo ricordi Milo?"
 	-  "Quello ricchione?"
-	-  "Eh l'altro giorno ha avuto il quinto figlio da
+	-  "Eh l'altro giorno ha avuto il quinto figlio dalla moglie"
 - Frighetto
+	-  "Oh ma te lo ricordi Eddyfri?"
+	-  "Quello che si lamentava?"
+	-  "Eh era andato anche avanti nel calcio, peccato per quella volta che l'hanno trovato pieno di coca"
 - Guazzo
+	- "Oh ma te lo ricordi Guazzo?"
+	-  "Quello depresso 24/7?"
+	- 
 - Guidolin
 - Gusella
 - Lucchin
@@ -39,5 +45,5 @@ Elenco di classe:
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NTQ5OTcwLC0xNTA1ODE4MTgzXX0=
+eyJoaXN0b3J5IjpbNTc0NDc1NDg3LC0xNTA1ODE4MTgzXX0=
 -->
