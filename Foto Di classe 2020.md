@@ -11,8 +11,10 @@ Elenco di classe:
 - Basso
 	- "Oh ma te lo ricordi Basso?"
 	-  "Quello scemo con l'open source?"
-	-  "Eh alla fine è diventato multimiliardario, mi ha fottuto pure la moglie"
+	-  "Eh alla fine è diventato multimiliardario, mi ha fottuto pure la moglie" (Al baretto, spritz+cicchetta)
 - Bernardi
+	-  "Oh ma te lo ricordi Bernardi?"
+	- 
 - Brunello
 - Ceccon
 - Dal Zotto
@@ -28,5 +30,5 @@ Elenco di classe:
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NTkxOTYyLC0xNTA1ODE4MTgzXX0=
+eyJoaXN0b3J5IjpbLTE5Mjk4MTMxNywtMTUwNTgxODE4M119
 -->
