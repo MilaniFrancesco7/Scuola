@@ -46,11 +46,15 @@ Elenco di classe:
 	-  "Eh domani sera c'è quello di Chedo su Fifa 32"
 - Gusella
 - Lucchin
+	- "Oh ma te lo ricordi Lucchin?"
+	-  "Quello scemo?"
+	- 
 - Milani 
 - Mujagic
 - Pivotto
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjQ2Njg2OCwtMTUwNTgxODE4M119
+eyJoaXN0b3J5IjpbLTE3OTUxOTg2MDMsLTE1MDU4MTgxODNdfQ
+==
 -->
