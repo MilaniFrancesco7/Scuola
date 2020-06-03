@@ -23,8 +23,11 @@ Elenco di classe:
 - Dal Zotto
 	-  "Oh ma te lo ricordi Dal Zotto?"
 	-  "Quello semi-autistico?"
-	-  "Alla fine è diventato
+	-  "Alla fine è diventato successore di Bill Gates alla Microsoft"
 - De Nadai
+	-  "Oh ma te lo ricordi Milo?"
+	-  "Quello ricchione?"
+	-  "Eh l'altro giorno ha avuto il quinto figlio da
 - Frighetto
 - Guazzo
 - Guidolin
@@ -36,5 +39,5 @@ Elenco di classe:
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg3NzU0LC0xNTA1ODE4MTgzXX0=
+eyJoaXN0b3J5IjpbODU1NTQ5OTcwLC0xNTA1ODE4MTgzXX0=
 -->
