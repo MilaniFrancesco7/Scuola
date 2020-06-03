@@ -5,6 +5,9 @@
 
 Elenco di classe:
 - Andoniu
+	- "Oh ma te lo ricordi Andoniu?"
+	- "Cazzo si, era quello che faceva le verifiche in piedi"
+	- "Eh si, alla fine 
 - Basso
 - Bernardi
 - Brunello
@@ -22,6 +25,5 @@ Elenco di classe:
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njg0MzE1MjgsLTE1MDU4MTgxODNdfQ
-==
+eyJoaXN0b3J5IjpbMjA3MzI3MDUwNSwtMTUwNTgxODE4M119
 -->
