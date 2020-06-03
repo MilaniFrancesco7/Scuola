@@ -19,7 +19,10 @@ Elenco di classe:
 	-  "Quello con il morto? Oddio non dirmi che"
 	-  "Nono tranquillo, lui lo stanno ancora cercando." 
 - Brunello
-	- "Oh ma te lo rico
+	- "Oh ma te lo ricordi Cesare?"
+	- "L'orco?"
+	- "Domani lo scarcerano, era dentro per le solite storie con le bambine"
+	- "Ah quindi non diceva cazzate"
 - Ceccon
 	- "Oh ma te lo ricordi Ceccon?"
 	- "Quello delle feste?"
@@ -58,7 +61,10 @@ Elenco di classe:
 	- "Oh ma te lo ricordi Lucchin?"
 	-  "Quello scemo?"
 	-  "Ora fa il barista al bar sport di pove" - "Aveva provato con la musica, ma l'eroina l'ha raggiunto prima del successo"
-- Milani 
+- Milani
+	- "Oh ma te lo ricordi Milani?"
+	- "Quello del calcio o della F1?"
+	- "
 - Mujagic
 	- "Oh ma te la ricordi la Melissa?"
 	- "Chi?"
@@ -78,5 +84,5 @@ Elenco di classe:
 	- "E' diventato il secondo streamer al mondo, oltre 3 milioni l'anno"
 	- "Dio can gli è sempre andata bene"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDIzOTI3NSwtMTUwNTgxODE4M119
+eyJoaXN0b3J5IjpbMjU3ODkzNjksLTE1MDU4MTgxODNdfQ==
 -->
