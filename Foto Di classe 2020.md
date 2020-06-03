@@ -45,6 +45,11 @@ Elenco di classe:
 	-  "Si perchè?"
 	-  "Eh domani sera c'è quello di Chedo su Fifa 32"
 - Gusella
+	- "Oh ma te lo ricordi Michele?"
+	- "Quello dei versi?"
+	- "Eh hai presente che i Queen sono tornati?"
+	- "Non dirmi che è il tastierista"
+	- "Nono l'hanno arrestato per violazione dei diritti um, avevo cambiato argomento"
 - Lucchin
 	- "Oh ma te lo ricordi Lucchin?"
 	-  "Quello scemo?"
@@ -69,5 +74,5 @@ Elenco di classe:
 	- "E' diventato il secondo streamer al mondo, oltre 3 milioni l'anno"
 	- "Dio can gli è sempre andata bene"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzIwNTEzOCwtMTUwNTgxODE4M119
+eyJoaXN0b3J5IjpbMTc5NDI0OTkxNCwtMTUwNTgxODE4M119
 -->
