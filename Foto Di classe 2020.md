@@ -58,8 +58,11 @@ Elenco di classe:
 	- "Quello che sapeva tutto sempre e comunque?"
 	-  "Ti ricordi l'aggressione di Bernardi?" - "Ecco, lui era l'altro"
 - Rigoni
+	- "Oh ma te lo ricordi Rigoni?"
+	- "Lo sborone?"
+	- "Hai presente il baretto di lucchin?"
+	- "Si perchè
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQyNjc3NjIsLTE1MDU4MTgxODNdfQ
-==
+eyJoaXN0b3J5IjpbMzA3NTE4NzAsLTE1MDU4MTgxODNdfQ==
 -->
