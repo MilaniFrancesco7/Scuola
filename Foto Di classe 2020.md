@@ -48,13 +48,16 @@ Elenco di classe:
 - Lucchin
 	- "Oh ma te lo ricordi Lucchin?"
 	-  "Quello scemo?"
-	- 
+	-  "Ora fa il barista al bar sport di pove" - "Aveva provato con la musica, ma l'eroina l'ha raggiunto prima del successo"
 - Milani 
 - Mujagic
+	- "Oh ma te la ricordi la Melissa?"
+	- "Chi?"
 - Pivotto
+	- "
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUxOTg2MDMsLTE1MDU4MTgxODNdfQ
+eyJoaXN0b3J5IjpbLTE0ODgwNzAzNzAsLTE1MDU4MTgxODNdfQ
 ==
 -->
