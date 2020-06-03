@@ -7,7 +7,7 @@ Elenco di classe:
 - Andoniu
 	- "Oh ma te lo ricordi Andoniu?"
 	- "Cazzo si, era quello che faceva le verifiche in piedi"
-	- "Eh si, alla fine 
+	- "Eh si, alla fine si è saputo che pippava cocaina e l'hanno arrestato" - "Tra l'altro faceva le verifiche in piedi perchè si infilava i panetti nel culo"
 - Basso
 - Bernardi
 - Brunello
@@ -25,5 +25,5 @@ Elenco di classe:
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzI3MDUwNSwtMTUwNTgxODE4M119
+eyJoaXN0b3J5IjpbMTA1NTQ4MzkyNCwtMTUwNTgxODE4M119
 -->
