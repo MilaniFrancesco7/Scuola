@@ -14,7 +14,7 @@ Elenco di classe:
 	-  "Eh alla fine è diventato multimiliardario, mi ha fottuto pure la moglie" (Al baretto, spritz+cicchetta)
 - Bernardi
 	-  "Oh ma te lo ricordi Bernardi?"
-	- 
+	-  "Quello 
 - Brunello
 - Ceccon
 - Dal Zotto
@@ -30,5 +30,5 @@ Elenco di classe:
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk4MTMxNywtMTUwNTgxODE4M119
+eyJoaXN0b3J5IjpbMTMwNjIzMjg3OSwtMTUwNTgxODE4M119
 -->
