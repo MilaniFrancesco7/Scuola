@@ -22,7 +22,8 @@ Elenco di classe:
 - Ceccon
 - Dal Zotto
 	-  "Oh ma te lo ricordi Dal Zotto?"
-	-  "
+	-  "Quello semi-autistico?"
+	-  "Alla fine è diventato
 - De Nadai
 - Frighetto
 - Guazzo
@@ -35,5 +36,5 @@ Elenco di classe:
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjA1NjE0OCwtMTUwNTgxODE4M119
+eyJoaXN0b3J5IjpbLTE4Mjg3NzU0LC0xNTA1ODE4MTgzXX0=
 -->
