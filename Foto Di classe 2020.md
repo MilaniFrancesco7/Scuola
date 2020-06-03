@@ -64,7 +64,9 @@ Elenco di classe:
 - Milani
 	- "Oh ma te lo ricordi Milani?"
 	- "Quello del calcio o della F1?"
-	- "
+	- "Nessuno dei due, l'hanno messo dentro per atti osceni in luogo pubblico. Davanti all'asilo di rossano."
+	- "Ma per caso era con"
+	- "Si, c'era anche Cesare, l'hanno preso dopo"
 - Mujagic
 	- "Oh ma te la ricordi la Melissa?"
 	- "Chi?"
@@ -84,5 +86,5 @@ Elenco di classe:
 	- "E' diventato il secondo streamer al mondo, oltre 3 milioni l'anno"
 	- "Dio can gli è sempre andata bene"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3ODkzNjksLTE1MDU4MTgxODNdfQ==
+eyJoaXN0b3J5IjpbNzYzNzU2ODg5LC0xNTA1ODE4MTgzXX0=
 -->
