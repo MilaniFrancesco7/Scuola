@@ -15,10 +15,14 @@ Elenco di classe:
 - Bernardi
 	-  "Oh ma te lo ricordi Bernardi?"
 	-  "Quello che scazzava con i prof?"
-	-  "Hai presente la sparatoria all 
+	-  "Hai presente l'aggressione a Ca' Maria?"
+	-  "Quello con il morto? Oddio non dirmi che"
+	-  "Nono tranquillo, lui lo stanno ancora cercando." 
 - Brunello
 - Ceccon
 - Dal Zotto
+	-  "Oh ma te lo ricordi Dal Zotto?"
+	-  "
 - De Nadai
 - Frighetto
 - Guazzo
@@ -31,6 +35,5 @@ Elenco di classe:
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgwNTQ4NDAsLTE1MDU4MTgxODNdfQ
-==
+eyJoaXN0b3J5IjpbMTA3NjA1NjE0OCwtMTUwNTgxODE4M119
 -->
