@@ -54,10 +54,12 @@ Elenco di classe:
 	- "Oh ma te la ricordi la Melissa?"
 	- "Chi?"
 - Pivotto
-	- "
+	- "Oh ma te lo ricordi il Pivoz?"
+	- "Quello che sapeva tutto sempre e comunque?"
+	-  "Ti ricordi l'aggressione di Bernardi?" - "Ecco, lui era l'altro"
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODgwNzAzNzAsLTE1MDU4MTgxODNdfQ
+eyJoaXN0b3J5IjpbLTE1NTQyNjc3NjIsLTE1MDU4MTgxODNdfQ
 ==
 -->
