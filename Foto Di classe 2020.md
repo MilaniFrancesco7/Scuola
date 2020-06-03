@@ -35,7 +35,9 @@ Elenco di classe:
 - Guazzo
 	- "Oh ma te lo ricordi Guazzo?"
 	-  "Quello depresso 24/7?"
-	- 
+	-  "Eh alla fine tra quattro giorni c'è il funerale"
+	-  "Ma com'è successo?"
+	-  "Dicono sia uscito e non sia più tornato"
 - Guidolin
 - Gusella
 - Lucchin
@@ -45,5 +47,6 @@ Elenco di classe:
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NDc1NDg3LC0xNTA1ODE4MTgzXX0=
+eyJoaXN0b3J5IjpbLTIwMzU5NzA3NTEsLTE1MDU4MTgxODNdfQ
+==
 -->
