@@ -39,6 +39,9 @@ Elenco di classe:
 	-  "Ma com'è successo?"
 	-  "Dicono sia uscito e non sia più tornato"
 - Guidolin
+	- "Oh ma te lo ricordi Guidolin?"
+	-  "Quello che dormiva?"
+	-  "Eh a mezzanotte ha droppato con SapoBully"
 - Gusella
 - Lucchin
 - Milani 
@@ -47,6 +50,5 @@ Elenco di classe:
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU5NzA3NTEsLTE1MDU4MTgxODNdfQ
-==
+eyJoaXN0b3J5IjpbLTY5MTY2MzEwLC0xNTA1ODE4MTgzXX0=
 -->
