@@ -19,7 +19,11 @@ Elenco di classe:
 	-  "Quello con il morto? Oddio non dirmi che"
 	-  "Nono tranquillo, lui lo stanno ancora cercando." 
 - Brunello
+	- "Oh ma te lo rico
 - Ceccon
+	- "Oh ma te lo ricordi Ceccon?"
+	- "Quello delle feste?"
+	- "Ora organizza il 90% degli eventi in Italia"
 - Dal Zotto
 	-  "Oh ma te lo ricordi Dal Zotto?"
 	-  "Quello semi-autistico?"
@@ -49,7 +53,7 @@ Elenco di classe:
 	- "Quello dei versi?"
 	- "Eh hai presente che i Queen sono tornati?"
 	- "Non dirmi che è il tastierista"
-	- "Nono l'hanno arrestato per violazione dei diritti um, avevo cambiato argomento"
+	- "Nono quello l'hanno arrestato per violazione dei diritti umani,"
 - Lucchin
 	- "Oh ma te lo ricordi Lucchin?"
 	-  "Quello scemo?"
@@ -74,5 +78,5 @@ Elenco di classe:
 	- "E' diventato il secondo streamer al mondo, oltre 3 milioni l'anno"
 	- "Dio can gli è sempre andata bene"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDI0OTkxNCwtMTUwNTgxODE4M119
+eyJoaXN0b3J5IjpbMTk1NDIzOTI3NSwtMTUwNTgxODE4M119
 -->
