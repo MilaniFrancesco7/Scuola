@@ -9,6 +9,9 @@ Elenco di classe:
 	- "Cazzo si, era quello che faceva le verifiche in piedi"
 	- "Eh si, alla fine si è saputo che pippava cocaina e l'hanno arrestato" - "Tra l'altro faceva le verifiche in piedi perchè si infilava i panetti nel culo"
 - Basso
+	- "Oh ma te lo ricordi Basso?"
+	-  "Quello scemo con l'open source?"
+	-  "Eh alla fine è diventato multimiliardario, mi ha fottuto pure la moglie"
 - Bernardi
 - Brunello
 - Ceccon
@@ -25,5 +28,5 @@ Elenco di classe:
 - Rigoni
 - Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTQ4MzkyNCwtMTUwNTgxODE4M119
+eyJoaXN0b3J5IjpbNDQ0NTkxOTYyLC0xNTA1ODE4MTgzXX0=
 -->
