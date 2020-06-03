@@ -15,7 +15,13 @@ Elenco di classe:
 - Guazzo
 - Guidolin
 - Gusella
-- 
+- Lucchin
+- Milani 
+- Mujagic
+- Pivotto
+- Rigoni
+- Zen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2NDgyNzIzLC0xNTA1ODE4MTgzXX0=
+eyJoaXN0b3J5IjpbLTE1Njg0MzE1MjgsLTE1MDU4MTgxODNdfQ
+==
 -->
