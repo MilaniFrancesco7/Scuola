@@ -53,7 +53,7 @@ L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del
 #### Produzione
 Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi elementi nel sistema con l'obiettivo non di ottenere informazioni ma di provocare un danno.
 Sono quindi degli attacchi di sabotaggio che hanno l'obiettivo di ridurre l'integrità e la disponibilità delle risorse del sistema.
-Le principali tecniche di disturbo sono attacchi virus, attacchi worm e attacchi di tipo DOS.
+Le principali tecniche di disturbo sono attacchi virus, attacchi worm e attacchi di tipo DoS.
 I **virus** sono software che hanno il compito di moltiplicarsi ***"infettando"*** altri file o altri host presenti nella rete, senza farsi rilevare dall'utente. Solitamente i virus sfruttano falle o vulnerabilità presenti in un sistema operativo o in un software, cercando di rendere inutilizzabile il dispositivo attraverso attività distruttive o di ostruzionismo.
 Il virus più potente mai creato è il ***MyDoom*** (in italiano "Il mio destino"). Questo tipo di virus è riuscito a causare 38 miliardi di danni in tutto il mondo, diffondendosi attaccando tutti i file presenti sul PC.
 [1](https://www.laramind.com/blog/top-10-virus-piu-pericolosi-della-storia/)
@@ -61,11 +61,10 @@ Gli attacchi **worm** sono simili ai virus, ma si differenziano per la capacità
 [2](https://it.wikipedia.org/wiki/Worm)
 Come il virus punta a rendere inutilizzabile il dispositivo, occupando una grande quantità di risorse computazionali.
 Spesso un attacco worm o un attacco virus coincide con l'installazione di altre tipologie di malware (famiglia di cui worm e virus fanno parte), come ad esempio **backdoor** o **keylogger**, sfruttati dall'hacker per ottenere dati sensibili.
-Un ulteriore attacco di produzione è il **Denial Of Service** (DOS) o la sua evoluzione, il **Distribuited Denial Of Service** (DDOS).
+Un ulteriore attacco di produzione è il **Denial of Service** (DoS) o la sua evoluzione, il **Distribuited Denial of Service** (DDoS).
 Questo attacco mira a "tenere occupato" un host, solitamente server, con operazioni sostanzialmente inutili, in maniera tale da potergli impedire di offrire i propri servizi alla rete.
 [3](Libro di sistemi)
-
-
+Esistono diverse tipologie di attacchi DoS, alcune cercano di impedire l'accesso di un in
 
 
 ## Minacce Web
@@ -132,11 +131,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMz
-k5NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEwODgx
-MDgxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LD
-E2MTc5MjEyNzAsLTc2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0xODQ1
-MzE4MjY5LC01MDQ1MzU3MjcsMjAwMTA1MzMsLTE5NTA2ODQ3ND
-IsLTg2NzUzMTk2NCwtMTMyMTQyNjM1NCwtMTY1MTM3MzIxOSwy
-MDQ1NjczMjgwXX0=
+eyJoaXN0b3J5IjpbMTg2MjgxNTM3OCwtMTg5OTU4MDAwLC0xNT
+Q4MjA2NTY0LC0zOTk1Njk4MzIsLTMxMTU3MzE3NSwxMzI1NjA0
+ODU3LC0xMTA4ODEwODE2LC04NzY3MjcxNTIsMjA3NjkwMzY1LD
+EzMDg1MDM5MjgsMTYxNzkyMTI3MCwtNzYxNDkyNjYyLDE5NDY2
+MDQ2NzAsLTE4NDUzMTgyNjksLTUwNDUzNTcyNywyMDAxMDUzMy
+wtMTk1MDY4NDc0MiwtODY3NTMxOTY0LC0xMzIxNDI2MzU0LC0x
+NjUxMzczMjE5XX0=
 -->
