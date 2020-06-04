@@ -61,7 +61,7 @@ Gli attacchi **worm** sono simili ai virus, ma si differenziano per la capacità
 [2](https://it.wikipedia.org/wiki/Worm)
 Come il virus punta a rendere inutilizzabile il dispositivo, occupando una grande quantità di risorse computazionali.
 Spesso un attacco worm o un attacco virus coincide con l'installazione di altre tipologie di malware (famiglia di cui worm e virus fanno parte), come ad esempio **backdoor** o **keylogger**, sfruttati dall'hacker per ottenere dati sensibili.
-
+Un ulteriore attacco di protezione è il **denial of service** o la sua evoluzione, il **dis
 
 ## Minacce Web
 - DOS - Denial Of Service
@@ -127,11 +127,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzY5ODgzMywtMTU0ODIwNjU2NCwtMz
-k5NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEwODgx
-MDgxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LD
-E2MTc5MjEyNzAsLTc2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0xODQ1
-MzE4MjY5LC01MDQ1MzU3MjcsMjAwMTA1MzMsLTE5NTA2ODQ3ND
-IsLTg2NzUzMTk2NCwtMTMyMTQyNjM1NCwtMTY1MTM3MzIxOSwy
-MDQ1NjczMjgwXX0=
+eyJoaXN0b3J5IjpbLTE5MTAzNTY5MjgsLTE1NDgyMDY1NjQsLT
+M5OTU2OTgzMiwtMzExNTczMTc1LDEzMjU2MDQ4NTcsLTExMDg4
+MTA4MTYsLTg3NjcyNzE1MiwyMDc2OTAzNjUsMTMwODUwMzkyOC
+wxNjE3OTIxMjcwLC03NjE0OTI2NjIsMTk0NjYwNDY3MCwtMTg0
+NTMxODI2OSwtNTA0NTM1NzI3LDIwMDEwNTMzLC0xOTUwNjg0Nz
+QyLC04Njc1MzE5NjQsLTEzMjE0MjYzNTQsLTE2NTEzNzMyMTks
+MjA0NTY3MzI4MF19
 -->
