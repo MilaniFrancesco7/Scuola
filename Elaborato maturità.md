@@ -52,7 +52,7 @@ L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del
 
 #### Produzione
 Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi elementi nel sistema con l'obiettivo non di ottenere informazioni ma di provocare un danno.
-
+Sono quindi degli attacchi di sabotagg
 
 
 ## Minacce Web
@@ -119,11 +119,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTYwNDg1NywtMTEwODgxMDgxNiwtOD
-c2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LDE2MTc5MjEy
-NzAsLTc2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0xODQ1MzE4MjY5LC
-01MDQ1MzU3MjcsMjAwMTA1MzMsLTE5NTA2ODQ3NDIsLTg2NzUz
-MTk2NCwtMTMyMTQyNjM1NCwtMTY1MTM3MzIxOSwyMDQ1NjczMj
-gwLDE3ODE4Mzc3NjgsNDgxMzAyNTksLTEyMDg5MzU1NzMsMTYw
-OTg5MDI1Nl19
+eyJoaXN0b3J5IjpbLTMxMTU3MzE3NSwxMzI1NjA0ODU3LC0xMT
+A4ODEwODE2LC04NzY3MjcxNTIsMjA3NjkwMzY1LDEzMDg1MDM5
+MjgsMTYxNzkyMTI3MCwtNzYxNDkyNjYyLDE5NDY2MDQ2NzAsLT
+E4NDUzMTgyNjksLTUwNDUzNTcyNywyMDAxMDUzMywtMTk1MDY4
+NDc0MiwtODY3NTMxOTY0LC0xMzIxNDI2MzU0LC0xNjUxMzczMj
+E5LDIwNDU2NzMyODAsMTc4MTgzNzc2OCw0ODEzMDI1OSwtMTIw
+ODkzNTU3M119
 -->
