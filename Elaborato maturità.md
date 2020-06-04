@@ -26,7 +26,7 @@ Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’imm
 
 #### Minacce nel Web
 Le tipologie di attacco si possono racchiudere in due categorie principali: gli attacchi passivi e gli attacchi attivi.
-Gli attacchi attivi implicano la manomissione, l'ot 
+Gli attacchi attivi implicano l'ottenimento o la manomissione di dati, mentre gli attacchi passivi si limitano ad intercettare i dati, infatti non effetton  
 
 
 ## Minacce Web
@@ -93,7 +93,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MzA4OTAyLC0xNjUxMzczMjE5LDIwND
+eyJoaXN0b3J5IjpbODE0ODgwNDI4LC0xNjUxMzczMjE5LDIwND
 U2NzMyODAsMTc4MTgzNzc2OCw0ODEzMDI1OSwtMTIwODkzNTU3
 MywxNjA5ODkwMjU2LDEwNTM5OTk5MzgsMTY0MTUwOTIxLC0xNz
 Y3MzA2NDY5LC0yMDY4NjU4MzYsMTA5MzYzNDQ5OCwtNjQ0NzI4
