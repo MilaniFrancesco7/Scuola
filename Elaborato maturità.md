@@ -18,6 +18,7 @@
 
 ## Minacce Web
 - Cenno storico : Guglielmo Marconi e il primo caso di "hacking" della storia
+	- La storia narra che lo scienziato Guglielmo Marconi e il suo assistente Sir John Ambrose Fleming 
 	- È un tranquillo pomeriggio di giugno quello in cui Sir John Ambrose Fleming e Guglielmo Marconi stanno per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili.
 I due scienziati sono pronti, a 300 miglia di distanza, quando, ancor prima di cominciare, la macchina riceve due inaspettati messaggi: un insulto e una filastrocca canzonatoria che accusa il futuro premio Nobel di essere un truffatore.
 L’esperimento è un disastro: qualcuno è riuscito a inserirsi in quelle frequenze radio che Marconi dichiarava essere sicure e private.
@@ -88,8 +89,8 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTgzNzc2OCw0ODEzMDI1OSwtMTIwOD
-kzNTU3MywxNjA5ODkwMjU2LDEwNTM5OTk5MzgsMTY0MTUwOTIx
-LC0xNzY3MzA2NDY5LC0yMDY4NjU4MzYsMTA5MzYzNDQ5OCwtNj
-Q0NzI4MzAxLDg1NzIyNjQyNV19
+eyJoaXN0b3J5IjpbLTE2NTcyNTgxNzIsMTc4MTgzNzc2OCw0OD
+EzMDI1OSwtMTIwODkzNTU3MywxNjA5ODkwMjU2LDEwNTM5OTk5
+MzgsMTY0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMDY4NjU4MzYsMT
+A5MzYzNDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV19
 -->
