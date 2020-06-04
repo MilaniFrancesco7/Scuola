@@ -47,6 +47,7 @@ Esistono altre tipologie di spoofing che derivano da quelle descritti precedente
 L'IP spoofing consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco. 
 In questo modo l'host viene considerato attendibile dalla rete, cercando di ottenere dati sensibili.
 Il DNS spoofing, o shadow server, consiste nel creare record DNS fasulli, inserendoli nella cache del server, attraverso una tecnica chiamata ***cache poisoning***, per poter deviare le richieste DNS ad un server secondario, che si posizionerà quindi davanti al server originario, coprendolo (da qui **shadow** server).
+L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del tutto simile a quello originario, dove inserirà i dati sensibili che verranno poi rubati dall'individuo a.
 
 
 
@@ -114,11 +115,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjkwMzY1LDEzMDg1MDM5MjgsMTYxNz
-kyMTI3MCwtNzYxNDkyNjYyLDE5NDY2MDQ2NzAsLTE4NDUzMTgy
-NjksLTUwNDUzNTcyNywyMDAxMDUzMywtMTk1MDY4NDc0MiwtOD
-Y3NTMxOTY0LC0xMzIxNDI2MzU0LC0xNjUxMzczMjE5LDIwNDU2
-NzMyODAsMTc4MTgzNzc2OCw0ODEzMDI1OSwtMTIwODkzNTU3My
-wxNjA5ODkwMjU2LDEwNTM5OTk5MzgsMTY0MTUwOTIxLC0xNzY3
-MzA2NDY5XX0=
+eyJoaXN0b3J5IjpbLTIxMTI3ODA1MywyMDc2OTAzNjUsMTMwOD
+UwMzkyOCwxNjE3OTIxMjcwLC03NjE0OTI2NjIsMTk0NjYwNDY3
+MCwtMTg0NTMxODI2OSwtNTA0NTM1NzI3LDIwMDEwNTMzLC0xOT
+UwNjg0NzQyLC04Njc1MzE5NjQsLTEzMjE0MjYzNTQsLTE2NTEz
+NzMyMTksMjA0NTY3MzI4MCwxNzgxODM3NzY4LDQ4MTMwMjU5LC
+0xMjA4OTM1NTczLDE2MDk4OTAyNTYsMTA1Mzk5OTkzOCwxNjQx
+NTA5MjFdfQ==
 -->
