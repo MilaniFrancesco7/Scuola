@@ -18,17 +18,17 @@
 
 # Introduzione
 
-#### Cenno storico
+### Cenno storico
 La storia narra che lo scienziato Guglielmo Marconi e il suo assistente Sir John Ambrose Fleming stessero per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili, quando inaspettatamente la macchina riceve due messaggi: un insulto, e una filastrocca canzonatoria dell'italiano futuro premio nobel. L'esperimento risulta quindi un disastro, dato che qualcuno è riuscito ad inserirsi nelle frequenze radio che Marconi dichiarava come sicure e private. Il colpevole si rivelerà essere l'inventore Nevil Maskelyne, che dal palazzo vicino riuscì ad interferire con le frequenze di Marconi.
 Era il 4 giugno 1903, e questo è considerato il primo caso di hacking della storia.
 
 Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento, la gestione e la protezione di dati e informazioni hanno fatto passi da gigante, così come le potenziali minacce, che si sono evolute parallelamente.
 
-#### Minacce nel Web
+### Minacce nel Web
 Le tipologie di attacco si possono racchiudere in due categorie principali: attacco attivo e attacco passivo.
 L'attacco attivo implica la manomissione di dati o il disturbo del loro funzionamento, danneggiandone l'integrità e la disponibilità. L'attacco passivo invece cerca di intercettare e utilizzare i dati senza danneggiare le risorse del sistema, quindi minacciandone solamente la riservatezza.
 
-#### Attacchi passivi
+### Attacchi passivi
 L'attacco passivo più famoso è sicuramente lo **sniffing**.
 I packet sniffer erano nati con l'intento di essere programmi di diagnostica per le reti, riuscendo a catturare, analizzare e decodificare tutti i pacchetti in transito nelle comunicazioni. Presto però è diventato uno strumento per malintenzionati.
 Infatti intercettando i singoli pacchetti, decodificandoli e analizzandoli, gli *sniffer* riescono a recuperare informazioni sulla comunicazione in atto: dalle informazioni sul traffico di rete ai dati veri e propri, che quindi potrebbero contenere informazioni sensibili.
@@ -37,8 +37,9 @@ Esistono molte tattiche per attuare un **packet sniffing**. La più famosa è si
 Grazie a questo attacco, è possibile intercettare una comunicazione in corso tra due nodi inserendosi nel mezzo della comunicazione, arrivando a trasformarsi come "ponte" tra gli stessi due nodi.
 Questa operazione consente all'hacker di recuperare le informazioni semplicemente osservando il traffico di passaggio senza che avvenga alcun disturbo, lasciando credere ai due comunicanti di essere soli.
 
-#### Attacchi attivi
+### Attacchi attivi
 Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per obiettivo dell'attacco.
+#### Intercettazione 
 Troviamo innanzitutto l'intercettazione, il cui metodo più utilizzato è lo ***spoofing***.
 Lo spoofing è un tipo di attacco che consiste nel falsificare l'identità dell'host da cui viene eseguito l'attacco.
 Esso può essere attuato in diverse maniere; il più utilizzato è l'IP spoofing, ma esistono il DNS Spoofing (chiamato anche shadow server), il MAC spoofing (chiamato anche MAC flooding), l'ARP spoofing o l'Email Spoofing (utilizzato principalmente come base per il phishing)). 
@@ -49,6 +50,7 @@ In questo modo l'host viene considerato attendibile dalla rete, cercando di otte
 Il DNS spoofing, o shadow server, consiste nel creare record DNS fasulli, inserendoli nella cache del server, attraverso una tecnica chiamata ***cache poisoning***, per poter deviare le richieste DNS ad un server secondario, che si posizionerà quindi davanti al server originario, coprendolo (da qui **shadow** server).
 L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del tutto simile a quello originario, dove inserirà i dati sensibili che verranno poi rubati dall'individuo attaccante.
 
+#### 
 
 
 
@@ -116,11 +118,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjcyNzE1MiwyMDc2OTAzNjUsMTMwOD
-UwMzkyOCwxNjE3OTIxMjcwLC03NjE0OTI2NjIsMTk0NjYwNDY3
-MCwtMTg0NTMxODI2OSwtNTA0NTM1NzI3LDIwMDEwNTMzLC0xOT
-UwNjg0NzQyLC04Njc1MzE5NjQsLTEzMjE0MjYzNTQsLTE2NTEz
-NzMyMTksMjA0NTY3MzI4MCwxNzgxODM3NzY4LDQ4MTMwMjU5LC
-0xMjA4OTM1NTczLDE2MDk4OTAyNTYsMTA1Mzk5OTkzOCwxNjQx
-NTA5MjFdfQ==
+eyJoaXN0b3J5IjpbLTE3MTU3NzExNTgsLTg3NjcyNzE1MiwyMD
+c2OTAzNjUsMTMwODUwMzkyOCwxNjE3OTIxMjcwLC03NjE0OTI2
+NjIsMTk0NjYwNDY3MCwtMTg0NTMxODI2OSwtNTA0NTM1NzI3LD
+IwMDEwNTMzLC0xOTUwNjg0NzQyLC04Njc1MzE5NjQsLTEzMjE0
+MjYzNTQsLTE2NTEzNzMyMTksMjA0NTY3MzI4MCwxNzgxODM3Nz
+Y4LDQ4MTMwMjU5LC0xMjA4OTM1NTczLDE2MDk4OTAyNTYsMTA1
+Mzk5OTkzOF19
 -->
