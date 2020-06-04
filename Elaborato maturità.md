@@ -17,7 +17,7 @@
 	- Protezione delle credenziali 
 
 # Introduzione
-
+La risorsa pi
 ## Minacce Web
 - Cenno storico : Guglielmo Marconi e il primo caso di "hacking" della storia
 	- La storia narra che lo scienziato Guglielmo Marconi e il suo assistente Sir John Ambrose Fleming stessero per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili, quando inaspettatamente la macchina riceve due messaggi: un insulto, e una filastrocca canzonatoria dell'italiano futuro premio nobel. L'esperimento risulta quindi un disastro, dato che qualcuno è riuscito ad inserirsi nelle frequenze radio che Marconi dichiarava come sicure e private. Il colpevole si rivelerà essere l'inventore Nevil Maskelyne, che dal palazzo vicino riuscì ad interferire con le frequenze di Marconi.
@@ -92,9 +92,9 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTEzNzMyMTksMjA0NTY3MzI4MCwxNz
-gxODM3NzY4LDQ4MTMwMjU5LC0xMjA4OTM1NTczLDE2MDk4OTAy
-NTYsMTA1Mzk5OTkzOCwxNjQxNTA5MjEsLTE3NjczMDY0NjksLT
-IwNjg2NTgzNiwxMDkzNjM0NDk4LC02NDQ3MjgzMDEsODU3MjI2
-NDI1XX0=
+eyJoaXN0b3J5IjpbMTk0NTAzNzkwMiwtMTY1MTM3MzIxOSwyMD
+Q1NjczMjgwLDE3ODE4Mzc3NjgsNDgxMzAyNTksLTEyMDg5MzU1
+NzMsMTYwOTg5MDI1NiwxMDUzOTk5OTM4LDE2NDE1MDkyMSwtMT
+c2NzMwNjQ2OSwtMjA2ODY1ODM2LDEwOTM2MzQ0OTgsLTY0NDcy
+ODMwMSw4NTcyMjY0MjVdfQ==
 -->
