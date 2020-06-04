@@ -28,13 +28,17 @@ Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’imm
 Le tipologie di attacco si possono racchiudere in due categorie principali: attacco attivo e attacco passivo.
 L'attacco attivo implica la manomissione di dati o il disturbo del loro funzionamento, danneggiandone l'integrità e la disponibilità. L'attacco passivo invece cerca di intercettare e utilizzare i dati senza danneggiare le risorse del sistema, quindi minacciandone solamente la riservatezza.
 
+#### Attacchi passivi
 L'attacco passivo più famoso è sicuramente lo **sniffing**.
 I packet sniffer erano nati con l'intento di essere programmi di diagnostica per le reti, riuscendo a catturare, analizzare e decodificare tutti i pacchetti in transito nelle comunicazioni. Presto però è diventato uno strumento per malintenzionati.
 Infatti intercettando i singoli pacchetti, decodificandoli e analizzandoli, gli *sniffer* riescono a recuperare informazioni sulla comunicazione in atto: dalle informazioni sul traffico di rete ai dati veri e propri, che quindi potrebbero contenere informazioni sensibili.
 
-Esistono molte tattiche per attuare un **packet sniffing**. La più famosa è sicuramente la tattica ***Man in the middle***. 
+Esistono molte tattiche per attuare un **packet sniffing**. La più famosa è sicuramente il ***Man in the middle***. 
 Grazie a questo metodo, è possibile intercettare una comunicazione in corso tra due nodi inserendosi nel mezzo della comunicazione, arrivando a trasformarsi come "ponte" tra gli stessi due nodi.
-Questa operazione consente all'hacker di recuperare le informazioni semplicemente osservando il traffico di passaggio senza che avvenga alcun disturbo, lasciando credere ai due comunicanti di e
+Questa operazione consente all'hacker di recuperare le informazioni semplicemente osservando il traffico di passaggio senza che avvenga alcun disturbo, lasciando credere ai due comunicanti di essere soli.
+
+#### Attacchi attivi
+Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per categoria di 
 
 ## Minacce Web
 - DOS - Denial Of Service
@@ -100,10 +104,10 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI3MDM3NjQsLTg2NzUzMTk2NCwtMT
-MyMTQyNjM1NCwtMTY1MTM3MzIxOSwyMDQ1NjczMjgwLDE3ODE4
-Mzc3NjgsNDgxMzAyNTksLTEyMDg5MzU1NzMsMTYwOTg5MDI1Ni
-wxMDUzOTk5OTM4LDE2NDE1MDkyMSwtMTc2NzMwNjQ2OSwtMjA2
-ODY1ODM2LDEwOTM2MzQ0OTgsLTY0NDcyODMwMSw4NTcyMjY0Mj
-VdfQ==
+eyJoaXN0b3J5IjpbLTczNDMwMjM4NywtODY3NTMxOTY0LC0xMz
+IxNDI2MzU0LC0xNjUxMzczMjE5LDIwNDU2NzMyODAsMTc4MTgz
+Nzc2OCw0ODEzMDI1OSwtMTIwODkzNTU3MywxNjA5ODkwMjU2LD
+EwNTM5OTk5MzgsMTY0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMDY4
+NjU4MzYsMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV
+19
 -->
