@@ -28,7 +28,8 @@ Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’imm
 Le tipologie di attacco si possono racchiudere in due categorie principali: attacco attivo e attacco passivo.
 L'attacco attivo implica la manomissione di dati o il disturbo del loro funzionamento, danneggiandone l'integrità e la disponibilità. L'attacco passivo invece cerca di intercettare e utilizzare i dati senza danneggiare le risorse del sistema, quindi minacciandone solamente la riservatezza.
 
-L'attacco passivo più famoso è sicuramente lo **sniffing**
+L'attacco passivo più famoso è sicuramente lo **sniffing**.
+I packet sniffer erano nati con l'intento di essere programmi di diagnostica per le reti, riuscendo a catturare, analizzare e decodificare tutti i pacchetti in transito nelle comunicazioni. Presto però è diventato uno strumento per malintenzionati.
 
   
 
@@ -97,7 +98,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Nzg2NTUzMywtMTMyMTQyNjM1NCwtMT
+eyJoaXN0b3J5IjpbLTg2NzUzMTk2NCwtMTMyMTQyNjM1NCwtMT
 Y1MTM3MzIxOSwyMDQ1NjczMjgwLDE3ODE4Mzc3NjgsNDgxMzAy
 NTksLTEyMDg5MzU1NzMsMTYwOTg5MDI1NiwxMDUzOTk5OTM4LD
 E2NDE1MDkyMSwtMTc2NzMwNjQ2OSwtMjA2ODY1ODM2LDEwOTM2
