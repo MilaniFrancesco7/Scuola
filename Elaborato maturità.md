@@ -17,7 +17,8 @@
 	- Protezione delle credenziali 
 
 # Introduzione
-La risorsa pi
+La risorsa più importante al giorno d'oggi è l'informazione. 
+
 ## Minacce Web
 - Cenno storico : Guglielmo Marconi e il primo caso di "hacking" della storia
 	- La storia narra che lo scienziato Guglielmo Marconi e il suo assistente Sir John Ambrose Fleming stessero per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili, quando inaspettatamente la macchina riceve due messaggi: un insulto, e una filastrocca canzonatoria dell'italiano futuro premio nobel. L'esperimento risulta quindi un disastro, dato che qualcuno è riuscito ad inserirsi nelle frequenze radio che Marconi dichiarava come sicure e private. Il colpevole si rivelerà essere l'inventore Nevil Maskelyne, che dal palazzo vicino riuscì ad interferire con le frequenze di Marconi.
@@ -92,9 +93,9 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTAzNzkwMiwtMTY1MTM3MzIxOSwyMD
-Q1NjczMjgwLDE3ODE4Mzc3NjgsNDgxMzAyNTksLTEyMDg5MzU1
-NzMsMTYwOTg5MDI1NiwxMDUzOTk5OTM4LDE2NDE1MDkyMSwtMT
-c2NzMwNjQ2OSwtMjA2ODY1ODM2LDEwOTM2MzQ0OTgsLTY0NDcy
-ODMwMSw4NTcyMjY0MjVdfQ==
+eyJoaXN0b3J5IjpbNjI0NjI3MzcyLC0xNjUxMzczMjE5LDIwND
+U2NzMyODAsMTc4MTgzNzc2OCw0ODEzMDI1OSwtMTIwODkzNTU3
+MywxNjA5ODkwMjU2LDEwNTM5OTk5MzgsMTY0MTUwOTIxLC0xNz
+Y3MzA2NDY5LC0yMDY4NjU4MzYsMTA5MzYzNDQ5OCwtNjQ0NzI4
+MzAxLDg1NzIyNjQyNV19
 -->
