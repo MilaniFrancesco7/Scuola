@@ -34,13 +34,14 @@ I packet sniffer erano nati con l'intento di essere programmi di diagnostica per
 Infatti intercettando i singoli pacchetti, decodificandoli e analizzandoli, gli *sniffer* riescono a recuperare informazioni sulla comunicazione in atto: dalle informazioni sul traffico di rete ai dati veri e propri, che quindi potrebbero contenere informazioni sensibili.
 
 Esistono molte tattiche per attuare un **packet sniffing**. La più famosa è sicuramente il ***Man in the middle***. 
-Grazie a questo metodo, è possibile intercettare una comunicazione in corso tra due nodi inserendosi nel mezzo della comunicazione, arrivando a trasformarsi come "ponte" tra gli stessi due nodi.
+Grazie a questo attacco, è possibile intercettare una comunicazione in corso tra due nodi inserendosi nel mezzo della comunicazione, arrivando a trasformarsi come "ponte" tra gli stessi due nodi.
 Questa operazione consente all'hacker di recuperare le informazioni semplicemente osservando il traffico di passaggio senza che avvenga alcun disturbo, lasciando credere ai due comunicanti di essere soli.
 
 #### Attacchi attivi
 Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per obiettivo dell'attacco.
 Troviamo innanzitutto l'intercettazione, il cui metodo più utilizzato è l' ***IP spoofing***.
 L'IP spoofing, detto anche solamente spoofing, è un tipo di attacco che consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco.
+N
 
 
 ## Minacce Web
@@ -107,7 +108,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTY5MTgyOCwtNTA0NTM1NzI3LDIwMD
+eyJoaXN0b3J5IjpbMTczNjYyMTU1NSwtNTA0NTM1NzI3LDIwMD
 EwNTMzLC0xOTUwNjg0NzQyLC04Njc1MzE5NjQsLTEzMjE0MjYz
 NTQsLTE2NTEzNzMyMTksMjA0NTY3MzI4MCwxNzgxODM3NzY4LD
 Q4MTMwMjU5LC0xMjA4OTM1NTczLDE2MDk4OTAyNTYsMTA1Mzk5
