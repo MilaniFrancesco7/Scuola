@@ -58,6 +58,7 @@ I virus sono software che hanno il compito di moltiplicarsi ***"infettando"*** a
 Il virus più potente mai creato è il ***MyDoom*** (in italiano "Il mio destino"). Questo tipo di virus è riuscito a causare 38 miliardi di danni in tutto il mondo, diffondendosi attaccando tutti i file presenti sul PC.
 [1](https://www.laramind.com/blog/top-10-virus-piu-pericolosi-della-storia/)
 
+
 ## Minacce Web
 - DOS - Denial Of Service
 - Malware - Virus, Trojan, Spyware
@@ -122,11 +123,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgyMDY1NjQsLTM5OTU2OTgzMiwtMz
-ExNTczMTc1LDEzMjU2MDQ4NTcsLTExMDg4MTA4MTYsLTg3Njcy
-NzE1MiwyMDc2OTAzNjUsMTMwODUwMzkyOCwxNjE3OTIxMjcwLC
-03NjE0OTI2NjIsMTk0NjYwNDY3MCwtMTg0NTMxODI2OSwtNTA0
-NTM1NzI3LDIwMDEwNTMzLC0xOTUwNjg0NzQyLC04Njc1MzE5Nj
-QsLTEzMjE0MjYzNTQsLTE2NTEzNzMyMTksMjA0NTY3MzI4MCwx
-NzgxODM3NzY4XX0=
+eyJoaXN0b3J5IjpbLTE1NjM5Njk2NTQsLTE1NDgyMDY1NjQsLT
+M5OTU2OTgzMiwtMzExNTczMTc1LDEzMjU2MDQ4NTcsLTExMDg4
+MTA4MTYsLTg3NjcyNzE1MiwyMDc2OTAzNjUsMTMwODUwMzkyOC
+wxNjE3OTIxMjcwLC03NjE0OTI2NjIsMTk0NjYwNDY3MCwtMTg0
+NTMxODI2OSwtNTA0NTM1NzI3LDIwMDEwNTMzLC0xOTUwNjg0Nz
+QyLC04Njc1MzE5NjQsLTEzMjE0MjYzNTQsLTE2NTEzNzMyMTks
+MjA0NTY3MzI4MF19
 -->
