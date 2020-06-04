@@ -25,8 +25,8 @@ Era il 4 giugno 1903, e questo è considerato il primo caso di hacking della sto
 Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento, la gestione e la protezione di dati e informazioni hanno fatto passi da gigante, così come le potenziali minacce, che si sono evolute parallelamente.
 
 #### Minacce nel Web
-Le tipologie di attacco si possono racchiudere in due categorie principali: gli attacchi passivi e gli attacchi attivi.
-Gli attacchi attivi implicano l'ottenimento o la manomissione di dati, mentre gli attacchi passivi si limitano ad intercettare i dati, senza effettuare alterazioni.
+Le tipologie di attacco si possono racchiudere in due categorie principali: attacco attivo e attacco passivo.
+L'attacco attivo implica la manomissione di dati o il disturbo del loro funzionam, danneggiandone l'integrità e la disponibilitàmentre gli attacchi passivi si limitano ad intercettare i dati, senza effettuare alterazioni.
 
 Tra gli attacchi passivi più famosi troviamo:
 
@@ -97,9 +97,9 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE0MjYzNTQsLTE2NTEzNzMyMTksMj
-A0NTY3MzI4MCwxNzgxODM3NzY4LDQ4MTMwMjU5LC0xMjA4OTM1
-NTczLDE2MDk4OTAyNTYsMTA1Mzk5OTkzOCwxNjQxNTA5MjEsLT
-E3NjczMDY0NjksLTIwNjg2NTgzNiwxMDkzNjM0NDk4LC02NDQ3
-MjgzMDEsODU3MjI2NDI1XX0=
+eyJoaXN0b3J5IjpbMTM5NjEwNTk1LC0xMzIxNDI2MzU0LC0xNj
+UxMzczMjE5LDIwNDU2NzMyODAsMTc4MTgzNzc2OCw0ODEzMDI1
+OSwtMTIwODkzNTU3MywxNjA5ODkwMjU2LDEwNTM5OTk5MzgsMT
+Y0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMDY4NjU4MzYsMTA5MzYz
+NDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV19
 -->
