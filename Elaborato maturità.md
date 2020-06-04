@@ -42,7 +42,7 @@ Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più 
 Troviamo innanzitutto l'intercettazione, il cui metodo più utilizzato è lo ***spoofing***.
 Lo spoofing è un tipo di attacco che consiste nel falsificare l'identità dell'host da cui viene eseguito l'attacco.
 Esso può essere attuato in diverse maniere; il più utilizzato è l'IP spoofing, ma esistono il MAC spoofing (chiamato anche MAC flooding), l'ARP spoofing, l'Email Spoofing (utilizzato principalmente come base per il phishing) o il DNS Spoofing. 
-Esistono altre tipologie di spoofing che derivano da quelli descritti precedentemente, agendo sempre sui livelli 2,3,4 e 7 dello modello ISO/OSI
+Esistono altre tipologie di spoofing che derivano da quelli descritti precedentemente, agendo su tutti i livelli dello modello ISO/OSI.
 
 
 ## Minacce Web
@@ -109,10 +109,10 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDI5NzMyNCwtNTA0NTM1NzI3LDIwMD
-EwNTMzLC0xOTUwNjg0NzQyLC04Njc1MzE5NjQsLTEzMjE0MjYz
-NTQsLTE2NTEzNzMyMTksMjA0NTY3MzI4MCwxNzgxODM3NzY4LD
-Q4MTMwMjU5LC0xMjA4OTM1NTczLDE2MDk4OTAyNTYsMTA1Mzk5
-OTkzOCwxNjQxNTA5MjEsLTE3NjczMDY0NjksLTIwNjg2NTgzNi
-wxMDkzNjM0NDk4LC02NDQ3MjgzMDEsODU3MjI2NDI1XX0=
+eyJoaXN0b3J5IjpbLTE4NDUzMTgyNjksLTUwNDUzNTcyNywyMD
+AxMDUzMywtMTk1MDY4NDc0MiwtODY3NTMxOTY0LC0xMzIxNDI2
+MzU0LC0xNjUxMzczMjE5LDIwNDU2NzMyODAsMTc4MTgzNzc2OC
+w0ODEzMDI1OSwtMTIwODkzNTU3MywxNjA5ODkwMjU2LDEwNTM5
+OTk5MzgsMTY0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMDY4NjU4Mz
+YsMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV19
 -->
