@@ -62,7 +62,8 @@ Gli attacchi **worm** sono simili ai virus, ma si differenziano per la capacità
 Come il virus punta a rendere inutilizzabile il dispositivo, occupando una grande quantità di risorse computazionali.
 Spesso un attacco worm o un attacco virus coincide con l'installazione di altre tipologie di malware (famiglia di cui worm e virus fanno parte), come ad esempio **backdoor** o **keylogger**, sfruttati dall'hacker per ottenere dati sensibili.
 Un ulteriore attacco di produzione è il **Denial Of Service** (DOS) o la sua evoluzione, il **Distribuited Denial Of Service** (DDOS).
-Questo attacco mira a "tenere occupato" un host con operazioni sostanzialmente inutili, in maniera tale da potergli impedire di offrire i propri servizi alla ret
+Questo attacco mira a "tenere occupato" un host, solitamente server, con operazioni sostanzialmente inutili, in maniera tale da potergli impedire di offrire i propri servizi alla rete.
+[3](Libro di sistemi)
 
 ## Minacce Web
 - DOS - Denial Of Service
@@ -128,7 +129,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzQ3NDkwMCwtMTU0ODIwNjU2NCwtMz
+eyJoaXN0b3J5IjpbMTE4NDkxNTAxNCwtMTU0ODIwNjU2NCwtMz
 k5NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEwODgx
 MDgxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LD
 E2MTc5MjEyNzAsLTc2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0xODQ1
