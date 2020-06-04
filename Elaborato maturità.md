@@ -39,7 +39,7 @@ Questa operazione consente all'hacker di recuperare le informazioni semplicement
 
 #### Attacchi attivi
 Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per obiettivo dell'attacco.
-Troviamo innanzitutto l'intercettazione, 
+Troviamo innanzitutto l'intercettazione, il cui metodo più famo
 
 ## Minacce Web
 - DOS - Denial Of Service
@@ -105,10 +105,10 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA2ODQ3NDIsLTg2NzUzMTk2NCwtMT
-MyMTQyNjM1NCwtMTY1MTM3MzIxOSwyMDQ1NjczMjgwLDE3ODE4
-Mzc3NjgsNDgxMzAyNTksLTEyMDg5MzU1NzMsMTYwOTg5MDI1Ni
-wxMDUzOTk5OTM4LDE2NDE1MDkyMSwtMTc2NzMwNjQ2OSwtMjA2
-ODY1ODM2LDEwOTM2MzQ0OTgsLTY0NDcyODMwMSw4NTcyMjY0Mj
-VdfQ==
+eyJoaXN0b3J5IjpbOTY1MDUyMzIxLC0xOTUwNjg0NzQyLC04Nj
+c1MzE5NjQsLTEzMjE0MjYzNTQsLTE2NTEzNzMyMTksMjA0NTY3
+MzI4MCwxNzgxODM3NzY4LDQ4MTMwMjU5LC0xMjA4OTM1NTczLD
+E2MDk4OTAyNTYsMTA1Mzk5OTkzOCwxNjQxNTA5MjEsLTE3Njcz
+MDY0NjksLTIwNjg2NTgzNiwxMDkzNjM0NDk4LC02NDQ3MjgzMD
+EsODU3MjI2NDI1XX0=
 -->
