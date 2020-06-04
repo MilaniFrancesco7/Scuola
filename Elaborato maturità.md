@@ -38,7 +38,8 @@ Grazie a questo metodo, è possibile intercettare una comunicazione in corso tra
 Questa operazione consente all'hacker di recuperare le informazioni semplicemente osservando il traffico di passaggio senza che avvenga alcun disturbo, lasciando credere ai due comunicanti di essere soli.
 
 #### Attacchi attivi
-Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per categoria di 
+Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per obiettivo dell'attacco.
+Troviamo innanzitutto l'intercettazione, 
 
 ## Minacce Web
 - DOS - Denial Of Service
@@ -104,10 +105,10 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDMwMjM4NywtODY3NTMxOTY0LC0xMz
-IxNDI2MzU0LC0xNjUxMzczMjE5LDIwNDU2NzMyODAsMTc4MTgz
-Nzc2OCw0ODEzMDI1OSwtMTIwODkzNTU3MywxNjA5ODkwMjU2LD
-EwNTM5OTk5MzgsMTY0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMDY4
-NjU4MzYsMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV
-19
+eyJoaXN0b3J5IjpbLTE5NTA2ODQ3NDIsLTg2NzUzMTk2NCwtMT
+MyMTQyNjM1NCwtMTY1MTM3MzIxOSwyMDQ1NjczMjgwLDE3ODE4
+Mzc3NjgsNDgxMzAyNTksLTEyMDg5MzU1NzMsMTYwOTg5MDI1Ni
+wxMDUzOTk5OTM4LDE2NDE1MDkyMSwtMTc2NzMwNjQ2OSwtMjA2
+ODY1ODM2LDEwOTM2MzQ0OTgsLTY0NDcyODMwMSw4NTcyMjY0Mj
+VdfQ==
 -->
