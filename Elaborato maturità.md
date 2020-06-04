@@ -68,7 +68,8 @@ Esistono diverse tipologie di attacchi DoS, alcune cercano di impedire l'accesso
 Queste tipologie di interruzioni, nel caso di attacchi ad aziende, causano perdite finanziarie che possono essere anche molto pesanti.
 [4](https://academy.binance.com/it/security/what-is-a-dos-attack)
 La metodologia più utilizzata è il ***buffer overflow***, che consiste nell'invio di un traffico maggiore di quanto il sistema a cui si mira sia in grado di gestire. Questo attacco permette quindi di riuscire a rendere inutilizzabile il sistema, facendolo collassare.
-Un altro tipo di attacco molto utilizzato è il ***SYN flood***, che attacca il server autenticandosi solamente in maniera parziale. In questo modo verrà lasciata  la connessione sulla porta per il ***three way handshake***
+Un altro tipo di attacco molto utilizzato è il ***SYN flood***, che attacca il server autenticandosi solamente in maniera parziale. In questo modo verrà lasciata in attesa la connessione sulla porta per il ***three way handshake***, procedendo quindi a fare la stessa operazione su tutte le porte fino a mettere fuori uso il server.
+Infine il DDos, che può essere visto come "l'evoluzione" del DoS, dato che rispetto al DoS che avviene principalmente da una sola macchina, il DDoS conms
 
 ## Minacce Web
 - DOS - Denial Of Service
@@ -134,7 +135,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjQ4NDkwMiwtMTg5OTU4MDAwLC0xNT
+eyJoaXN0b3J5IjpbLTk0NTUxMTk1NywtMTg5OTU4MDAwLC0xNT
 Q4MjA2NTY0LC0zOTk1Njk4MzIsLTMxMTU3MzE3NSwxMzI1NjA0
 ODU3LC0xMTA4ODEwODE2LC04NzY3MjcxNTIsMjA3NjkwMzY1LD
 EzMDg1MDM5MjgsMTYxNzkyMTI3MCwtNzYxNDkyNjYyLDE5NDY2
