@@ -58,9 +58,9 @@ I **virus** sono software che hanno il compito di moltiplicarsi ***"infettando"*
 Il virus più potente mai creato è il ***MyDoom*** (in italiano "Il mio destino"). Questo tipo di virus è riuscito a causare 38 miliardi di danni in tutto il mondo, diffondendosi attaccando tutti i file presenti sul PC.
 [1](https://www.laramind.com/blog/top-10-virus-piu-pericolosi-della-storia/)
 Gli attacchi **worm** sono simili ai virus, ma si differenziano per la capacità di riuscire a moltiplicarsi senza doversi "legare" ad altri file o software, utilizzando invece direttamente gli host presenti nella rete. 
-Come il virus punta a rendere inutilizzabile il dispositivo, occupando una grande quantità di risorse computazionali.
-Spesso un attacco worm o un attacco virus coincide con l'installazione di altre tipologie di malware (famiglia di cui worm e virus fanno parte), come ad esempio **backdoor** o **keylogger**, sfruttati dall'hacker per ottenere dati sen
 [2](https://it.wikipedia.org/wiki/Worm)
+Come il virus punta a rendere inutilizzabile il dispositivo, occupando una grande quantità di risorse computazionali.
+Spesso un attacco worm o un attacco virus coincide con l'installazione di altre tipologie di malware (famiglia di cui worm e virus fanno parte), come ad esempio **backdoor** o **keylogger**, sfruttati dall'hacker per ottenere dati sensibili.
 
 
 ## Minacce Web
@@ -127,7 +127,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTY3MTExMywtMTU0ODIwNjU2NCwtMz
+eyJoaXN0b3J5IjpbMTc5NzY5ODgzMywtMTU0ODIwNjU2NCwtMz
 k5NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEwODgx
 MDgxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LD
 E2MTc5MjEyNzAsLTc2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0xODQ1
