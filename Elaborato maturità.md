@@ -30,7 +30,7 @@ L'attacco attivo implica la manomissione di dati o il disturbo del loro funziona
 
 L'attacco passivo più famoso è sicuramente lo **sniffing**.
 I packet sniffer erano nati con l'intento di essere programmi di diagnostica per le reti, riuscendo a catturare, analizzare e decodificare tutti i pacchetti in transito nelle comunicazioni. Presto però è diventato uno strumento per malintenzionati.
-
+Infatti intercettando i singoli pacchetti, decodificandoli e analizzando le pa
 
 
 
@@ -98,10 +98,10 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUxNDQ5NTYsLTg2NzUzMTk2NCwtMT
-MyMTQyNjM1NCwtMTY1MTM3MzIxOSwyMDQ1NjczMjgwLDE3ODE4
-Mzc3NjgsNDgxMzAyNTksLTEyMDg5MzU1NzMsMTYwOTg5MDI1Ni
-wxMDUzOTk5OTM4LDE2NDE1MDkyMSwtMTc2NzMwNjQ2OSwtMjA2
-ODY1ODM2LDEwOTM2MzQ0OTgsLTY0NDcyODMwMSw4NTcyMjY0Mj
-VdfQ==
+eyJoaXN0b3J5IjpbMTIwMTEyNzg1NSwtODY3NTMxOTY0LC0xMz
+IxNDI2MzU0LC0xNjUxMzczMjE5LDIwNDU2NzMyODAsMTc4MTgz
+Nzc2OCw0ODEzMDI1OSwtMTIwODkzNTU3MywxNjA5ODkwMjU2LD
+EwNTM5OTk5MzgsMTY0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMDY4
+NjU4MzYsMTA5MzYzNDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV
+19
 -->
