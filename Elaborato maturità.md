@@ -50,7 +50,8 @@ In questo modo l'host viene considerato attendibile dalla rete, cercando di otte
 Il DNS spoofing, o shadow server, consiste nel creare record DNS fasulli, inserendoli nella cache del server, attraverso una tecnica chiamata ***cache poisoning***, per poter deviare le richieste DNS ad un server secondario, che si posizionerà quindi davanti al server originario, coprendolo (da qui **shadow** server).
 L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del tutto simile a quello originario, dove inserirà i dati sensibili che verranno poi rubati dall'individuo attaccante.
 
-#### 
+#### Produzione
+Un altro tipo di attacco è la produzione, 
 
 
 
@@ -118,7 +119,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU3NzExNTgsLTg3NjcyNzE1MiwyMD
+eyJoaXN0b3J5IjpbLTExMDg4MTA4MTYsLTg3NjcyNzE1MiwyMD
 c2OTAzNjUsMTMwODUwMzkyOCwxNjE3OTIxMjcwLC03NjE0OTI2
 NjIsMTk0NjYwNDY3MCwtMTg0NTMxODI2OSwtNTA0NTM1NzI3LD
 IwMDEwNTMzLC0xOTUwNjg0NzQyLC04Njc1MzE5NjQsLTEzMjE0
