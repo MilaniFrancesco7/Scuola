@@ -26,7 +26,7 @@ Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’imm
 
 #### Minacce nel Web
 Le tipologie di attacco si possono racchiudere in due categorie principali: attacco attivo e attacco passivo.
-L'attacco attivo implica la manomissione di dati o il disturbo del loro funzionam, danneggiandone l'integrità e la disponibilitàmentre gli attacchi passivi si limitano ad intercettare i dati, senza effettuare alterazioni.
+L'attacco attivo implica la manomissione di dati o il disturbo del loro funzionamento, danneggiandone l'integrità e la disponibilità. L'attacco passivo invece cerca di intercettare e utilizzare i dati senza danneggiare le risorse del sistema, quindi minacciandone solamente la riservatezza.
 
 Tra gli attacchi passivi più famosi troviamo:
 
@@ -97,9 +97,9 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjEwNTk1LC0xMzIxNDI2MzU0LC0xNj
-UxMzczMjE5LDIwNDU2NzMyODAsMTc4MTgzNzc2OCw0ODEzMDI1
-OSwtMTIwODkzNTU3MywxNjA5ODkwMjU2LDEwNTM5OTk5MzgsMT
-Y0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMDY4NjU4MzYsMTA5MzYz
-NDQ5OCwtNjQ0NzI4MzAxLDg1NzIyNjQyNV19
+eyJoaXN0b3J5IjpbLTEwNzI3NzUyMTksLTEzMjE0MjYzNTQsLT
+E2NTEzNzMyMTksMjA0NTY3MzI4MCwxNzgxODM3NzY4LDQ4MTMw
+MjU5LC0xMjA4OTM1NTczLDE2MDk4OTAyNTYsMTA1Mzk5OTkzOC
+wxNjQxNTA5MjEsLTE3NjczMDY0NjksLTIwNjg2NTgzNiwxMDkz
+NjM0NDk4LC02NDQ3MjgzMDEsODU3MjI2NDI1XX0=
 -->
