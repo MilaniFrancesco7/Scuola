@@ -52,7 +52,6 @@ L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del
 
 
 
-
 ## Minacce Web
 - DOS - Denial Of Service
 - Malware - Virus, Trojan, Spyware
@@ -117,7 +116,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzM0OTEyMiwyMDc2OTAzNjUsMTMwOD
+eyJoaXN0b3J5IjpbLTg3NjcyNzE1MiwyMDc2OTAzNjUsMTMwOD
 UwMzkyOCwxNjE3OTIxMjcwLC03NjE0OTI2NjIsMTk0NjYwNDY3
 MCwtMTg0NTMxODI2OSwtNTA0NTM1NzI3LDIwMDEwNTMzLC0xOT
 UwNjg0NzQyLC04Njc1MzE5NjQsLTEzMjE0MjYzNTQsLTE2NTEz
