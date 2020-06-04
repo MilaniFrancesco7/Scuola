@@ -39,7 +39,8 @@ Questa operazione consente all'hacker di recuperare le informazioni semplicement
 
 #### Attacchi attivi
 Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per obiettivo dell'attacco.
-Troviamo innanzitutto l'intercettazione, il cui metodo più utilizzato è lo ***spoofing***.
+Troviamo innanzitutto l'intercettazione, il cui metodo più utilizzato è l' ***IP spoofing***.
+Lo 
 
 
 ## Minacce Web
@@ -106,10 +107,10 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTA1MzMsLTE5NTA2ODQ3NDIsLTg2Nz
-UzMTk2NCwtMTMyMTQyNjM1NCwtMTY1MTM3MzIxOSwyMDQ1Njcz
-MjgwLDE3ODE4Mzc3NjgsNDgxMzAyNTksLTEyMDg5MzU1NzMsMT
-YwOTg5MDI1NiwxMDUzOTk5OTM4LDE2NDE1MDkyMSwtMTc2NzMw
-NjQ2OSwtMjA2ODY1ODM2LDEwOTM2MzQ0OTgsLTY0NDcyODMwMS
-w4NTcyMjY0MjVdfQ==
+eyJoaXN0b3J5IjpbNjAxMTk4NzA5LDIwMDEwNTMzLC0xOTUwNj
+g0NzQyLC04Njc1MzE5NjQsLTEzMjE0MjYzNTQsLTE2NTEzNzMy
+MTksMjA0NTY3MzI4MCwxNzgxODM3NzY4LDQ4MTMwMjU5LC0xMj
+A4OTM1NTczLDE2MDk4OTAyNTYsMTA1Mzk5OTkzOCwxNjQxNTA5
+MjEsLTE3NjczMDY0NjksLTIwNjg2NTgzNiwxMDkzNjM0NDk4LC
+02NDQ3MjgzMDEsODU3MjI2NDI1XX0=
 -->
