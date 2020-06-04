@@ -54,7 +54,7 @@ L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del
 Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi elementi nel sistema con l'obiettivo non di ottenere informazioni ma di provocare un danno.
 Sono quindi degli attacchi di sabotaggio che hanno l'obiettivo di ridurre l'integrità e la disponibilità delle risorse del sistema.
 Le principali tecniche di disturbo sono attacchi virus, attacchi worm e attacchi di negazione del servizio.
-I virus sono software che hanno il compito di moltiplicarsi ***"infettando"*** altri file o altri host
+I virus sono software che hanno il compito di moltiplicarsi ***"infettando"*** altri file o altri host, senza farsi rilevare dall'utente. Solitamente i virus sfruttano falle o vulnerabilità presenti in un sistema operativo o in un software, cercando di rendere inutilizzabile 
 
 
 ## Minacce Web
@@ -121,11 +121,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMzc3NzE0LC0zOTk1Njk4MzIsLTMxMT
-U3MzE3NSwxMzI1NjA0ODU3LC0xMTA4ODEwODE2LC04NzY3Mjcx
-NTIsMjA3NjkwMzY1LDEzMDg1MDM5MjgsMTYxNzkyMTI3MCwtNz
-YxNDkyNjYyLDE5NDY2MDQ2NzAsLTE4NDUzMTgyNjksLTUwNDUz
-NTcyNywyMDAxMDUzMywtMTk1MDY4NDc0MiwtODY3NTMxOTY0LC
-0xMzIxNDI2MzU0LC0xNjUxMzczMjE5LDIwNDU2NzMyODAsMTc4
-MTgzNzc2OF19
+eyJoaXN0b3J5IjpbLTE0MDg3MjAwNjEsLTM5OTU2OTgzMiwtMz
+ExNTczMTc1LDEzMjU2MDQ4NTcsLTExMDg4MTA4MTYsLTg3Njcy
+NzE1MiwyMDc2OTAzNjUsMTMwODUwMzkyOCwxNjE3OTIxMjcwLC
+03NjE0OTI2NjIsMTk0NjYwNDY3MCwtMTg0NTMxODI2OSwtNTA0
+NTM1NzI3LDIwMDEwNTMzLC0xOTUwNjg0NzQyLC04Njc1MzE5Nj
+QsLTEzMjE0MjYzNTQsLTE2NTEzNzMyMTksMjA0NTY3MzI4MCwx
+NzgxODM3NzY4XX0=
 -->
