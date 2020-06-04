@@ -39,9 +39,9 @@ Questa operazione consente all'hacker di recuperare le informazioni semplicement
 
 #### Attacchi attivi
 Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per obiettivo dell'attacco.
-Troviamo innanzitutto l'intercettazione, il cui metodo più utilizzato è l' ***IP spoofing***.
-L'IP spoofing, detto anche solamente spoofing, è un tipo di attacco che consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco.
-N
+Troviamo innanzitutto l'intercettazione, il cui metodo più utilizzato è lo ***spoofing***.
+Lo spoofing è un tipo di attacco che consiste nel falsificare l'identità dell'host da cui viene eseguito l'attacco.
+Esso può essere attuato in diverse maniere; il più utilizzato è l'IP spoofing, ma esistono il MAC spoofing, chiamato anche MAC flooding, 
 
 
 ## Minacce Web
@@ -108,7 +108,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjYyMTU1NSwtNTA0NTM1NzI3LDIwMD
+eyJoaXN0b3J5IjpbMTYwNjM2NDU2OCwtNTA0NTM1NzI3LDIwMD
 EwNTMzLC0xOTUwNjg0NzQyLC04Njc1MzE5NjQsLTEzMjE0MjYz
 NTQsLTE2NTEzNzMyMTksMjA0NTY3MzI4MCwxNzgxODM3NzY4LD
 Q4MTMwMjU5LC0xMjA4OTM1NTczLDE2MDk4OTAyNTYsMTA1Mzk5
