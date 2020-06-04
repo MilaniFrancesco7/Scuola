@@ -55,7 +55,8 @@ Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi el
 Sono quindi degli attacchi di sabotaggio che hanno l'obiettivo di ridurre l'integrità e la disponibilità delle risorse del sistema.
 Le principali tecniche di disturbo sono attacchi virus, attacchi worm e attacchi di negazione del servizio.
 I virus sono software che hanno il compito di moltiplicarsi ***"infettando"*** altri file o altri host presenti nella rete, senza farsi rilevare dall'utente. Solitamente i virus sfruttano falle o vulnerabilità presenti in un sistema operativo o in un software, cercando di rendere inutilizzabile il dispositivo attraverso attività distruttive o di ostruzionismo.
-Il virus più potente mai creato è il ***MyDoom*** (in italiano "
+Il virus più potente mai creato è il ***MyDoom*** (in italiano "Il mio destino"). Questo tipo di virus è riuscito a causare 38 miliardi di danni in tutto il mondo, diffondendosi attaccando tutti i file presenti sul PC.
+[1](https://www.laramind.com/blog/top-10-virus-piu-pericolosi-della-storia/)
 
 ## Minacce Web
 - DOS - Denial Of Service
@@ -121,11 +122,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODUxMzY1OSwtMzk5NTY5ODMyLC0zMT
-E1NzMxNzUsMTMyNTYwNDg1NywtMTEwODgxMDgxNiwtODc2NzI3
-MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LDE2MTc5MjEyNzAsLT
-c2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0xODQ1MzE4MjY5LC01MDQ1
-MzU3MjcsMjAwMTA1MzMsLTE5NTA2ODQ3NDIsLTg2NzUzMTk2NC
-wtMTMyMTQyNjM1NCwtMTY1MTM3MzIxOSwyMDQ1NjczMjgwLDE3
-ODE4Mzc3NjhdfQ==
+eyJoaXN0b3J5IjpbLTE1NDgyMDY1NjQsLTM5OTU2OTgzMiwtMz
+ExNTczMTc1LDEzMjU2MDQ4NTcsLTExMDg4MTA4MTYsLTg3Njcy
+NzE1MiwyMDc2OTAzNjUsMTMwODUwMzkyOCwxNjE3OTIxMjcwLC
+03NjE0OTI2NjIsMTk0NjYwNDY3MCwtMTg0NTMxODI2OSwtNTA0
+NTM1NzI3LDIwMDEwNTMzLC0xOTUwNjg0NzQyLC04Njc1MzE5Nj
+QsLTEzMjE0MjYzNTQsLTE2NTEzNzMyMTksMjA0NTY3MzI4MCwx
+NzgxODM3NzY4XX0=
 -->
