@@ -43,7 +43,8 @@ Troviamo innanzitutto l'intercettazione, il cui metodo più utilizzato è lo ***
 Lo spoofing è un tipo di attacco che consiste nel falsificare l'identità dell'host da cui viene eseguito l'attacco.
 Esso può essere attuato in diverse maniere; il più utilizzato è l'IP spoofing, ma esistono il MAC spoofing (chiamato anche MAC flooding), l'ARP spoofing, l'Email Spoofing (utilizzato principalmente come base per il phishing) o il DNS Spoofing. 
 Esistono altre tipologie di spoofing che derivano da quelle descritti precedentemente, agendo su tutti i livelli dello modello ISO/OSI.
-L'IP spoofing consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco
+L'IP spoofing consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco. 
+In questo modo l'host viene considerato attendibile dalla rete, riuscendo quindi a
 
 
 ## Minacce Web
@@ -110,7 +111,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTQxMDgyNiwxOTQ2NjA0NjcwLC0xOD
+eyJoaXN0b3J5IjpbLTc2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0xOD
 Q1MzE4MjY5LC01MDQ1MzU3MjcsMjAwMTA1MzMsLTE5NTA2ODQ3
 NDIsLTg2NzUzMTk2NCwtMTMyMTQyNjM1NCwtMTY1MTM3MzIxOS
 wyMDQ1NjczMjgwLDE3ODE4Mzc3NjgsNDgxMzAyNTksLTEyMDg5
