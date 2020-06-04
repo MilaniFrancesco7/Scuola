@@ -22,8 +22,11 @@
 La storia narra che lo scienziato Guglielmo Marconi e il suo assistente Sir John Ambrose Fleming stessero per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili, quando inaspettatamente la macchina riceve due messaggi: un insulto, e una filastrocca canzonatoria dell'italiano futuro premio nobel. L'esperimento risulta quindi un disastro, dato che qualcuno è riuscito ad inserirsi nelle frequenze radio che Marconi dichiarava come sicure e private. Il colpevole si rivelerà essere l'inventore Nevil Maskelyne, che dal palazzo vicino riuscì ad interferire con le frequenze di Marconi.
 Era il 4 giugno 1903, e questo è considerato il primo caso di hacking della storia.
 
-#### Attacchi ai nostri giorni
-Da 
+Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento, la gestione e la protezione di dati e informazioni hanno fatto passi da gigante, così come le potenziali minacce, che si sono evolute parallelamente.
+
+#### Minacce nel Web
+Le tipologie di attacco si possono racchiudere in due categorie principali: gli attacchi passivi e gli attacchi attivi.
+Gli attacchi passim
 
 
 ## Minacce Web
@@ -90,7 +93,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjUxOTk1NCwtMTY1MTM3MzIxOSwyMD
+eyJoaXN0b3J5IjpbLTY1Mzk5ODczMywtMTY1MTM3MzIxOSwyMD
 Q1NjczMjgwLDE3ODE4Mzc3NjgsNDgxMzAyNTksLTEyMDg5MzU1
 NzMsMTYwOTg5MDI1NiwxMDUzOTk5OTM4LDE2NDE1MDkyMSwtMT
 c2NzMwNjQ2OSwtMjA2ODY1ODM2LDEwOTM2MzQ0OTgsLTY0NDcy
