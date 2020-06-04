@@ -51,7 +51,7 @@ Il DNS spoofing, o shadow server, consiste nel creare record DNS fasulli, insere
 L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del tutto simile a quello originario, dove inserirà i dati sensibili che verranno poi rubati dall'individuo attaccante.
 
 #### Produzione
-Un altro tipo di attacco è la produzione, che consiste per l'appunto nel produrre nuovi elementi 
+Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi elementi nel sistema con l'obiettivo non di ottenere informazioni ma di provocare un danno.
 
 
 
@@ -119,11 +119,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMjk5OTk3LC0xMTA4ODEwODE2LC04Nz
-Y3MjcxNTIsMjA3NjkwMzY1LDEzMDg1MDM5MjgsMTYxNzkyMTI3
-MCwtNzYxNDkyNjYyLDE5NDY2MDQ2NzAsLTE4NDUzMTgyNjksLT
-UwNDUzNTcyNywyMDAxMDUzMywtMTk1MDY4NDc0MiwtODY3NTMx
-OTY0LC0xMzIxNDI2MzU0LC0xNjUxMzczMjE5LDIwNDU2NzMyOD
-AsMTc4MTgzNzc2OCw0ODEzMDI1OSwtMTIwODkzNTU3MywxNjA5
-ODkwMjU2XX0=
+eyJoaXN0b3J5IjpbMTMyNTYwNDg1NywtMTEwODgxMDgxNiwtOD
+c2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LDE2MTc5MjEy
+NzAsLTc2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0xODQ1MzE4MjY5LC
+01MDQ1MzU3MjcsMjAwMTA1MzMsLTE5NTA2ODQ3NDIsLTg2NzUz
+MTk2NCwtMTMyMTQyNjM1NCwtMTY1MTM3MzIxOSwyMDQ1NjczMj
+gwLDE3ODE4Mzc3NjgsNDgxMzAyNTksLTEyMDg5MzU1NzMsMTYw
+OTg5MDI1Nl19
 -->
