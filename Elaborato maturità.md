@@ -57,7 +57,10 @@ Le principali tecniche di disturbo sono attacchi virus, attacchi worm e attacchi
 I **virus** sono software che hanno il compito di moltiplicarsi ***"infettando"*** altri file o altri host presenti nella rete, senza farsi rilevare dall'utente. Solitamente i virus sfruttano falle o vulnerabilità presenti in un sistema operativo o in un software, cercando di rendere inutilizzabile il dispositivo attraverso attività distruttive o di ostruzionismo.
 Il virus più potente mai creato è il ***MyDoom*** (in italiano "Il mio destino"). Questo tipo di virus è riuscito a causare 38 miliardi di danni in tutto il mondo, diffondendosi attaccando tutti i file presenti sul PC.
 [1](https://www.laramind.com/blog/top-10-virus-piu-pericolosi-della-storia/)
-Gli attacchi **worm** sono simili ai virus, ma si differenziano per la capacità di riuscire a moltiplicarsi senza doversi "legare" ad altri file o 
+Gli attacchi **worm** sono simili ai virus, ma si differenziano per la capacità di riuscire a moltiplicarsi senza doversi "legare" ad altri file o software, utilizzando invece direttamente gli host presenti nella rete. 
+Come il virus punta a rendere inutilizzabile il dispositivo, occupando una grande quantità di risorse computazionali
+[2](https://it.wikipedia.org/wiki/Worm)
+
 
 ## Minacce Web
 - DOS - Denial Of Service
@@ -123,11 +126,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwMzE5MzM3LC0xNTQ4MjA2NTY0LC0zOT
-k1Njk4MzIsLTMxMTU3MzE3NSwxMzI1NjA0ODU3LC0xMTA4ODEw
-ODE2LC04NzY3MjcxNTIsMjA3NjkwMzY1LDEzMDg1MDM5MjgsMT
-YxNzkyMTI3MCwtNzYxNDkyNjYyLDE5NDY2MDQ2NzAsLTE4NDUz
-MTgyNjksLTUwNDUzNTcyNywyMDAxMDUzMywtMTk1MDY4NDc0Mi
-wtODY3NTMxOTY0LC0xMzIxNDI2MzU0LC0xNjUxMzczMjE5LDIw
-NDU2NzMyODBdfQ==
+eyJoaXN0b3J5IjpbLTUyMDUzMDMxNSwtMTU0ODIwNjU2NCwtMz
+k5NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEwODgx
+MDgxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LD
+E2MTc5MjEyNzAsLTc2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0xODQ1
+MzE4MjY5LC01MDQ1MzU3MjcsMjAwMTA1MzMsLTE5NTA2ODQ3ND
+IsLTg2NzUzMTk2NCwtMTMyMTQyNjM1NCwtMTY1MTM3MzIxOSwy
+MDQ1NjczMjgwXX0=
 -->
