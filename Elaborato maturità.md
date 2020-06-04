@@ -64,7 +64,9 @@ Spesso un attacco worm o un attacco virus coincide con l'installazione di altre 
 Un ulteriore attacco di produzione è il **Denial of Service** (DoS) o la sua evoluzione, il **Distribuited Denial of Service** (DDoS).
 Questo attacco mira a "tenere occupato" un host, solitamente server, con operazioni sostanzialmente inutili, in maniera tale da potergli impedire di offrire i propri servizi alla rete.
 [3](Libro di sistemi)
-Esistono diverse tipologie di attacchi DoS, alcune cercano di impedire l'accesso di un in
+Esistono diverse tipologie di attacchi DoS, alcune cercano di impedire l'accesso di un individuo specifico ad un network o una risorsa, mentre altre cercano di rendere la risorsa inaccessibile per qualsiasi utente.
+Queste tipologie di interruzioni, nel caso di attacchi ad aziende, causano perdite finanziarie che possono essere anche molto
+[4](https://academy.binance.com/it/security/what-is-a-dos-attack)
 
 
 ## Minacce Web
@@ -131,7 +133,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjgxNTM3OCwtMTg5OTU4MDAwLC0xNT
+eyJoaXN0b3J5IjpbMjA0NjU4MzgyNiwtMTg5OTU4MDAwLC0xNT
 Q4MjA2NTY0LC0zOTk1Njk4MzIsLTMxMTU3MzE3NSwxMzI1NjA0
 ODU3LC0xMTA4ODEwODE2LC04NzY3MjcxNTIsMjA3NjkwMzY1LD
 EzMDg1MDM5MjgsMTYxNzkyMTI3MCwtNzYxNDkyNjYyLDE5NDY2
