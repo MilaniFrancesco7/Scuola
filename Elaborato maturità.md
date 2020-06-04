@@ -41,7 +41,7 @@ Questa operazione consente all'hacker di recuperare le informazioni semplicement
 Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per obiettivo dell'attacco.
 Troviamo innanzitutto l'intercettazione, il cui metodo più utilizzato è lo ***spoofing***.
 Lo spoofing è un tipo di attacco che consiste nel falsificare l'identità dell'host da cui viene eseguito l'attacco.
-Esso può essere attuato in diverse maniere; il più utilizzato è l'IP spoofing, ma esistono il MAC spoofing (chiamato anche MAC flooding), l'ARP spoofing, l'Email Spoofing (utilizzato principalmente come base per il phishing) o il DNS Spoofing (utilizzato come base per lo shadow server). 
+Esso può essere attuato in diverse maniere; il più utilizzato è l'IP spoofing, ma esistono il MAC spoofing (chiamato anche MAC flooding), l'ARP spoofing, l'Email Spoofing (utilizzato principalmente come base per il phishing) o il DNS Spoofing (chiamato anche shadow server). 
 Esistono altre tipologie di spoofing che derivano da quelle descritti precedentemente, agendo su tutti i livelli dello modello ISO/OSI.
 L'IP spoofing consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco. 
 In questo modo l'host viene considerato attendibile dalla rete, cercando di ottenere dati sensibili.
@@ -111,11 +111,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAxNTM2NjMsLTc2MTQ5MjY2MiwxOT
-Q2NjA0NjcwLC0xODQ1MzE4MjY5LC01MDQ1MzU3MjcsMjAwMTA1
-MzMsLTE5NTA2ODQ3NDIsLTg2NzUzMTk2NCwtMTMyMTQyNjM1NC
-wtMTY1MTM3MzIxOSwyMDQ1NjczMjgwLDE3ODE4Mzc3NjgsNDgx
-MzAyNTksLTEyMDg5MzU1NzMsMTYwOTg5MDI1NiwxMDUzOTk5OT
-M4LDE2NDE1MDkyMSwtMTc2NzMwNjQ2OSwtMjA2ODY1ODM2LDEw
-OTM2MzQ0OThdfQ==
+eyJoaXN0b3J5IjpbMTYxNzkyMTI3MCwtNzYxNDkyNjYyLDE5ND
+Y2MDQ2NzAsLTE4NDUzMTgyNjksLTUwNDUzNTcyNywyMDAxMDUz
+MywtMTk1MDY4NDc0MiwtODY3NTMxOTY0LC0xMzIxNDI2MzU0LC
+0xNjUxMzczMjE5LDIwNDU2NzMyODAsMTc4MTgzNzc2OCw0ODEz
+MDI1OSwtMTIwODkzNTU3MywxNjA5ODkwMjU2LDEwNTM5OTk5Mz
+gsMTY0MTUwOTIxLC0xNzY3MzA2NDY5LC0yMDY4NjU4MzYsMTA5
+MzYzNDQ5OF19
 -->
