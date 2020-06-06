@@ -71,15 +71,11 @@ Esistono diverse tipologie di attacchi DoS, alcune cercano di impedire l'accesso
 Queste tipologie di interruzioni, nel caso di attacchi ad aziende, causano perdite finanziarie che possono essere anche molto pesanti.
 [4](https://academy.binance.com/it/security/what-is-a-dos-attack)
 La metodologia più utilizzata è il ***buffer overflow***, che consiste nell'invio di un traffico maggiore di quanto il sistema a cui si mira sia in grado di gestire. Questo attacco permette quindi di riuscire a rendere inutilizzabile il sistema, facendolo collassare.
-Un altro tipo di attacco molto utilizzato è il ***SYN flood***, che attacca il server autenticandosi solamente in maniera parziale. In questo modo verrà lasciata in attesa la connessione sulla porta per il ***three way handshake***, procedendo quindi a fare la stessa operazione su tutte le porte fino a mettere fuori uso il server.
+Un altro tipo di attacco DoS molto utilizzato è il ***SYN flood***, che attacca il server autenticandosi solamente in maniera parziale. In questo modo verrà lasciata in attesa la connessione sulla porta per il ***three way handshake***, procedendo quindi a fare la stessa operazione su tutte le porte fino a mettere fuori uso il server.
 Infine il DDos, che può essere visto come "l'evoluzione" del DoS, dato che rispetto al DoS che avviene principalmente da una sola macchina, il DDoS consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
 
 ## Minacce Web
-- DOS - Denial Of Service
-- Malware - Virus, Trojan, Spyware
-	- programmi utilizzati per disturbare le operazioni svolte da un computer, **rubare informazioni sensibili**, ottenere accesso a sistemi informatici privati o addirittura prendere il controllo dell’intero dispositivo
-	- Ramsonware
-		- tiene sotto sequestro il pc della vittima – o il suo contenuto, ad esempio crittografandolo – chiedendo poi un riscatto.
+
 - Phishing
 	- tentativo di ottenere dati sensibili – password, pin, etc... – attraverso l’uso di e-mail truffaldine che sembrano provenire da fonti sicure.
 
@@ -138,11 +134,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyODQwODgwLC05NDk1OTg2MTEsLTk2Nj
-I3NDg5OSwxOTYxNjIyNzgzLC0xODk5NTgwMDAsLTE1NDgyMDY1
-NjQsLTM5OTU2OTgzMiwtMzExNTczMTc1LDEzMjU2MDQ4NTcsLT
-ExMDg4MTA4MTYsLTg3NjcyNzE1MiwyMDc2OTAzNjUsMTMwODUw
-MzkyOCwxNjE3OTIxMjcwLC03NjE0OTI2NjIsMTk0NjYwNDY3MC
-wtMTg0NTMxODI2OSwtNTA0NTM1NzI3LDIwMDEwNTMzLC0xOTUw
-Njg0NzQyXX0=
+eyJoaXN0b3J5IjpbLTE4MDUzNDA5OTksLTk0OTU5ODYxMSwtOT
+Y2Mjc0ODk5LDE5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIw
+NjU2NCwtMzk5NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1Ny
+wtMTEwODgxMDgxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4
+NTAzOTI4LDE2MTc5MjEyNzAsLTc2MTQ5MjY2MiwxOTQ2NjA0Nj
+cwLC0xODQ1MzE4MjY5LC01MDQ1MzU3MjcsMjAwMTA1MzMsLTE5
+NTA2ODQ3NDJdfQ==
 -->
