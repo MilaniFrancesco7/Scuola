@@ -63,7 +63,7 @@ In questo modo l'host viene considerato attendibile dalla rete, cercando di otte
 Il DNS spoofing, o shadow server, consiste nel creare record DNS fasulli, inserendoli nella cache del server, attraverso una tecnica chiamata ***cache poisoning***, per poter deviare le richieste DNS ad un server secondario, che si posizionerà quindi davanti al server originario, coprendolo (da qui **shadow** server).
 L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del tutto simile a quello originario, dove inserirà i dati sensibili che verranno poi rubati dall'individuo attaccante.
 Nella tipologia spoofing rientra anche l'attacco chiamato **SQL Injection** che riguarda in maniera particolare l'attacco dei database. 
-Con questa tecnica è possibile inserire delle stringhe di SQL all'interno di campi di input, che possono essere ad esempio i campi di inserimento utente e password, oppure di ricerca, in maniera tale da fare eseguire le query all'interno del DB, cercando di causare danni o per ottenere dati. Questo tipo di attacco viene utilizzato in particolare in casi in cui l'applicazione che si sta attaccant
+Con questa tecnica è possibile inserire delle stringhe di SQL all'interno di campi di input, che possono essere ad esempio i campi di inserimento utente e password, oppure di ricerca, in maniera tale da fare eseguire le query all'interno del DB, cercando di causare danni o per ottenere dati. Questo tipo di attacco viene utilizzato in particolare in casi in cui l'applicazione che si sta attaccando presenti vulnerabilità piuttosto evidenti.
 
 #### Produzione
 Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi elementi nel sistema con l'obiettivo non di ottenere informazioni ma di provocare un danno.
@@ -124,11 +124,11 @@ Oltre a garantire l'integrità del DB è importante garantire l'integrità dell'
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0MDA1NzQ4LC0xMTMxNzIzNTAzLDY3NT
-gwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC0xODYxMDA5
-NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQyMTczLC0xNj
-c2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUzMDAsNDUyNTUy
-NDg3LC05NDk1OTg2MTEsLTk2NjI3NDg5OSwxOTYxNjIyNzgzLC
-0xODk5NTgwMDAsLTE1NDgyMDY1NjQsLTM5OTU2OTgzMiwtMzEx
-NTczMTc1XX0=
+eyJoaXN0b3J5IjpbMTg3MjAyMjAyMSwtMTEzMTcyMzUwMyw2Nz
+U4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2MTAw
+OTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3MywtMT
+Y3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLDQ1MjU1
+MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMTk2MTYyMjc4My
+wtMTg5OTU4MDAwLC0xNTQ4MjA2NTY0LC0zOTk1Njk4MzIsLTMx
+MTU3MzE3NV19
 -->
