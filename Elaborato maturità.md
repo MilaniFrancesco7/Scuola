@@ -87,9 +87,6 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 
 ## Minacce Web
 
-- Phishing
-	- tentativo di ottenere dati sensibili – password, pin, etc... – attraverso l’uso di e-mail truffaldine che sembrano provenire da fonti sicure.
-
 [https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s](https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s)
 
 ## Minacce al database
@@ -145,11 +142,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMT
-k5NzUyNTMwMCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0
-ODk5LDE5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIwNjU2NC
-wtMzk5NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEw
-ODgxMDgxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOT
-I4LDE2MTc5MjEyNzAsLTc2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0x
-ODQ1MzE4MjY5XX0=
+eyJoaXN0b3J5IjpbMTIxMzU5Mzg1NCwtMTY3NjMyNjc1NywxMD
+I3NDI0ODk0LC0xOTk3NTI1MzAwLDQ1MjU1MjQ4NywtOTQ5NTk4
+NjExLC05NjYyNzQ4OTksMTk2MTYyMjc4MywtMTg5OTU4MDAwLC
+0xNTQ4MjA2NTY0LC0zOTk1Njk4MzIsLTMxMTU3MzE3NSwxMzI1
+NjA0ODU3LC0xMTA4ODEwODE2LC04NzY3MjcxNTIsMjA3NjkwMz
+Y1LDEzMDg1MDM5MjgsMTYxNzkyMTI3MCwtNzYxNDkyNjYyLDE5
+NDY2MDQ2NzBdfQ==
 -->
