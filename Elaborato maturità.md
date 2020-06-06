@@ -91,8 +91,9 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 
 La risorsa più importante di ogni organizzazione è l'**informazione**. E' la base fondamentale dell'informatica e dei dati, che al giorno d'oggi controllano il mondo. Le informazioni devono però essere protette da possibili attacchi, per poter garantire la **sicurezza informatica**.
 La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA.
-Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. Questi termini sono strettamente connessi e sono alla base della sicurezza di un sistema informatico e informativo.
-La parte fondamentale è sicuremante l'**integrità dei dati**
+Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico.
+La parte fondamentale è sicuremante l'**integrità dei dati**.
+Per integrità dei dati si intende la capacità di mantenere i dati e le risorse garantendo la loro inalterazione e non cancellazione, se non ad 
 
 
 ## Minacce al database
@@ -148,11 +149,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDM0Njc5LDExMzI3NTY5LC0zNDM1Mj
-Q0MzYsNDQ0MjQyMTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQs
-LTE5OTc1MjUzMDAsNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2Nj
-I3NDg5OSwxOTYxNjIyNzgzLC0xODk5NTgwMDAsLTE1NDgyMDY1
-NjQsLTM5OTU2OTgzMiwtMzExNTczMTc1LDEzMjU2MDQ4NTcsLT
-ExMDg4MTA4MTYsLTg3NjcyNzE1MiwyMDc2OTAzNjUsMTMwODUw
-MzkyOF19
+eyJoaXN0b3J5IjpbLTE5NzcwOTk4NzUsMTEzMjc1NjksLTM0Mz
+UyNDQzNiw0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5
+NCwtMTk5NzUyNTMwMCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOT
+Y2Mjc0ODk5LDE5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIw
+NjU2NCwtMzk5NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1Ny
+wtMTEwODgxMDgxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4
+NTAzOTI4XX0=
 -->
