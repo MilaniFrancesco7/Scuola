@@ -63,7 +63,7 @@ In questo modo l'host viene considerato attendibile dalla rete, cercando di otte
 Il DNS spoofing, o shadow server, consiste nel creare record DNS fasulli, inserendoli nella cache del server, attraverso una tecnica chiamata ***cache poisoning***, per poter deviare le richieste DNS ad un server secondario, che si posizionerà quindi davanti al server originario, coprendolo (da qui **shadow** server).
 L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del tutto simile a quello originario, dove inserirà i dati sensibili che verranno poi rubati dall'individuo attaccante.
 Nella tipologia spoofing rientra anche l'attacco chiamato **SQL Injection** che riguarda in maniera particolare l'attacco dei database. 
-Con questa tecnica è possibile inserire delle stringhe di SQL in maniera tale che vengano eseguite all'interno del DB
+Con questa tecnica è possibile inserire delle stringhe di SQL all'interno di campi di input, che possono essere ad esempio i campi di inserimento utente e password, oppure di ricerca, in maniera tale da fare eseguire le query all'interno del DB, cercando di causare danni o per ottenere dati. Questo tipo di attacco viene utilizzato in particolare in casi in cui l'applicazione che si sta attaccant
 
 #### Produzione
 Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi elementi nel sistema con l'obiettivo non di ottenere informazioni ma di provocare un danno.
@@ -124,11 +124,11 @@ Oltre a garantire l'integrità del DB è importante garantire l'integrità dell'
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE3MjM1MDMsNjc1ODAzODM4LC0yMD
-k3NDk5ODc2LDEyNzA4NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1
-NjksLTM0MzUyNDQzNiw0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMT
-AyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NTI1NTI0ODcsLTk0OTU5
-ODYxMSwtOTY2Mjc0ODk5LDE5NjE2MjI3ODMsLTE4OTk1ODAwMC
-wtMTU0ODIwNjU2NCwtMzk5NTY5ODMyLC0zMTE1NzMxNzUsMTMy
-NTYwNDg1N119
+eyJoaXN0b3J5IjpbMzg0MDA1NzQ4LC0xMTMxNzIzNTAzLDY3NT
+gwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC0xODYxMDA5
+NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQyMTczLC0xNj
+c2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUzMDAsNDUyNTUy
+NDg3LC05NDk1OTg2MTEsLTk2NjI3NDg5OSwxOTYxNjIyNzgzLC
+0xODk5NTgwMDAsLTE1NDgyMDY1NjQsLTM5OTU2OTgzMiwtMzEx
+NTczMTc1XX0=
 -->
