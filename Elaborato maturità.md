@@ -84,10 +84,16 @@ Il messaggio è costruito in maniera tale da sembrare proveniente da un'organizz
 Generalmente il contenuto indica problemi relativi alla sicurezza dell'account della vittima, invitandolo a cliccare su un link.
 Quel link collega ad un sito fittizio controllato da chi ci sta attaccando. E' quasi impossibile riconoscere un sito fittizio dal sito originale, dato che spesso sono totalmente identici, tranne ovviamente che per l'indirizzo URL, che può essere il primo campanello d'allarme unito al fatto di non essere in una connessione sicura. Solitamente gli URL fittizzi hanno al loro interno punti o underscore che ad un primo sguardo fanno sembrare come l'indirizzo sia corretto. (Es. https://face.book.com)
 Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i propri dati, senza rendersi conto di averli inviati ad un criminale.
-
+[Phishing](https://www.cybersecurity360.it/nuove-minacce/phishing-cose-e-come-proteggersi-la-guida-completa/)
 [Video Youtube](https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s)
 
-## Impo
+## Importanza dell'integrità dei dati
+
+Il dato è l'elemento fondamentale dell'informatica. Esso è la rappresentazione di un qualcosa, contenente un'informazione che può essere riservata o meno.
+Le caratteristiche fondamentali di un dato sono:
+- ri
+
+
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
@@ -141,7 +147,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTMwNzg2MCw0NDQyNDIxNzMsLTE2Nz
+eyJoaXN0b3J5IjpbMTQ2NDMyMjk3MCw0NDQyNDIxNzMsLTE2Nz
 YzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NTI1NTI0
 ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LDE5NjE2MjI3ODMsLT
 E4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5NTY5ODMyLC0zMTE1
