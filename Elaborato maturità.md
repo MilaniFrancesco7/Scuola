@@ -90,8 +90,8 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 ## Importanza dell'integrità dei dati
 
 Il dato è l'elemento fondamentale dell'informatica. Esso è la rappresentazione di un qualcosa, contenente un'informazione che può essere riservata o meno.
-Le caratteristiche fondamentali di un dato sono:
-- ri
+La caratteristica fondamentale dei dati da mantenere e proteggere è l'integrità.
+Per integrità dei dati si intende l'accuratezza, la completezza e la coerenza dei dati nel loro complesso. Esso si
 
 
 ## Minacce al database
@@ -147,7 +147,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDMyMjk3MCw0NDQyNDIxNzMsLTE2Nz
+eyJoaXN0b3J5IjpbLTU1ODgxMTI0OSw0NDQyNDIxNzMsLTE2Nz
 YzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NTI1NTI0
 ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LDE5NjE2MjI3ODMsLT
 E4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5NTY5ODMyLC0zMTE1
