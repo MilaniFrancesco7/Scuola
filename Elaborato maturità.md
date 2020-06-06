@@ -93,7 +93,7 @@ La risorsa più importante di ogni organizzazione è l'**informazione**. E' la b
 La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA.
 Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico.
 La parte fondamentale è sicuremante l'**integrità dei dati**.
-Per integrità dei dati si intende la capacità di mantenere i dati e le risorse garantendo la loro inalterazione e non cancellazione, se non ad 
+Per integrità dei dati si intende la capacità di mantenere i dati e le risorse garantendo la loro inalterazione e non cancellazione, se non ad opera di soggetti autorizzati. Essa viene garantita da una serie di processi, regole e standard implementati in fase di progettazione.
 
 
 ## Minacce al database
@@ -149,7 +149,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzcwOTk4NzUsMTEzMjc1NjksLTM0Mz
+eyJoaXN0b3J5IjpbLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0Mz
 UyNDQzNiw0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5
 NCwtMTk5NzUyNTMwMCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOT
 Y2Mjc0ODk5LDE5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIw
