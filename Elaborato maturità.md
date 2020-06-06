@@ -27,6 +27,7 @@ La parte fondamentale è sicuremante l'**integrità dei dati**.
 Per integrità dei dati si intende la capacità di mantenere i dati e le risorse garantendo la loro inalterazione e non cancellazione, se non ad opera di soggetti autorizzati. Essa viene garantita da una serie di processi, regole e standard implementati in fase di progettazione.
 [Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
 [Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
+Molto importante è quindi conoscere i più importanti metodi d'attacco per poter attuare .
 
 ### Cenno storico
 La storia narra che lo scienziato Guglielmo Marconi e il suo assistente Sir John Ambrose Fleming stessero per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili, quando inaspettatamente la macchina riceve due messaggi: un insulto, e una filastrocca canzonatoria dell'italiano futuro premio nobel. L'esperimento risulta quindi un disastro, dato che qualcuno è riuscito ad inserirsi nelle frequenze radio che Marconi dichiarava come sicure e private. Il colpevole si rivelerà essere l'inventore Nevil Maskelyne, che dal palazzo vicino riuscì ad interferire con le frequenze di Marconi.
@@ -154,11 +155,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDg2NDIwMCwtMTg2MTAwOTU4NCwxMT
-MyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3MywtMTY3NjMyNjc1
-NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLDQ1MjU1MjQ4NywtOT
-Q5NTk4NjExLC05NjYyNzQ4OTksMTk2MTYyMjc4MywtMTg5OTU4
-MDAwLC0xNTQ4MjA2NTY0LC0zOTk1Njk4MzIsLTMxMTU3MzE3NS
-wxMzI1NjA0ODU3LC0xMTA4ODEwODE2LC04NzY3MjcxNTIsMjA3
-NjkwMzY1XX0=
+eyJoaXN0b3J5IjpbLTE1MDcwNDY0MTYsMTI3MDg2NDIwMCwtMT
+g2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3
+MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLD
+Q1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMTk2MTYy
+Mjc4MywtMTg5OTU4MDAwLC0xNTQ4MjA2NTY0LC0zOTk1Njk4Mz
+IsLTMxMTU3MzE3NSwxMzI1NjA0ODU3LC0xMTA4ODEwODE2LC04
+NzY3MjcxNTJdfQ==
 -->
