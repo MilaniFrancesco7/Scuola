@@ -125,6 +125,7 @@ Molto comune è l'utilizzo di funzioni hash, che permettono di attuare una forma
 Questo tipo di criptazione è utilizzato nel caso delle password, in modo tale che un hacker non possa interpretarle al momento dell'accesso al DB.
 Gli algoritmi più utilizzati sono l'MD5, lo SHA1 (anche se ormai obsoleto) e lo SHA2.
 
+Un altro passaggio da compiere per poter salvaguardare i dati è il **lock di integrità**
 
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
@@ -132,11 +133,11 @@ Gli algoritmi più utilizzati sono l'MD5, lo SHA1 (anche se ormai obsoleto) e lo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODE3ODQyMiwxMDUxNTc5ODE2LC0yMT
-I2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIz
-NTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC
-0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQy
-MTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUzMD
-AsNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2NjI3NDg5OSwxOTYx
-NjIyNzgzXX0=
+eyJoaXN0b3J5IjpbLTIwMzA5Nzg3NzMsMTA1MTU3OTgxNiwtMj
+EyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcy
+MzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMC
+wtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0
+MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1Mz
+AwLDQ1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMTk2
+MTYyMjc4M119
 -->
