@@ -89,7 +89,7 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 
 ## Importanza dell'integrità dei dati
 
-La risorsa 
+La risorsa più di ogni organizzazione è l'**informazione**. E' la base 
 
 
 ## Minacce al database
@@ -145,11 +145,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzUzNDc3NjgsLTM0MzUyNDQzNiw0ND
-QyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUy
-NTMwMCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LD
-E5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5
-NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEwODgxMD
-gxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LDE2
-MTc5MjEyNzBdfQ==
+eyJoaXN0b3J5IjpbMTIxMzI3NzU0LC0zNDM1MjQ0MzYsNDQ0Mj
+QyMTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUz
+MDAsNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2NjI3NDg5OSwxOT
+YxNjIyNzgzLC0xODk5NTgwMDAsLTE1NDgyMDY1NjQsLTM5OTU2
+OTgzMiwtMzExNTczMTc1LDEzMjU2MDQ4NTcsLTExMDg4MTA4MT
+YsLTg3NjcyNzE1MiwyMDc2OTAzNjUsMTMwODUwMzkyOCwxNjE3
+OTIxMjcwXX0=
 -->
