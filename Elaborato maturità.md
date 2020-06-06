@@ -91,7 +91,7 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 
 La risorsa più importante di ogni organizzazione è l'**informazione**. E' la base fondamentale dell'informatica e dei dati, che al giorno d'oggi controllano il mondo. Le informazioni devono però essere protette da possibili attacchi, per poter garantire la **sicurezza informatica**.
 La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA.
-Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. Questi termini rappresentano l'insieme di e
+Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. Questi termini sono strettamente connessi e sono alla base della sicurezza di un sistema informativo.
 
 
 ## Minacce al database
@@ -147,11 +147,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzMxOTE2LC0zNDM1MjQ0MzYsNDQ0Mj
-QyMTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUz
-MDAsNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2NjI3NDg5OSwxOT
-YxNjIyNzgzLC0xODk5NTgwMDAsLTE1NDgyMDY1NjQsLTM5OTU2
-OTgzMiwtMzExNTczMTc1LDEzMjU2MDQ4NTcsLTExMDg4MTA4MT
-YsLTg3NjcyNzE1MiwyMDc2OTAzNjUsMTMwODUwMzkyOCwxNjE3
-OTIxMjcwXX0=
+eyJoaXN0b3J5IjpbMTEzMjc1NjksLTM0MzUyNDQzNiw0NDQyND
+IxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUyNTMw
+MCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LDE5Nj
+E2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5NTY5
+ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEwODgxMDgxNi
+wtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LDE2MTc5
+MjEyNzBdfQ==
 -->
