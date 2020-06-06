@@ -76,7 +76,8 @@ Infine il DDos, che può essere visto come "l'evoluzione" del DoS, dato che risp
 
 #### Phishing
 
-Il phishing rientra 
+Il phishing è una tipologia di attacco che concerne anche con il mondo delle truffe; ha infatti l'obiettivo di rubare le informazioni e i dati personali delle vittime per poterli utilizzare a scopo di lucro.
+E' una sorta di forma di "adescamento", infatti la molteplicità degli attacchi avvi
 ## Minacce Web
 
 - Phishing
@@ -137,7 +138,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODQzNzExOCwtOTQ5NTk4NjExLC05Nj
+eyJoaXN0b3J5IjpbLTYzNTg0OTU5OSwtOTQ5NTk4NjExLC05Nj
 YyNzQ4OTksMTk2MTYyMjc4MywtMTg5OTU4MDAwLC0xNTQ4MjA2
 NTY0LC0zOTk1Njk4MzIsLTMxMTU3MzE3NSwxMzI1NjA0ODU3LC
 0xMTA4ODEwODE2LC04NzY3MjcxNTIsMjA3NjkwMzY1LDEzMDg1
