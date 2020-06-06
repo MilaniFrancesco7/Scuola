@@ -120,7 +120,7 @@ Il primo passaggio che si effettua è il **partizionamento**.
 Il partizionamento consiste nella suddivisione del database in più parti, ognuna caratterizzata da un livello di sensibilità. In questo modo il database verrà diviso in componenti più piccoli, che risulteranno più sicuri, oltre che veloci, da gestire. Aumenterà quindi la ridondanza, garantendo l'integrità dato l'accesso da DB separati.
 
 Il secondo passaggio che andremo ad attuare è la **cifratura** dei dati.
-Cifrare i dati all'interno di un database permette di proteggere i dati
+Cifrare i dati all'interno di un database permette di proteggere i dati dal furto o dalla manomissione
 
 
 ## Minacce al database
@@ -129,11 +129,11 @@ Cifrare i dati all'interno di un database permette di proteggere i dati
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjMwNDUyMywtMjEyNjczMTEzNywtMT
-IzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2NzU4MDM4
-MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2MTAwOTU4NC
-wxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3MywtMTY3NjMy
-Njc1NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLDQ1MjU1MjQ4Ny
-wtOTQ5NTk4NjExLC05NjYyNzQ4OTksMTk2MTYyMjc4MywtMTg5
-OTU4MDAwXX0=
+eyJoaXN0b3J5IjpbOTEyNDM0Njk1LC0yMTI2NzMxMTM3LC0xMj
+MxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIzNTAzLDY3NTgwMzgz
+OCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC0xODYxMDA5NTg0LD
+ExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQyMTczLC0xNjc2MzI2
+NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUzMDAsNDUyNTUyNDg3LC
+05NDk1OTg2MTEsLTk2NjI3NDg5OSwxOTYxNjIyNzgzLC0xODk5
+NTgwMDBdfQ==
 -->
