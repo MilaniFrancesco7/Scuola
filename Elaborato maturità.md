@@ -87,7 +87,7 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 
 ## Minacce Web
 
-[https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s](https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s)
+[Video Youtube](https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s)
 
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
@@ -142,11 +142,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzU5Mzg1NCwtMTY3NjMyNjc1NywxMD
-I3NDI0ODk0LC0xOTk3NTI1MzAwLDQ1MjU1MjQ4NywtOTQ5NTk4
-NjExLC05NjYyNzQ4OTksMTk2MTYyMjc4MywtMTg5OTU4MDAwLC
-0xNTQ4MjA2NTY0LC0zOTk1Njk4MzIsLTMxMTU3MzE3NSwxMzI1
-NjA0ODU3LC0xMTA4ODEwODE2LC04NzY3MjcxNTIsMjA3NjkwMz
-Y1LDEzMDg1MDM5MjgsMTYxNzkyMTI3MCwtNzYxNDkyNjYyLDE5
-NDY2MDQ2NzBdfQ==
+eyJoaXN0b3J5IjpbNDQ0MjQyMTczLC0xNjc2MzI2NzU3LDEwMj
+c0MjQ4OTQsLTE5OTc1MjUzMDAsNDUyNTUyNDg3LC05NDk1OTg2
+MTEsLTk2NjI3NDg5OSwxOTYxNjIyNzgzLC0xODk5NTgwMDAsLT
+E1NDgyMDY1NjQsLTM5OTU2OTgzMiwtMzExNTczMTc1LDEzMjU2
+MDQ4NTcsLTExMDg4MTA4MTYsLTg3NjcyNzE1MiwyMDc2OTAzNj
+UsMTMwODUwMzkyOCwxNjE3OTIxMjcwLC03NjE0OTI2NjIsMTk0
+NjYwNDY3MF19
 -->
