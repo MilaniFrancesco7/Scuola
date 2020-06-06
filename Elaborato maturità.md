@@ -122,6 +122,7 @@ Il partizionamento consiste nella suddivisione del database in più parti, ognun
 Il secondo passaggio che andremo ad attuare è la **cifratura** dei dati.
 Cifrare i dati all'interno di un database permette di proteggere i dati dal furto o dalla manomissione, dal momento che non sono interpretabili se non tramite la chiave di decifratura.
 Molto comune è l'utilizzo di funzioni hash, che permettono di attuare una forma di crittografia a "senso unico", quindi rendendo l'operazione di decifrazione impossibile.
+Questo tipo di criptazione è utilizzato nel caso delle password, in modo tale che un hacker non possa interpretarle al momento dell'accesso al DB.
 
 
 ## Minacce al database
@@ -130,11 +131,11 @@ Molto comune è l'utilizzo di funzioni hash, che permettono di attuare una forma
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDI4OTA4NCwxMDUxNTc5ODE2LC0yMT
-I2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIz
-NTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC
-0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQy
-MTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUzMD
-AsNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2NjI3NDg5OSwxOTYx
-NjIyNzgzXX0=
+eyJoaXN0b3J5IjpbMjM1NjQ3MzgwLDEwNTE1Nzk4MTYsLTIxMj
+Y3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMsLTExMzE3MjM1
+MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQyMDAsLT
+E4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0NDQyNDIx
+NzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUyNTMwMC
+w0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LDE5NjE2
+MjI3ODNdfQ==
 -->
