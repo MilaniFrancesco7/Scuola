@@ -24,7 +24,7 @@ Era il 4 giugno 1903, e questo è considerato il primo caso di hacking della sto
 
 Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento, la gestione e la protezione di dati e informazioni hanno fatto passi da gigante, così come le potenziali minacce, che si sono evolute parallelamente.
 
-### Minacce nel Web
+## Minacce nel Web
 Le tipologie di attacco si possono racchiudere in due categorie principali: attacco attivo e attacco passivo.
 L'attacco attivo implica la manomissione di dati o il disturbo del loro funzionamento, danneggiandone l'integrità e la disponibilità. L'attacco passivo invece cerca di intercettare e utilizzare i dati senza danneggiare le risorse del sistema, quindi minacciandone solamente la riservatezza.
 
@@ -74,6 +74,9 @@ La metodologia più utilizzata è il ***buffer overflow***, che consiste nell'in
 Un altro tipo di attacco DoS molto utilizzato è il ***SYN flood***, che attacca il server autenticandosi solamente in maniera parziale. In questo modo verrà lasciata in attesa la connessione sulla porta per il ***three way handshake***, procedendo quindi a fare la stessa operazione su tutte le porte fino a mettere fuori uso il server.
 Infine il DDos, che può essere visto come "l'evoluzione" del DoS, dato che rispetto al DoS che avviene principalmente da una sola macchina, il DDoS consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
 
+#### Phishing
+
+Il phishing rientra 
 ## Minacce Web
 
 - Phishing
@@ -134,11 +137,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUzNDA5OTksLTk0OTU5ODYxMSwtOT
-Y2Mjc0ODk5LDE5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIw
-NjU2NCwtMzk5NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1Ny
-wtMTEwODgxMDgxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4
-NTAzOTI4LDE2MTc5MjEyNzAsLTc2MTQ5MjY2MiwxOTQ2NjA0Nj
-cwLC0xODQ1MzE4MjY5LC01MDQ1MzU3MjcsMjAwMTA1MzMsLTE5
-NTA2ODQ3NDJdfQ==
+eyJoaXN0b3J5IjpbMTk0ODQzNzExOCwtOTQ5NTk4NjExLC05Nj
+YyNzQ4OTksMTk2MTYyMjc4MywtMTg5OTU4MDAwLC0xNTQ4MjA2
+NTY0LC0zOTk1Njk4MzIsLTMxMTU3MzE3NSwxMzI1NjA0ODU3LC
+0xMTA4ODEwODE2LC04NzY3MjcxNTIsMjA3NjkwMzY1LDEzMDg1
+MDM5MjgsMTYxNzkyMTI3MCwtNzYxNDkyNjYyLDE5NDY2MDQ2Nz
+AsLTE4NDUzMTgyNjksLTUwNDUzNTcyNywyMDAxMDUzMywtMTk1
+MDY4NDc0Ml19
 -->
