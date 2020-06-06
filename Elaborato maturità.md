@@ -90,7 +90,7 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 ## Importanza dell'integrità dei dati
 
 La risorsa più importante di ogni organizzazione è l'**informazione**. E' la base fondamentale dell'informatica e dei dati, che al giorno d'oggi controllano il mondo. Le informazioni devono però essere protette da possibili attacchi, per poter garantire la **sicurezza informatica**.
-La sicurezza informatica è 
+La sicurezza informatica è l'insieme delle tecnologie, dei servizi e dei mezzi per la protezione dei sistemi informatici  per quanto riguarda la loro disponibilità, confidenzialità e integrità.
 
 
 ## Minacce al database
@@ -146,11 +146,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDM4MTI0NCwtMzQzNTI0NDM2LDQ0ND
-I0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1
-MzAwLDQ1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMT
-k2MTYyMjc4MywtMTg5OTU4MDAwLC0xNTQ4MjA2NTY0LC0zOTk1
-Njk4MzIsLTMxMTU3MzE3NSwxMzI1NjA0ODU3LC0xMTA4ODEwOD
-E2LC04NzY3MjcxNTIsMjA3NjkwMzY1LDEzMDg1MDM5MjgsMTYx
-NzkyMTI3MF19
+eyJoaXN0b3J5IjpbLTEzMzY3NzkyMDEsLTM0MzUyNDQzNiw0ND
+QyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUy
+NTMwMCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LD
+E5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5
+NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEwODgxMD
+gxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LDE2
+MTc5MjEyNzBdfQ==
 -->
