@@ -85,10 +85,9 @@ Generalmente il contenuto indica problemi relativi alla sicurezza dell'account d
 Quel link collega ad un sito fittizio controllato da chi ci sta attaccando. E' quasi impossibile riconoscere un sito fittizio dal sito originale, dato che spesso sono totalmente identici, tranne ovviamente che per l'indirizzo URL, che può essere il primo campanello d'allarme unito al fatto di non essere in una connessione sicura. Solitamente gli URL fittizzi hanno al loro interno punti o underscore che ad un primo sguardo fanno sembrare come l'indirizzo sia corretto. (Es. https://face.book.com)
 Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i propri dati, senza rendersi conto di averli inviati ad un criminale.
 
-## Minacce Web
-
 [Video Youtube](https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s)
 
+## Impo
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
@@ -142,11 +141,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0MjQyMTczLC0xNjc2MzI2NzU3LDEwMj
-c0MjQ4OTQsLTE5OTc1MjUzMDAsNDUyNTUyNDg3LC05NDk1OTg2
-MTEsLTk2NjI3NDg5OSwxOTYxNjIyNzgzLC0xODk5NTgwMDAsLT
-E1NDgyMDY1NjQsLTM5OTU2OTgzMiwtMzExNTczMTc1LDEzMjU2
-MDQ4NTcsLTExMDg4MTA4MTYsLTg3NjcyNzE1MiwyMDc2OTAzNj
-UsMTMwODUwMzkyOCwxNjE3OTIxMjcwLC03NjE0OTI2NjIsMTk0
-NjYwNDY3MF19
+eyJoaXN0b3J5IjpbMTczNTMwNzg2MCw0NDQyNDIxNzMsLTE2Nz
+YzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NTI1NTI0
+ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LDE5NjE2MjI3ODMsLT
+E4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5NTY5ODMyLC0zMTE1
+NzMxNzUsMTMyNTYwNDg1NywtMTEwODgxMDgxNiwtODc2NzI3MT
+UyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LDE2MTc5MjEyNzAsLTc2
+MTQ5MjY2Ml19
 -->
