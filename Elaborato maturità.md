@@ -105,18 +105,11 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 
 ## Difesa dagli attacchi
 
-Per poter garantire l'integrità dei dati all'interno di una base di dati è necessario che essa sia garantita in modo fisico e in modo logico.
+Per poter garantire l'integrità dei dati all'interno di una base di dati è necessario che essa sia garantita a livello di DBMS e livello di dato stesso.
 
 
 
-Per potersi difendere dagli attacchi le soluzioni potrebbero essere
-- effettuare backup periodici
-- Registro delle transazioni
 
-Oltre a garantire l'integrità del DB è importante garantire l'integrità dell'elemento stesso, che può essere errato o inaccurato, per questo le difese possono concernere:
-- controlli di campo
-- controllo degli accessi
-- registro delle modifiche
 
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
@@ -124,11 +117,11 @@ Oltre a garantire l'integrità del DB è importante garantire l'integrità dell'
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjAyMjAyMSwtMTEzMTcyMzUwMyw2Nz
-U4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2MTAw
-OTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3MywtMT
-Y3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLDQ1MjU1
-MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMTk2MTYyMjc4My
-wtMTg5OTU4MDAwLC0xNTQ4MjA2NTY0LC0zOTk1Njk4MzIsLTMx
-MTU3MzE3NV19
+eyJoaXN0b3J5IjpbMzkyMzI3OTMsLTExMzE3MjM1MDMsNjc1OD
+AzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQyMDAsLTE4NjEwMDk1
+ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0NDQyNDIxNzMsLTE2Nz
+YzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NTI1NTI0
+ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LDE5NjE2MjI3ODMsLT
+E4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5NTY5ODMyLC0zMTE1
+NzMxNzVdfQ==
 -->
