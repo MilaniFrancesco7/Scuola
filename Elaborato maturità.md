@@ -80,6 +80,8 @@ Il phishing è una tipologia di attacco che concerne anche con il mondo delle tr
 E' una sorta di forma di "adescamento", infatti la molteplicità degli attacchi avviene attraverso l'inganno psicologico dell'utente, sfruttando le meccaniche dell'ingegneria sociale.
 
 Il metodo utilizzato solitamente è l'email.
+Il messaggio è costruito in maniera tale da sembrare proveniente da un'organizzazione attendibile, come potrebbero essere una banca o la posta.
+Generalmente il contenuto indica 
 
 ## Minacce Web
 
@@ -141,11 +143,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2Nj
-I3NDg5OSwxOTYxNjIyNzgzLC0xODk5NTgwMDAsLTE1NDgyMDY1
-NjQsLTM5OTU2OTgzMiwtMzExNTczMTc1LDEzMjU2MDQ4NTcsLT
-ExMDg4MTA4MTYsLTg3NjcyNzE1MiwyMDc2OTAzNjUsMTMwODUw
-MzkyOCwxNjE3OTIxMjcwLC03NjE0OTI2NjIsMTk0NjYwNDY3MC
-wtMTg0NTMxODI2OSwtNTA0NTM1NzI3LDIwMDEwNTMzLC0xOTUw
-Njg0NzQyXX0=
+eyJoaXN0b3J5IjpbNDQ0OTk0NDc0LDQ1MjU1MjQ4NywtOTQ5NT
+k4NjExLC05NjYyNzQ4OTksMTk2MTYyMjc4MywtMTg5OTU4MDAw
+LC0xNTQ4MjA2NTY0LC0zOTk1Njk4MzIsLTMxMTU3MzE3NSwxMz
+I1NjA0ODU3LC0xMTA4ODEwODE2LC04NzY3MjcxNTIsMjA3Njkw
+MzY1LDEzMDg1MDM5MjgsMTYxNzkyMTI3MCwtNzYxNDkyNjYyLD
+E5NDY2MDQ2NzAsLTE4NDUzMTgyNjksLTUwNDUzNTcyNywyMDAx
+MDUzM119
 -->
