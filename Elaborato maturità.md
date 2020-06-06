@@ -114,7 +114,9 @@ Invece per potersi difendere da attacchi come l'SQL Injection è importante acce
 Come primo passo può essere utilizzata la funzione mysql real escape string, che andrà a rimuovere i caratteri speciali dalla stringa, eliminando quindi gli attacchi concernenti l'utilizzo di apici o uguali.
 Invece come secondo passo è consigliato l'utilizzo di una funzione **is numeric**, che andrà a controllare semplicemente se l'input inserito sia di tipo numerico, così da eludere, insieme alla real escape string, l'utilizzo di attacchi con numeri.
 
-La sicurezza
+La sicurezza nei DBMS deve essere gestita attraverso una serie di passaggi che permetterà di garantire l'ìntegrità del database stesso e dei dati.
+
+Il primo 
 
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
@@ -122,7 +124,7 @@ La sicurezza
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTkxMjIyMSwzOTIzMjc5MywtMTEzMT
+eyJoaXN0b3J5IjpbLTQzMjA4NTQwMiwzOTIzMjc5MywtMTEzMT
 cyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIw
 MCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0ND
 I0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1
