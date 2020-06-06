@@ -82,7 +82,7 @@ E' una sorta di forma di "adescamento", infatti la molteplicità degli attacchi 
 Il metodo utilizzato solitamente è l'email.
 Il messaggio è costruito in maniera tale da sembrare proveniente da un'organizzazione attendibile, come potrebbero essere una banca o la posta.
 Generalmente il contenuto indica problemi relativi alla sicurezza dell'account della vittima, invitandolo a cliccare su un link.
-Quel link collega ad un sito fittizio controllato da chi ci sta attaccando. E' quasi impossibile riconoscere un sito fittizio dal sito originale, dato che spesso sono totalmente identici, tranne ovviamente che per l'indirizzo URL, che può essere il primo campanell
+Quel link collega ad un sito fittizio controllato da chi ci sta attaccando. E' quasi impossibile riconoscere un sito fittizio dal sito originale, dato che spesso sono totalmente identici, tranne ovviamente che per l'indirizzo URL, che può essere il primo campanello d'allarme. 
 
 ## Minacce Web
 
@@ -144,11 +144,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTMyMTc2NCw0NTI1NTI0ODcsLTk0OT
-U5ODYxMSwtOTY2Mjc0ODk5LDE5NjE2MjI3ODMsLTE4OTk1ODAw
-MCwtMTU0ODIwNjU2NCwtMzk5NTY5ODMyLC0zMTE1NzMxNzUsMT
-MyNTYwNDg1NywtMTEwODgxMDgxNiwtODc2NzI3MTUyLDIwNzY5
-MDM2NSwxMzA4NTAzOTI4LDE2MTc5MjEyNzAsLTc2MTQ5MjY2Mi
-wxOTQ2NjA0NjcwLC0xODQ1MzE4MjY5LC01MDQ1MzU3MjcsMjAw
-MTA1MzNdfQ==
+eyJoaXN0b3J5IjpbLTE5OTc1MjUzMDAsNDUyNTUyNDg3LC05ND
+k1OTg2MTEsLTk2NjI3NDg5OSwxOTYxNjIyNzgzLC0xODk5NTgw
+MDAsLTE1NDgyMDY1NjQsLTM5OTU2OTgzMiwtMzExNTczMTc1LD
+EzMjU2MDQ4NTcsLTExMDg4MTA4MTYsLTg3NjcyNzE1MiwyMDc2
+OTAzNjUsMTMwODUwMzkyOCwxNjE3OTIxMjcwLC03NjE0OTI2Nj
+IsMTk0NjYwNDY3MCwtMTg0NTMxODI2OSwtNTA0NTM1NzI3LDIw
+MDEwNTMzXX0=
 -->
