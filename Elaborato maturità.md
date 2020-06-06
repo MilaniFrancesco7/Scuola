@@ -117,7 +117,7 @@ Invece come secondo passo è consigliato l'utilizzo di una funzione **is numeric
 La sicurezza nei DBMS deve essere gestita attraverso una serie di passaggi che permetterà di garantire l'ìntegrità del database stesso e dei dati.
 
 Il primo passaggio che si effettua è il **partizionamento**. 
-Il partizionamento consiste nella suddivisione del database in più parti, ognuna caratterizzata da un livello di sensibilità.
+Il partizionamento consiste nella suddivisione del database in più parti, ognuna caratterizzata da un livello di sensibilità. In questo modo il database verrà diviso in componenti più piccoli, che risulteranno più sicuri, oltre che veloci, da gestire.
 
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
@@ -125,7 +125,7 @@ Il partizionamento consiste nella suddivisione del database in più parti, ognun
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcxODUxNzYsMzkyMzI3OTMsLTExMz
+eyJoaXN0b3J5IjpbLTE1MjkxOTgyNzksMzkyMzI3OTMsLTExMz
 E3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQy
 MDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0ND
 QyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUy
