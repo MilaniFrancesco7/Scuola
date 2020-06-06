@@ -77,7 +77,7 @@ Infine il DDos, che può essere visto come "l'evoluzione" del DoS, dato che risp
 #### Phishing
 
 Il phishing è una tipologia di attacco che concerne anche con il mondo delle truffe; ha infatti l'obiettivo di rubare le informazioni e i dati personali delle vittime per poterli utilizzare a scopo di lucro.
-E' una sorta di forma di "adescamento", infatti la molteplicità degli attacchi avviene attraverso l'inganno psicologico dell'utente, sfruttando quelle che sono le sue debolezze in campo informatico.
+E' una sorta di forma di "adescamento", infatti la molteplicità degli attacchi avviene attraverso l'inganno psicologico dell'utente, sfruttando le meccaniche dell'ingegneria sociale.
 
 Il metodo utilizzato solitamente è l'email.
 
@@ -141,11 +141,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODcyMDU3OCwtOTQ5NTk4NjExLC05Nj
-YyNzQ4OTksMTk2MTYyMjc4MywtMTg5OTU4MDAwLC0xNTQ4MjA2
-NTY0LC0zOTk1Njk4MzIsLTMxMTU3MzE3NSwxMzI1NjA0ODU3LC
-0xMTA4ODEwODE2LC04NzY3MjcxNTIsMjA3NjkwMzY1LDEzMDg1
-MDM5MjgsMTYxNzkyMTI3MCwtNzYxNDkyNjYyLDE5NDY2MDQ2Nz
-AsLTE4NDUzMTgyNjksLTUwNDUzNTcyNywyMDAxMDUzMywtMTk1
-MDY4NDc0Ml19
+eyJoaXN0b3J5IjpbNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2Nj
+I3NDg5OSwxOTYxNjIyNzgzLC0xODk5NTgwMDAsLTE1NDgyMDY1
+NjQsLTM5OTU2OTgzMiwtMzExNTczMTc1LDEzMjU2MDQ4NTcsLT
+ExMDg4MTA4MTYsLTg3NjcyNzE1MiwyMDc2OTAzNjUsMTMwODUw
+MzkyOCwxNjE3OTIxMjcwLC03NjE0OTI2NjIsMTk0NjYwNDY3MC
+wtMTg0NTMxODI2OSwtNTA0NTM1NzI3LDIwMDEwNTMzLC0xOTUw
+Njg0NzQyXX0=
 -->
