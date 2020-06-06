@@ -107,7 +107,7 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 
 Per poter garantire l'integrità dei dati all'interno di una base di dati è necessario che essa sia garantita a livello di DBMS e livello di dato stesso.
 
-Anche se può sembrare utopico, spesso per la protezione di un da
+Anche se piuttosto utopico, spesso per la protezione di un database nelle imprese vengono usate password di default o facilmente indovinabili.
 
 
 
@@ -118,11 +118,11 @@ Anche se può sembrare utopico, spesso per la protezione di un da
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjk4MjI2MCwzOTIzMjc5MywtMTEzMT
-cyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIw
-MCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0ND
-I0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1
-MzAwLDQ1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMT
-k2MTYyMjc4MywtMTg5OTU4MDAwLC0xNTQ4MjA2NTY0LC0zOTk1
-Njk4MzJdfQ==
+eyJoaXN0b3J5IjpbLTE2MzMyNDUxNDQsMzkyMzI3OTMsLTExMz
+E3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQy
+MDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0ND
+QyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUy
+NTMwMCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LD
+E5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5
+NTY5ODMyXX0=
 -->
