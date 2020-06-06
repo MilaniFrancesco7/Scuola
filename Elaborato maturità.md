@@ -82,7 +82,7 @@ E' una sorta di forma di "adescamento", infatti la molteplicità degli attacchi 
 Il metodo utilizzato solitamente è l'email.
 Il messaggio è costruito in maniera tale da sembrare proveniente da un'organizzazione attendibile, come potrebbero essere una banca o la posta.
 Generalmente il contenuto indica problemi relativi alla sicurezza dell'account della vittima, invitandolo a cliccare su un link.
-Quel link collega ad un sito fittizio controllato da chi ci sta attaccando. E' quasi impossibile riconoscere un sito fittizio dal sito originale, dato che spesso sono totalmente identici, tranne ovviamente che per l'indirizzo URL, che può essere il primo campanello d'allarme. Solitma
+Quel link collega ad un sito fittizio controllato da chi ci sta attaccando. E' quasi impossibile riconoscere un sito fittizio dal sito originale, dato che spesso sono totalmente identici, tranne ovviamente che per l'indirizzo URL, che può essere il primo campanello d'allarme. Solitamente gli URL fittizzi hanno al loro interno punti o underscore che ad un primo sguardo fanno sembrare come l'indirizzo sia corretto. (Es. https://face.book.com
 
 ## Minacce Web
 
@@ -144,11 +144,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTU2NjAxOSwtMTk5NzUyNTMwMCw0NT
-I1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LDE5NjE2MjI3
-ODMsLTE4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5NTY5ODMyLC
-0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEwODgxMDgxNiwtODc2
-NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LDE2MTc5MjEyNz
-AsLTc2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0xODQ1MzE4MjY5LC01
-MDQ1MzU3MjddfQ==
+eyJoaXN0b3J5IjpbLTE2ODY1Mzg1ODEsLTE5OTc1MjUzMDAsND
+UyNTUyNDg3LC05NDk1OTg2MTEsLTk2NjI3NDg5OSwxOTYxNjIy
+NzgzLC0xODk5NTgwMDAsLTE1NDgyMDY1NjQsLTM5OTU2OTgzMi
+wtMzExNTczMTc1LDEzMjU2MDQ4NTcsLTExMDg4MTA4MTYsLTg3
+NjcyNzE1MiwyMDc2OTAzNjUsMTMwODUwMzkyOCwxNjE3OTIxMj
+cwLC03NjE0OTI2NjIsMTk0NjYwNDY3MCwtMTg0NTMxODI2OSwt
+NTA0NTM1NzI3XX0=
 -->
