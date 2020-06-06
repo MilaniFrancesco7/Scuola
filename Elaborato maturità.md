@@ -18,6 +18,16 @@
 
 # Introduzione
 
+## Importanza dell'integrità dei dati
+
+La risorsa più importante di ogni organizzazione è l'**informazione**. E' la base fondamentale dell'informatica e dei dati, che al giorno d'oggi controllano il mondo. Le informazioni devono però essere protette da possibili attacchi, per poter garantire la **sicurezza informatica**.
+La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA.
+Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico.
+La parte fondamentale è sicuremante l'**integrità dei dati**.
+Per integrità dei dati si intende la capacità di mantenere i dati e le risorse garantendo la loro inalterazione e non cancellazione, se non ad opera di soggetti autorizzati. Essa viene garantita da una serie di processi, regole e standard implementati in fase di progettazione.
+[Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
+[Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
+
 ### Cenno storico
 La storia narra che lo scienziato Guglielmo Marconi e il suo assistente Sir John Ambrose Fleming stessero per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili, quando inaspettatamente la macchina riceve due messaggi: un insulto, e una filastrocca canzonatoria dell'italiano futuro premio nobel. L'esperimento risulta quindi un disastro, dato che qualcuno è riuscito ad inserirsi nelle frequenze radio che Marconi dichiarava come sicure e private. Il colpevole si rivelerà essere l'inventore Nevil Maskelyne, che dal palazzo vicino riuscì ad interferire con le frequenze di Marconi.
 Era il 4 giugno 1903, e questo è considerato il primo caso di hacking della storia.
@@ -87,15 +97,8 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 [Phishing](https://www.cybersecurity360.it/nuove-minacce/phishing-cose-e-come-proteggersi-la-guida-completa/)
 [Video Youtube](https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s)
 
-## Importanza dell'integrità dei dati
 
-La risorsa più importante di ogni organizzazione è l'**informazione**. E' la base fondamentale dell'informatica e dei dati, che al giorno d'oggi controllano il mondo. Le informazioni devono però essere protette da possibili attacchi, per poter garantire la **sicurezza informatica**.
-La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA.
-Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico.
-La parte fondamentale è sicuremante l'**integrità dei dati**.
-Per integrità dei dati si intende la capacità di mantenere i dati e le risorse garantendo la loro inalterazione e non cancellazione, se non ad opera di soggetti autorizzati. Essa viene garantita da una serie di processi, regole e standard implementati in fase di progettazione.
-[Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
-[Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
+
 
 
 ## Minacce al database
@@ -151,7 +154,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDM5ODY0NCwtMTg2MTAwOTU4NCwxMT
+eyJoaXN0b3J5IjpbMTI3MDg2NDIwMCwtMTg2MTAwOTU4NCwxMT
 MyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3MywtMTY3NjMyNjc1
 NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLDQ1MjU1MjQ4NywtOT
 Q5NTk4NjExLC05NjYyNzQ4OTksMTk2MTYyMjc4MywtMTg5OTU4
