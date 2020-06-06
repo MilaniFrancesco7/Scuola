@@ -103,7 +103,10 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 
 ## Difesa dagli attacchi
 
-Per poter garantire l'integrità dei dati all'interno di una base di dati è necessario che essa sia fisica e logica, in modo tale da conservare la struttura del DB e proteggere i dati dal danneggiamento.
+Per poter garantire l'integrità dei dati all'interno di una base di dati è necessario che essa sia garantita in modo fisico e in modo logico.
+Per integrità fisica si intende la protezione dei dati nei metodi ci
+
+
 Per potersi difendere dagli attacchi le soluzioni potrebbero essere
 - effettuare backup periodici
 - Registro delle transazioni
@@ -119,11 +122,11 @@ Oltre a garantire l'integrità del DB è importante garantire l'integrità dell'
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNz
-A4NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQz
-Niw0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMT
-k5NzUyNTMwMCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0
-ODk5LDE5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIwNjU2NC
-wtMzk5NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEw
-ODgxMDgxNl19
+eyJoaXN0b3J5IjpbLTE5MDM1MzIxNjUsNjc1ODAzODM4LC0yMD
+k3NDk5ODc2LDEyNzA4NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1
+NjksLTM0MzUyNDQzNiw0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMT
+AyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NTI1NTI0ODcsLTk0OTU5
+ODYxMSwtOTY2Mjc0ODk5LDE5NjE2MjI3ODMsLTE4OTk1ODAwMC
+wtMTU0ODIwNjU2NCwtMzk5NTY5ODMyLC0zMTE1NzMxNzUsMTMy
+NTYwNDg1N119
 -->
