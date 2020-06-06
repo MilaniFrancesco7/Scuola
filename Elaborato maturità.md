@@ -82,8 +82,8 @@ E' una sorta di forma di "adescamento", infatti la molteplicità degli attacchi 
 Il metodo utilizzato solitamente è l'email.
 Il messaggio è costruito in maniera tale da sembrare proveniente da un'organizzazione attendibile, come potrebbero essere una banca o la posta.
 Generalmente il contenuto indica problemi relativi alla sicurezza dell'account della vittima, invitandolo a cliccare su un link.
-Quel link collega ad un sito fittizio controllato da chi ci sta attaccando. E' quasi impossibile riconoscere un sito fittizio dal sito originale, dato che spesso sono totalmente identici, tranne ovviamente che per l'indirizzo URL, che può essere il primo campanello d'allarme. Solitamente gli URL fittizzi hanno al loro interno punti o underscore che ad un primo sguardo fanno sembrare come l'indirizzo sia corretto. (Es. https://face.book.com)
-Dopodichè viene richiesto all
+Quel link collega ad un sito fittizio controllato da chi ci sta attaccando. E' quasi impossibile riconoscere un sito fittizio dal sito originale, dato che spesso sono totalmente identici, tranne ovviamente che per l'indirizzo URL, che può essere il primo campanello d'allarme unito al fatto di non essere in una connessione sicura. Solitamente gli URL fittizzi hanno al loro interno punti o underscore che ad un primo sguardo fanno sembrare come l'indirizzo sia corretto. (Es. https://face.book.com)
+Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i propri dati, senza rendersi conto di averli inviati ad un criminale.
 
 ## Minacce Web
 
@@ -145,11 +145,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzMwNjUzMiwxMDI3NDI0ODk0LC0xOT
-k3NTI1MzAwLDQ1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4
-OTksMTk2MTYyMjc4MywtMTg5OTU4MDAwLC0xNTQ4MjA2NTY0LC
-0zOTk1Njk4MzIsLTMxMTU3MzE3NSwxMzI1NjA0ODU3LC0xMTA4
-ODEwODE2LC04NzY3MjcxNTIsMjA3NjkwMzY1LDEzMDg1MDM5Mj
-gsMTYxNzkyMTI3MCwtNzYxNDkyNjYyLDE5NDY2MDQ2NzAsLTE4
-NDUzMTgyNjldfQ==
+eyJoaXN0b3J5IjpbLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMT
+k5NzUyNTMwMCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0
+ODk5LDE5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIwNjU2NC
+wtMzk5NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEw
+ODgxMDgxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOT
+I4LDE2MTc5MjEyNzAsLTc2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0x
+ODQ1MzE4MjY5XX0=
 -->
