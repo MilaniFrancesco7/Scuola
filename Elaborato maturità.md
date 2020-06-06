@@ -56,16 +56,17 @@ Sono quindi degli attacchi di sabotaggio che hanno l'obiettivo di ridurre l'inte
 Le principali tecniche di disturbo sono gli attacchi malware e gli attacchi di tipo DoS.
 I **malware** sono software "malevoli" che mettono a rischio un sistema. Essi cercano di invadere, danneggiare o disattivare computer, sistemi e reti. Il loro scopo è quello di lucrare illecitamente a spese degli utenti.
 Le due categorie più utilizzate all'interno dei malware sono **virus**   e **worm**.
-I **virus** sono software che hanno il compito di moltiplicarsi ***"infettando"*** altri file o altri host presenti nella rete, senza farsi rilevare dall'utente. Solitamente i virus sfruttano falle o vulnerabilità presenti in un sistema operativo o in un software, cercando di rendere inutilizzabile il dispositivo attraverso attività distruttive o di ostruzionismo.
+- I **virus** sono software che hanno il compito di moltiplicarsi ***"infettando"*** altri file o altri host presenti nella rete, senza farsi rilevare dall'utente. Solitamente i virus sfruttano falle o vulnerabilità presenti in un sistema operativo o in un software, cercando di rendere inutilizzabile il dispositivo attraverso attività distruttive o di ostruzionismo.
 Il virus più potente mai creato è il ***MyDoom*** (in italiano "Il mio destino"). Questo tipo di virus è riuscito a causare 38 miliardi di danni in tutto il mondo, diffondendosi attaccando tutti i file presenti sul PC.
 [1](https://www.laramind.com/blog/top-10-virus-piu-pericolosi-della-storia/)
-Gli attacchi **worm** sono simili ai virus, ma si differenziano per la capacità di riuscire a moltiplicarsi senza doversi "legare" ad altri file o software, utilizzando invece direttamente gli host presenti nella rete. 
+- Gli attacchi **worm** sono simili ai virus, ma si differenziano per la capacità di riuscire a moltiplicarsi senza doversi "legare" ad altri file o software, utilizzando invece direttamente gli host presenti nella rete. 
 [2](https://it.wikipedia.org/wiki/Worm)
 Come il virus punta a rendere inutilizzabile il dispositivo, occupando una grande quantità di risorse computazionali.
 Spesso un attacco worm o un attacco virus coincide con l'installazione di altre tipologie di malware (famiglia di cui worm e virus fanno parte), come ad esempio **backdoor** o **keylogger**, sfruttati dall'hacker per ottenere dati sensibili.
+
 Un ulteriore attacco di produzione è il **Denial of Service** (DoS) o la sua evoluzione, il **Distribuited Denial of Service** (DDoS).
 Questo attacco mira a "tenere occupato" un host, solitamente server, con operazioni sostanzialmente inutili, in maniera tale da potergli impedire di offrire i propri servizi alla rete.
-[3](Libro di sistemi)
+[3](https://Librodisistemi)
 Esistono diverse tipologie di attacchi DoS, alcune cercano di impedire l'accesso di un individuo specifico ad un network o una risorsa, mentre altre cercano di rendere la risorsa inaccessibile per qualsiasi utente.
 Queste tipologie di interruzioni, nel caso di attacchi ad aziende, causano perdite finanziarie che possono essere anche molto pesanti.
 [4](https://academy.binance.com/it/security/what-is-a-dos-attack)
@@ -137,11 +138,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LDE5Nj
-E2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5NTY5
-ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEwODgxMDgxNi
-wtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4NTAzOTI4LDE2MTc5
-MjEyNzAsLTc2MTQ5MjY2MiwxOTQ2NjA0NjcwLC0xODQ1MzE4Mj
-Y5LC01MDQ1MzU3MjcsMjAwMTA1MzMsLTE5NTA2ODQ3NDIsLTg2
-NzUzMTk2NF19
+eyJoaXN0b3J5IjpbNzEyODQwODgwLC05NDk1OTg2MTEsLTk2Nj
+I3NDg5OSwxOTYxNjIyNzgzLC0xODk5NTgwMDAsLTE1NDgyMDY1
+NjQsLTM5OTU2OTgzMiwtMzExNTczMTc1LDEzMjU2MDQ4NTcsLT
+ExMDg4MTA4MTYsLTg3NjcyNzE1MiwyMDc2OTAzNjUsMTMwODUw
+MzkyOCwxNjE3OTIxMjcwLC03NjE0OTI2NjIsMTk0NjYwNDY3MC
+wtMTg0NTMxODI2OSwtNTA0NTM1NzI3LDIwMDEwNTMzLC0xOTUw
+Njg0NzQyXX0=
 -->
