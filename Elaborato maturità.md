@@ -55,7 +55,7 @@ Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi el
 Sono quindi degli attacchi di sabotaggio che hanno l'obiettivo di ridurre l'integrità e la disponibilità delle risorse del sistema.
 Le principali tecniche di disturbo sono gli attacchi malware e gli attacchi di tipo DoS.
 I **malware** sono software "malevoli" che mettono a rischio un sistema. Essi cercano di invadere, danneggiare o disattivare computer, sistemi e reti. Il loro scopo è quello di lucrare illecitamente a spese degli utenti.
-All'
+Le due categorie più utilizzate all'interno dei malware sono **virus** e **worm**.
 I **virus** sono software che hanno il compito di moltiplicarsi ***"infettando"*** altri file o altri host presenti nella rete, senza farsi rilevare dall'utente. Solitamente i virus sfruttano falle o vulnerabilità presenti in un sistema operativo o in un software, cercando di rendere inutilizzabile il dispositivo attraverso attività distruttive o di ostruzionismo.
 Il virus più potente mai creato è il ***MyDoom*** (in italiano "Il mio destino"). Questo tipo di virus è riuscito a causare 38 miliardi di danni in tutto il mondo, diffondendosi attaccando tutti i file presenti sul PC.
 [1](https://www.laramind.com/blog/top-10-virus-piu-pericolosi-della-storia/)
@@ -137,7 +137,7 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDMyMzUyNiwxOTYxNjIyNzgzLC0xOD
+eyJoaXN0b3J5IjpbLTk2NjI3NDg5OSwxOTYxNjIyNzgzLC0xOD
 k5NTgwMDAsLTE1NDgyMDY1NjQsLTM5OTU2OTgzMiwtMzExNTcz
 MTc1LDEzMjU2MDQ4NTcsLTExMDg4MTA4MTYsLTg3NjcyNzE1Mi
 wyMDc2OTAzNjUsMTMwODUwMzkyOCwxNjE3OTIxMjcwLC03NjE0
