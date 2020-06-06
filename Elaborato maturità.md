@@ -116,7 +116,8 @@ Invece come secondo passo è consigliato l'utilizzo di una funzione **is numeric
 
 La sicurezza nei DBMS deve essere gestita attraverso una serie di passaggi che permetterà di garantire l'ìntegrità del database stesso e dei dati.
 
-Il primo 
+Il primo passaggio che si effettua è il **partizionamento**. 
+Il partizionamento consiste nella suddivisione del database in più parti, ognuna caratterizzata da un livello di sensibilità.
 
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
@@ -124,11 +125,11 @@ Il primo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjA4NTQwMiwzOTIzMjc5MywtMTEzMT
-cyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIw
-MCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0ND
-I0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1
-MzAwLDQ1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMT
-k2MTYyMjc4MywtMTg5OTU4MDAwLC0xNTQ4MjA2NTY0LC0zOTk1
-Njk4MzJdfQ==
+eyJoaXN0b3J5IjpbLTIxMjcxODUxNzYsMzkyMzI3OTMsLTExMz
+E3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQy
+MDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0ND
+QyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUy
+NTMwMCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LD
+E5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5
+NTY5ODMyXX0=
 -->
