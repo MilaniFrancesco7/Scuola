@@ -103,8 +103,9 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 
 ## Difesa dagli attacchi
 
-
-
+Per poter garantire l'integrità dei dati all'interno di una base di dati è necessario che essa sia fisica e logica, in modo tale da conservare la struttura del DB e proteggere i dati dal danneggiamento.
+Per potersi difendere dagli attacchi le soluzioni potrebbero essere
+- effettuare back
 
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
@@ -112,11 +113,11 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMT
-g2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3
-MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLD
-Q1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMTk2MTYy
-Mjc4MywtMTg5OTU4MDAwLC0xNTQ4MjA2NTY0LC0zOTk1Njk4Mz
-IsLTMxMTU3MzE3NSwxMzI1NjA0ODU3LC0xMTA4ODEwODE2LC04
-NzY3MjcxNTJdfQ==
+eyJoaXN0b3J5IjpbLTE3NzM3MDg1NiwtMjA5NzQ5OTg3NiwxMj
+cwODY0MjAwLC0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0
+MzYsNDQ0MjQyMTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQsLT
+E5OTc1MjUzMDAsNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2NjI3
+NDg5OSwxOTYxNjIyNzgzLC0xODk5NTgwMDAsLTE1NDgyMDY1Nj
+QsLTM5OTU2OTgzMiwtMzExNTczMTc1LDEzMjU2MDQ4NTcsLTEx
+MDg4MTA4MTZdfQ==
 -->
