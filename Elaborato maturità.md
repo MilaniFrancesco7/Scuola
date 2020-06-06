@@ -111,7 +111,8 @@ Anche se piuttosto utopico, spesso per la protezione di un database nelle impres
 Questo in realtà è un problema facilmente risolvibile, attraverso l'attuazione di una policy che preveda il ricambio regolare di password, con una lunghezza e con un numero di simboli e caratteri alfanumerici.
 
 Invece per potersi difendere da attacchi come l'SQL Injection è importante accertare una validazione dei dati forniti dall'utente.
-
+Come prima soluzione può essere utilizzata la funzione mysql real escape string, che andrà a rimuovere i caratteri speciali dalla stringa, eliminando quindi gli attacchi concernenti l'utilizzo di apici o uguali.
+Invece come seconda soluzion
 
 
 
@@ -121,11 +122,11 @@ Invece per potersi difendere da attacchi come l'SQL Injection è importante acce
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc0NjgyMzUsMzkyMzI3OTMsLTExMz
-E3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQy
-MDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0ND
-QyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUy
-NTMwMCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LD
-E5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5
-NTY5ODMyXX0=
+eyJoaXN0b3J5IjpbMTExOTEzNzc0NSwzOTIzMjc5MywtMTEzMT
+cyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIw
+MCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0ND
+I0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1
+MzAwLDQ1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMT
+k2MTYyMjc4MywtMTg5OTU4MDAwLC0xNTQ4MjA2NTY0LC0zOTk1
+Njk4MzJdfQ==
 -->
