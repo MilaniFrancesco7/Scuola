@@ -101,6 +101,8 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 [Video Youtube](https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s)
 
 
+## Difesa dagli attacchi
+
 
 
 
@@ -109,27 +111,12 @@ Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i pro
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 
-### Sicurezza di un sistema informatico
-- Garantire la sicurezza significa impedire a potenziali soggetti attaccanti l'accesso o l'uso non autorizzato di informazioni e risorse
-### CIA
-Cia : Confidentiality, Integrity, Availability
-Data Confidentiality
-Data Integrity 
-System Availability
-
-Gli obiettivi da ottenere per la sicurezza del sistema informativo:
-- Autenticazione
-- Autorizzazione
-- Riservatezza 
-- Disponibilità
-- Integrità
-- Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMTIwNjMyLDEyNzA4NjQyMDAsLTE4Nj
-EwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0NDQyNDIxNzMs
-LTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NT
-I1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LDE5NjE2MjI3
-ODMsLTE4OTk1ODAwMCwtMTU0ODIwNjU2NCwtMzk5NTY5ODMyLC
-0zMTE1NzMxNzUsMTMyNTYwNDg1NywtMTEwODgxMDgxNiwtODc2
-NzI3MTUyXX0=
+eyJoaXN0b3J5IjpbLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMT
+g2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3
+MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLD
+Q1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMTk2MTYy
+Mjc4MywtMTg5OTU4MDAwLC0xNTQ4MjA2NTY0LC0zOTk1Njk4Mz
+IsLTMxMTU3MzE3NSwxMzI1NjA0ODU3LC0xMTA4ODEwODE2LC04
+NzY3MjcxNTJdfQ==
 -->
