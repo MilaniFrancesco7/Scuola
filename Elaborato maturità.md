@@ -94,6 +94,8 @@ La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per 
 Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico.
 La parte fondamentale è sicuremante l'**integrità dei dati**.
 Per integrità dei dati si intende la capacità di mantenere i dati e le risorse garantendo la loro inalterazione e non cancellazione, se non ad opera di soggetti autorizzati. Essa viene garantita da una serie di processi, regole e standard implementati in fase di progettazione.
+[Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
+[Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
 
 
 ## Minacce al database
@@ -149,11 +151,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0Mz
-UyNDQzNiw0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5
-NCwtMTk5NzUyNTMwMCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOT
-Y2Mjc0ODk5LDE5NjE2MjI3ODMsLTE4OTk1ODAwMCwtMTU0ODIw
-NjU2NCwtMzk5NTY5ODMyLC0zMTE1NzMxNzUsMTMyNTYwNDg1Ny
-wtMTEwODgxMDgxNiwtODc2NzI3MTUyLDIwNzY5MDM2NSwxMzA4
-NTAzOTI4XX0=
+eyJoaXN0b3J5IjpbLTM2MDM5ODY0NCwtMTg2MTAwOTU4NCwxMT
+MyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3MywtMTY3NjMyNjc1
+NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLDQ1MjU1MjQ4NywtOT
+Q5NTk4NjExLC05NjYyNzQ4OTksMTk2MTYyMjc4MywtMTg5OTU4
+MDAwLC0xNTQ4MjA2NTY0LC0zOTk1Njk4MzIsLTMxMTU3MzE3NS
+wxMzI1NjA0ODU3LC0xMTA4ODEwODE2LC04NzY3MjcxNTIsMjA3
+NjkwMzY1XX0=
 -->
