@@ -53,7 +53,8 @@ L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del
 #### Produzione
 Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi elementi nel sistema con l'obiettivo non di ottenere informazioni ma di provocare un danno.
 Sono quindi degli attacchi di sabotaggio che hanno l'obiettivo di ridurre l'integrità e la disponibilità delle risorse del sistema.
-Le principali tecniche di disturbo sono attacchi virus, attacchi worm e attacchi di tipo DoS.
+Le principali tecniche di disturbo sono gli attacchi malware e gli attacchi di tipo DoS.
+I **malware**
 I **virus** sono software che hanno il compito di moltiplicarsi ***"infettando"*** altri file o altri host presenti nella rete, senza farsi rilevare dall'utente. Solitamente i virus sfruttano falle o vulnerabilità presenti in un sistema operativo o in un software, cercando di rendere inutilizzabile il dispositivo attraverso attività distruttive o di ostruzionismo.
 Il virus più potente mai creato è il ***MyDoom*** (in italiano "Il mio destino"). Questo tipo di virus è riuscito a causare 38 miliardi di danni in tutto il mondo, diffondendosi attaccando tutti i file presenti sul PC.
 [1](https://www.laramind.com/blog/top-10-virus-piu-pericolosi-della-storia/)
@@ -135,11 +136,11 @@ Gli obiettivi da ottenere per la sicurezza del sistema informativo:
 - Integrità
 - Paternità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTYyMjc4MywtMTg5OTU4MDAwLC0xNT
-Q4MjA2NTY0LC0zOTk1Njk4MzIsLTMxMTU3MzE3NSwxMzI1NjA0
-ODU3LC0xMTA4ODEwODE2LC04NzY3MjcxNTIsMjA3NjkwMzY1LD
-EzMDg1MDM5MjgsMTYxNzkyMTI3MCwtNzYxNDkyNjYyLDE5NDY2
-MDQ2NzAsLTE4NDUzMTgyNjksLTUwNDUzNTcyNywyMDAxMDUzMy
-wtMTk1MDY4NDc0MiwtODY3NTMxOTY0LC0xMzIxNDI2MzU0LC0x
-NjUxMzczMjE5XX0=
+eyJoaXN0b3J5IjpbLTE5MzcxNTEwNSwxOTYxNjIyNzgzLC0xOD
+k5NTgwMDAsLTE1NDgyMDY1NjQsLTM5OTU2OTgzMiwtMzExNTcz
+MTc1LDEzMjU2MDQ4NTcsLTExMDg4MTA4MTYsLTg3NjcyNzE1Mi
+wyMDc2OTAzNjUsMTMwODUwMzkyOCwxNjE3OTIxMjcwLC03NjE0
+OTI2NjIsMTk0NjYwNDY3MCwtMTg0NTMxODI2OSwtNTA0NTM1Nz
+I3LDIwMDEwNTMzLC0xOTUwNjg0NzQyLC04Njc1MzE5NjQsLTEz
+MjE0MjYzNTRdfQ==
 -->
