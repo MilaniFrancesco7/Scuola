@@ -132,9 +132,12 @@ I lock, letteralmente "blocchi", sono un meccanismo usato per disciplinare l'acc
 Semplicemente i dati vengono marcati attraverso delle "etichette", che ne definiscono sensibilità e livelli di accesso.
 Per questo meccanismo viene implementato il modulo **Lock Manager** nel DBMS, che tiene traccia delle risorse in uso, delle transazioni che le stanno usando e delle transazioni che ne hanno fatto richiesta.
 In questo modo se dovesse venire riscontrata qualche anomalia verrà eseguita l'istruzione di **abort**, che può essere a runtime o di sistema, per concludere la transizione. L'abort a runtime si verifica al momento del riscontro di un'anomalia da parte del DBMS, mentre l'abort di sistema viene lanciato nel caso di un'interruzione brusca per intervento esterno, per bug o per spegnimento del computer.
-L'entrata in funzione del meccanismo di abort prevede l'avvio di un altro meccanismo, il **rollback**, che p
+L'entrata in funzione del meccanismo di abort prevede l'avvio di un altro meccanismo, il **rollback**, un'operazione che permette di riportare la base di dati a uno stato precedente.
+[Rollback](https://it.wikipedia.org/wiki/Rollback)
 [Lock di integrità](http://bias.csr.unibo.it/golfarelli/LabDB/MaterialeDidattico/Funzionalit%C3%A0AvanzateDBMS.pdf)
 [Transizione](https://it.wikipedia.org/wiki/Transazione_(basi_di_dati))
+
+Un altro passo che si compie al momento della progettazione del database per proteggere l'integrità dei dati è l'utilizzo di **Finestre e viste**.
 
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
@@ -142,11 +145,11 @@ L'entrata in funzione del meccanismo di abort prevede l'avvio di un altro meccan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTY3NTQ0OSwxMDUxNTc5ODE2LC0yMT
-I2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIz
-NTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC
-0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQy
-MTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUzMD
-AsNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2NjI3NDg5OSwxOTYx
-NjIyNzgzXX0=
+eyJoaXN0b3J5IjpbMTQ5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNj
+czMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcyMzUw
+Myw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMT
+g2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3
+MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLD
+Q1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMTk2MTYy
+Mjc4M119
 -->
