@@ -131,9 +131,9 @@ Una transazione è una sequenza di operazioni atomiche che devono essere eseguit
 I lock, letteralmente "blocchi", sono un meccanismo usato per disciplinare l'accesso a risorse condivise.
 Semplicemente i dati vengono marcati attraverso delle "etichette", che ne definiscono sensibilità e livelli di accesso.
 Per questo meccanismo viene implementato il modulo **Lock Manager** nel DBMS, che tiene traccia delle risorse in uso, delle transazioni che le stanno usando e delle transazioni che ne hanno fatto richiesta.
-In questo modo se dovesse venire riscontrata qualche anomalia verrà eseguita l'istruzione di abort, per concludere la transizione.
-
-
+In questo modo se dovesse venire riscontrata qualche anomalia verrà eseguita l'istruzione di abort, che può essere a runtime o di sistema, per concludere la transizione. L'abort a runtime si verifica al momento del riscontro di un'anomalia da parte del 
+[Lock di integrità](http://bias.csr.unibo.it/golfarelli/LabDB/MaterialeDidattico/Funzionalit%C3%A0AvanzateDBMS.pdf)
+[Transizione](https://it.wikipedia.org/wiki/Transazione_(basi_di_dati))
 
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
@@ -141,7 +141,7 @@ In questo modo se dovesse venire riscontrata qualche anomalia verrà eseguita l'
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA4MzA4MjQsMTA1MTU3OTgxNiwtMj
+eyJoaXN0b3J5IjpbLTE1Njg4ODI4NjgsMTA1MTU3OTgxNiwtMj
 EyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcy
 MzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMC
 wtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0
