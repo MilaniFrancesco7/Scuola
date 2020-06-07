@@ -138,6 +138,9 @@ L'entrata in funzione del meccanismo di abort prevede l'avvio di un altro meccan
 [Transizione](https://it.wikipedia.org/wiki/Transazione_(basi_di_dati))
 
 Un altro passo che si compie al momento della progettazione del database per proteggere l'integrità dei dati è l'utilizzo di **Finestre e viste**.
+L'utilizzo delle finestre e delle viste permette di creare sottoinsiemi del DB dove 
+
+
 
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
@@ -145,11 +148,11 @@ Un altro passo che si compie al momento della progettazione del database per pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNj
-czMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcyMzUw
-Myw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMT
-g2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3
-MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLD
-Q1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMTk2MTYy
-Mjc4M119
+eyJoaXN0b3J5IjpbNjU5NjE1MzA1LDE0OTQyNzk3LDEwNTE1Nz
+k4MTYsLTIxMjY3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMs
+LTExMzE3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNz
+A4NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQz
+Niw0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMT
+k5NzUyNTMwMCw0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0
+ODk5XX0=
 -->
