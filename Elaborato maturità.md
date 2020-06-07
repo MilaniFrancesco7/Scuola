@@ -124,6 +124,7 @@ Cifrare i dati all'interno di un database permette di proteggere i dati dal furt
 Molto comune è l'utilizzo di funzioni hash, che permettono di attuare una forma di crittografia a "senso unico", quindi rendendo l'operazione di decifrazione impossibile.
 Questo tipo di criptazione è utilizzato nel caso delle password, in modo tale che un hacker non possa interpretarle al momento dell'accesso al DB.
 Gli algoritmi più utilizzati sono l'MD5, lo SHA1 (anche se ormai obsoleto) e lo SHA2.
+[Criptazione](https://www.html.it/pag/54604/cifratura-e-decifratura-dei-dati/)
 
 Un altro passaggio da compiere per poter salvaguardare i dati è il **lock di integrità**
 
@@ -133,11 +134,11 @@ Un altro passaggio da compiere per poter salvaguardare i dati è il **lock di in
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA5Nzg3NzMsMTA1MTU3OTgxNiwtMj
-EyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcy
-MzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMC
-wtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0
-MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1Mz
-AwLDQ1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMTk2
-MTYyMjc4M119
+eyJoaXN0b3J5IjpbMTUyMzg5MDAzLDEwNTE1Nzk4MTYsLTIxMj
+Y3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMsLTExMzE3MjM1
+MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQyMDAsLT
+E4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0NDQyNDIx
+NzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUyNTMwMC
+w0NTI1NTI0ODcsLTk0OTU5ODYxMSwtOTY2Mjc0ODk5LDE5NjE2
+MjI3ODNdfQ==
 -->
