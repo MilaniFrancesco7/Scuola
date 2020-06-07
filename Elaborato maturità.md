@@ -127,6 +127,7 @@ Gli algoritmi più utilizzati sono l'MD5, lo SHA1 (anche se ormai obsoleto) e lo
 [Criptazione](https://www.html.it/pag/54604/cifratura-e-decifratura-dei-dati/)
 
 Un altro passaggio da compiere per poter salvaguardare i dati è il **lock di integrità**, ovvero l'utilizzo di transazioni.
+Una transazione è una sequenza di operazioni atomiche che devono essere eseguite senza conclude
 I lock, letteralmente "blocchi", sono un meccanismo usato per disciplinare l'accesso a risorse condivise.
 Semplicemente i dati vengono marcati attraverso delle "etichette", che ne definiscono sensibilità e livelli di accesso.
 Per questo meccanismo viene implementato il modulo **Lock Manager** nel DBMS, che tiene traccia delle risorse in uso, delle transazioni che le stanno usando e delle transazioni che ne hanno fatto richiesta.
@@ -137,7 +138,7 @@ Per questo meccanismo viene implementato il modulo **Lock Manager** nel DBMS, ch
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODMxODYxMiwxMDUxNTc5ODE2LC0yMT
+eyJoaXN0b3J5IjpbMTc5NjU2ODE1OCwxMDUxNTc5ODE2LC0yMT
 I2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIz
 NTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC
 0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQy
