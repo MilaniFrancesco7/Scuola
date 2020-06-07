@@ -128,7 +128,7 @@ Gli algoritmi più utilizzati sono l'MD5, lo SHA1 (anche se ormai obsoleto) e lo
 
 Un altro passaggio da compiere per poter salvaguardare i dati è il **lock di integrità**, ovvero l'utilizzo di transazioni.
 I lock, letteralmente "blocchi", sono un meccanismo usato per disciplinare l'accesso a risorse condivise.
-Semplicemente i dati vengono marcati attraverso delle "etichette", che ne definiscono sensibilità e
+Semplicemente i dati vengono marcati attraverso delle "etichette", che ne definiscono sensibilità e livelli di accesso. 
 
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
@@ -136,11 +136,11 @@ Semplicemente i dati vengono marcati attraverso delle "etichette", che ne defini
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgyMTgwMDUsMTA1MTU3OTgxNiwtMj
-EyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcy
-MzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMC
-wtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0
-MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1Mz
-AwLDQ1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMTk2
-MTYyMjc4M119
+eyJoaXN0b3J5IjpbLTY2MjU2NjYwNCwxMDUxNTc5ODE2LC0yMT
+I2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIz
+NTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC
+0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQy
+MTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUzMD
+AsNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2NjI3NDg5OSwxOTYx
+NjIyNzgzXX0=
 -->
