@@ -126,11 +126,14 @@ Questo tipo di criptazione è utilizzato nel caso delle password, in modo tale c
 Gli algoritmi più utilizzati sono l'MD5, lo SHA1 (anche se ormai obsoleto) e lo SHA2.
 [Criptazione](https://www.html.it/pag/54604/cifratura-e-decifratura-dei-dati/)
 
-Un altro passaggio da compiere per poter salvaguardare i dati è il **lock di integrità**, ovvero l'utilizzo di transazioni.
-Una transazione è una sequenza di operazioni atomiche che devono essere eseguite senza conclude
+Un altro passaggio da compiere per poter salvaguardare i dati è il **lock di integrità**, con l'utilizzo di transazioni.
+Una transazione è una sequenza di operazioni atomiche che devono essere eseguite senza concludersi con uno stato intermedio.
 I lock, letteralmente "blocchi", sono un meccanismo usato per disciplinare l'accesso a risorse condivise.
 Semplicemente i dati vengono marcati attraverso delle "etichette", che ne definiscono sensibilità e livelli di accesso.
 Per questo meccanismo viene implementato il modulo **Lock Manager** nel DBMS, che tiene traccia delle risorse in uso, delle transazioni che le stanno usando e delle transazioni che ne hanno fatto richiesta.
+In questo modo se dovesse venire riscontrata qualche anomalia verrà eseguita l'istruzione di abort, per concludere la transizione.
+
+
 
 ## Minacce al database
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)
@@ -138,11 +141,11 @@ Per questo meccanismo viene implementato il modulo **Lock Manager** nel DBMS, ch
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjU2ODE1OCwxMDUxNTc5ODE2LC0yMT
-I2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIz
-NTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC
-0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQy
-MTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUzMD
-AsNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2NjI3NDg5OSwxOTYx
-NjIyNzgzXX0=
+eyJoaXN0b3J5IjpbLTE0NTA4MzA4MjQsMTA1MTU3OTgxNiwtMj
+EyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcy
+MzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMC
+wtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0
+MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1Mz
+AwLDQ1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYyNzQ4OTksMTk2
+MTYyMjc4M119
 -->
