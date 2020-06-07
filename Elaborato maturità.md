@@ -139,9 +139,9 @@ L'entrata in funzione del meccanismo di abort prevede l'avvio di un altro meccan
 
 Un altro passo che si compie al momento della progettazione del database per proteggere l'integrità dei dati è l'utilizzo di **Finestre e viste**.
 Le viste sono fondate su una query di tipo SELECT, il cui risultato può essere utilizzato come se fosse una tabella. 
-Le finestre 
+Le finestre invece sono semplicemente le aree dove è possibile svolgere determinate operazioni, in questo caso di visualizzazione di dati.
 L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi del DB dove possono essere inserite le informazioni in maniera parziale, in modo tale da non consentire all'utente di avere accesso a dati riservati. 
-Le viste sono fondate su una query di tipo SELECT, il cui risultato può essere utilizzato come se fosse una tabella. 
+[https://it.wikipedia.org/wiki/Vista_(basi_di_dati)](https://it.wikipedia.org/wiki/Vista_(basi_di_dati))
 
 
 
@@ -151,11 +151,11 @@ Le viste sono fondate su una query di tipo SELECT, il cui risultato può essere 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTM5Mjg0NywxNDk0Mjc5NywxMDUxNT
-c5ODE2LC0yMTI2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkz
-LC0xMTMxNzIzNTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMj
-cwODY0MjAwLC0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0
-MzYsNDQ0MjQyMTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQsLT
-E5OTc1MjUzMDAsNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2NjI3
-NDg5OV19
+eyJoaXN0b3J5IjpbLTExNzU4NDM0ODYsMTQ5NDI3OTcsMTA1MT
+U3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5
+MywtMTEzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMT
+I3MDg2NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0
+NDM2LDQ0NDI0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC
+0xOTk3NTI1MzAwLDQ1MjU1MjQ4NywtOTQ5NTk4NjExLC05NjYy
+NzQ4OTldfQ==
 -->
