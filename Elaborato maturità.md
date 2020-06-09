@@ -25,8 +25,10 @@ L'integrità è quindi uno degli aspetti più critici per la progettazione, real
 ### L'integrità
 Si possono distinguere due categorie principali di integrità: fisica e logica.
 
-- Per integrità **fisica** si intende proteggere i dati nel momento dell'archiviazione e del loro recupero dai supporti. Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, minacce naturali o altri tipi di problematiche che riguardano l'aspetto fisico della conservazione dei dati.
-L'integrità di cui andremo a parlare più approfonditamente è invece quella **logica**.
+- Per integrità **fisica** si intende lo studio per la protezione dei dati al momento dell'archiviazione e del loro recupero dai supporti di memorizzazione. 
+Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, minacce naturali o altri tipi di problematiche che riguardano l'aspetto fisico della conservazione dei dati.
+
+- L'integrità di cui andremo a parlare più approfonditamente è invece quella **logica**.
 L'integrità logica dei dati interessa in particolare la correttezza e la razionalità dei dati, andando ad intersecarsi con la **sicurezza dei dati**, per la protezione da soggetti non autorizzati.
 La parte logica include quindi le tematiche di integrità intra-relazionale e interazionale all'interno dei database relazionali.
 L'integrità intra-relazionale concerne i vincoli all'interno di tuple della stessa relazione, quindi vincoli di dominio, di tupla, not null e di chiave. La parte interazionale riguarda invece l'integrità referenziale, ovvero l'insieme di regole che garantiscono l'integrità dei dati quando si hanno relazioni associate tra di loro tramite chiave esterna. A questo tipo di integrità corrisponde quindi il vincolo di integrità relazionale.
@@ -164,11 +166,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg4MzkwMjAsLTExNDY0OTQxNDMsLT
-EyMzUyNTkxMjIsLTE4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAz
-MTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MS
-wtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5
-NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYzOD
-M3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2NzU4MDM4MzgsLTIw
-OTc0OTk4NzZdfQ==
+eyJoaXN0b3J5IjpbMTYxMjYzNDkwMCwtMTE0NjQ5NDE0MywtMT
+IzNTI1OTEyMiwtMTgwMzU0Njg4OSw5NDIwODMwNjcsMjE0MDMx
+NjkxNCwtMTE1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0OTQxLC
+0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNywxNDk0
+Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMjMxNjM4Mz
+c0LDM5MjMyNzkzLC0xMTMxNzIzNTAzLDY3NTgwMzgzOCwtMjA5
+NzQ5OTg3Nl19
 -->
