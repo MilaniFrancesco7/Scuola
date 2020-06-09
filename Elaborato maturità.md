@@ -115,6 +115,7 @@ Queste tipologie di interruzioni, nel caso di attacchi ad aziende, causano perdi
 
 Il DDos, che può essere visto come "l'evoluzione" del DoS, dato quest'ultimo che avviene principalmente da una sola macchina, consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. 
 Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
+- I computer che sono controllati dall'attaccante vengono chiamati ***zombie***, e dopo essere stati infettati entrano a far parte di una botnet, ovvero una "catena" di bot, a libera disposizione dell'attaccante.
 
 #### Phishing
 
@@ -176,11 +177,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE0MDA5MDIsMzQzMDc3MDIzLDY4Mj
-E4MjA0NCw1Nzg0OTc2NzgsMTYxMjYzNDkwMCwtMTE0NjQ5NDE0
-MywtMTIzNTI1OTEyMiwtMTgwMzU0Njg4OSw5NDIwODMwNjcsMj
-E0MDMxNjkxNCwtMTE1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0
-OTQxLC0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNy
-wxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMjMx
-NjM4Mzc0XX0=
+eyJoaXN0b3J5IjpbMTEwODY0NjgwNywzNDMwNzcwMjMsNjgyMT
+gyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQz
+LC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMT
+QwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5
+NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LD
+E0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3MzExMzcsLTEyMzE2
+MzgzNzRdfQ==
 -->
