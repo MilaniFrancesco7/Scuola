@@ -29,7 +29,6 @@ La parte logica include quindi le tematiche di integrità intra-relazionale e in
 L'integrità intra-relazionale concerne i vincoli all'interno di tuple della stessa relazione, quindi vincoli di dominio, di tupla, not null e di chiave. La parte interazionale riguarda invece l'integrità referenziale, ovvero l'insieme di regole che garantiscono l'integrità dei dati quando si hanno relazioni associate tra di loro tramite chiave esterna. A questo tipo di integrità corrisponde quindi il vincolo di integrità relazionale.
 
 Per quanto riguarda la sicurezza dei dati, l'integrità è una parte fondamentale in quanto essa deve assicurare l'inalterazione, mentre la sicurezza riguarda la protezione dagli attacchi.
-
  
 [Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
 [Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
@@ -37,7 +36,7 @@ Per quanto riguarda la sicurezza dei dati, l'integrità è una parte fondamental
 
 
 ## Attacchi
-
+Un attacco informatico è una qualsiasi azione, svolta da soggetti malintenzionati, che mira ai sistemi informativi, ai dispositivi, alle reti, 
 
 **attacco informatico** (o **cyber attacco**) è una qualunque manovra, impiegata da individui od [organizzazioni](https://it.wikipedia.org/wiki/Organizzazione "Organizzazione") anche statali, che colpisce [sistemi informativi](https://it.wikipedia.org/wiki/Sistemi_informativi "Sistemi informativi"), [infrastrutture](https://it.wikipedia.org/wiki/Infrastruttura "Infrastruttura"), [reti di calcolatori](https://it.wikipedia.org/wiki/Reti_di_calcolatori "Reti di calcolatori") e/o [dispositivi elettronici](https://it.wikipedia.org/wiki/Dispositivi_elettronici "Dispositivi elettronici") personali tramite atti malevoli, provenienti generalmente da una fonte anonima, finalizzati al furto, alterazione o distruzione di specifici obiettivi violando sistemi suscettibili.
 ### Cenno storico
@@ -160,11 +159,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg0NTAsLTE4NDM3MjM4NDIsLTEwNz
-Q0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4MTYs
-LTIxMjY3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMsLTExMz
-E3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQy
-MDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0ND
-QyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUy
-NTMwMF19
+eyJoaXN0b3J5IjpbLTEyNDE4OTkzMywtMTg0MzcyMzg0MiwtMT
+A3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgx
+NiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMT
+EzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2
+NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LD
+Q0NDI0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3
+NTI1MzAwXX0=
 -->
