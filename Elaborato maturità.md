@@ -44,9 +44,9 @@ Un attacco informatico è una qualsiasi azione, svolta da soggetti malintenziona
 La storia narra che lo scienziato Guglielmo Marconi e il suo assistente Sir John Ambrose Fleming stessero per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili, quando inaspettatamente la macchina riceve due messaggi: un insulto, e una filastrocca canzonatoria dell'italiano futuro premio nobel. L'esperimento risulta quindi un disastro, dato che qualcuno è riuscito ad inserirsi nelle frequenze radio che Marconi dichiarava come sicure e private. Il colpevole si rivelerà essere l'inventore Nevil Maskelyne, che dal palazzo vicino riuscì ad interferire con le frequenze di Marconi.
 Era il 4 giugno 1903, e questo è considerato il primo caso di hacking della storia.
 
-Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento, la gestione e la protezione di dati e informazioni hanno fatto passi da gigante, così come le potenziali minacce, che si sono evolute parallelamente.
+Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento, la gestione e la protezione di dati e informazioni hanno fatto passi da gigante, così come i potenziali attacchi, che si sono evoluti parallelamente.
 
-## Minacce nel Web
+## Attacchi nel Web
 Le tipologie di attacco si possono racchiudere in due categorie principali: attacco attivo e attacco passivo.
 L'attacco attivo implica la manomissione di dati o il disturbo del loro funzionamento, danneggiandone l'integrità e la disponibilità. L'attacco passivo invece cerca di intercettare e utilizzare i dati senza danneggiare le risorse del sistema, quindi minacciandone solamente la riservatezza.
 
@@ -160,11 +160,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzIwNDk0MSwtMTg0MzcyMzg0MiwtMT
-A3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgx
-NiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMT
-EzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2
-NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LD
-Q0NDI0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3
-NTI1MzAwXX0=
+eyJoaXN0b3J5IjpbNjQ2MDYxOTEsMTQ4MzIwNDk0MSwtMTg0Mz
+cyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcs
+MTA1MTU3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOT
+IzMjc5MywtMTEzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4
+NzYsMTI3MDg2NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMz
+QzNTI0NDM2LDQ0NDI0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0
+ODk0XX0=
 -->
