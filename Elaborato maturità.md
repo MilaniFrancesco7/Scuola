@@ -7,7 +7,9 @@
 
 La risorsa più importante di ogni organizzazione è l'**informazione**. 
 Essa è alla base dell'informatica, la cui definizione è "scienza che si occupa del trattamento automatico delle informazioni".
-Ciò che viene trattato nell'informatica è il dato, ovvero la "descrizione elementare" di un'informazione. Il dato al giorno d'oggi controlla il mondo, è la "ricchezza" del nuovo millennio, soprattutto per le strategie aziendali. E' infatti nato all'incirca nel 2000 il **data-driven marketing**, cioè l'ut
+Ciò che viene trattato nell'informatica è il dato, ovvero la "descrizione elementare" di un'informazione. Il dato al giorno d'oggi controlla il mondo, è la "ricchezza" del nuovo millennio, soprattutto per le strategie aziendali. E' infatti nato all'incirca nel 2000 il **data-driven marketing**, cioè l'utilizzo dei dati per migliorare il targeting, personalizzare la comunicazione e aumentare il coinvolgimento degli utenti.
+I dati provengono praticamente da qualsiasi parte: dai social, agli acquisti, alla s
+[Data driven marketing](https://www.spremutedigitali.com/data-driven-marketing/)
 E' la base fondamentale dell'informatica e dei dati, che al giorno d'oggi controllano il mondo.
 
 ## Importanza dell'integrità dei dati
@@ -143,11 +145,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxOTAyNTAsLTEwNzQ0NDExNCwtMTYyNj
-k2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3MzExMzcs
-LTEyMzE2MzgzNzQsMzkyMzI3OTMsLTExMzE3MjM1MDMsNjc1OD
-AzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQyMDAsLTE4NjEwMDk1
-ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0NDQyNDIxNzMsLTE2Nz
-YzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NTI1NTI0
-ODddfQ==
+eyJoaXN0b3J5IjpbMTg3MzkzNjQwLC0xMDc0NDQxMTQsLTE2Mj
+Y5NjIxNywxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3
+LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIzNTAzLDY3NT
+gwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC0xODYxMDA5
+NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQyMTczLC0xNj
+c2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUzMDAsNDUyNTUy
+NDg3XX0=
 -->
