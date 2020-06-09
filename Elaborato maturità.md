@@ -115,7 +115,8 @@ Queste tipologie di interruzioni, nel caso di attacchi ad aziende, causano perdi
 
 Il DDos, che può essere visto come "l'evoluzione" del DoS, dato quest'ultimo che avviene principalmente da una sola macchina, consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. 
 Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
-- I computer che sono controllati dall'attaccante vengono chiamati ***zombie***, e dopo essere stati infettati entrano a far parte di una botnet, ovvero una "catena" di bot, a libera disposizione dell'attaccante.
+- I computer che sono controllati dall'attaccante vengono chiamati ***zombie*** o ***bot***. Dopo essere stati infettati entrano a far parte di una botnet, ovvero una rete di dispositivi infettati, a libera disposizione dell'attaccante. 
+Quando il numero di bot è ritenuto esiguo dall'attaccante,  essi vengono attivati 
 
 #### Phishing
 
@@ -177,11 +178,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODY0NjgwNywzNDMwNzcwMjMsNjgyMT
-gyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQz
-LC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMT
-QwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5
-NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LD
-E0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3MzExMzcsLTEyMzE2
-MzgzNzRdfQ==
+eyJoaXN0b3J5IjpbNTIzMzQ5NDA5LDM0MzA3NzAyMyw2ODIxOD
+IwNDQsNTc4NDk3Njc4LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMs
+LTEyMzUyNTkxMjIsLTE4MDM1NDY4ODksOTQyMDgzMDY3LDIxND
+AzMTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0
+MSwtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMT
+Q5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYz
+ODM3NF19
 -->
