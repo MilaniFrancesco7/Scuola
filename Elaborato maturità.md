@@ -45,8 +45,8 @@ Un attacco informatico è una qualsiasi azione, svolta da soggetti malintenziona
 [Attacco informatico](https://it.wikipedia.org/wiki/Attacco_informatico)
 
 ### Cenno storico
-La storia narra che lo scienziato Guglielmo Marconi e il suo assistente Sir John Ambrose Fleming stessero per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili, quando inaspettatamente la macchina riceve due messaggi: un insulto, e una filastrocca canzonatoria dell'italiano futuro premio nobel. L'esperimento risulterquindi un disastro, dato che qualcuno è riuscito ad inserirsi nelle frequenze radio che Marconi dichiarava come sicure e private. Il colpevole si rivelerà essere l'inventore Nevil Maskelyne, che dal palazzo vicino riuscì ad interferire con le frequenze di Marconi.
-Era il 4 giugno 1903, e questo è considerato il primo caso di hacking della storia.
+La storia narra che lo scienziato Guglielmo Marconi e il suo assistente Sir John Ambrose Fleming stessero per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili, quando inaspettatamente la macchina riceve due messaggi: un insulto, e una filastrocca canzonatoria dell'italiano futuro premio nobel. L'esperimento risulterà quindi un disastro, dato che qualcuno è riuscito ad inserirsi nelle frequenze radio che Marconi dichiarava come sicure e private. Il colpevole si rivelerà essere l'inventore Nevil Maskelyne, che dal palazzo vicino riuscì ad interferire con le frequenze di Marconi.
+Era il 4 giugno 1903, e questo è considerato il primo caso di "hacking" della storia.
 
 Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento, la gestione e la protezione di dati e informazioni hanno fatto passi da gigante, così come i potenziali attacchi, che si sono evoluti parallelamente.
 
@@ -167,7 +167,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTAwODkyLDU3ODQ5NzY3OCwxNjEyNj
+eyJoaXN0b3J5IjpbNjgyMTgyMDQ0LDU3ODQ5NzY3OCwxNjEyNj
 M0OTAwLC0xMTQ2NDk0MTQzLC0xMjM1MjU5MTIyLC0xODAzNTQ2
 ODg5LDk0MjA4MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0NjA5LD
 Y0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLTEwNzQ0
