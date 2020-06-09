@@ -167,9 +167,9 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 ## sistemare
 - parte sulla CIA -> sistemare le frasi
-- pa
+- parte integrità -> parte di italia 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk0MjYxMTcsLTE4MDM1NDY4ODksOT
+eyJoaXN0b3J5IjpbLTEyMzUyNTkxMjIsLTE4MDM1NDY4ODksOT
 QyMDgzMDY3LDIxNDAzMTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYx
 OTEsMTQ4MzIwNDk0MSwtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC
 0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjcz
