@@ -8,10 +8,11 @@
 La risorsa più importante di ogni organizzazione è l'**informazione**. 
 Essa è alla base dell'informatica, la cui definizione è "scienza che si occupa del trattamento automatico delle informazioni".
 Ciò che viene trattato nell'informatica è il dato, ovvero la "descrizione elementare" di un'informazione. Il dato al giorno d'oggi controlla il mondo, è la "ricchezza" del nuovo millennio, soprattutto per le strategie aziendali. E' infatti nato all'incirca nel 2000 il **data-driven marketing**, cioè l'utilizzo dei dati per migliorare il targeting, personalizzare la comunicazione e aumentare il coinvolgimento degli utenti.
-I dati provengono praticamente da qualsiasi parte: dai social, agli acquisti, alla s
+I dati provengono praticamente da qualsiasi parte: dai social, agli acquisti, alla semplice navigazione sul web.
+L'importanza viene sottolineata soprattutto da questa frase: "Il data-driven marketing oggi non è più una scelta, ma l'unica scelta possibile."
 [Data driven marketing](https://www.spremutedigitali.com/data-driven-marketing/)
-E' la base fondamentale dell'informatica e dei dati, che al giorno d'oggi controllano il mondo.
 
+Come a
 ## Importanza dell'integrità dei dati
 
 Le informazioni devono però essere protette da possibili attacchi, per poter garantire la **sicurezza informatica**.
@@ -145,11 +146,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzkzNjQwLC0xMDc0NDQxMTQsLTE2Mj
-Y5NjIxNywxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3
-LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIzNTAzLDY3NT
-gwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC0xODYxMDA5
-NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQyMTczLC0xNj
-c2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUzMDAsNDUyNTUy
-NDg3XX0=
+eyJoaXN0b3J5IjpbLTM1ODE4MTI0NiwtMTA3NDQ0MTE0LC0xNj
+I2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEz
+NywtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2Nz
+U4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2MTAw
+OTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3MywtMT
+Y3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLDQ1MjU1
+MjQ4N119
 -->
