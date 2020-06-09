@@ -50,8 +50,8 @@ Le tipologie di attacco si possono racchiudere in due categorie principali: atta
 L'attacco attivo implica la manomissione di dati o il disturbo del loro funzionamento, danneggiandone l'integrità e la disponibilità. L'attacco passivo invece cerca di intercettare e utilizzare i dati senza danneggiare le risorse del sistema, quindi minacciandone solamente la riservatezza.
 
 ### Attacchi passivi 
-L'
-L'analisi del traffico, chiamato **sniffing** è uno degli attacchi più semplici, in quanto utilizza strumenti chiamati **packet sniffer**. I packet sniffer sono nati con l'intento di essere programmi di diagnostica per le reti, riuscendo a catturare, analizzare e decodificare tutti i pacchetti in transito nelle comunicazioni. Purtroppo sono presto diventati uno strumento per malintenzionati.
+L'attacco passivo utilizzato più frequentemente, data la sua efficacia, è l'analisi del traffico.
+L'attacco di analisi, chiamato **sniffing**, è uno dei più semplici, in quanto utilizza strumenti preechiamati **packet sniffer**. I packet sniffer sono nati con l'intento di essere programmi di diagnostica per le reti, riuscendo a catturare, analizzare e decodificare tutti i pacchetti in transito nelle comunicazioni. Purtroppo sono presto diventati uno strumento per malintenzionati.
 Un attacco sniffer recupera infatti i pacchetti trasmessi, che decodificati portano alle informazioni a livello data link, 
 
 Esistono molte tattiche per attuare un **packet sniffing**.
@@ -159,11 +159,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzYzNTEwOTMsMjE0MDMxNjkxNCwtMT
-E1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0OTQxLC0xODQzNzIz
-ODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMD
-UxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMy
-NzkzLC0xMTMxNzIzNTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3Ni
-wxMjcwODY0MjAwLC0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1
-MjQ0MzZdfQ==
+eyJoaXN0b3J5IjpbLTQwMzUyMTY5OSwyMTQwMzE2OTE0LC0xMT
+UxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4
+NDIsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNT
+E1Nzk4MTYsLTIxMjY3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3
+OTMsLTExMzE3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LD
+EyNzA4NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUy
+NDQzNl19
 -->
