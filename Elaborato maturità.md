@@ -25,8 +25,8 @@ L'integrità è uno degli aspetti più critici per la progettazione, realizzazio
 ### L'integrità
 Si possono distinguere due tipi di integrità: fisica e logica.
 Per integrità **fisica** si intende proteggere i dati nel momento dell'archiviazione e del loro recupero dai supporti. Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, minacce naturali o altri tipi di problematiche che riguardano l'aspetto fisico della conservazione dei dati.
-L'integrità di cui andremo a parlare approfonditamente è però quella **logica**.
-L'integrità logica dei dati interessa in particolare la correttezza e la razionalità dei dati, andando ad intersecarsi con la sicurezza dei dati, per la protezione da soggetti non autorizzati.
+L'integrità di cui andremo a parlare più approfonditamente è invece quella **logica**.
+L'integrità logica dei dati interessa in particolare la correttezza e la razionalità dei dati, andando ad intersecarsi con la **sicurezza dei dati**, per la protezione da soggetti non autorizzati.
 La parte logica include quindi le tematiche di integrità intra-relazionale e interazionale all'interno dei database relazionali.
 L'integrità intra-relazionale concerne i vincoli all'interno di tuple della stessa relazione, quindi vincoli di dominio, di tupla, not null e di chiave. La parte interazionale riguarda invece l'integrità referenziale, ovvero l'insieme di regole che garantiscono l'integrità dei dati quando si hanno relazioni associate tra di loro tramite chiave esterna. A questo tipo di integrità corrisponde quindi il vincolo di integrità relazionale.
 
@@ -159,11 +159,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MzA2OTY3LC0xMTUxNjY0NjA5LDY0Nj
-A2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDEx
-NCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMj
-Y3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMsLTExMzE3MjM1
-MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQyMDAsLT
-E4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0NDQyNDIx
-NzNdfQ==
+eyJoaXN0b3J5IjpbMTc0NTg3NTg2NCwtMTE1MTY2NDYwOSw2ND
+YwNjE5MSwxNDgzMjA0OTQxLC0xODQzNzIzODQyLC0xMDc0NDQx
+MTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMT
+I2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIz
+NTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC
+0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQy
+MTczXX0=
 -->
