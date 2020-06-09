@@ -3,19 +3,6 @@
 >Traccia:
 > Le minacce dal web sono in continua evoluzione, descrivere le più comuni; e visto che l’integrità dei dati nell'ambito della sicurezza informatica ha un ruolo fondamentale, descrivere quali accorgimenti il programmatore può prendere in fase di definizione del DB.
 
-## Cose da inserire
-- Minacce web - Descrivere le più comuni
-	- SQL injection
-	- Phishing
-	- Attacchi vari
-- Integrità dei dati nella sicurezza informatica
-- SQL mapping
-- Accorgimenti in fase di definizione 
-	- Criptazione dei dati
-	- Normalizzazione del DB
-	- Posizionamento del DB nella rete
-	- Protezione delle credenziali 
-
 # Introduzione
 
 ## Importanza dell'integrità dei dati
@@ -151,11 +138,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY5NjIxNywxNDk0Mjc5NywxMDUxNT
-c5ODE2LC0yMTI2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkz
-LC0xMTMxNzIzNTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMj
-cwODY0MjAwLC0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0
-MzYsNDQ0MjQyMTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQsLT
-E5OTc1MjUzMDAsNDUyNTUyNDg3LC05NDk1OTg2MTEsLTk2NjI3
-NDg5OV19
+eyJoaXN0b3J5IjpbLTE0NDUwODc5MzYsLTE2MjY5NjIxNywxND
+k0Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMjMxNjM4
+Mzc0LDM5MjMyNzkzLC0xMTMxNzIzNTAzLDY3NTgwMzgzOCwtMj
+A5NzQ5OTg3NiwxMjcwODY0MjAwLC0xODYxMDA5NTg0LDExMzI3
+NTY5LC0zNDM1MjQ0MzYsNDQ0MjQyMTczLC0xNjc2MzI2NzU3LD
+EwMjc0MjQ4OTQsLTE5OTc1MjUzMDAsNDUyNTUyNDg3LC05NDk1
+OTg2MTFdfQ==
 -->
