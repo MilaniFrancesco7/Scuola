@@ -19,7 +19,7 @@ I dati devono essere quindi protetti da possibili attacchi, per poter garantire 
 La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA.
 Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. 
 Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico. La proprietà  che si può definire come più importante delle tre è l'**integrità dei dati**.
-Per integrità dei dati si intende la capacità di mantenere i dati e le risorse garantendo la loro inalterazione e non cancellazione, se non ad opera di soggetti autorizzati. E' un aspetto critico per la progettazione, realizzazione e utilizzo di qual
+Per integrità dei dati si intende la capacità e di mantenere i dati e le risorse garantendo la loro inalterazione e correttezza, durante il loro intero ciclo di vita. E' un aspetto critico per la progettazione, realizzazione e utilizzo di qualsiasi sistema.
 [Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
 [Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
 
@@ -146,11 +146,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQxMDgyMDcsLTE4NDM3MjM4NDIsLT
-EwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4
-MTYsLTIxMjY3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMsLT
-ExMzE3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4
-NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNi
-w0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5
-NzUyNTMwMF19
+eyJoaXN0b3J5IjpbMTY0Njc3MjYwNSwtMTg0MzcyMzg0MiwtMT
+A3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgx
+NiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMT
+EzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2
+NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LD
+Q0NDI0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3
+NTI1MzAwXX0=
 -->
