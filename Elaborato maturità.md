@@ -18,9 +18,11 @@ Il dato è quindi una delle risorse più importanti per l'economia; e come tutte
 I dati devono essere quindi protetti da possibili attacchi, per poter garantire la **sicurezza informatica**.
 La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA. Questo acronimo significa data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. 
 Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico. 
-Il principio che si può definire come più importante delle tre è l'**integrità dei dati**.
-Per integrità dei dati si intende la capacità e di mantenere i dati e le risorse garantendo la loro precisione e correttezza, durante il loro intero ciclo di vita. Inoltre è molto importante la garanzia dell'inalterazione del dato, che può avvenire solamente da un soggetto autorizzato.
+Il principio che si può definire come il più importante è l'**integrità dei dati**.
+Per integrità dei dati si intende la capacità di mantenere i dati e le risorse, garantendo la loro precisione e correttezza durante l'intero ciclo di vita. Inoltre è molto importante la garanzia dell'inalterazione del dato, che può avvenire solamente da un soggetto autorizzato.
 L'integrità è uno degli aspetti più critici per la progettazione, realizzazione e utilizzo di qualsiasi sistema informatico.
+
+### L'integrità
 Si possono distinguere due tipi di integrità: fisica e logica.
 Per integrità **fisica** si intende proteggere i dati nel momento dell'archiviazione e del loro recupero dai supporti. Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, minacce naturali o altri tipi di problematiche che riguardano l'aspetto fisico della conservazione dei dati.
 L'integrità di cui andremo a parlare approfonditamente è però quella **logica**.
@@ -157,11 +159,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDYxNzc0MCwtMTE1MTY2NDYwOSw2ND
-YwNjE5MSwxNDgzMjA0OTQxLC0xODQzNzIzODQyLC0xMDc0NDQx
-MTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMT
-I2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIz
-NTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC
-0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQy
-MTczXX0=
+eyJoaXN0b3J5IjpbNTc3MzA2OTY3LC0xMTUxNjY0NjA5LDY0Nj
+A2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDEx
+NCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMj
+Y3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMsLTExMzE3MjM1
+MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQyMDAsLT
+E4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0NDQyNDIx
+NzNdfQ==
 -->
