@@ -6,7 +6,7 @@
 # Introduzione
 
 La risorsa più importante di ogni organizzazione è l'**informazione**. 
-Essa è infatti alla base dell'informatica, la cui definizione è "scienza che si occupa del trattamento automatico delle informazioni"
+Essa è alla base dell'informatica, la cui definizione è "scienza che si occupa del trattamento automatico delle informazioni"
 E' la base fondamentale dell'informatica e dei dati, che al giorno d'oggi controllano il mondo.
 
 ## Importanza dell'integrità dei dati
@@ -142,11 +142,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OT
-QyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3MzExMzcsLTEyMzE2Mzgz
-NzQsMzkyMzI3OTMsLTExMzE3MjM1MDMsNjc1ODAzODM4LC0yMD
-k3NDk5ODc2LDEyNzA4NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1
-NjksLTM0MzUyNDQzNiw0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMT
-AyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NTI1NTI0ODcsLTk0OTU5
-ODYxMV19
+eyJoaXN0b3J5IjpbLTE4MTMyNDg5LC0xMDc0NDQxMTQsLTE2Mj
+Y5NjIxNywxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3
+LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIzNTAzLDY3NT
+gwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC0xODYxMDA5
+NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQyMTczLC0xNj
+c2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1MjUzMDAsNDUyNTUy
+NDg3XX0=
 -->
