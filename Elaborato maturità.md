@@ -62,7 +62,7 @@ Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più 
 Troviamo innanzitutto l'intercettazione, il cui metodo più utilizzato è lo ***spoofing***.
 Lo spoofing è un tipo di attacco che consiste nel falsificare l'identità dell'host da cui viene eseguito l'attacco.
 Esso può essere attuato in diverse maniere; il più utilizzato è l'IP spoofing, ma esistono il DNS Spoofing (chiamato anche shadow server), il MAC spoofing (chiamato anche MAC flooding), l'ARP spoofing o l'Email Spoofing (utilizzato principalmente come base per il phishing)). 
-Lo spoofing fa parte della tipologia di attacchi **Man in the middle**, come lo sniffing visto precedentemente.
+Anche lo spoofing fa parte della tipologia di attacchi **Man in the middle**, come lo sniffing visto in precedenza.
 Esistono altre tipologie di spoofing che derivano da quelle descritti precedentemente, agendo su tutti i livelli dello modello ISO/OSI.
 L'IP spoofing consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco. 
 In questo modo l'host viene considerato attendibile dalla rete, cercando di ottenere dati sensibili.
@@ -157,11 +157,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzk0Nzk5MCw2NDYwNjE5MSwxNDgzMj
-A0OTQxLC0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIx
-NywxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMj
-MxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIzNTAzLDY3NTgwMzgz
-OCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC0xODYxMDA5NTg0LD
-ExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQyMTczLC0xNjc2MzI2
-NzU3XX0=
+eyJoaXN0b3J5IjpbLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4Mz
+IwNDk0MSwtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYy
+MTcsMTQ5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEzNywtMT
+IzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2NzU4MDM4
+MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2MTAwOTU4NC
+wxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3MywtMTY3NjMy
+Njc1N119
 -->
