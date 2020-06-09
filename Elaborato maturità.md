@@ -80,12 +80,15 @@ Anche lo spoofing fa parte, come detto in precedenza, della tipologia di attacch
 Esistono altre tipologie di spoofing che derivano da quelle descritti precedentemente, agendo su tutti i livelli dello modello ISO/OSI.
 
 Le tipologie di spoofing più utilizzate, tra quelle citate, sono quelle che agiscono su **IP** e **DNS**.
-L'IP spoofing  consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco. 
+
+- L'IP spoofing  consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco. 
 In questo modo l'host viene considerato attendibile dalla rete, cercando di ottenere dati sensibili.
-Il DNS spoofing, o shadow server, consiste nel creare record DNS fasulli, inserendoli nella cache del server, attraverso una tecnica chiamata ***cache poisoning***, per poter deviare le richieste DNS ad un server secondario, che si posizionerà quindi davanti al server originario, coprendolo (da qui **shadow** server).
+- Il DNS spoofing, chiamato anche **shadow server**, consiste nel creare record DNS fasulli, inserendoli nella cache del server, attraverso una tecnica chiamata ***cache poisoning***, per poter deviare le richieste DNS ad un server secondario, che si posizionerà quindi davanti al server originario, coprendolo (da qui **shadow** server).
 L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del tutto simile a quello originario, dove inserirà i dati sensibili che verranno poi rubati dall'individuo attaccante.
+
 Nella tipologia spoofing rientra anche l'attacco chiamato **SQL Injection** che riguarda in maniera particolare l'attacco dei database. 
-Con questa tecnica è possibile inserire delle stringhe di SQL all'interno di campi di input, che possono essere ad esempio i campi di inserimento utente e password, oppure di ricerca, in maniera tale da fare eseguire le query all'interno del DB, cercando di causare danni o per ottenere dati. Questo tipo di attacco viene utilizzato in particolare in casi in cui l'applicazione che si sta attaccando presenti vulnerabilità piuttosto evidenti.
+
+- Con questa tecnica è possibile inserire delle stringhe di SQL all'interno di campi di input, che possono essere ad esempio i campi di inserimento utente e password, oppure di ricerca, in maniera tale da fare eseguire le query all'interno del DB, cercando di causare danni o per ottenere dati. Questo tipo di attacco viene utilizzato in particolare in casi in cui l'applicazione che si sta attaccando presenti vulnerabilità piuttosto evidenti.
 
 #### Produzione
 Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi elementi nel sistema con l'obiettivo non di ottenere informazioni ma di provocare un danno.
@@ -171,11 +174,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTI3ODg1MCw2ODIxODIwNDQsNTc4ND
-k3Njc4LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMsLTEyMzUyNTkx
-MjIsLTE4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAzMTY5MTQsLT
-ExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MSwtMTg0Mzcy
-Mzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMT
-A1MTU3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIz
-Mjc5M119
+eyJoaXN0b3J5IjpbMzQzMDc3MDIzLDY4MjE4MjA0NCw1Nzg0OT
+c2NzgsMTYxMjYzNDkwMCwtMTE0NjQ5NDE0MywtMTIzNTI1OTEy
+MiwtMTgwMzU0Njg4OSw5NDIwODMwNjcsMjE0MDMxNjkxNCwtMT
+E1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0OTQxLC0xODQzNzIz
+ODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMD
+UxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMy
+NzkzXX0=
 -->
