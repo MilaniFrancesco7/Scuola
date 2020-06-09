@@ -12,7 +12,7 @@ I dati provengono praticamente da qualsiasi parte: dai social, agli acquisti, al
 L'importanza viene sottolineata soprattutto da questa frase: "Il data-driven marketing oggi non è più una scelta, ma l'unica scelta possibile."
 [Data driven marketing](https://www.spremutedigitali.com/data-driven-marketing/)
 
-Come a
+Il dato è quindi una delle risorse più importanti per l'economia, e come tutte le risorse che possono portare a del guadagno, la sua integrità viene messa a dura prova.
 ## Importanza dell'integrità dei dati
 
 Le informazioni devono però essere protette da possibili attacchi, per poter garantire la **sicurezza informatica**.
@@ -146,7 +146,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODE4MTI0NiwtMTA3NDQ0MTE0LC0xNj
+eyJoaXN0b3J5IjpbLTEyMzgzNjY1MSwtMTA3NDQ0MTE0LC0xNj
 I2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEz
 NywtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2Nz
 U4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2MTAw
