@@ -32,9 +32,9 @@ Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, m
 L'integrità logica dei dati interessa in particolare la correttezza, la razionalità e la protezione da soggetti non autorizzati dei dati, andando quindi ad intersecarsi con il tema della **sicurezza dei dati**.
 La parte logica che interessa la correttezza e la razionalità include quindi le tematiche di integrità intra-relazionale e interazionale all'interno dei database relazionali.
 	- L'integrità intra-relazionale concerne i vincoli all'interno di tuple della stessa relazione, quindi vincoli di dominio, di tupla, not null e di chiave. 
-	- L'integrità interazionale riguarda invece l'integrità referenziale, ovvero l'insieme di regole che garantiscono l'integrità dei dati quando si hanno relazioni associate tra di loro tramite chiave esterna. A questo tipo di integrità corrisponde quindi il vincolo di integrità relazionale.
+	- L'integrità interazionale riguarda invece l'**integrità referenziale**, ovvero l'insieme di regole che garantiscono l'integrità dei dati quando si hanno relazioni associate tra di loro tramite chiave esterna. A questo tipo di integrità corrisponde quindi il vincolo di integrità relazionale.
 
-Per quanto riguarda la sicurezza dei dati, l'integrità è una parte fondamentale in quanto essa deve assicurare l'inalterazione, mentre la sicurezza riguarda la protezione dagli attacchi.
+La sicurezza dei dati, che quindi tratta 
  
 [Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
 [Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
@@ -167,7 +167,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzA3MTU3MSwxNjEyNjM0OTAwLC0xMT
+eyJoaXN0b3J5IjpbLTI1MjE5ODMwMiwxNjEyNjM0OTAwLC0xMT
 Q2NDk0MTQzLC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4
 MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLD
 E0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNCwtMTYy
