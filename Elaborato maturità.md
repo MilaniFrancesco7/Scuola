@@ -77,9 +77,10 @@ Lo spoofing è un tipo di attacco che consiste nel falsificare l'identità dell'
 Esso può essere attuato in diverse maniere; il più utilizzato è l'IP spoofing, ma esistono il DNS Spoofing (chiamato anche shadow server), il MAC spoofing (chiamato anche MAC flooding), l'ARP spoofing o l'Email Spoofing (utilizzato principalmente come base per il phishing)). 
 
 Anche lo spoofing fa parte, come detto in precedenza, della tipologia di attacchi **Man in the middle**.
-
 Esistono altre tipologie di spoofing che derivano da quelle descritti precedentemente, agendo su tutti i livelli dello modello ISO/OSI.
-L'IP spoofing consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco. 
+
+Le tipologie di spoofing più utilizzate, tra quelle citate, sono quelle che agiscono su **IP** e **DNS**.
+L'IP spoofing  consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco. 
 In questo modo l'host viene considerato attendibile dalla rete, cercando di ottenere dati sensibili.
 Il DNS spoofing, o shadow server, consiste nel creare record DNS fasulli, inserendoli nella cache del server, attraverso una tecnica chiamata ***cache poisoning***, per poter deviare le richieste DNS ad un server secondario, che si posizionerà quindi davanti al server originario, coprendolo (da qui **shadow** server).
 L'utente quindi verrà reinderizzato ad un sito fasullo, molto probabilmente del tutto simile a quello originario, dove inserirà i dati sensibili che verranno poi rubati dall'individuo attaccante.
@@ -170,11 +171,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYxNTQyMTgsNjgyMTgyMDQ0LDU3OD
-Q5NzY3OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQzLC0xMjM1MjU5
-MTIyLC0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMTQwMzE2OTE0LC
-0xMTUxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3
-MjM4NDIsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LD
-EwNTE1Nzk4MTYsLTIxMjY3MzExMzcsLTEyMzE2MzgzNzQsMzky
-MzI3OTNdfQ==
+eyJoaXN0b3J5IjpbMTM1OTI3ODg1MCw2ODIxODIwNDQsNTc4ND
+k3Njc4LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMsLTEyMzUyNTkx
+MjIsLTE4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAzMTY5MTQsLT
+ExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MSwtMTg0Mzcy
+Mzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMT
+A1MTU3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIz
+Mjc5M119
 -->
