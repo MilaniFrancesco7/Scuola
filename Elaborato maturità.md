@@ -91,8 +91,7 @@ Nella tipologia spoofing rientra anche l'attacco chiamato **SQL Injection** che 
 - Con questa tecnica è possibile inserire delle stringhe di SQL all'interno di campi di input, che possono essere ad esempio i campi di inserimento utente e password, oppure di ricerca, in maniera tale da fare eseguire le query all'interno del DB, cercando di causare danni o per ottenere dati. Questo tipo di attacco viene utilizzato in particolare in casi in cui l'applicazione che si sta attaccando presenti vulnerabilità piuttosto evidenti.
 
 #### Produzione
-Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi elementi nel sistema con l'obiettivo non di ottenere informazioni ma di provocare un danno.
-Sono quindi degli attacchi di sabotaggio che hanno l'obiettivo di ridurre l'integrità e la disponibilità delle risorse del sistema.
+Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi elementi nel sistema con l'obiettivo di provocare un danno. Sono quindi degli attacchi di sabotaggio che hanno l'obiettivo di ridurre l'integrità e la disponibilità delle risorse del sistema.
 Le principali tecniche di disturbo sono gli attacchi malware e gli attacchi di tipo DoS.
 I **malware** sono software "malevoli" che mettono a rischio un sistema. Essi cercano di invadere, danneggiare o disattivare computer, sistemi e reti. Il loro scopo è quello di lucrare illecitamente a spese degli utenti.
 Le due categorie più utilizzate all'interno dei malware sono **virus**   e **worm**.
@@ -174,11 +173,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMDc3MDIzLDY4MjE4MjA0NCw1Nzg0OT
-c2NzgsMTYxMjYzNDkwMCwtMTE0NjQ5NDE0MywtMTIzNTI1OTEy
-MiwtMTgwMzU0Njg4OSw5NDIwODMwNjcsMjE0MDMxNjkxNCwtMT
-E1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0OTQxLC0xODQzNzIz
-ODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMD
-UxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMy
-NzkzXX0=
+eyJoaXN0b3J5IjpbOTExNTIwOTc4LDM0MzA3NzAyMyw2ODIxOD
+IwNDQsNTc4NDk3Njc4LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMs
+LTEyMzUyNTkxMjIsLTE4MDM1NDY4ODksOTQyMDgzMDY3LDIxND
+AzMTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0
+MSwtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMT
+Q5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYz
+ODM3NF19
 -->
