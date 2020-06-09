@@ -60,7 +60,9 @@ Un attacco sniffing consiste nell'intercettare i singoli pacchetti transitanti n
 In questo modo l'individuo attaccante potrà servirsi dei dati ricavati dall'ascolto della trasmissione, senza aver avuto bisogno di introdursi nella rete o nei dispositivi.
 
 Nella famiglia degli attacchi di analisi rientra anche il famoso attacco **Man In the Middle**.
-Il Man In the Middle, abbreviato anche in MIM, è parte degli attacchi di analisi del traffico in quanto consiste nel posizionarsi all'interno della connessione tra due dispositivi, nel mezzo per l'appunto, per poter ricevere tutto il tra
+Il Man In the Middle, abbreviato anche in MIM, è parte degli attacchi di analisi del traffico in quanto consiste nel posizionarsi all'interno della connessione tra due dispositivi, nel mezzo per l'appunto, per poter ricevere tutto il traffico che viene trasmesso.
+In questo modo l'attaccante potrà sia ricevere i pacchetti trasmessi dai due utenti, ma anche trasmettere come se fosse parte della comunicazione, risultando come uno dei due partecipanti.
+L'attacco MIM è però considerato più un attacco attivo, in quanto utilizza sistemi di 
 
 ### Attacchi attivi
 Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per obiettivo dell'attacco.
@@ -163,11 +165,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk1MDE5NDgsOTQyMDgzMDY3LDIxND
-AzMTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0
-MSwtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMT
-Q5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYz
-ODM3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2NzU4MDM4MzgsLT
-IwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2MTAwOTU4NCwxMTMy
-NzU2OV19
+eyJoaXN0b3J5IjpbLTQ4NTc2ODk3OCw5NDIwODMwNjcsMjE0MD
+MxNjkxNCwtMTE1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0OTQx
+LC0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNywxND
+k0Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMjMxNjM4
+Mzc0LDM5MjMyNzkzLC0xMTMxNzIzNTAzLDY3NTgwMzgzOCwtMj
+A5NzQ5OTg3NiwxMjcwODY0MjAwLC0xODYxMDA5NTg0LDExMzI3
+NTY5XX0=
 -->
