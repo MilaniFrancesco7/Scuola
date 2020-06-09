@@ -164,12 +164,16 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 
+
+## sistemare
+- parte sulla CIA -> sistemare le frasi
+- pa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM1NDY4ODksOTQyMDgzMDY3LDIxND
-AzMTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0
-MSwtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMT
-Q5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYz
-ODM3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2NzU4MDM4MzgsLT
-IwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2MTAwOTU4NCwxMTMy
-NzU2OV19
+eyJoaXN0b3J5IjpbLTE3Mjk0MjYxMTcsLTE4MDM1NDY4ODksOT
+QyMDgzMDY3LDIxNDAzMTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYx
+OTEsMTQ4MzIwNDk0MSwtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC
+0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjcz
+MTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcyMzUwMy
+w2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2
+MTAwOTU4NF19
 -->
