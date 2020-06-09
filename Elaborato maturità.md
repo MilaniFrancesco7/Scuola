@@ -112,8 +112,9 @@ Queste tipologie di interruzioni, nel caso di attacchi ad aziende, causano perdi
 [4](https://academy.binance.com/it/security/what-is-a-dos-attack)
 - La metodologia più utilizzata è il ***buffer overflow***, che consiste nell'invio di un traffico maggiore di quanto il sistema a cui si mira sia in grado di gestire. Questo attacco permette quindi di riuscire a rendere inutilizzabile il sistema, facendolo collassare.
 - Un altra strategia appartenente alla famiglia DoS è il ***SYN flood***, che attacca il server autenticandosi solamente in maniera parziale. In questo modo verrà lasciata in attesa la connessione sulla porta per il ***three way handshake***, procedendo quindi a fare la stessa operazione su tutte le porte fino a mettere fuori uso il server.
-- 
-Infine il DDos, che può essere visto come "l'evoluzione" del DoS, dato che rispetto al DoS che avviene principalmente da una sola macchina, il DDoS consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
+
+Il DDos, che può essere visto come "l'evoluzione" del DoS, dato quest'ultimo che avviene principalmente da una sola macchina, consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. 
+Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
 
 #### Phishing
 
@@ -175,7 +176,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg3NzM2NTMsMzQzMDc3MDIzLDY4Mj
+eyJoaXN0b3J5IjpbLTE2ODE0MDA5MDIsMzQzMDc3MDIzLDY4Mj
 E4MjA0NCw1Nzg0OTc2NzgsMTYxMjYzNDkwMCwtMTE0NjQ5NDE0
 MywtMTIzNTI1OTEyMiwtMTgwMzU0Njg4OSw5NDIwODMwNjcsMj
 E0MDMxNjkxNCwtMTE1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0
