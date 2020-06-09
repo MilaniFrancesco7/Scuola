@@ -12,7 +12,7 @@ I dati provengono praticamente da qualsiasi parte: dai social, agli acquisti, al
 L'importanza viene sottolineata soprattutto da questa frase: "Il data-driven marketing oggi non è più una scelta, ma l'unica scelta possibile."
 [Data driven marketing](https://www.spremutedigitali.com/data-driven-marketing/)
 
-Il dato è quindi una delle risorse più importanti per l'economia, e come tutte le risorse che possono portare a del guadagno, la sua sicurezza viene messa a dura prova.
+Il dato è quindi una delle risorse più importanti per l'economia; e come tutte le risorse che possono portare a del guadagno, la sua sicurezza viene messa a dura prova.
 ## Sicurezza informatica
 
 I dati devono essere quindi protetti da possibili attacchi, per poter garantire la **sicurezza informatica**.
@@ -146,11 +146,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDAzODQ0NywtMTA3NDQ0MTE0LC0xNj
-I2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEz
-NywtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2Nz
-U4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2MTAw
-OTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3MywtMT
-Y3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3NTI1MzAwLDQ1MjU1
-MjQ4N119
+eyJoaXN0b3J5IjpbLTE4NDM3MjM4NDIsLTEwNzQ0NDExNCwtMT
+YyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3MzEx
+MzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMsLTExMzE3MjM1MDMsNj
+c1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQyMDAsLTE4NjEw
+MDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0NDQyNDIxNzMsLT
+E2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NTI1
+NTI0ODddfQ==
 -->
