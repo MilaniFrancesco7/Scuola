@@ -29,9 +29,10 @@ Si possono distinguere due categorie principali di integrità: fisica e logica.
 Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, minacce naturali o altri tipi di problematiche che riguardano l'aspetto fisico della conservazione dei dati.
 
 - L'integrità di cui andremo a parlare più approfonditamente è invece quella **logica**.
-L'integrità logica dei dati interessa in particolare la correttezza e la razionalità dei dati, andando ad intersecarsi con la **sicurezza dei dati**, per la protezione da soggetti non autorizzati.
-La parte logica include quindi le tematiche di integrità intra-relazionale e interazionale all'interno dei database relazionali.
-L'integrità intra-relazionale concerne i vincoli all'interno di tuple della stessa relazione, quindi vincoli di dominio, di tupla, not null e di chiave. La parte interazionale riguarda invece l'integrità referenziale, ovvero l'insieme di regole che garantiscono l'integrità dei dati quando si hanno relazioni associate tra di loro tramite chiave esterna. A questo tipo di integrità corrisponde quindi il vincolo di integrità relazionale.
+L'integrità logica dei dati interessa in particolare la correttezza, la razionalità e la protezione da soggetti non autorizzati dei dati, andando quindi ad intersecarsi con il tema della **sicurezza dei dati**.
+La parte logica che interessa la correttezza e la razionalità include quindi le tematiche di integrità intra-relazionale e interazionale all'interno dei database relazionali.
+	- L'integrità intra-relazionale concerne i vincoli all'interno di tuple della stessa relazione, quindi vincoli di dominio, di tupla, not null e di chiave. 
+	- L'integrità interazionale riguarda invece l'integrità referenziale, ovvero l'insieme di regole che garantiscono l'integrità dei dati quando si hanno relazioni associate tra di loro tramite chiave esterna. A questo tipo di integrità corrisponde quindi il vincolo di integrità relazionale.
 
 Per quanto riguarda la sicurezza dei dati, l'integrità è una parte fondamentale in quanto essa deve assicurare l'inalterazione, mentre la sicurezza riguarda la protezione dagli attacchi.
  
@@ -166,11 +167,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjYzNDkwMCwtMTE0NjQ5NDE0MywtMT
-IzNTI1OTEyMiwtMTgwMzU0Njg4OSw5NDIwODMwNjcsMjE0MDMx
-NjkxNCwtMTE1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0OTQxLC
-0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNywxNDk0
-Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMjMxNjM4Mz
-c0LDM5MjMyNzkzLC0xMTMxNzIzNTAzLDY3NTgwMzgzOCwtMjA5
-NzQ5OTg3Nl19
+eyJoaXN0b3J5IjpbMTU4NzA3MTU3MSwxNjEyNjM0OTAwLC0xMT
+Q2NDk0MTQzLC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4
+MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLD
+E0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNCwtMTYy
+Njk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3MzExMz
+csLTEyMzE2MzgzNzQsMzkyMzI3OTMsLTExMzE3MjM1MDMsNjc1
+ODAzODM4XX0=
 -->
