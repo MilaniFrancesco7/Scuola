@@ -56,7 +56,8 @@ I packet sniffer sono nati con l'intento di essere programmi di diagnostica per 
 Possono essere infatti molto utili agli amministratori di rete per monitorare lo stato della stessa, analizzando ed individuando eventuali problemi di comunicazione o tentativi di intrusione.
 In breve tempo però i packet sniffer sono diventati strumenti per malintenzionati.
 
-Un attacco sniffing consiste nell'intercettare i singoli pacchetti transitanti nella comunicazione, per poterli analizza
+Un attacco sniffing consiste nell'intercettare i singoli pacchetti transitanti nella comunicazione, per poterli analizzare e decodificare, al fine di riuscire ad estrapolare le informazioni contenutesi negli stessi pacchetti.
+In questo modo l'individuo attaccante potrà servirsi dei dati ricavati dall'ascolto della trasmissione, senza aver avuto bisogno di causare problemi alla connessione, facendo 
 
 
 Esistono molte tattiche per attuare un **packet sniffing**.
@@ -164,11 +165,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk5ODQ3NDEsMjE0MDMxNjkxNCwtMT
-E1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0OTQxLC0xODQzNzIz
-ODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMD
-UxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMy
-NzkzLC0xMTMxNzIzNTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3Ni
-wxMjcwODY0MjAwLC0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1
-MjQ0MzZdfQ==
+eyJoaXN0b3J5IjpbLTUyMDUxNTg4NCwyMTQwMzE2OTE0LC0xMT
+UxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4
+NDIsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNT
+E1Nzk4MTYsLTIxMjY3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3
+OTMsLTExMzE3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LD
+EyNzA4NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUy
+NDQzNl19
 -->
