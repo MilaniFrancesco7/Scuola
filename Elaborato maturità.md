@@ -26,7 +26,9 @@ Per integrità **fisica** si intende proteggere i dati nel momento dell'archivia
 L'integrità di cui andremo a parlare approfonditamente è però quella **logica**.
 L'integrità logica dei dati interessa in particolare la correttezza e la razionalità dei dati, andando ad intersecarsi con la sicurezza dei dati, per la protezione da soggetti non autorizzati.
 La parte logica include quindi le tematiche di integrità intra-relazionale e interazionale all'interno dei database relazionali.
-L'integrità intra-relazionale concerne i vincoli all'interno di tuple della stessa relazione, quindi vincoli di dominio, di tupla, not null e di chiave. L'
+L'integrità intra-relazionale concerne i vincoli all'interno di tuple della stessa relazione, quindi vincoli di dominio, di tupla, not null e di chiave. La parte interazionale riguarda invece l'integrità referenziale, ovvero l'insieme di regole che garantiscono l'integrità dei dati quando si hanno relazioni associate tra di loro tramite chiave esterna. A questo tipo di integrità corrisponde quindi il vincolo di integrità relazionale.
+
+Spostandoci nella parte dell'integrità che interagisce con la 
 [Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
 [Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
 
@@ -153,11 +155,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjM1NzY3NiwtMTg0MzcyMzg0MiwtMT
-A3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgx
-NiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMT
-EzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2
-NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LD
-Q0NDI0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3
-NTI1MzAwXX0=
+eyJoaXN0b3J5IjpbMzU5OTAyMDU3LC0xODQzNzIzODQyLC0xMD
+c0NDQxMTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMDUxNTc5ODE2
+LC0yMTI2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMT
+MxNzIzNTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0
+MjAwLC0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsND
+Q0MjQyMTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1
+MjUzMDBdfQ==
 -->
