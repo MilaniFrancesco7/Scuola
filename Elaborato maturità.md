@@ -5,9 +5,12 @@
 
 # Introduzione
 
+La risorsa più importante di ogni organizzazione è l'**informazione**. 
+E' la base fondamentale dell'informatica e dei dati, che al giorno d'oggi controllano il mondo.
+
 ## Importanza dell'integrità dei dati
 
-La risorsa più importante di ogni organizzazione è l'**informazione**. E' la base fondamentale dell'informatica e dei dati, che al giorno d'oggi controllano il mondo. Le informazioni devono però essere protette da possibili attacchi, per poter garantire la **sicurezza informatica**.
+Le informazioni devono però essere protette da possibili attacchi, per poter garantire la **sicurezza informatica**.
 La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA.
 Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico.
 La parte fondamentale è sicuremante l'**integrità dei dati**.
@@ -138,11 +141,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUwODc5MzYsLTE2MjY5NjIxNywxND
-k0Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMjMxNjM4
-Mzc0LDM5MjMyNzkzLC0xMTMxNzIzNTAzLDY3NTgwMzgzOCwtMj
-A5NzQ5OTg3NiwxMjcwODY0MjAwLC0xODYxMDA5NTg0LDExMzI3
-NTY5LC0zNDM1MjQ0MzYsNDQ0MjQyMTczLC0xNjc2MzI2NzU3LD
-EwMjc0MjQ4OTQsLTE5OTc1MjUzMDAsNDUyNTUyNDg3LC05NDk1
-OTg2MTFdfQ==
+eyJoaXN0b3J5IjpbLTEzNjAwMDcwMCwtMTYyNjk2MjE3LDE0OT
+QyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3MzExMzcsLTEyMzE2Mzgz
+NzQsMzkyMzI3OTMsLTExMzE3MjM1MDMsNjc1ODAzODM4LC0yMD
+k3NDk5ODc2LDEyNzA4NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1
+NjksLTM0MzUyNDQzNiw0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMT
+AyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NTI1NTI0ODcsLTk0OTU5
+ODYxMV19
 -->
