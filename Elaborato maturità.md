@@ -143,25 +143,25 @@ I dati arrivano quindi in mano al soggetto attaccante, che avrà quindi libero a
 Per poter garantire l'integrità dei dati all'interno di una base di dati è necessario che essa sia garantita a livello di DBMS e livello di dato stesso.
 
 Anche se piuttosto utopico, spesso per la protezione di un database nelle imprese vengono usate password di default o facilmente indovinabili.
-Questo in realtà è un problema facilmente risolvibile, attraverso l'attuazione di una policy che preveda il ricambio regolare di password, con una lunghezza e con un numero di simboli e caratteri alfanumerici.
+- Questo in realtà è un problema facilmente risolvibile, attraverso l'attuazione di una policy che preveda il ricambio regolare di password, con una lunghezza e con un numero di simboli e caratteri alfanumerici.
 
 Invece per potersi difendere da attacchi come l'SQL Injection è importante accertare una validazione dei dati forniti dall'utente.
-Come primo passo può essere utilizzata la funzione mysql real escape string, che andrà a rimuovere i caratteri speciali dalla stringa, eliminando quindi gli attacchi concernenti l'utilizzo di apici o uguali.
-Invece come secondo passo è consigliato l'utilizzo di una funzione **is numeric**, che andrà a controllare semplicemente se l'input inserito sia di tipo numerico, così da eludere, insieme alla real escape string, l'utilizzo di attacchi con numeri.
+- Come primo passo può essere utilizzata la funzione mysql real escape string, che andrà a rimuovere i caratteri speciali dalla stringa, eliminando quindi gli attacchi concernenti l'utilizzo di apici o uguali.
+- Invece come secondo passo è consigliato l'utilizzo di una funzione **is numeric**, che andrà a controllare semplicemente se l'input inserito sia di tipo numerico, così da eludere, insieme alla real escape string, l'utilizzo di attacchi con numeri.
 
-La sicurezza nei DBMS deve essere gestita attraverso una serie di passaggi che permetterà di garantire l'ìntegrità del database stesso e dei dati.
+La sicurezza nei DBMS però non si ferma al semplice controllo della validazione dei dati, ma deve essere gestita attraverso una serie di passaggi, in modo tale da garantire l'integrità.
 
-Il primo passaggio che si effettua è il **partizionamento**. 
+- Il primo passaggio che si effettua è il **partizionamento**. 
 Il partizionamento consiste nella suddivisione del database in più parti, ognuna caratterizzata da un livello di sensibilità. In questo modo il database verrà diviso in componenti più piccoli, che risulteranno più sicuri, oltre che veloci, da gestire. Aumenterà quindi la ridondanza, garantendo l'integrità dato l'accesso da DB separati.
 
-Il secondo passaggio che andremo ad attuare è la **cifratura** dei dati.
+- Il secondo passaggio che andremo ad attuare è la **cifratura** dei dati.
 Cifrare i dati all'interno di un database permette di proteggere i dati dal furto o dalla manomissione, dal momento che non sono interpretabili se non tramite la chiave di decifratura.
 Molto comune è l'utilizzo di funzioni hash, che permettono di attuare una forma di crittografia a "senso unico", quindi rendendo l'operazione di decifrazione impossibile.
 Questo tipo di criptazione è utilizzato nel caso delle password, in modo tale che un hacker non possa interpretarle al momento dell'accesso al DB.
 Gli algoritmi più utilizzati sono l'MD5, lo SHA1 (anche se ormai obsoleto) e lo SHA2.
 [Criptazione](https://www.html.it/pag/54604/cifratura-e-decifratura-dei-dati/)
 
-Un altro passaggio da compiere per poter salvaguardare i dati è il **lock di integrità**, con l'utilizzo di transazioni.
+- Un altro passaggio da compiere per poter salvaguardare i dati è il **lock di integrità**, con l'utilizzo di transazioni.
 Una transazione è una sequenza di operazioni atomiche che devono essere eseguite senza concludersi con uno stato intermedio.
 I lock, letteralmente "blocchi", sono un meccanismo usato per disciplinare l'accesso a risorse condivise.
 Semplicemente i dati vengono marcati attraverso delle "etichette", che ne definiscono sensibilità e livelli di accesso.
@@ -184,7 +184,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDU1OTg3MSwzNDMwNzcwMjMsNjgyMT
+eyJoaXN0b3J5IjpbMTQyMTU3MDY0NiwzNDMwNzcwMjMsNjgyMT
 gyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQz
 LC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMT
 QwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5
