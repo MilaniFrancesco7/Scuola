@@ -16,9 +16,9 @@ Il dato è quindi una delle risorse più importanti per l'economia; e come tutte
 ## Sicurezza informatica
 
 I dati devono essere quindi protetti da possibili attacchi, per poter garantire la **sicurezza informatica**.
-La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA. Questo acronimo significa data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. 
-Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico. 
-Il principio che si può definire come il più importante è l'**integrità dei dati**.
+La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda i principi fondanti della CIA: data Confidentiality, data Integrity e system Availability. 
+
+Il principio che si può definire come più importante è il data Integrity, in italiano l'**integrità dei dati**.
 Per integrità dei dati si intende la capacità di mantenere i dati e le risorse, garantendo la loro precisione e correttezza durante l'intero ciclo di vita. Inoltre è molto importante la garanzia dell'inalterazione del dato, che può avvenire solamente da un soggetto autorizzato.
 L'integrità è uno degli aspetti più critici per la progettazione, realizzazione e utilizzo di qualsiasi sistema informatico.
 
@@ -163,11 +163,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTc1NTI5MiwtMTE0NjQ5NDE0MywtMT
-IzNTI1OTEyMiwtMTgwMzU0Njg4OSw5NDIwODMwNjcsMjE0MDMx
-NjkxNCwtMTE1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0OTQxLC
-0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNywxNDk0
-Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMjMxNjM4Mz
-c0LDM5MjMyNzkzLC0xMTMxNzIzNTAzLDY3NTgwMzgzOCwtMjA5
-NzQ5OTg3Nl19
+eyJoaXN0b3J5IjpbLTExODI0NTM2MzMsLTExNDY0OTQxNDMsLT
+EyMzUyNTkxMjIsLTE4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAz
+MTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MS
+wtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5
+NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYzOD
+M3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2NzU4MDM4MzgsLTIw
+OTc0OTk4NzZdfQ==
 -->
