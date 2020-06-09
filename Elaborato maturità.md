@@ -106,18 +106,21 @@ Il worm più potente mai creato è ***MyDoom*** (in italiano "Il mio destino"). 
 
 - Un ulteriore attacco di produzione è il **Denial of Service** (DoS) o la sua evoluzione, il **Distribuited Denial of Service** (DDoS).
 Questo attacco mira a "tenere occupato" un host, solitamente server, con operazioni sostanzialmente inutili, in maniera tale da potergli impedire di offrire i propri servizi alla rete.
-[3](https://Librodisistemi)
+
 Esistono diverse tipologie di attacchi DoS, alcune cercano di impedire l'accesso di un individuo specifico ad un network o una risorsa, mentre altre cercano di rendere la risorsa inaccessibile per qualsiasi utente.
 Queste tipologie di interruzioni, nel caso di attacchi ad aziende, causano perdite finanziarie che possono essere anche molto pesanti.
-[4](https://academy.binance.com/it/security/what-is-a-dos-attack)
+
 - La metodologia più utilizzata è il ***buffer overflow***, che consiste nell'invio di un traffico maggiore di quanto il sistema a cui si mira sia in grado di gestire. Questo attacco permette quindi di riuscire a rendere inutilizzabile il sistema, facendolo collassare.
 - Un altra strategia appartenente alla famiglia DoS è il ***SYN flood***, che attacca il server autenticandosi solamente in maniera parziale. In questo modo verrà lasciata in attesa la connessione sulla porta per il ***three way handshake***, procedendo quindi a fare la stessa operazione su tutte le porte fino a mettere fuori uso il server.
 
 Il DDos, che può essere visto come "l'evoluzione" del DoS, dato quest'ultimo che avviene principalmente da una sola macchina, consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. 
 Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
 - I computer che sono controllati dall'attaccante vengono chiamati ***zombie*** o ***bot***. Dopo essere stati infettati entrano a far parte di una botnet, ovvero una rete di dispositivi infettati, a libera disposizione dell'attaccante. 
-Quando il numero di bot è ritenuto esiguo dall'attaccante,  essi vengono attivati, sommergendo il server bersaglio di richieste di connessione. Il flusso enorme di risposte provocherà nel sistema una tale "inondazione" di traffico, rendendolo inadeguato alla gestione delle abituali funzioni on-line. Il DDoS h
+Quando il numero di bot è ritenuto esiguo dall'attaccante,  essi vengono attivati, sommergendo il server bersaglio di richieste di connessione. Il flusso enorme di risposte provocherà nel sistema una tale "inondazione" di traffico, rendendolo inadeguato alla gestione delle abituali funzioni on-line.
 
+[DoS e DDoS](https://it.wikipedia.org/wiki/Denial_of_service)
+[DoS](https://academy.binance.com/it/security/what-is-a-dos-attack)
+[Libro di sistemi](https://www.hoepli.it/libro/sistemi-e-reti-3/9788820378622.html?origin=google-shopping&gclid=CjwKCAjw5vz2BRAtEiwAbcVIL83RXEGw-6rH-uPXOJaLloFXJqCWnJCnKh57S7I988IAGiJN_ATkmxoC0AwQAvD_BwE)
 #### Phishing
 
 Il phishing è una tipologia di attacco che concerne anche con il mondo delle truffe; ha infatti l'obiettivo di rubare le informazioni e i dati personali delle vittime per poterli utilizzare a scopo di lucro.
@@ -178,7 +181,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzM1NTE5OSwzNDMwNzcwMjMsNjgyMT
+eyJoaXN0b3J5IjpbMTY4MTkzMTEwMywzNDMwNzcwMjMsNjgyMT
 gyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQz
 LC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMT
 QwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5
