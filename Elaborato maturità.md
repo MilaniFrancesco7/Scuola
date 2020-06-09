@@ -22,7 +22,8 @@ Questi principi sono strettamente connessi e sono alla base della sicurezza di u
 Per integrità dei dati si intende la capacità e di mantenere i dati e le risorse garantendo la loro precisione e correttezza, durante il loro intero ciclo di vita. Inoltre è molto importante la garanzia dell'inalterazione del dato, che può avvenire solamente da un soggetto autorizzato.
 L'integrità è uno degli aspetti più critici per la progettazione, realizzazione e utilizzo di qualsiasi sistema informatico.
 Si possono distinguere due tipi di integrità: fisica e logica.
-Per integrità fisica si intende proteggere i dati nel momento dell'archiviazione e del loro recupero dai supporti. Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, difetti di progett 
+Per integrità fisica si intende proteggere i dati nel momento dell'archiviazione e del loro recupero dai supporti. Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, minacce naturali o altri tipi di problematiche che riguardano l'aspetto fisico della conservazione dei dati.
+L'integrità di cui andremo a parlare approfonditamente è però quella **logica**, 
 [Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
 [Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
 
@@ -149,11 +150,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg5OTI1NjYsLTE4NDM3MjM4NDIsLT
-EwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4
-MTYsLTIxMjY3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMsLT
-ExMzE3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4
-NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNi
-w0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5
-NzUyNTMwMF19
+eyJoaXN0b3J5IjpbMTEzMzM4MjI4OSwtMTg0MzcyMzg0MiwtMT
+A3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgx
+NiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMT
+EzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2
+NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LD
+Q0NDI0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3
+NTI1MzAwXX0=
 -->
