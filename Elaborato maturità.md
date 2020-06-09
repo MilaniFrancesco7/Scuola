@@ -59,7 +59,8 @@ In breve tempo però i packet sniffer sono diventati strumenti per malintenziona
 Un attacco sniffing consiste nell'intercettare i singoli pacchetti transitanti nella comunicazione, per poterli analizzare e decodificare, al fine di riuscire ad estrapolare le informazioni contenutesi negli stessi pacchetti.
 In questo modo l'individuo attaccante potrà servirsi dei dati ricavati dall'ascolto della trasmissione, senza aver avuto bisogno di introdursi nella rete o nei dispositivi.
 
-Nella famiglia degli attacchi sniffing rientra anche il famoso attacco **Man In the Middle**.
+Nella famiglia degli attacchi di analisi rientra anche il famoso attacco **Man In the Middle**.
+Il Man In the Middle, abbreviato anche in MIM, è parte degli attacchi di analisi del traffico in quanto consiste nel posizionarsi all'interno della connessione tra due dispositivi, nel mezzo per l'appunto, per poter ricevere tutto il tra
 
 ### Attacchi attivi
 Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per obiettivo dell'attacco.
@@ -162,11 +163,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMDgzMDY3LDIxNDAzMTY5MTQsLTExNT
-E2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MSwtMTg0MzcyMzg0
-MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MT
-U3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5
-MywtMTEzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMT
-I3MDg2NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0
-NDM2XX0=
+eyJoaXN0b3J5IjpbLTEwNjk1MDE5NDgsOTQyMDgzMDY3LDIxND
+AzMTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0
+MSwtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMT
+Q5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYz
+ODM3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2NzU4MDM4MzgsLT
+IwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2MTAwOTU4NCwxMTMy
+NzU2OV19
 -->
