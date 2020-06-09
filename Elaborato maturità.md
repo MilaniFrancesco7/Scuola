@@ -22,8 +22,9 @@ Questi principi sono strettamente connessi e sono alla base della sicurezza di u
 Per integrità dei dati si intende la capacità e di mantenere i dati e le risorse garantendo la loro precisione e correttezza, durante il loro intero ciclo di vita. Inoltre è molto importante la garanzia dell'inalterazione del dato, che può avvenire solamente da un soggetto autorizzato.
 L'integrità è uno degli aspetti più critici per la progettazione, realizzazione e utilizzo di qualsiasi sistema informatico.
 Si possono distinguere due tipi di integrità: fisica e logica.
-Per integrità fisica si intende proteggere i dati nel momento dell'archiviazione e del loro recupero dai supporti. Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, minacce naturali o altri tipi di problematiche che riguardano l'aspetto fisico della conservazione dei dati.
-L'integrità di cui andremo a parlare approfonditamente è però quella **logica**, 
+Per integrità **fisica** si intende proteggere i dati nel momento dell'archiviazione e del loro recupero dai supporti. Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, minacce naturali o altri tipi di problematiche che riguardano l'aspetto fisico della conservazione dei dati.
+L'integrità di cui andremo a parlare approfonditamente è però quella **logica**.
+L'integrità logica dei dati interessa in particolare la correttezza e la razionalità dei dati, andando ad intersecarsi con la sicurezza dei dati.
 [Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
 [Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
 
@@ -150,11 +151,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzM4MjI4OSwtMTg0MzcyMzg0MiwtMT
-A3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgx
-NiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMT
-EzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2
-NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LD
-Q0NDI0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3
-NTI1MzAwXX0=
+eyJoaXN0b3J5IjpbNzM5NTY0ODM4LC0xODQzNzIzODQyLC0xMD
+c0NDQxMTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMDUxNTc5ODE2
+LC0yMTI2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMT
+MxNzIzNTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0
+MjAwLC0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsND
+Q0MjQyMTczLC0xNjc2MzI2NzU3LDEwMjc0MjQ4OTQsLTE5OTc1
+MjUzMDBdfQ==
 -->
