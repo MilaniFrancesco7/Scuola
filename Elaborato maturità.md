@@ -54,7 +54,7 @@ Gli attacchi passivi possono essere suddivisi in due principali categorie: anali
 L'analisi del traffico, chiamato **sniffing** è uno degli attacchi più semplici, in quanto utilizza strumenti chiamati **packet sniffer**. I packet sniffer sono nati con l'intento di essere programmi di diagnostica per le reti, riuscendo a catturare, analizzare e decodificare tutti i pacchetti in transito nelle comunicazioni. Purtroppo sono presto diventati uno strumento per malintenzionati.
 Un attacco sniffer recupera infatti i pacchetti trasmessi, che decodificati portano alle informazioni a livello data link, 
 
-Esistono molte tattiche per attuare un **packet sniffing**. La più famosa è sicuramente il ***Man in the middle***. 
+Esistono molte tattiche per attuare un **packet sniffing**.
 Grazie a questo attacco, è possibile intercettare una comunicazione in corso tra due nodi inserendosi nel mezzo della comunicazione, arrivando a trasformarsi come "ponte" tra gli stessi due nodi.
 Questa operazione consente all'hacker di recuperare le informazioni semplicemente osservando il traffico di passaggio senza che avvenga alcun disturbo, lasciando credere ai due comunicanti di essere soli.
 
@@ -64,7 +64,7 @@ Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più 
 Troviamo innanzitutto l'intercettazione, il cui metodo più utilizzato è lo ***spoofing***.
 Lo spoofing è un tipo di attacco che consiste nel falsificare l'identità dell'host da cui viene eseguito l'attacco.
 Esso può essere attuato in diverse maniere; il più utilizzato è l'IP spoofing, ma esistono il DNS Spoofing (chiamato anche shadow server), il MAC spoofing (chiamato anche MAC flooding), l'ARP spoofing o l'Email Spoofing (utilizzato principalmente come base per il phishing)). 
-Anche lo spoofing fa parte della tipologia di attacchi **Man in the middle**, come lo sniffing visto in precedenza.
+Anche lo spoofing fa parte della tipologia di attacchi **Man in the middle**.
 Esistono altre tipologie di spoofing che derivano da quelle descritti precedentemente, agendo su tutti i livelli dello modello ISO/OSI.
 L'IP spoofing consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco. 
 In questo modo l'host viene considerato attendibile dalla rete, cercando di ottenere dati sensibili.
@@ -159,11 +159,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDMxNjkxNCwtMTE1MTY2NDYwOSw2ND
-YwNjE5MSwxNDgzMjA0OTQxLC0xODQzNzIzODQyLC0xMDc0NDQx
-MTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMT
-I2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIz
-NTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC
-0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQy
-MTczXX0=
+eyJoaXN0b3J5IjpbMzk2MTUwMzg4LDIxNDAzMTY5MTQsLTExNT
+E2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MSwtMTg0MzcyMzg0
+MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MT
+U3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5
+MywtMTEzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMT
+I3MDg2NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0
+NDM2XX0=
 -->
