@@ -12,13 +12,13 @@ I dati provengono praticamente da qualsiasi parte: dai social, agli acquisti, al
 L'importanza viene sottolineata soprattutto da questa frase: "Il data-driven marketing oggi non è più una scelta, ma l'unica scelta possibile."
 [Data driven marketing](https://www.spremutedigitali.com/data-driven-marketing/)
 
-Il dato è quindi una delle risorse più importanti per l'economia, e come tutte le risorse che possono portare a del guadagno, la sua integrità viene messa a dura prova.
-## Importanza dell'integrità dei dati
+Il dato è quindi una delle risorse più importanti per l'economia, e come tutte le risorse che possono portare a del guadagno, la sua sicurezza viene messa a dura prova.
+## Sicurezza informatica
 
-Le informazioni devono però essere protette da possibili attacchi, per poter garantire la **sicurezza informatica**.
+I dati devono essere quindi protetti da possibili attacchi, per poter garantire la **sicurezza informatica**.
 La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA.
 Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico.
-La parte fondamentale è sicuremante l'**integrità dei dati**.
+La parte fondamentale è sicuramente l'**integrità dei dati**.
 Per integrità dei dati si intende la capacità di mantenere i dati e le risorse garantendo la loro inalterazione e non cancellazione, se non ad opera di soggetti autorizzati. Essa viene garantita da una serie di processi, regole e standard implementati in fase di progettazione.
 [Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
 [Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
@@ -146,7 +146,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzgzNjY1MSwtMTA3NDQ0MTE0LC0xNj
+eyJoaXN0b3J5IjpbMjA0NDAzODQ0NywtMTA3NDQ0MTE0LC0xNj
 I2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEz
 NywtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2Nz
 U4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2MTAw
