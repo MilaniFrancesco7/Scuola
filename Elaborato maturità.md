@@ -7,7 +7,7 @@
 
 La risorsa più importante di ogni organizzazione è l'**informazione**. 
 Essa è alla base dell'informatica, la cui definizione è "scienza che si occupa del trattamento automatico delle informazioni".
-Ciò che viene trattato nell'informatica è il dato, ovvero la "descrizione elementare" di un'informazione. Il dato al giorno d'oggi controlla il mondo, soprattutto per le strategie aziendali. E'
+Ciò che viene trattato nell'informatica è il dato, ovvero la "descrizione elementare" di un'informazione. Il dato al giorno d'oggi controlla il mondo, è la "ricchezza" del nuovo millennio, soprattutto per le strategie aziendali. E' infatti nato all'incirca nel 2000 il **data-driven marketing**, cioè l'ut
 E' la base fondamentale dell'informatica e dei dati, che al giorno d'oggi controllano il mondo.
 
 ## Importanza dell'integrità dei dati
@@ -143,11 +143,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ2MTQyMDMsLTEwNzQ0NDExNCwtMT
-YyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3MzEx
-MzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMsLTExMzE3MjM1MDMsNj
-c1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQyMDAsLTE4NjEw
-MDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0NDQyNDIxNzMsLT
-E2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NTI1
-NTI0ODddfQ==
+eyJoaXN0b3J5IjpbNzkxOTAyNTAsLTEwNzQ0NDExNCwtMTYyNj
+k2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3MzExMzcs
+LTEyMzE2MzgzNzQsMzkyMzI3OTMsLTExMzE3MjM1MDMsNjc1OD
+AzODM4LC0yMDk3NDk5ODc2LDEyNzA4NjQyMDAsLTE4NjEwMDk1
+ODQsMTEzMjc1NjksLTM0MzUyNDQzNiw0NDQyNDIxNzMsLTE2Nz
+YzMjY3NTcsMTAyNzQyNDg5NCwtMTk5NzUyNTMwMCw0NTI1NTI0
+ODddfQ==
 -->
