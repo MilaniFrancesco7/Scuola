@@ -19,12 +19,13 @@ I dati devono essere quindi protetti da possibili attacchi, per poter garantire 
 La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda i principi fondanti della CIA: data Confidentiality, data Integrity e system Availability. 
 
 Il principio che si può definire come più importante è il data Integrity, in italiano l'**integrità dei dati**.
-Per integrità dei dati si intende la capacità di mantenere i dati e le risorse, garantendo la loro precisione e correttezza durante l'intero ciclo di vita. Inoltre è molto importante la garanzia dell'inalterazione del dato, che può avvenire solamente da un soggetto autorizzato.
-L'integrità è uno degli aspetti più critici per la progettazione, realizzazione e utilizzo di qualsiasi sistema informatico.
+Per integrità dei dati si intende la capacità di mantenere i dati e le risorse, garantendo la loro precisione, correttezza e inalterazione non autorizzata durante il loro intero ciclo di vita.
+L'integrità è quindi uno degli aspetti più critici per la progettazione, realizzazione e utilizzo di qualsiasi sistema informatico.
 
 ### L'integrità
-Si possono distinguere due tipi di integrità: fisica e logica.
-Per integrità **fisica** si intende proteggere i dati nel momento dell'archiviazione e del loro recupero dai supporti. Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, minacce naturali o altri tipi di problematiche che riguardano l'aspetto fisico della conservazione dei dati.
+Si possono distinguere due categorie principali di integrità: fisica e logica.
+
+- Per integrità **fisica** si intende proteggere i dati nel momento dell'archiviazione e del loro recupero dai supporti. Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, minacce naturali o altri tipi di problematiche che riguardano l'aspetto fisico della conservazione dei dati.
 L'integrità di cui andremo a parlare più approfonditamente è invece quella **logica**.
 L'integrità logica dei dati interessa in particolare la correttezza e la razionalità dei dati, andando ad intersecarsi con la **sicurezza dei dati**, per la protezione da soggetti non autorizzati.
 La parte logica include quindi le tematiche di integrità intra-relazionale e interazionale all'interno dei database relazionali.
@@ -163,7 +164,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI0NTM2MzMsLTExNDY0OTQxNDMsLT
+eyJoaXN0b3J5IjpbLTExMTg4MzkwMjAsLTExNDY0OTQxNDMsLT
 EyMzUyNTkxMjIsLTE4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAz
 MTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MS
 wtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5
