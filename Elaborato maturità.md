@@ -54,11 +54,11 @@ Le tipologie di attacco si possono racchiudere in due categorie principali: atta
 L'attacco attivo implica la manomissione di dati o il disturbo del loro funzionamento, danneggiandone l'integrità e la disponibilità. L'attacco passivo invece cerca di intercettare e utilizzare i dati senza danneggiare le risorse del sistema, quindi minacciandone solamente la riservatezza.
 
 ### Attacchi passivi 
-L'attacco passivo utilizzato più frequentemente, data la sua efficacia, è l'analisi del traffico.
+L'unico tipo di attacco passivo esistente è l'analisi del traffico.
 L'attacco di analisi, chiamato **sniffing**, è uno dei più semplici, in quanto utilizza strumenti preesistenti chiamati **packet sniffer**. 
 I packet sniffer sono nati con l'intento di essere programmi di diagnostica per le reti, riuscendo a catturare, analizzare e decodificare tutti i pacchetti in transito nelle comunicazioni. 
 Possono essere infatti molto utili agli amministratori di rete per monitorare lo stato della stessa, analizzando ed individuando eventuali problemi di comunicazione o tentativi di intrusione.
-In breve tempo però i packet sniffer sono diventati strumenti per malintenzionati.
+In breve tempo però sono diventati anche strumenti per malintenzionati.
 
 Un attacco sniffing consiste nell'intercettare i singoli pacchetti transitanti nella comunicazione, per poterli analizzare e decodificare, al fine di riuscire ad estrapolare le informazioni contenutesi negli stessi pacchetti.
 In questo modo l'individuo attaccante potrà servirsi dei dati ricavati dall'ascolto della trasmissione, senza aver avuto bisogno di introdursi nella rete o nei dispositivi.
@@ -72,9 +72,12 @@ L'attacco MIM è però considerato più un attacco attivo, in quanto utilizza si
 Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per obiettivo dell'attacco.
 #### Intercettazione 
 Troviamo innanzitutto l'intercettazione, il cui metodo più utilizzato è lo ***spoofing***.
+
 Lo spoofing è un tipo di attacco che consiste nel falsificare l'identità dell'host da cui viene eseguito l'attacco.
 Esso può essere attuato in diverse maniere; il più utilizzato è l'IP spoofing, ma esistono il DNS Spoofing (chiamato anche shadow server), il MAC spoofing (chiamato anche MAC flooding), l'ARP spoofing o l'Email Spoofing (utilizzato principalmente come base per il phishing)). 
-Anche lo spoofing fa parte della tipologia di attacchi **Man in the middle**.
+
+Anche lo spoofing fa parte, come detto in precedenza, della tipologia di attacchi **Man in the middle**.
+
 Esistono altre tipologie di spoofing che derivano da quelle descritti precedentemente, agendo su tutti i livelli dello modello ISO/OSI.
 L'IP spoofing consiste nel falsificare l'indirizzo IP dell'host da cui viene eseguito l'attacco. 
 In questo modo l'host viene considerato attendibile dalla rete, cercando di ottenere dati sensibili.
@@ -167,11 +170,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMTgyMDQ0LDU3ODQ5NzY3OCwxNjEyNj
-M0OTAwLC0xMTQ2NDk0MTQzLC0xMjM1MjU5MTIyLC0xODAzNTQ2
-ODg5LDk0MjA4MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0NjA5LD
-Y0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLTEwNzQ0
-NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4MTYsLT
-IxMjY3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMsLTExMzE3
-MjM1MDNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTYxNTQyMTgsNjgyMTgyMDQ0LDU3OD
+Q5NzY3OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQzLC0xMjM1MjU5
+MTIyLC0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMTQwMzE2OTE0LC
+0xMTUxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3
+MjM4NDIsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LD
+EwNTE1Nzk4MTYsLTIxMjY3MzExMzcsLTEyMzE2MzgzNzQsMzky
+MzI3OTNdfQ==
 -->
