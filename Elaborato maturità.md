@@ -34,7 +34,7 @@ La parte logica che interessa la correttezza e la razionalità include quindi le
 	- L'integrità intra-relazionale concerne i vincoli all'interno di tuple della stessa relazione, quindi vincoli di dominio, di tupla, not null e di chiave. 
 	- L'integrità interazionale riguarda invece l'**integrità referenziale**, ovvero l'insieme di regole che garantiscono l'integrità dei dati quando si hanno relazioni associate tra di loro tramite chiave esterna. A questo tipo di integrità corrisponde quindi il vincolo di integrità relazionale.
 
-La sicurezza dei dati, che si occupa di garantire la protezione dei dati verso le azioni provenienti da soggetti non autorizzati, tratta le problematiche relative 
+La sicurezza dei dati, che si occupa di garantire la protezione dei dati verso le azioni provenienti da soggetti non autorizzati, tratta le problematiche relative agli **attacchi informatici**.
  
 [Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
 [Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
@@ -167,11 +167,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzM4OTM2MSwxNjEyNjM0OTAwLC0xMT
-Q2NDk0MTQzLC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4
-MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLD
-E0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNCwtMTYy
-Njk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3MzExMz
-csLTEyMzE2MzgzNzQsMzkyMzI3OTMsLTExMzE3MjM1MDMsNjc1
-ODAzODM4XX0=
+eyJoaXN0b3J5IjpbNTc4NDk3Njc4LDE2MTI2MzQ5MDAsLTExND
+Y0OTQxNDMsLTEyMzUyNTkxMjIsLTE4MDM1NDY4ODksOTQyMDgz
+MDY3LDIxNDAzMTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMT
+Q4MzIwNDk0MSwtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2
+OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEzNy
+wtMTIzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2NzU4
+MDM4MzhdfQ==
 -->
