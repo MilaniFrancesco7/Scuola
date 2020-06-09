@@ -52,7 +52,7 @@ L'attacco attivo implica la manomissione di dati o il disturbo del loro funziona
 ### Attacchi passivi 
 Gli attacchi passivi possono essere suddivisi in due principali categorie: analisi del traffico e intercettazione del messaggio.
 L'analisi del traffico, chiamato **sniffing** è uno degli attacchi più semplici, in quanto utilizza strumenti chiamati **packet sniffer**. I packet sniffer sono nati con l'intento di essere programmi di diagnostica per le reti, riuscendo a catturare, analizzare e decodificare tutti i pacchetti in transito nelle comunicazioni. Purtroppo sono presto diventati uno strumento per malintenzionati.
-Un attacco sniffer recupera infatti i pacchetti trasmessi, che decodificati portano 
+Un attacco sniffer recupera infatti i pacchetti trasmessi, che decodificati portano alle informazioni a livello data link, 
 
 Esistono molte tattiche per attuare un **packet sniffing**. La più famosa è sicuramente il ***Man in the middle***. 
 Grazie a questo attacco, è possibile intercettare una comunicazione in corso tra due nodi inserendosi nel mezzo della comunicazione, arrivando a trasformarsi come "ponte" tra gli stessi due nodi.
@@ -159,7 +159,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjYzMTE2MSwtMTE1MTY2NDYwOSw2ND
+eyJoaXN0b3J5IjpbMjE0MDMxNjkxNCwtMTE1MTY2NDYwOSw2ND
 YwNjE5MSwxNDgzMjA0OTQxLC0xODQzNzIzODQyLC0xMDc0NDQx
 MTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMT
 I2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIz
