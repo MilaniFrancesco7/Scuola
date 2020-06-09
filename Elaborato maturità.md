@@ -28,7 +28,8 @@ L'integrità logica dei dati interessa in particolare la correttezza e la razion
 La parte logica include quindi le tematiche di integrità intra-relazionale e interazionale all'interno dei database relazionali.
 L'integrità intra-relazionale concerne i vincoli all'interno di tuple della stessa relazione, quindi vincoli di dominio, di tupla, not null e di chiave. La parte interazionale riguarda invece l'integrità referenziale, ovvero l'insieme di regole che garantiscono l'integrità dei dati quando si hanno relazioni associate tra di loro tramite chiave esterna. A questo tipo di integrità corrisponde quindi il vincolo di integrità relazionale.
 
-Per quanto riguarda la sicurezza dei dati, l'integrità è una parte fondamentale in quanto essa deve assicurare l'inalterazione, mentre la sicurezza riguarda gli accessi non auto
+Per quanto riguarda la sicurezza dei dati, l'integrità è una parte fondamentale in quanto essa deve assicurare l'inalterazione, mentre la sicurezza riguarda gli accessi non autorizzati. 
+
 [Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
 [Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
 
@@ -155,11 +156,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzE2OTAwOCwtMTg0MzcyMzg0MiwtMT
-A3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgx
-NiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMT
-EzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2
-NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LD
-Q0NDI0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3
-NTI1MzAwXX0=
+eyJoaXN0b3J5IjpbLTE4NTg5MDcxNzMsLTE4NDM3MjM4NDIsLT
+EwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4
+MTYsLTIxMjY3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMsLT
+ExMzE3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4
+NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNi
+w0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5
+NzUyNTMwMF19
 -->
