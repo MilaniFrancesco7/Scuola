@@ -161,9 +161,11 @@ Questo tipo di criptazione è utilizzato nel caso delle password, in modo tale c
 Gli algoritmi più utilizzati sono l'MD5, lo SHA1 (anche se ormai obsoleto) e lo SHA2.
 [Criptazione](https://www.html.it/pag/54604/cifratura-e-decifratura-dei-dati/)
 
-- Un altro passaggio da compiere per poter salvaguardare i dati è il **lock di integrità**, con l'utilizzo di transazioni.
-Una transazione è una sequenza di operazioni atomiche che devono essere eseguite senza concludersi con uno stato intermedio.
-I lock, letteralmente "blocchi", sono un meccanismo usato per disciplinare l'accesso a risorse condivise.
+- Successivamente il passaggio da compiere per poter salvaguardare i dati è il **lock di integrità**, attraverso l'utilizzo di transazioni.
+
+	Una transazione è una sequenza di operazioni atomiche che devono essere eseguite senza concludersi con uno stato intermedio.
+		
+	 I lock, letteralmente "blocchi", sono un meccanismo usato per disciplinare l'accesso a risorse condivise.
 Semplicemente i dati vengono marcati attraverso delle "etichette", che ne definiscono sensibilità e livelli di accesso.
 Per questo meccanismo viene implementato il modulo **Lock Manager** nel DBMS, che tiene traccia delle risorse in uso, delle transazioni che le stanno usando e delle transazioni che ne hanno fatto richiesta.
 In questo modo se dovesse venire riscontrata qualche anomalia verrà eseguita l'istruzione di **abort**, che può essere a runtime o di sistema, per concludere la transizione. L'abort a runtime si verifica al momento del riscontro di un'anomalia da parte del DBMS, mentre l'abort di sistema viene lanciato nel caso di un'interruzione brusca per intervento esterno, per bug o per spegnimento del computer.
@@ -172,7 +174,7 @@ L'entrata in funzione del meccanismo di abort prevede l'avvio di un altro meccan
 [Lock di integrità](http://bias.csr.unibo.it/golfarelli/LabDB/MaterialeDidattico/Funzionalit%C3%A0AvanzateDBMS.pdf)
 [Transizione](https://it.wikipedia.org/wiki/Transazione_(basi_di_dati))
 
-Un altro passo che si compie al momento della progettazione del database per proteggere l'integrità dei dati è l'utilizzo di **Finestre e viste**.
+- o passo che si compie al momento della progettazione del database per proteggere l'integrità dei dati è l'utilizzo di **Finestre e viste**.
 Le viste sono fondate su una query di tipo SELECT, il cui risultato può essere utilizzato come se fosse una tabella. 
 Le finestre invece sono semplicemente le aree dove è possibile svolgere determinate operazioni, in questo caso di visualizzazione di dati.
 L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi del DB dove possono essere inserite le informazioni in maniera parziale, in modo tale da non consentire all'utente di avere accesso a dati riservati. 
@@ -184,7 +186,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTU3MDY0NiwzNDMwNzcwMjMsNjgyMT
+eyJoaXN0b3J5IjpbLTc3MDEzNDY1MiwzNDMwNzcwMjMsNjgyMT
 gyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQz
 LC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMT
 QwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5
