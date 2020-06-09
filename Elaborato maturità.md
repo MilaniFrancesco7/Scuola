@@ -50,8 +50,8 @@ Le tipologie di attacco si possono racchiudere in due categorie principali: atta
 L'attacco attivo implica la manomissione di dati o il disturbo del loro funzionamento, danneggiandone l'integrità e la disponibilità. L'attacco passivo invece cerca di intercettare e utilizzare i dati senza danneggiare le risorse del sistema, quindi minacciandone solamente la riservatezza.
 
 ### Attacchi passivi 
-Un attacco 
-I packet sniffer erano nati con l'intento di essere programmi di diagnostica per le reti, riuscendo a catturare, analizzare e decodificare tutti i pacchetti in transito nelle comunicazioni. Presto però è diventato uno strumento per malintenzionati.
+Gli attacchi passivi possono essere suddivisi in due principali categorie: analisi del traffico e intercettazione del messaggio.
+L'analisi del traffico, chiamato **sniffing** è uno degli attacchi più semplici, in quanto utilizza strumenti chiuaI packet sniffer erano nati con l'intento di essere programmi di diagnostica per le reti, riuscendo a catturare, analizzare e decodificare tutti i pacchetti in transito nelle comunicazioni. Presto però è diventato uno strumento per malintenzionati.
 Infatti intercettando i singoli pacchetti, decodificandoli e analizzandoli, gli *sniffer* riescono a recuperare informazioni sulla comunicazione in atto: dalle informazioni sul traffico di rete ai dati veri e propri, che quindi potrebbero contenere informazioni sensibili.
 
 Esistono molte tattiche per attuare un **packet sniffing**. La più famosa è sicuramente il ***Man in the middle***. 
@@ -159,7 +159,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTM1NzU4NywtMTE1MTY2NDYwOSw2ND
+eyJoaXN0b3J5IjpbMTcyNjA5NzcwOCwtMTE1MTY2NDYwOSw2ND
 YwNjE5MSwxNDgzMjA0OTQxLC0xODQzNzIzODQyLC0xMDc0NDQx
 MTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMT
 I2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIz
