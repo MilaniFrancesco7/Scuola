@@ -6,6 +6,7 @@
 # Introduzione
 
 La risorsa più importante di ogni organizzazione è l'**informazione**. 
+Essa è infatti alla base dell'informatica, la cui definizione è "scienza che si occupa del trattamento automatico delle informazioni"
 E' la base fondamentale dell'informatica e dei dati, che al giorno d'oggi controllano il mondo.
 
 ## Importanza dell'integrità dei dati
@@ -141,7 +142,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAwMDcwMCwtMTYyNjk2MjE3LDE0OT
+eyJoaXN0b3J5IjpbLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OT
 QyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3MzExMzcsLTEyMzE2Mzgz
 NzQsMzkyMzI3OTMsLTExMzE3MjM1MDMsNjc1ODAzODM4LC0yMD
 k3NDk5ODc2LDEyNzA4NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1
