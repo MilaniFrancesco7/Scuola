@@ -36,7 +36,7 @@ Per quanto riguarda la sicurezza dei dati, l'integrità è una parte fondamental
 
 
 ## Attacchi
-Un attacco informatico è una qualsiasi azione, svolta da soggetti malintenzionati, che mira ai sistemi informativi, ai dispositivi, alle reti, 
+Un attacco informatico è una qualsiasi azione, svolta da soggetti malintenzionati, che mira a sistemi informativi, dispositivi e reti. Un attacco ha solitamente l'obiettivo di rubare, alterare o distruggere i dispositivi o i dati contenuti nei sistemi. Nel caso dei dispositivi si tratta quindi di attacchi che mirano a renderli inoperativi, mentre gli attacchi relativi ai dati sono conce
 
 **attacco informatico** (o **cyber attacco**) è una qualunque manovra, impiegata da individui od [organizzazioni](https://it.wikipedia.org/wiki/Organizzazione "Organizzazione") anche statali, che colpisce [sistemi informativi](https://it.wikipedia.org/wiki/Sistemi_informativi "Sistemi informativi"), [infrastrutture](https://it.wikipedia.org/wiki/Infrastruttura "Infrastruttura"), [reti di calcolatori](https://it.wikipedia.org/wiki/Reti_di_calcolatori "Reti di calcolatori") e/o [dispositivi elettronici](https://it.wikipedia.org/wiki/Dispositivi_elettronici "Dispositivi elettronici") personali tramite atti malevoli, provenienti generalmente da una fonte anonima, finalizzati al furto, alterazione o distruzione di specifici obiettivi violando sistemi suscettibili.
 ### Cenno storico
@@ -159,7 +159,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE4OTkzMywtMTg0MzcyMzg0MiwtMT
+eyJoaXN0b3J5IjpbLTYyODMzMTY0NSwtMTg0MzcyMzg0MiwtMT
 A3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgx
 NiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMT
 EzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2
