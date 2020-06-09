@@ -18,13 +18,13 @@ Il dato è quindi una delle risorse più importanti per l'economia; e come tutte
 I dati devono essere quindi protetti da possibili attacchi, per poter garantire la **sicurezza informatica**.
 La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA.
 Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. 
-Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico. La parte fondamentale è sicuramente l'**integrità dei dati**.
+Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico. La proprietà  che si può definire come più importante delle tre è l'**integrità dei dati**.
 Per integrità dei dati si intende la capacità di mantenere i dati e le risorse garantendo la loro inalterazione e non cancellazione, se non ad opera di soggetti autorizzati. Essa viene garantita da una serie di processi, regole e standard implementati in fase di progettazione.
 [Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)
 [Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
 Molto importante è quindi conoscere i più importanti metodi d'attacco per poter attuare sistemi di difesa.
 
- ## Attacchi
+## Attacchi
 
 ### Cenno storico
 La storia narra che lo scienziato Guglielmo Marconi e il suo assistente Sir John Ambrose Fleming stessero per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili, quando inaspettatamente la macchina riceve due messaggi: un insulto, e una filastrocca canzonatoria dell'italiano futuro premio nobel. L'esperimento risulta quindi un disastro, dato che qualcuno è riuscito ad inserirsi nelle frequenze radio che Marconi dichiarava come sicure e private. Il colpevole si rivelerà essere l'inventore Nevil Maskelyne, che dal palazzo vicino riuscì ad interferire con le frequenze di Marconi.
@@ -146,11 +146,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzQ1NzE2MCwtMTg0MzcyMzg0MiwtMT
-A3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgx
-NiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMT
-EzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2
-NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0NDM2LD
-Q0NDI0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0ODk0LC0xOTk3
-NTI1MzAwXX0=
+eyJoaXN0b3J5IjpbLTE2MTE2NzQ2MjIsLTE4NDM3MjM4NDIsLT
+EwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4
+MTYsLTIxMjY3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3OTMsLT
+ExMzE3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LDEyNzA4
+NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUyNDQzNi
+w0NDQyNDIxNzMsLTE2NzYzMjY3NTcsMTAyNzQyNDg5NCwtMTk5
+NzUyNTMwMF19
 -->
