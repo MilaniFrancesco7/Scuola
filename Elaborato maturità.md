@@ -38,6 +38,8 @@ Per quanto riguarda la sicurezza dei dati, l'integrità è una parte fondamental
 ## Attacchi
 Un attacco informatico è una qualsiasi azione, svolta da soggetti malintenzionati, che mira a sistemi informativi, dispositivi e reti. Un attacco, nel caso dei dispositivi, ha come obiettivo il renderli inoperativi, mentre gli attacchi relativi ai dati sono concentrati nel furto, nell'alterazione e nella cancellazione.
 
+[Attacco informatico](https://it.wikipedia.org/wiki/Attacco_informatico)
+
 ### Cenno storico
 La storia narra che lo scienziato Guglielmo Marconi e il suo assistente Sir John Ambrose Fleming stessero per dimostrare il funzionamento di un rivoluzionario telegrafo senza fili, quando inaspettatamente la macchina riceve due messaggi: un insulto, e una filastrocca canzonatoria dell'italiano futuro premio nobel. L'esperimento risulta quindi un disastro, dato che qualcuno è riuscito ad inserirsi nelle frequenze radio che Marconi dichiarava come sicure e private. Il colpevole si rivelerà essere l'inventore Nevil Maskelyne, che dal palazzo vicino riuscì ad interferire con le frequenze di Marconi.
 Era il 4 giugno 1903, e questo è considerato il primo caso di hacking della storia.
@@ -158,7 +160,7 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODA3MzAwNiwtMTg0MzcyMzg0MiwtMT
+eyJoaXN0b3J5IjpbMTQ4MzIwNDk0MSwtMTg0MzcyMzg0MiwtMT
 A3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3OTgx
 NiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5MywtMT
 EzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMTI3MDg2
