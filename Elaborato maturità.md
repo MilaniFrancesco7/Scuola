@@ -57,12 +57,9 @@ Possono essere infatti molto utili agli amministratori di rete per monitorare lo
 In breve tempo però i packet sniffer sono diventati strumenti per malintenzionati.
 
 Un attacco sniffing consiste nell'intercettare i singoli pacchetti transitanti nella comunicazione, per poterli analizzare e decodificare, al fine di riuscire ad estrapolare le informazioni contenutesi negli stessi pacchetti.
-In questo modo l'individuo attaccante potrà servirsi dei dati ricavati dall'ascolto della trasmissione, senza aver avuto bisogno di causare problemi alla connessione, facendo 
+In questo modo l'individuo attaccante potrà servirsi dei dati ricavati dall'ascolto della trasmissione, senza aver avuto bisogno di introdursi nella rete o nei dispositivi.
 
-
-Esistono molte tattiche per attuare un **packet sniffing**.
-Grazie a questo attacco, è possibile intercettare una comunicazione in corso tra due nodi inserendosi nel mezzo della comunicazione, arrivando a trasformarsi come "ponte" tra gli stessi due nodi.
-Questa operazione consente all'hacker di recuperare le informazioni semplicemente osservando il traffico di passaggio senza che avvenga alcun disturbo, lasciando credere ai due comunicanti di essere soli.
+Nella famiglia degli attacchi sniffing rientra anche il famoso attacco **Man In the Middle**.
 
 ### Attacchi attivi
 Negli attacchi attivi, al contrario degli attacchi passivi, esistono molte più tipologie, suddivise per obiettivo dell'attacco.
@@ -165,11 +162,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDUxNTg4NCwyMTQwMzE2OTE0LC0xMT
-UxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4
-NDIsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNT
-E1Nzk4MTYsLTIxMjY3MzExMzcsLTEyMzE2MzgzNzQsMzkyMzI3
-OTMsLTExMzE3MjM1MDMsNjc1ODAzODM4LC0yMDk3NDk5ODc2LD
-EyNzA4NjQyMDAsLTE4NjEwMDk1ODQsMTEzMjc1NjksLTM0MzUy
-NDQzNl19
+eyJoaXN0b3J5IjpbOTQyMDgzMDY3LDIxNDAzMTY5MTQsLTExNT
+E2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MSwtMTg0MzcyMzg0
+MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MT
+U3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOTIzMjc5
+MywtMTEzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4NzYsMT
+I3MDg2NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMzQzNTI0
+NDM2XX0=
 -->
