@@ -16,9 +16,9 @@ Il dato è quindi una delle risorse più importanti per l'economia; e come tutte
 ## Sicurezza informatica
 
 I dati devono essere quindi protetti da possibili attacchi, per poter garantire la **sicurezza informatica**.
-La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA.
-Per CIA si intende data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. 
-Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico. La proprietà  che si può definire come più importante delle tre è l'**integrità dei dati**.
+La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi per la protezione dei sistemi informatici per quanto riguarda la CIA. Questo acronimo significa data Confidentiality, data Integrity, system Availability, che in italiano si traduce in confidenzialità e integrità dei dati, insieme alla disponibilità di sistema. 
+Questi principi sono strettamente connessi e sono alla base della sicurezza di un sistema informatico. 
+Il principio che si può definire come più importante delle tre è l'**integrità dei dati**.
 Per integrità dei dati si intende la capacità e di mantenere i dati e le risorse garantendo la loro precisione e correttezza, durante il loro intero ciclo di vita. Inoltre è molto importante la garanzia dell'inalterazione del dato, che può avvenire solamente da un soggetto autorizzato.
 L'integrità è uno degli aspetti più critici per la progettazione, realizzazione e utilizzo di qualsiasi sistema informatico.
 Si possono distinguere due tipi di integrità: fisica e logica.
@@ -157,11 +157,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4Mz
-IwNDk0MSwtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYy
-MTcsMTQ5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEzNywtMT
-IzMTYzODM3NCwzOTIzMjc5MywtMTEzMTcyMzUwMyw2NzU4MDM4
-MzgsLTIwOTc0OTk4NzYsMTI3MDg2NDIwMCwtMTg2MTAwOTU4NC
-wxMTMyNzU2OSwtMzQzNTI0NDM2LDQ0NDI0MjE3MywtMTY3NjMy
-Njc1N119
+eyJoaXN0b3J5IjpbMTQzMDYxNzc0MCwtMTE1MTY2NDYwOSw2ND
+YwNjE5MSwxNDgzMjA0OTQxLC0xODQzNzIzODQyLC0xMDc0NDQx
+MTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMT
+I2NzMxMTM3LC0xMjMxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIz
+NTAzLDY3NTgwMzgzOCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC
+0xODYxMDA5NTg0LDExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQy
+MTczXX0=
 -->
