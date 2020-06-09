@@ -91,14 +91,15 @@ Nella tipologia spoofing rientra anche l'attacco chiamato **SQL Injection** che 
 - Con questa tecnica è possibile inserire delle stringhe di SQL all'interno di campi di input, che possono essere ad esempio i campi di inserimento utente e password, oppure di ricerca, in maniera tale da fare eseguire le query all'interno del DB, cercando di causare danni o per ottenere dati. Questo tipo di attacco viene utilizzato in particolare in casi in cui l'applicazione che si sta attaccando presenti vulnerabilità piuttosto evidenti.
 
 #### Produzione
-Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi elementi nel sistema con l'obiettivo di provocare un danno. Sono quindi degli attacchi di sabotaggio che hanno l'obiettivo di ridurre l'integrità e la disponibilità delle risorse del sistema.
+Un altro tipo di attacco è la produzione, che consiste nell'introdurre nuovi elementi nel sistema, al fine di condurre degli attacchi di sabotaggio che hanno l'obiettivo di ridurre l'integrità e la disponibilità delle risorse del sistema.
+
 Le principali tecniche di disturbo sono gli attacchi malware e gli attacchi di tipo DoS.
-I **malware** sono software "malevoli" che mettono a rischio un sistema. Essi cercano di invadere, danneggiare o disattivare computer, sistemi e reti. Il loro scopo è quello di lucrare illecitamente a spese degli utenti.
+- I **malware** sono software "malevoli" che mettono a rischio un sistema. Essi cercano di invadere, danneggiare o disattivare computer, sistemi e reti. Il loro scopo è quello di lucrare illecitamente a spese degli utenti.
 Le due categorie più utilizzate all'interno dei malware sono **virus**   e **worm**.
-- I **virus** sono software che hanno il compito di moltiplicarsi ***"infettando"*** altri file o altri host presenti nella rete, senza farsi rilevare dall'utente. Solitamente i virus sfruttano falle o vulnerabilità presenti in un sistema operativo o in un software, cercando di rendere inutilizzabile il dispositivo attraverso attività distruttive o di ostruzionismo.
-Il virus più potente mai creato è il ***MyDoom*** (in italiano "Il mio destino"). Questo tipo di virus è riuscito a causare 38 miliardi di danni in tutto il mondo, diffondendosi attaccando tutti i file presenti sul PC.
+	- I **virus** sono software che hanno il compito di moltiplicarsi ***"infettando"*** altri file o altri host presenti nella rete, senza farsi rilevare dall'utente. Solitamente sfruttano falle o vulnerabilità presenti in un sistema operativo o in un software, cercando di rendere inutilizzabile il dispositivo attraverso attività distruttive o di ostruzionismo.
+Il virus più potente mai creato è ***MyDoom*** (in italiano "Il mio destino"). Questo tipo di virus è riuscito a causare 38 miliardi di danni in tutto il mondo, diffondendosi attaccando tutti i file presenti sul PC.
 [1](https://www.laramind.com/blog/top-10-virus-piu-pericolosi-della-storia/)
-- Gli attacchi **worm** sono simili ai virus, ma si differenziano per la capacità di riuscire a moltiplicarsi senza doversi "legare" ad altri file o software, utilizzando invece direttamente gli host presenti nella rete. 
+	- Gli attacchi **worm** sono simili ai virus, ma si differenziano per la capacità di riuscire a moltiplicarsi senza doversi "legare" ad altri file o software, utilizzando invece direttamente gli host presenti nella rete. 
 [2](https://it.wikipedia.org/wiki/Worm)
 Come il virus punta a rendere inutilizzabile il dispositivo, occupando una grande quantità di risorse computazionali.
 Spesso un attacco worm o un attacco virus coincide con l'installazione di altre tipologie di malware (famiglia di cui worm e virus fanno parte), come ad esempio **backdoor** o **keylogger**, sfruttati dall'hacker per ottenere dati sensibili.
@@ -173,11 +174,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExNTIwOTc4LDM0MzA3NzAyMyw2ODIxOD
-IwNDQsNTc4NDk3Njc4LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMs
-LTEyMzUyNTkxMjIsLTE4MDM1NDY4ODksOTQyMDgzMDY3LDIxND
-AzMTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0
-MSwtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMT
-Q5NDI3OTcsMTA1MTU3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYz
-ODM3NF19
+eyJoaXN0b3J5IjpbLTE1NTE4MTk4MDAsMzQzMDc3MDIzLDY4Mj
+E4MjA0NCw1Nzg0OTc2NzgsMTYxMjYzNDkwMCwtMTE0NjQ5NDE0
+MywtMTIzNTI1OTEyMiwtMTgwMzU0Njg4OSw5NDIwODMwNjcsMj
+E0MDMxNjkxNCwtMTE1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0
+OTQxLC0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNy
+wxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMjMx
+NjM4Mzc0XX0=
 -->
