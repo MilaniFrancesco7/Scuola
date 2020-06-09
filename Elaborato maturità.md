@@ -34,8 +34,6 @@ Per quanto riguarda la sicurezza dei dati, l'integrità è una parte fondamental
 [Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)
 [Integrità 3](https://it.qwe.wiki/wiki/Data_integrity)
 
-
-## Attacchi
 Un attacco informatico è una qualsiasi azione, svolta da soggetti malintenzionati, che mira a sistemi informativi, dispositivi e reti. Un attacco, nel caso dei dispositivi, ha come obiettivo il renderli inoperativi, mentre gli attacchi relativi ai dati sono concentrati nel furto, nell'alterazione e nella cancellazione.
 
 [Attacco informatico](https://it.wikipedia.org/wiki/Attacco_informatico)
@@ -46,7 +44,6 @@ Era il 4 giugno 1903, e questo è considerato il primo caso di hacking della sto
 
 Dai tempi di Marconi, le tecnologie e gli strumenti per la trasmissione, l’immagazzinamento, la gestione e la protezione di dati e informazioni hanno fatto passi da gigante, così come i potenziali attacchi, che si sono evoluti parallelamente.
 
-## Attacchi nel Web
 Le tipologie di attacco si possono racchiudere in due categorie principali: attacco attivo e attacco passivo.
 L'attacco attivo implica la manomissione di dati o il disturbo del loro funzionamento, danneggiandone l'integrità e la disponibilità. L'attacco passivo invece cerca di intercettare e utilizzare i dati senza danneggiare le risorse del sistema, quindi minacciandone solamente la riservatezza.
 
@@ -160,11 +157,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MDYxOTEsMTQ4MzIwNDk0MSwtMTg0Mz
-cyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcs
-MTA1MTU3OTgxNiwtMjEyNjczMTEzNywtMTIzMTYzODM3NCwzOT
-IzMjc5MywtMTEzMTcyMzUwMyw2NzU4MDM4MzgsLTIwOTc0OTk4
-NzYsMTI3MDg2NDIwMCwtMTg2MTAwOTU4NCwxMTMyNzU2OSwtMz
-QzNTI0NDM2LDQ0NDI0MjE3MywtMTY3NjMyNjc1NywxMDI3NDI0
-ODk0XX0=
+eyJoaXN0b3J5IjpbMTkyMzk0Nzk5MCw2NDYwNjE5MSwxNDgzMj
+A0OTQxLC0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIx
+NywxNDk0Mjc5NywxMDUxNTc5ODE2LC0yMTI2NzMxMTM3LC0xMj
+MxNjM4Mzc0LDM5MjMyNzkzLC0xMTMxNzIzNTAzLDY3NTgwMzgz
+OCwtMjA5NzQ5OTg3NiwxMjcwODY0MjAwLC0xODYxMDA5NTg0LD
+ExMzI3NTY5LC0zNDM1MjQ0MzYsNDQ0MjQyMTczLC0xNjc2MzI2
+NzU3XX0=
 -->
