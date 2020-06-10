@@ -158,7 +158,10 @@ In un linguaggio fortemente tipizzato il programmatore deve specificare il tipo 
 
 Se quindi il linguaggio non è fortemente tipizzato, non verrà fatto il controllo sul campo di input, lasciando quindi la libertà all'utente di inserire qualsiasi tipo di valore. In questo modo il soggetto attaccante riuscirebbe a manipolare la query riuscendo ad aggirare il blocco dei caratteri escape. 
 Come esempio si può utilizzare la query ``"SELECT * FROM utenti WHERE id =" + inpututenti + ";"``
-**1;DROP TABLE utenti**
+Inserendo in input **1;DROP TABLE utenti** la query si trasformerà quindi in 
+``"SELECT * FROM utenti WHERE id =1; DROP TABLE utenti;"``, andando ad eliminare la tabella utenti.
+
+Per poter evitare qu
 
     
 
@@ -181,11 +184,11 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDczOTM3MzQsLTIxMjU1NTE3OTMsLT
-E0NjQ0MzA0NzAsMTczNzQ2OTUxNiwzNDMwNzcwMjMsNjgyMTgy
-MDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQzLC
-0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMTQw
-MzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5ND
-EsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0
-OTQyNzk3XX0=
+eyJoaXN0b3J5IjpbOTk2NzMyMDUwLC0yMTI1NTUxNzkzLC0xND
+Y0NDMwNDcwLDE3Mzc0Njk1MTYsMzQzMDc3MDIzLDY4MjE4MjA0
+NCw1Nzg0OTc2NzgsMTYxMjYzNDkwMCwtMTE0NjQ5NDE0MywtMT
+IzNTI1OTEyMiwtMTgwMzU0Njg4OSw5NDIwODMwNjcsMjE0MDMx
+NjkxNCwtMTE1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0OTQxLC
+0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNywxNDk0
+Mjc5N119
 -->
