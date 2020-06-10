@@ -142,9 +142,9 @@ Anche se piuttosto utopico, spesso per la protezione di un database nelle impres
 -   Questo in realtà è un problema facilmente risolvibile, attraverso l'attuazione di una policy che preveda il ricambio regolare di password, con una lunghezza e con un numero di simboli e caratteri alfanumerici.
     
 
-Invece per potersi difendere da attacchi come l'SQL Injection è importante accertare una validazione dei dati forniti dall'utente.
+La difesa di a
 
--   Come primo passo può essere utilizzata la funzione mysql real escape string, che andrà a rimuovere i caratteri speciali dalla stringa, eliminando quindi gli attacchi concernenti l'utilizzo di apici o uguali.
+-   Il 
     
 -   Invece come secondo passo è consigliato l'utilizzo di una funzione **is numeric**, che andrà a controllare semplicemente se l'input inserito sia di tipo numerico, così da eludere, insieme alla real escape string, l'utilizzo di attacchi con numeri.
     
@@ -168,11 +168,11 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjU1NTE3OTMsLTE0NjQ0MzA0NzAsMT
-czNzQ2OTUxNiwzNDMwNzcwMjMsNjgyMTgyMDQ0LDU3ODQ5NzY3
-OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQzLC0xMjM1MjU5MTIyLC
-0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMTQwMzE2OTE0LC0xMTUx
-NjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4ND
-IsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1
-Nzk4MTZdfQ==
+eyJoaXN0b3J5IjpbLTMyNjMyNzA3NywtMjEyNTU1MTc5MywtMT
+Q2NDQzMDQ3MCwxNzM3NDY5NTE2LDM0MzA3NzAyMyw2ODIxODIw
+NDQsNTc4NDk3Njc4LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMsLT
+EyMzUyNTkxMjIsLTE4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAz
+MTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MS
+wtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5
+NDI3OTddfQ==
 -->
