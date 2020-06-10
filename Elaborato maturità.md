@@ -161,7 +161,8 @@ Come esempio si può utilizzare la query ``"SELECT * FROM utenti WHERE id =" + i
 Inserendo in input **1;DROP TABLE utenti** la query si trasformerà quindi in 
 ``"SELECT * FROM utenti WHERE id =1; DROP TABLE utenti;"``, andando ad eliminare la tabella utenti.
 
-Per poter evitare qu
+Per poter evitare quindi problemi di questo tipo si può inserire un controllo sui pattern, ovvero controllare la validità dell'input inserito. 
+Si può ad esempio attivare la funzione **is numeric**
 
     
 
@@ -184,11 +185,11 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2NzMyMDUwLC0yMTI1NTUxNzkzLC0xND
-Y0NDMwNDcwLDE3Mzc0Njk1MTYsMzQzMDc3MDIzLDY4MjE4MjA0
-NCw1Nzg0OTc2NzgsMTYxMjYzNDkwMCwtMTE0NjQ5NDE0MywtMT
-IzNTI1OTEyMiwtMTgwMzU0Njg4OSw5NDIwODMwNjcsMjE0MDMx
-NjkxNCwtMTE1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0OTQxLC
-0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNywxNDk0
-Mjc5N119
+eyJoaXN0b3J5IjpbLTQ1NzUwOTA1Myw5OTY3MzIwNTAsLTIxMj
+U1NTE3OTMsLTE0NjQ0MzA0NzAsMTczNzQ2OTUxNiwzNDMwNzcw
+MjMsNjgyMTgyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMT
+Q2NDk0MTQzLC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4
+MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLD
+E0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNCwtMTYy
+Njk2MjE3XX0=
 -->
