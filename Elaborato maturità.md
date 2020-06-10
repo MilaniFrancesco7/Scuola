@@ -153,16 +153,19 @@ La difesa da attacchi come SQL Injection è più articolata, in quanto esistono 
     
 -   La seconda tipologia di errore che si può incontrare è la gestione non corretta del **tipo**.
 
-Questo errore può incorrere al momento di una tipizzazione debole del campo di inserimento.
+	Questo errore può incorrere al momento di una tipizzazione debole del campo di inserimento.
 In un linguaggio fortemente tipizzato il programmatore deve specificare il tipo di ogni elemento, che sia una variabile, una costante o un'espressione, al fine di ottenerne un utilizzo coerente.
 
-Se quindi il linguaggio non è fortemente tipizzato, non verrà fatto il controllo sul campo di input, lasciando quindi la libertà all'utente di inserire qualsiasi tipo di valore. In questo modo il soggetto attaccante riuscirebbe a manipolare la query riuscendo ad aggirare il blocco dei caratteri escape. 
+	Se quindi il linguaggio non è fortemente tipizzato, non verrà fatto il controllo sul campo di input, lasciando quindi la libertà all'utente di inserire qualsiasi tipo di valore. In questo modo il soggetto attaccante riuscirebbe a manipolare la query riuscendo ad aggirare il blocco dei caratteri escape. 
 Come esempio si può utilizzare la query ``"SELECT * FROM utenti WHERE id =" + inpututenti + ";"``
 Inserendo in input **1;DROP TABLE utenti** la query si trasformerà quindi in 
 ``"SELECT * FROM utenti WHERE id =1; DROP TABLE utenti;"``, andando ad eliminare la tabella utenti.
 
-Per poter evitare quindi problemi di questo tipo si può inserire un controllo sui pattern, ovvero controllare la validità dell'input inserito. 
-Si può ad esempio utilizzare la funzione **is numeric**, che andrà a controllare se l'input inserito sia di tipo numerico, così da eludere, insieme alla real escape string, l'utilizzo di attacchi con numeri.
+	Per poter evitare quindi problemi di questo tipo si può inserire un controllo sui pattern, ovvero controllare la validità dell'input inserito. 
+Si può ad esempio utilizzare la funzione **is numeric**, che andrà a controllare se l'input inserito sia di tipo numerico; così da eludere l'utilizzo di attacchi con numeri o caratteri speciali come **;**.
+
+- 
+
 
     
 
@@ -185,11 +188,11 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODQ3NTI2Niw5OTY3MzIwNTAsLTIxMj
-U1NTE3OTMsLTE0NjQ0MzA0NzAsMTczNzQ2OTUxNiwzNDMwNzcw
-MjMsNjgyMTgyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMT
-Q2NDk0MTQzLC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4
-MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLD
-E0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNCwtMTYy
-Njk2MjE3XX0=
+eyJoaXN0b3J5IjpbLTE2NzI4Nzc4NDcsOTk2NzMyMDUwLC0yMT
+I1NTUxNzkzLC0xNDY0NDMwNDcwLDE3Mzc0Njk1MTYsMzQzMDc3
+MDIzLDY4MjE4MjA0NCw1Nzg0OTc2NzgsMTYxMjYzNDkwMCwtMT
+E0NjQ5NDE0MywtMTIzNTI1OTEyMiwtMTgwMzU0Njg4OSw5NDIw
+ODMwNjcsMjE0MDMxNjkxNCwtMTE1MTY2NDYwOSw2NDYwNjE5MS
+wxNDgzMjA0OTQxLC0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2
+MjY5NjIxN119
 -->
