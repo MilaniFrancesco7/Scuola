@@ -151,7 +151,8 @@ La difesa da attacchi come SQL Injection è più articolata, in quanto esistono 
 	Per preventivare questo tipo di attacco si può inserire, all'interno del codice che andrà ad eseguire la query, la funzione **mysql real escape string**.
 	Questa funzione andrà a rimuovere i caratteri speciali dell'input ricevuto, eliminando quindi gli inserimenti concernenti l'utilizzo di apici o uguali. 
     
--   
+-   La seconda tipologia di errore che si può incontrare è la gestione non corretta del **tipo**.
+Questo errore può incorrere al momento di una tipizzazione debole del c 
     
 
 La sicurezza nei DBMS però non si ferma al semplice controllo della validazione dei dati, ma deve essere gestita attraverso una serie di passaggi, in modo tale da garantire l'integrità.
@@ -173,7 +174,7 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ3NDkwMDMsLTIxMjU1NTE3OTMsLT
+eyJoaXN0b3J5IjpbLTIwMjY1OTM0ODAsLTIxMjU1NTE3OTMsLT
 E0NjQ0MzA0NzAsMTczNzQ2OTUxNiwzNDMwNzcwMjMsNjgyMTgy
 MDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQzLC
 0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMTQw
