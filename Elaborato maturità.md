@@ -164,7 +164,9 @@ Inserendo in input **1;DROP TABLE utenti** la query si trasformerà quindi in
 	Per poter evitare quindi problemi di questo tipo si può inserire un controllo sui pattern, ovvero controllare la validità dell'input inserito. 
 Si può ad esempio utilizzare la funzione **is numeric**, che andrà a controllare se l'input inserito sia di tipo numerico; così da eludere l'utilizzo di attacchi con numeri o caratteri speciali come **;**.
 
-- 
+- Un altro strato di protezione da attacchi SQL injection che si può introdurre riguarda i **permessi**.
+
+Attraverso la limitazione dei permes
 
 
     
@@ -188,11 +190,11 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzI4Nzc4NDcsOTk2NzMyMDUwLC0yMT
-I1NTUxNzkzLC0xNDY0NDMwNDcwLDE3Mzc0Njk1MTYsMzQzMDc3
-MDIzLDY4MjE4MjA0NCw1Nzg0OTc2NzgsMTYxMjYzNDkwMCwtMT
-E0NjQ5NDE0MywtMTIzNTI1OTEyMiwtMTgwMzU0Njg4OSw5NDIw
-ODMwNjcsMjE0MDMxNjkxNCwtMTE1MTY2NDYwOSw2NDYwNjE5MS
-wxNDgzMjA0OTQxLC0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2
-MjY5NjIxN119
+eyJoaXN0b3J5IjpbLTEwOTIzMzk1NCw5OTY3MzIwNTAsLTIxMj
+U1NTE3OTMsLTE0NjQ0MzA0NzAsMTczNzQ2OTUxNiwzNDMwNzcw
+MjMsNjgyMTgyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMT
+Q2NDk0MTQzLC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4
+MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLD
+E0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNCwtMTYy
+Njk2MjE3XX0=
 -->
