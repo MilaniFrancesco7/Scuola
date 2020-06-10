@@ -124,7 +124,10 @@ Le principali tecniche di disturbo sono gli attacchi malware e gli attacchi di t
 
 Il phishing è una tipologia di attacco che concerne anche con il mondo delle truffe; ha infatti l'obiettivo di rubare le informazioni e i dati personali delle vittime per poterli utilizzare a scopo di lucro.  E' anche considerato come una forma di **adescamento**; la molteplicità degli attacchi avviene infatti attraverso l'inganno psicologico dell'utente, sfruttando le meccaniche dell'ingegneria sociale.
 
--   Il metodo utilizzato solitamente è l'email, data la larga probabilità di trovare utenti "deboli". Il messaggio viene costruito in maniera tale da sembrare proveniente da un'organizzazione attendibile, come potrebbero essere una banca o la posta.  Generalmente il contenuto indica problemi relativi alla sicurezza dell'account della vittima, invitandolo a cliccare su un link, che a prima vista può sembrare corretto. In realtà collega ad un sito fittizio controllato da chi sta attaccando. E' quasi impossibile riconoscere un sito fittizio da un sito "originale", dato che spesso sono totalmente identici, tranne ovviamente che per l'indirizzo URL, che può essere il primo campanello d'allarme, unito al fatto di non essere in una connessione sicura. Solitamente gli URL fittizzi hanno al loro interno punti o underscore che ad un primo sguardo non risaltano. (Es. [https://face.book.com](https://face.book.com))  Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i propri dati, come se si trattasse di un login o di un cambio password, cosa che ovviamente non accade. I dati arrivano quindi in mano al soggetto attaccante, che avrà quindi libero arbitrio sul loro utilizzo.
+-   Il metodo utilizzato solitamente è l'email, data la larga probabilità di trovare utenti "deboli". 
+Il messaggio viene costruito in maniera tale da sembrare proveniente da un'organizzazione attendibile, come potrebbero essere una banca o la posta, per poter trarre in inganno gli utenti non esperti.
+
+	  Generalmente il contenuto indica problemi relativi alla sicurezza dell'account della vittima, invitandolo a cliccare su un link, che a prima vista può sembrare corretto. In realtà collega ad un sito fittizio controllato da chi sta attaccando. E' quasi impossibile riconoscere un sito fittizio da un sito "originale", dato che spesso sono totalmente identici, tranne ovviamente che per l'indirizzo URL, che può essere il primo campanello d'allarme, unito al fatto di non essere in una connessione sicura. Solitamente gli URL fittizzi hanno al loro interno punti o underscore che ad un primo sguardo non risaltano. (Es. [https://face.book.com](https://face.book.com))  Dopodichè viene richiesto all'utente di inserire le proprie credenziali o i propri dati, come se si trattasse di un login o di un cambio password, cosa che ovviamente non accade. I dati arrivano quindi in mano al soggetto attaccante, che avrà quindi libero arbitrio sul loro utilizzo.
     
 
 [Phishing](https://www.cybersecurity360.it/nuove-minacce/phishing-cose-e-come-proteggersi-la-guida-completa/)  [Phishing Youtube](https://www.youtube.com/watch?v=MJxtTIyuqlI&t=1s)
@@ -164,11 +167,11 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzkyMzAzNzMsLTE0NjQ0MzA0NzAsMT
-czNzQ2OTUxNiwzNDMwNzcwMjMsNjgyMTgyMDQ0LDU3ODQ5NzY3
-OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQzLC0xMjM1MjU5MTIyLC
-0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMTQwMzE2OTE0LC0xMTUx
-NjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4ND
-IsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1
-Nzk4MTZdfQ==
+eyJoaXN0b3J5IjpbMTUyMzM3MjEsLTE0NjQ0MzA0NzAsMTczNz
+Q2OTUxNiwzNDMwNzcwMjMsNjgyMTgyMDQ0LDU3ODQ5NzY3OCwx
+NjEyNjM0OTAwLC0xMTQ2NDk0MTQzLC0xMjM1MjU5MTIyLC0xOD
+AzNTQ2ODg5LDk0MjA4MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0
+NjA5LDY0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLT
+EwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4
+MTZdfQ==
 -->
