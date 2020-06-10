@@ -5,6 +5,7 @@
 
 # Introduzione
 
+
 La risorsa più importante di ogni organizzazione è l'**informazione**. 
 Essa è alla base dell'informatica, la cui definizione è "scienza che si occupa del trattamento automatico delle informazioni".
 Ciò che viene trattato nell'informatica è il dato, ovvero la "descrizione elementare" di un'informazione. Il dato al giorno d'oggi controlla il mondo, è la "ricchezza" del nuovo millennio, soprattutto per le strategie aziendali. E' infatti nato all'incirca nel 2000 il **data-driven marketing**, cioè l'utilizzo dei dati concentrato al miglioramento del targeting e del personalizzare la comunicazione aumentando il coinvolgimento degli utenti.
@@ -186,11 +187,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzQ2OTUxNiwzNDMwNzcwMjMsNjgyMT
-gyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQz
-LC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMT
-QwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5
-NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LD
-E0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3MzExMzcsLTEyMzE2
-MzgzNzRdfQ==
+eyJoaXN0b3J5IjpbLTE0NjQ0MzA0NzAsMTczNzQ2OTUxNiwzND
+MwNzcwMjMsNjgyMTgyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAw
+LC0xMTQ2NDk0MTQzLC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LD
+k0MjA4MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2
+MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNC
+wtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3
+MzExMzddfQ==
 -->
