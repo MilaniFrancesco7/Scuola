@@ -152,7 +152,8 @@ La difesa da attacchi come SQL Injection è più articolata, in quanto esistono 
 	Questa funzione andrà a rimuovere i caratteri speciali dell'input ricevuto, eliminando quindi gli inserimenti concernenti l'utilizzo di apici o uguali. 
     
 -   La seconda tipologia di errore che si può incontrare è la gestione non corretta del **tipo**.
-Questo errore può incorrere al momento di una tipizzazione debole del c 
+Questo errore può incorrere al momento di una tipizzazione debole del campo di inserimento.
+Un linguaggio fortemente tipizzato è 
     
 
 La sicurezza nei DBMS però non si ferma al semplice controllo della validazione dei dati, ma deve essere gestita attraverso una serie di passaggi, in modo tale da garantire l'integrità.
@@ -174,11 +175,11 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY1OTM0ODAsLTIxMjU1NTE3OTMsLT
-E0NjQ0MzA0NzAsMTczNzQ2OTUxNiwzNDMwNzcwMjMsNjgyMTgy
-MDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQzLC
-0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMTQw
-MzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5ND
-EsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0
-OTQyNzk3XX0=
+eyJoaXN0b3J5IjpbLTE2NTEwNTMyOSwtMjEyNTU1MTc5MywtMT
+Q2NDQzMDQ3MCwxNzM3NDY5NTE2LDM0MzA3NzAyMyw2ODIxODIw
+NDQsNTc4NDk3Njc4LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMsLT
+EyMzUyNTkxMjIsLTE4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAz
+MTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MS
+wtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5
+NDI3OTddfQ==
 -->
