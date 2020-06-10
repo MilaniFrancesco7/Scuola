@@ -145,7 +145,7 @@ Anche se piuttosto utopico, spesso per la protezione di un database nelle impres
 La difesa da attacchi come SQL Injection è più articolata, in quanto esistono più tipologie di errori che si commettono e soluzioni che possono essere adottate.
 
 -   La prima tipologia di errore è l'errata filtrazione dei **caratteri di escape**.
-	I caratteri di escape 
+	In questo caso i dati in input non vengono filtrati, lasciando quindi passare tutto ci
     
 -   Invece come secondo passo è consigliato l'utilizzo di una funzione **is numeric**, che andrà a controllare semplicemente se l'input inserito sia di tipo numerico, così da eludere, insieme alla real escape string, l'utilizzo di attacchi con numeri.
     
@@ -169,11 +169,11 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzMjI2MjcwLC0yMTI1NTUxNzkzLC0xND
-Y0NDMwNDcwLDE3Mzc0Njk1MTYsMzQzMDc3MDIzLDY4MjE4MjA0
-NCw1Nzg0OTc2NzgsMTYxMjYzNDkwMCwtMTE0NjQ5NDE0MywtMT
-IzNTI1OTEyMiwtMTgwMzU0Njg4OSw5NDIwODMwNjcsMjE0MDMx
-NjkxNCwtMTE1MTY2NDYwOSw2NDYwNjE5MSwxNDgzMjA0OTQxLC
-0xODQzNzIzODQyLC0xMDc0NDQxMTQsLTE2MjY5NjIxNywxNDk0
-Mjc5N119
+eyJoaXN0b3J5IjpbLTM4ODEwMTg1NywtMjEyNTU1MTc5MywtMT
+Q2NDQzMDQ3MCwxNzM3NDY5NTE2LDM0MzA3NzAyMyw2ODIxODIw
+NDQsNTc4NDk3Njc4LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMsLT
+EyMzUyNTkxMjIsLTE4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAz
+MTY5MTQsLTExNTE2NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MS
+wtMTg0MzcyMzg0MiwtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5
+NDI3OTddfQ==
 -->
