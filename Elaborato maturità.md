@@ -9,11 +9,10 @@
 La risorsa più importante di ogni organizzazione è l'**informazione**. 
 Essa è alla base dell'informatica, la cui definizione è "scienza che si occupa del trattamento automatico delle informazioni".
 Ciò che viene trattato nell'informatica è il dato, ovvero la "descrizione elementare" di un'informazione. Il dato al giorno d'oggi controlla il mondo, è la "ricchezza" del nuovo millennio, soprattutto per le strategie aziendali. E' infatti nato all'incirca nel 2000 il **data-driven marketing**, cioè l'utilizzo dei dati concentrato al miglioramento del targeting e del personalizzare la comunicazione aumentando il coinvolgimento degli utenti.
-I dati provengono praticamente da qualsiasi parte: dai social, dagli acquisti, dalla semplice navigazione sul web.
-L'importanza viene sottolineata soprattutto da questa frase: "Il data-driven marketing oggi non è più una scelta, ma l'unica scelta possibile."
+I dati utili per il marketing provengono praticamente da qualsiasi parte: dai social, dagli acquisti oppure dalla semplice navigazione sul web.
 [Data driven marketing](https://www.spremutedigitali.com/data-driven-marketing/)
 
-Il dato è quindi una delle risorse più importanti per l'economia; e come tutte le risorse che possono portare a del guadagno, la sua sicurezza viene messa a dura prova.
+Il dato è quindi diventato nel tempo una delle risorse più importanti per l'economia; e come tutte le risorse che possono portare a del guadagno, la sua sicurezza viene messa a dura prova.
 ## Sicurezza informatica
 
 I dati devono essere quindi protetti da possibili attacchi, per poter garantire la **sicurezza informatica**.
@@ -187,11 +186,11 @@ L'utilizzo delle finestre e delle viste permette quindi di creare sottoinsiemi d
 [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ0MzA0NzAsMTczNzQ2OTUxNiwzND
-MwNzcwMjMsNjgyMTgyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAw
-LC0xMTQ2NDk0MTQzLC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LD
-k0MjA4MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0NjA5LDY0NjA2
-MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLTEwNzQ0NDExNC
-wtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4MTYsLTIxMjY3
-MzExMzddfQ==
+eyJoaXN0b3J5IjpbLTIxODc4ODYwLC0xNDY0NDMwNDcwLDE3Mz
+c0Njk1MTYsMzQzMDc3MDIzLDY4MjE4MjA0NCw1Nzg0OTc2Nzgs
+MTYxMjYzNDkwMCwtMTE0NjQ5NDE0MywtMTIzNTI1OTEyMiwtMT
+gwMzU0Njg4OSw5NDIwODMwNjcsMjE0MDMxNjkxNCwtMTE1MTY2
+NDYwOSw2NDYwNjE5MSwxNDgzMjA0OTQxLC0xODQzNzIzODQyLC
+0xMDc0NDQxMTQsLTE2MjY5NjIxNywxNDk0Mjc5NywxMDUxNTc5
+ODE2XX0=
 -->
