@@ -109,9 +109,13 @@ Le principali tecniche di disturbo sono gli attacchi malware e gli attacchi di t
 	-   Un altra strategia appartenente alla famiglia DoS è il **_SYN flood_**, che attacca il server autenticandosi solamente in maniera parziale. In questo modo verrà lasciata in attesa la connessione sulla porta per il **_three way handshake_**, procedendo quindi a fare la stessa operazione su tutte le porte fino a mettere fuori uso il server.
     
 
-- Un altro attacco appartenente alla famiglia DoS è il **Distributed Denial of Service** (DDoS), Consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
+- Un altro attacco appartenente alla famiglia DoS è il **Distributed Denial of Service** (DDoS).
 
-	-   I computer che sono controllati dall'attaccante vengono chiamati **_zombie_** o **_bot_**. Dopo essere stati infettati entrano a far parte di una botnet, ovvero una rete di dispositivi infettati, a libera disposizione dell'attaccante. Quando il numero di bot è ritenuto esiguo dall'attaccante, essi vengono attivati, sommergendo il server bersaglio di richieste di connessione. Il flusso enorme di risposte provocherà nel sistema una tale "inondazione" di traffico, rendendolo inadeguato alla gestione delle abituali funzioni on-line.
+	 Consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. 
+	 Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
+
+	-   I computer che sono controllati dall'attaccante vengono chiamati **_zombie_** o **_bot_**. 
+	Essi entrano a far parte di una botnet, ovvero una rete di dispositivi infettati, a libera disposizione dell'attaccante. Quando il numero di bot è ritenuto esiguo dall'attaccante, essi vengono attivati, sommergendo il server bersaglio di richieste di connessione. Il flusso enorme di risposte provocherà nel sistema una tale "inondazione" di traffico, rendendolo inadeguato alla gestione delle abituali funzioni on-line.
     
 
 [DoS e DDoS](https://it.wikipedia.org/wiki/Denial_of_service)[DoS](https://academy.binance.com/it/security/what-is-a-dos-attack)[Libro di sistemi](https://www.hoepli.it/libro/sistemi-e-reti-3/9788820378622.html?origin=google-shopping&gclid=CjwKCAjw5vz2BRAtEiwAbcVIL83RXEGw-6rH-uPXOJaLloFXJqCWnJCnKh57S7I988IAGiJN_ATkmxoC0AwQAvD_BwE)
@@ -160,11 +164,11 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTk3MTg4NywtMTQ2NDQzMDQ3MCwxNz
-M3NDY5NTE2LDM0MzA3NzAyMyw2ODIxODIwNDQsNTc4NDk3Njc4
-LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMsLTEyMzUyNTkxMjIsLT
-E4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAzMTY5MTQsLTExNTE2
-NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MSwtMTg0MzcyMzg0Mi
-wtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3
-OTgxNl19
+eyJoaXN0b3J5IjpbLTE2NzkyMzAzNzMsLTE0NjQ0MzA0NzAsMT
+czNzQ2OTUxNiwzNDMwNzcwMjMsNjgyMTgyMDQ0LDU3ODQ5NzY3
+OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQzLC0xMjM1MjU5MTIyLC
+0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMTQwMzE2OTE0LC0xMTUx
+NjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4ND
+IsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1
+Nzk4MTZdfQ==
 -->
