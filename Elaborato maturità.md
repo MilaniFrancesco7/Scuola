@@ -24,7 +24,8 @@ Si possono distinguere due categorie principali di integrità: fisica e logica.
 
 -   Per integrità **fisica** si intende lo studio per la protezione dei dati al momento dell'archiviazione e del loro recupero dai supporti di memorizzazione. Questo tipo di integrità può quindi scontrarsi con difetti elettromeccanici, minacce naturali o altri tipi di problematiche che riguardano l'aspetto fisico della conservazione dei dati.
     
--   L'integrità di cui andremo a parlare più approfonditamente è invece quella **logica**. ->modifica  L'integrità logica dei dati interessa in particolare la correttezza, la razionalità e la protezione da soggetti non autorizzati dei dati, andando quindi ad intersecarsi con l'argomento della **sicurezza dei dati**.  La parte logica che interessa la correttezza e la razionalità include quindi le tematiche di integrità intra-relazionale e interazionale all'interno dei database relazionali.
+-  L'integrità **logica** interessa invece la correttezza, la razionalità e la protezione da soggetti non autorizzati dei dati, andando quindi ad intersecarsi con l'argomento della **sicurezza dei dati**.  
+La parte logica che interessa la correttezza e la razionalità include quindi le tematiche di integrità intra-relazionale e interazionale all'interno dei database relazionali.
     
     -   L'integrità intra-relazionale concerne i vincoli all'interno di tuple della stessa relazione, quindi vincoli di dominio, di tupla, not null e di chiave.
         
@@ -158,7 +159,7 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTQyMzA4NSwtMTQ2NDQzMDQ3MCwxNz
+eyJoaXN0b3J5IjpbMTQ2MDk0MTE3MywtMTQ2NDQzMDQ3MCwxNz
 M3NDY5NTE2LDM0MzA3NzAyMyw2ODIxODIwNDQsNTc4NDk3Njc4
 LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMsLTEyMzUyNTkxMjIsLT
 E4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAzMTY5MTQsLTExNTE2
