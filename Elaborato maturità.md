@@ -36,6 +36,7 @@ La sicurezza dei dati, che si occupa di garantire la protezione dei dati verso l
 
 [Integrità 1](https://it.talend.com/resources/what-is-data-integrity/)[Integrità 2](https://blog.osservatori.net/it_it/sicurezza-informatica-disponibilit%C3%A0-e-integrit%C3%A0-dei-dati)[Integrità 3](https://it.qwe.wiki/wiki/Data_integrity)
 
+## Gli attacchi informatici
 Un attacco informatico è una qualsiasi azione, svolta da soggetti malintenzionati, che mira a sistemi informativi, dispositivi e reti. Un attacco, nel caso dei dispositivi, ha come obiettivo il renderli inoperativi, mentre gli attacchi relativi ai dati sono concentrati nel furto, nell'alterazione e nella cancellazione.
 
 [Attacco informatico](https://it.wikipedia.org/wiki/Attacco_informatico)
@@ -101,16 +102,16 @@ Le principali tecniche di disturbo sono gli attacchi malware e gli attacchi di t
 -   Un ulteriore attacco di produzione è il **Denial of Service** (DoS) o la sua evoluzione, il **Distribuited Denial of Service** (DDoS).  Questo attacco mira a "tenere occupato" un host, solitamente server, con operazioni sostanzialmente inutili, in maniera tale da potergli impedire di offrire i propri servizi alla rete.
     
 
-Esistono diverse tipologie di attacchi DoS, alcune cercano di impedire l'accesso di un individuo specifico ad un network o una risorsa, mentre altre cercano di rendere la risorsa inaccessibile per qualsiasi utente.  Queste tipologie di interruzioni, nel caso di attacchi ad aziende, causano perdite finanziarie che possono essere anche molto pesanti.
+	Esistono diverse tipologie di attacchi DoS, alcune cercano di impedire l'accesso di un individuo specifico ad un network o una risorsa, mentre altre cercano di rendere la risorsa inaccessibile per qualsiasi utente.  Queste tipologie di interruzioni, nel caso di attacchi ad aziende, causano perdite finanziarie che possono essere anche molto pesanti.
 
--   La metodologia più utilizzata è il **_buffer overflow_**, che consiste nell'invio di un traffico maggiore di quanto il sistema a cui si mira sia in grado di gestire. Questo attacco permette quindi di riuscire a rendere inutilizzabile il sistema, facendolo collassare.
+	-   La metodologia più utilizzata è il **_buffer overflow_**, che consiste nell'invio di un traffico maggiore di quanto il sistema a cui si mira sia in grado di gestire. Questo attacco permette quindi di riuscire a rendere inutilizzabile il sistema, facendolo collassare.
     
--   Un altra strategia appartenente alla famiglia DoS è il **_SYN flood_**, che attacca il server autenticandosi solamente in maniera parziale. In questo modo verrà lasciata in attesa la connessione sulla porta per il **_three way handshake_**, procedendo quindi a fare la stessa operazione su tutte le porte fino a mettere fuori uso il server.
+	-   Un altra strategia appartenente alla famiglia DoS è il **_SYN flood_**, che attacca il server autenticandosi solamente in maniera parziale. In questo modo verrà lasciata in attesa la connessione sulla porta per il **_three way handshake_**, procedendo quindi a fare la stessa operazione su tutte le porte fino a mettere fuori uso il server.
     
 
-Il DDos, che può essere visto come "l'evoluzione" del DoS, dato quest'ultimo che avviene principalmente da una sola macchina, consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
+- Il DDos, che può essere visto come "l'evoluzione" del DoS, dato quest'ultimo che avviene principalmente da una sola macchina, consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
 
--   I computer che sono controllati dall'attaccante vengono chiamati **_zombie_** o **_bot_**. Dopo essere stati infettati entrano a far parte di una botnet, ovvero una rete di dispositivi infettati, a libera disposizione dell'attaccante. Quando il numero di bot è ritenuto esiguo dall'attaccante, essi vengono attivati, sommergendo il server bersaglio di richieste di connessione. Il flusso enorme di risposte provocherà nel sistema una tale "inondazione" di traffico, rendendolo inadeguato alla gestione delle abituali funzioni on-line.
+	-   I computer che sono controllati dall'attaccante vengono chiamati **_zombie_** o **_bot_**. Dopo essere stati infettati entrano a far parte di una botnet, ovvero una rete di dispositivi infettati, a libera disposizione dell'attaccante. Quando il numero di bot è ritenuto esiguo dall'attaccante, essi vengono attivati, sommergendo il server bersaglio di richieste di connessione. Il flusso enorme di risposte provocherà nel sistema una tale "inondazione" di traffico, rendendolo inadeguato alla gestione delle abituali funzioni on-line.
     
 
 [DoS e DDoS](https://it.wikipedia.org/wiki/Denial_of_service)[DoS](https://academy.binance.com/it/security/what-is-a-dos-attack)[Libro di sistemi](https://www.hoepli.it/libro/sistemi-e-reti-3/9788820378622.html?origin=google-shopping&gclid=CjwKCAjw5vz2BRAtEiwAbcVIL83RXEGw-6rH-uPXOJaLloFXJqCWnJCnKh57S7I988IAGiJN_ATkmxoC0AwQAvD_BwE)
@@ -159,11 +160,11 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDk0MTE3MywtMTQ2NDQzMDQ3MCwxNz
-M3NDY5NTE2LDM0MzA3NzAyMyw2ODIxODIwNDQsNTc4NDk3Njc4
-LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMsLTEyMzUyNTkxMjIsLT
-E4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAzMTY5MTQsLTExNTE2
-NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MSwtMTg0MzcyMzg0Mi
-wtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3
-OTgxNl19
+eyJoaXN0b3J5IjpbMjE4Mzk0NjAsLTE0NjQ0MzA0NzAsMTczNz
+Q2OTUxNiwzNDMwNzcwMjMsNjgyMTgyMDQ0LDU3ODQ5NzY3OCwx
+NjEyNjM0OTAwLC0xMTQ2NDk0MTQzLC0xMjM1MjU5MTIyLC0xOD
+AzNTQ2ODg5LDk0MjA4MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0
+NjA5LDY0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLT
+EwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4
+MTZdfQ==
 -->
