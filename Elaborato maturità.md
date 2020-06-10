@@ -162,7 +162,7 @@ Inserendo in input **1;DROP TABLE utenti** la query si trasformerà quindi in
 ``"SELECT * FROM utenti WHERE id =1; DROP TABLE utenti;"``, andando ad eliminare la tabella utenti.
 
 Per poter evitare quindi problemi di questo tipo si può inserire un controllo sui pattern, ovvero controllare la validità dell'input inserito. 
-Si può ad esempio attivare la funzione **is numeric**
+Si può ad esempio utilizzare la funzione **is numeric**, che andrà a controllare se l'input inserito sia di tipo numerico, così da eludere, insieme alla real escape string, l'utilizzo di attacchi con numeri.
 
     
 
@@ -185,7 +185,7 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzUwOTA1Myw5OTY3MzIwNTAsLTIxMj
+eyJoaXN0b3J5IjpbLTM2ODQ3NTI2Niw5OTY3MzIwNTAsLTIxMj
 U1NTE3OTMsLTE0NjQ0MzA0NzAsMTczNzQ2OTUxNiwzNDMwNzcw
 MjMsNjgyMTgyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMT
 Q2NDk0MTQzLC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4
