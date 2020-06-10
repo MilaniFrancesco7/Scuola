@@ -99,7 +99,7 @@ Le principali tecniche di disturbo sono gli attacchi malware e gli attacchi di t
     
     Spesso un attacco worm o un attacco virus coincide con l'installazione di altre tipologie di malware (famiglia di cui worm e virus fanno parte), come ad esempio **backdoor** o **keylogger**, sfruttati dall'hacker per ottenere dati sensibili.  Il worm più potente mai creato è **_MyDoom_** (in italiano "Il mio destino"). In circolazione dal 2004 e imbattuto sino al 2016, è riuscito a causare 38 miliardi di danni in tutto il mondo, diffondendosi attaccando tutti i file presenti sul PC.  [Worm](https://it.wikipedia.org/wiki/Worm)[Virus](https://it.wikipedia.org/wiki/Virus)
     
--   Un ulteriore attacco di produzione è il **Denial of Service** (DoS) o la sua evoluzione, il **Distribuited Denial of Service** (DDoS).  Questo attacco mira a "tenere occupato" un host, solitamente server, con operazioni sostanzialmente inutili, in maniera tale da potergli impedire di offrire i propri servizi alla rete.
+-   Un ulteriore attacco di produzione è il **Denial of Service** (DoS).  Questo attacco mira a "tenere occupato" un host, solitamente server, con operazioni sostanzialmente inutili, in maniera tale da potergli impedire di offrire i propri servizi alla rete.
     
 
 	Esistono diverse tipologie di attacchi DoS, alcune cercano di impedire l'accesso di un individuo specifico ad un network o una risorsa, mentre altre cercano di rendere la risorsa inaccessibile per qualsiasi utente.  Queste tipologie di interruzioni, nel caso di attacchi ad aziende, causano perdite finanziarie che possono essere anche molto pesanti.
@@ -109,7 +109,7 @@ Le principali tecniche di disturbo sono gli attacchi malware e gli attacchi di t
 	-   Un altra strategia appartenente alla famiglia DoS è il **_SYN flood_**, che attacca il server autenticandosi solamente in maniera parziale. In questo modo verrà lasciata in attesa la connessione sulla porta per il **_three way handshake_**, procedendo quindi a fare la stessa operazione su tutte le porte fino a mettere fuori uso il server.
     
 
-- Il DDos, che può essere visto come "l'evoluzione" del DoS, dato quest'ultimo che avviene principalmente da una sola macchina, consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
+- Un altro attacco appartenente alla famiglia DoS è il **Distributed Denial of Service** (DDoS), Consiste nell'utilizzo di diversi dispositivi che prendono di mira una singola risorsa. Per questo motivo ha infatti molta più probabilità di successo rispetto al DoS normale per la maggior quantità di traffico prodotto. Inoltre questo metodo viene preferito per l'enorme difficoltà nel rintracciare la fonte da dove avviene l'attacco, dato che questa proviene da più punti e non da un singolo host.
 
 	-   I computer che sono controllati dall'attaccante vengono chiamati **_zombie_** o **_bot_**. Dopo essere stati infettati entrano a far parte di una botnet, ovvero una rete di dispositivi infettati, a libera disposizione dell'attaccante. Quando il numero di bot è ritenuto esiguo dall'attaccante, essi vengono attivati, sommergendo il server bersaglio di richieste di connessione. Il flusso enorme di risposte provocherà nel sistema una tale "inondazione" di traffico, rendendolo inadeguato alla gestione delle abituali funzioni on-line.
     
@@ -160,11 +160,11 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4Mzk0NjAsLTE0NjQ0MzA0NzAsMTczNz
-Q2OTUxNiwzNDMwNzcwMjMsNjgyMTgyMDQ0LDU3ODQ5NzY3OCwx
-NjEyNjM0OTAwLC0xMTQ2NDk0MTQzLC0xMjM1MjU5MTIyLC0xOD
-AzNTQ2ODg5LDk0MjA4MzA2NywyMTQwMzE2OTE0LC0xMTUxNjY0
-NjA5LDY0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4NDIsLT
-EwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1Nzk4
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTc2OTk3MTg4NywtMTQ2NDQzMDQ3MCwxNz
+M3NDY5NTE2LDM0MzA3NzAyMyw2ODIxODIwNDQsNTc4NDk3Njc4
+LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMsLTEyMzUyNTkxMjIsLT
+E4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAzMTY5MTQsLTExNTE2
+NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MSwtMTg0MzcyMzg0Mi
+wtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3
+OTgxNl19
 -->
