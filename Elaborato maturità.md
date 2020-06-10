@@ -166,7 +166,7 @@ Si può ad esempio utilizzare la funzione **is numeric**, che andrà a controlla
 
 - Un altro strato di protezione da attacchi SQL injection che si può introdurre riguarda i **permessi**.
 
-Attraverso la limitazione dei permessi si può riuscire a proibire totalmente che una select, proveniente da un specifico campo, possa agire sulle tabelle più sensibili. 
+	Attraverso la limitazione dei permessi si può riuscire a proibire totalmente che una select, proveniente da un specifico campo, possa agire sulle tabelle più sensibili. 
 In questo modo, anche in caso di attacco SQL injection, il soggetto attaccante non riuscirà ad ottenere i dati a cui stava mirando.
 
 
@@ -189,7 +189,7 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTIxODU1NSw5OTY3MzIwNTAsLTIxMj
+eyJoaXN0b3J5IjpbLTE3NTk0NTI5OSw5OTY3MzIwNTAsLTIxMj
 U1NTE3OTMsLTE0NjQ0MzA0NzAsMTczNzQ2OTUxNiwzNDMwNzcw
 MjMsNjgyMTgyMDQ0LDU3ODQ5NzY3OCwxNjEyNjM0OTAwLC0xMT
 Q2NDk0MTQzLC0xMjM1MjU5MTIyLC0xODAzNTQ2ODg5LDk0MjA4
