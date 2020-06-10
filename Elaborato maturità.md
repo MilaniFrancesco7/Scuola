@@ -15,9 +15,10 @@ I dati devono essere protetti da possibili attacchi, per poter garantire la **si
 La sicurezza informatica è l'insieme dei prodotti, dei servizi e dei mezzi diretti alla protezione dei sistemi informatici per quanto riguarda i principi fondanti della CIA: data Confidentiality, data Integrity e system Availability.
 
 Il principio che si può definire come più importante è il data Integrity, in italiano l'**integrità dei dati**.  
-Per integrità dei dati si intende la capacità di mantenere i dati e le risorse, garantendo la loro precisione, correttezza e inalterazione (non autorizzata) durante il loro intero ciclo di vita.  L'integrità è quindi uno degli aspetti più critici per la progettazione, realizzazione e utilizzo di qualsiasi sistema informatico.
+Per integrità dei dati si intende la capacità di mantenere i dati e le risorse, garantendo la loro precisione, correttezza e inalterazione (non autorizzata) durante il loro intero ciclo di vita.  
+Il principio di integrità è quindi uno degli aspetti più critici per la progettazione, realizzazione e utilizzo di qualsiasi sistema informatico.
 
-### L'integrità
+### L'integrità fisica e logica
 
 Si possono distinguere due categorie principali di integrità: fisica e logica.
 
@@ -157,11 +158,11 @@ La sicurezza nei DBMS però non si ferma al semplice controllo della validazione
 
 [Attacco ai database (Wiki)](https://it.wikipedia.org/wiki/Attaccoai_database)  [Protezione delle basi di dati (Wiki)](https://it.wikipedia.org/wiki/Protezione_dai_guasti_(basi_di_dati))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM0NzUxMjgsLTE0NjQ0MzA0NzAsMT
-czNzQ2OTUxNiwzNDMwNzcwMjMsNjgyMTgyMDQ0LDU3ODQ5NzY3
-OCwxNjEyNjM0OTAwLC0xMTQ2NDk0MTQzLC0xMjM1MjU5MTIyLC
-0xODAzNTQ2ODg5LDk0MjA4MzA2NywyMTQwMzE2OTE0LC0xMTUx
-NjY0NjA5LDY0NjA2MTkxLDE0ODMyMDQ5NDEsLTE4NDM3MjM4ND
-IsLTEwNzQ0NDExNCwtMTYyNjk2MjE3LDE0OTQyNzk3LDEwNTE1
-Nzk4MTZdfQ==
+eyJoaXN0b3J5IjpbMTA5MTQyMzA4NSwtMTQ2NDQzMDQ3MCwxNz
+M3NDY5NTE2LDM0MzA3NzAyMyw2ODIxODIwNDQsNTc4NDk3Njc4
+LDE2MTI2MzQ5MDAsLTExNDY0OTQxNDMsLTEyMzUyNTkxMjIsLT
+E4MDM1NDY4ODksOTQyMDgzMDY3LDIxNDAzMTY5MTQsLTExNTE2
+NjQ2MDksNjQ2MDYxOTEsMTQ4MzIwNDk0MSwtMTg0MzcyMzg0Mi
+wtMTA3NDQ0MTE0LC0xNjI2OTYyMTcsMTQ5NDI3OTcsMTA1MTU3
+OTgxNl19
 -->
