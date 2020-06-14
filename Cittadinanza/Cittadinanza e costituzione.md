@@ -171,8 +171,16 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 	- Nomina 5 giudici costituzionali
 
 ## IL GOVERNO
+- Organo costituzionale collegiale
+- Potere esecutivo
+- Sede a Palazzo Chigi (Roma obv)
 
+- Formato da 
+	- Presidente del Consiglio dei Ministri
+	- Ministri
+		- Insieme costituiscono il Consiglio dei ministri (Dio cristo va te che numeri)
+	- Vice presidente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzE2NjcyNywxNTg0Nzk0NTIsODE2OT
-Q3NzcsLTE0MDQzMjcwNzhdfQ==
+eyJoaXN0b3J5IjpbMTcyMDY2ODQ2NSwtOTA3MTY2NzI3LDE1OD
+Q3OTQ1Miw4MTY5NDc3NywtMTQwNDMyNzA3OF19
 -->
