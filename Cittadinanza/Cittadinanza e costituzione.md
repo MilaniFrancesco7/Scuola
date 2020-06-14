@@ -127,8 +127,18 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 ### Funzione legislativa
 - Svolta separatamente dalle camere
 	- Per una legge è necessario il voto favorevole di entrambe
-- 
+
+#### ITER LEGISLATIVO
+- Iniziativa
+- Approvazione
+- Promulgazione
+- Pubblicazione sulla Gazzetta Ufficiale della Repubblica
+	- Tempo dalla pubblicazione alla entrata = Vacatio legis
+- Entrata in vigore
+
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3NjI5MTM5LDgxNjk0Nzc3LC0xNDA0Mz
-I3MDc4XX0=
+eyJoaXN0b3J5IjpbLTY0NTAxNTgyNyw4MTY5NDc3NywtMTQwND
+MyNzA3OF19
 -->
