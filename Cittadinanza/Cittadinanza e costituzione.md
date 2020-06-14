@@ -197,7 +197,7 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 	- Adotta provvedimenti legislativi
 
 
-## Magistratura
+## MAGISTRATURA
 - Magistrati
 - Compito di interpretare le leggi e di applicarle a tutti i casi sottoposti.
 	- Tra privati e privati
@@ -206,9 +206,21 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 - Giudici imparziali (seh a par vera)
 	- Applicazione delle leggi
 
-### Consiglio superiore della magistratura
-- Presidente della 
+### Consiglio superiore della magistratura CSM
+- Presidente della repubblica
+- Procuratore generale della corte di cassazione
+- Altri 24 membri elettivi
+- Realizzazione dell'autogoverno della Magistratura
+	- Assunzioni per concorso
+	- Assegnazioni di sede
+	- Trasferimenti
+	- Promozioni
+	- Provvedimenti disciplinari
+
+## CORTE COSTITUZIONALE
+- Organo di controllo costituzionale
+	- Decide 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjM2MTc5NiwtOTA3MTY2NzI3LDE1OD
+eyJoaXN0b3J5IjpbLTMyNTMzNjY3MiwtOTA3MTY2NzI3LDE1OD
 Q3OTQ1Miw4MTY5NDc3NywtMTQwNDMyNzA3OF19
 -->
