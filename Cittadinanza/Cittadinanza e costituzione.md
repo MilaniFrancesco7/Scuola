@@ -168,8 +168,12 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 - Funzione Esecutiva
 	- Nomina Presidente del Consiglio dei Ministri e i Ministri
 	- Emanazione regolamenti - decreti legge - disegni di legge - decreti legislativi
-	- Comando delle forze
+	- Comando delle forze armate
+	- presiede il Consiglio superiore di difesa
+	- Ratifica i trattati internazionali
+- Funzione Giudiziaria
+	- Presiede il Consiglio superiore della Magistratura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUyOTA0OTUsODE2OTQ3NzcsLTE0MD
-QzMjcwNzhdfQ==
+eyJoaXN0b3J5IjpbLTc1NTA3ODczOCw4MTY5NDc3NywtMTQwND
+MyNzA3OF19
 -->
