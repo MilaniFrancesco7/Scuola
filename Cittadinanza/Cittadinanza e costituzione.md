@@ -116,15 +116,19 @@ Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dal
 	- Straordinarie (Terrorismo)
 	- Permanenti (Difesa, giustizia, esteri)
 
-- Immunità parlam
+- Immunità parlamentare
+	- Un parlamentare può votare in modo difforme da come indicato dal partito
+	- Fa il cazzo che vuole
 
 Il Parlamento è un organo molto importante in quanto accorda la fiducia al Governo, ne controlla l’attività e può costringerlo a dimettersi togliendogli la fiducia. 
 Per questo motivo la nostra Repubblica è detta parlamentare.
 
 
-- Svolge la funzione legislativa
+### Funzione legislativa
+- Svolta separatamente dalle camere
+	- Per una legge è necessario il voto favorevole di entrambe
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczNjAzNjQ2LDgxNjk0Nzc3LC0xNDA0Mz
+eyJoaXN0b3J5IjpbNTY3NjI5MTM5LDgxNjk0Nzc3LC0xNDA0Mz
 I3MDc4XX0=
 -->
