@@ -156,11 +156,19 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 ### Compiti del presidente
 -	Atti del Capo dello Stato
 	-	Nomina ministri
-	-	Emanazione regolamenti
-	
+	-	Emanazione regolamenti - decreti legge - disegni di legge - decreti legislativi
 -	Atti esclusivi del Presidente
-	-	
+	-	Nomina 5 senatori a vita
+	-	Nomina 5 giudici costituzionali
+	-	Potere di scioglimento delle camere
+	-	designazione del Presidente del Consiglio
+	-	Concessione di grazia o pene
+	-	Concessione di onorificenze della repubblica
+
+- Funzione legislativa
+	- Indice elezioni
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzUwNjUxNyw4MTY5NDc3NywtMTQwND
-MyNzA3OF19
+eyJoaXN0b3J5IjpbLTE2NDcwMjM3NzMsODE2OTQ3NzcsLTE0MD
+QzMjcwNzhdfQ==
 -->
