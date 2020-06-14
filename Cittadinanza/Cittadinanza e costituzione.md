@@ -37,7 +37,12 @@
 - Interruzione delle comunicazioni (Treni, poste, mare, aereo, radio)
 
 ## Critiche all'ONU
-- Pochi impedimenti ai con
+- Pochi impedimenti ai conflitti nel mondo
+- Eccessivo peso degli interessi occidentali (In particolare veto degli USA)
+
+## Dichiarazioni fondamentali
+- 1948: Dichiarazione Universale dei Diritti dell'Uomo
+- 2000: Dichiarazione del Millennio delle Nazioni Unite
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTc2NDgxNCwtMTQwNDMyNzA3OF19
+eyJoaXN0b3J5IjpbMTM1OTAzOTQzMCwtMTQwNDMyNzA3OF19
 -->
