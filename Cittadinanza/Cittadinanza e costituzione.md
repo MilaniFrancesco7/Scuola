@@ -85,7 +85,14 @@ Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dal
 
 ## Organi costituzionali
 -Sono 5, prevedono l'organizzazione e il funzionamento dello stato
+
+## Parlamento
+- Organo rappresentativo del popolo
+- Struttura bicamerale (Assoluta parità - Bicameralismo perfetto)
+	- Camera dei deputati
+	- Senato della repubblica
+	- Elette ogni 5 anni (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzY2MzIwMjYsLTE0MDQzMjcwNzhdfQ
+eyJoaXN0b3J5IjpbLTExNDM0Nzk5OTYsLTE0MDQzMjcwNzhdfQ
 ==
 -->
