@@ -86,7 +86,7 @@ Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dal
 ## Organi costituzionali
 -Sono 5, prevedono l'organizzazione e il funzionamento dello stato
 
-## Parlamento
+## PARLAMENTO
 - Organo rappresentativo del popolo
 - Struttura bicamerale (Assoluta parità - Bicameralismo perfetto)
 	- Camera dei deputati
@@ -137,8 +137,21 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 - Entrata in vigore
 
 
-##
+## PRESIDENTE DELLA REPUBBLICA
+
+- Vertice dello stato
+- Risiede a Roma al Palazzo del Quirinale
+- Rappresenta l'unità dello stato
+	- Deve essere rigorosamente imparziale
+
+- Eletto dal parlamento in seduta comune
+	- Requisiti richiesti:
+		- 50 anni
+		- Cittadinanza italiana
+		- Diritti civili e politici
+		- Non è ri
+	- Durata di 7 anni
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTAxNTgyNyw4MTY5NDc3NywtMTQwND
+eyJoaXN0b3J5IjpbMTY4OTYyNTUxOCw4MTY5NDc3NywtMTQwND
 MyNzA3OF19
 -->
