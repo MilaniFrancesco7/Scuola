@@ -22,7 +22,15 @@
 		- Si riunisce nel palazzo di vetro delle nazioni unite (New York) almeno una volta all'anno
 	- Consiglio di sicurezza
 		- Responsabilità per il mantenimento della pace
-		- Composto da 15 membri, 5 permanenti (vincitori WWII) 10 per elezione ogni 2 anni
+		- Composto da 15 membri, 5 permanenti (vincitori WWII con diritto di veto) 10 per elezione ogni 2 anni
+		- Decisioni a maggioranza (Ma con adesione di tutti e 5 gli stati permanenti)
+	- Segretario generale
+		- Rappresenta l'ONU
+	- Corte internazionale di giustizia
+		- Sede all'Aia (Olanda)
+		- Composta da 15 giudici (eletti ogni 9 anni) per le controversie
+
+- Strumenti dell'ONU
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyODc4MzQwLC0xNDA0MzI3MDc4XX0=
+eyJoaXN0b3J5IjpbMTA4MzQyODA1MCwtMTQwNDMyNzA3OF19
 -->
