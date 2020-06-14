@@ -203,8 +203,12 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 	- Tra privati e privati
 	- Tra privati e pubblici
 	- Processi penali
-	- R
+- Giudici imparziali (seh a par vera)
+	- Applicazione delle leggi
+
+### Consiglio superiore della magistratura
+- Presidente della 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTQzNTU2NSwtOTA3MTY2NzI3LDE1OD
+eyJoaXN0b3J5IjpbMTkzMjM2MTc5NiwtOTA3MTY2NzI3LDE1OD
 Q3OTQ1Miw4MTY5NDc3NywtMTQwNDMyNzA3OF19
 -->
