@@ -43,6 +43,14 @@
 ## Dichiarazioni fondamentali
 - 1948: Dichiarazione Universale dei Diritti dell'Uomo
 - 2000: Dichiarazione del Millennio delle Nazioni Unite
+	- 8 obiettivi di Sviluppo del Millennio (MDGs)
+		- Alcuni raggiunti, altri no
+- 25 settembre 2015: **Agenda 2030**
+
+## Agenda 2030
+- 17 obiettivi di sviluppo sostenibile
+	- Sustainable Developement Goals (SDGs)
+- 169 Tar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTAzOTQzMCwtMTQwNDMyNzA3OF19
+eyJoaXN0b3J5IjpbMTY0MjAwMTQyNiwtMTQwNDMyNzA3OF19
 -->
