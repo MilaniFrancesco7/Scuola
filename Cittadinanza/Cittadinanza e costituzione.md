@@ -227,8 +227,11 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 	- 5 da Corte di cassazione - Consiglio di stato - Corte dei Conti
 
 ### Funzioni della corte
-
+- Giudicare controversie sulla legittimità costituzionale delle leggi e degli atti
+- Dirimere i conflitti tra i poteri dello stato, tra regioni e stato e tra regioni
+- Pronunciarsi sulle accuse contro il PDR
+- Giudizio di ammissibilità del referendum abrogativo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTIwMTQwOCwtOTA3MTY2NzI3LDE1OD
+eyJoaXN0b3J5IjpbLTExNDQ0NDY1NSwtOTA3MTY2NzI3LDE1OD
 Q3OTQ1Miw4MTY5NDc3NywtMTQwNDMyNzA3OF19
 -->
