@@ -6,31 +6,38 @@
 	- Oggi 193 nazioni (Quasi tutto il pianeta)
 - I membri sono gli "Stati Sovrani"
 
-- Svolge 4 Funzioni:
-	- Mantenere pace e sicurezza tra le nazioni, prevenendo e risolvendo conflitti
-	- Sviluppare relazioni di collaborazione fra le nazioni, fondate sull'eguaglianza dei diritti e dell'autodeterminazione dei popoli
-	- Promuovere il rispetto dei diritti umani, delle libertà fondamentali, della democrazia
-	- Sostenere la cooperazione economica, sociale e culturale per i paesi più poveri
+## 4 Funzioni:
+- Mantenere pace e sicurezza tra le nazioni, prevenendo e risolvendo conflitti
+- Sviluppare relazioni di collaborazione fra le nazioni, fondate sull'eguaglianza dei diritti e dell'autodeterminazione dei popoli
+- Promuovere il rispetto dei diritti umani, delle libertà fondamentali, della democrazia
+- Sostenere la cooperazione economica, sociale e culturale per i paesi più poveri
 
-- Agenzie specializzate collegate all'ONU:
-	-	Organizzazione mondiale per l'agricoltura (FAO)
-	-	Fondo mondiale della nazioni unite per l'infanzia (UNICEF)
-	-	Organizzazione delle nazioni unite per la scienza e la cultura (UNESCO)
+## Agenzie specializzate collegate all'ONU:
+-	Organizzazione mondiale per l'agricoltura (FAO)
+-	Fondo mondiale della nazioni unite per l'infanzia (UNICEF)
+-	Organizzazione delle nazioni unite per la scienza e la cultura (UNESCO)
 
-- Organi principali dell'ONU:
-	- Assemblea Generale
-		- Si riunisce nel palazzo di vetro delle nazioni unite (New York) almeno una volta all'anno
-	- Consiglio di sicurezza
-		- Responsabilità per il mantenimento della pace
-		- Composto da 15 membri, 5 permanenti (vincitori WWII con diritto di veto) 10 per elezione ogni 2 anni
-		- Decisioni a maggioranza (Ma con adesione di tutti e 5 gli stati permanenti)
-	- Segretario generale
-		- Rappresenta l'ONU
-	- Corte internazionale di giustizia
-		- Sede all'Aia (Olanda)
-		- Composta da 15 giudici (eletti ogni 9 anni) per le controversie
+## Organi principali dell'ONU:
+- Assemblea Generale
+	- Si riunisce nel palazzo di vetro delle nazioni unite (New York) almeno una volta all'anno
+- Consiglio di sicurezza
+	- Responsabilità per il mantenimento della pace
+	- Composto da 15 membri, 5 permanenti (vincitori WWII con diritto di veto) 10 per elezione ogni 2 anni
+	- Decisioni a maggioranza (Ma con adesione di tutti e 5 gli stati permanenti)
+- Segretario generale
+	- Rappresenta l'ONU
+- Corte internazionale di giustizia
+	- Sede all'Aia (Olanda)
+	- Composta da 15 giudici (eletti ogni 9 anni) per le controversie
 
-- Strumenti dell'ONU
+## Strumenti dell'ONU
+- Caschi blu
+- Embargo economico (Blocco importazioni e esportazioni)
+- Rottura dei rapporti diplomatici
+- Interruzione delle comunicazioni (Treni, poste, mare, aereo, radio)
+
+## Critiche all'ONU
+- Pochi impedimenti ai con
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzQyODA1MCwtMTQwNDMyNzA3OF19
+eyJoaXN0b3J5IjpbMTg5OTc2NDgxNCwtMTQwNDMyNzA3OF19
 -->
