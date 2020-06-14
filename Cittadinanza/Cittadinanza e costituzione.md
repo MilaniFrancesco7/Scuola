@@ -190,7 +190,21 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 	- Petter Solberg
 	- Il peggiore
 	- La santissima trinità
+
+### Funzione esecutiva
+- Il governo deve amministrare la "cosa pubblica"
+	-  Attua obiettivi dello stato
+	- Adotta provvedimenti legislativi
+
+
+## Magistratura
+- Magistrati
+- Compito di interpretare le leggi e di applicarle a tutti i casi sottoposti.
+	- Tra privati e privati
+	- Tra privati e pubblici
+	- Processi penali
+	- R
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzM5ODk3NywtOTA3MTY2NzI3LDE1OD
+eyJoaXN0b3J5IjpbLTI0OTQzNTU2NSwtOTA3MTY2NzI3LDE1OD
 Q3OTQ1Miw4MTY5NDc3NywtMTQwNDMyNzA3OF19
 -->
