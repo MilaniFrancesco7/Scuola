@@ -106,8 +106,16 @@ Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dal
 	- 315 senatori + senatori a vita (Ex presidenti + personalità importanti) almeno 25 anni
 	- Palazzo Madama (Roma)
 
-- Si riuniscono per 3 casi:
-	- Elezione p
+- Si riuniscono per 4 casi:
+	- Elezione presidente della repubblica
+	- Messa in stato d'accusa presidente della repubblica
+	- Elezione di 5 giudici costituzionali
+	- Elezione di 8 componenti del consiglio superiore della magistratura
+
+- All'interno di ogni camera vengono costituite le commissioni parlamentari
+	- Straordinarie (Terrorismo)
+	- Permanenti (Difesa, giustizia, esteri)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzc1NTkxOCwtMTQwNDMyNzA3OF19
+eyJoaXN0b3J5IjpbLTE4OTc3NjkyNTgsLTE0MDQzMjcwNzhdfQ
+==
 -->
