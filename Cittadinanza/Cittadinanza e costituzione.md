@@ -154,16 +154,12 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 	- Il vicepresidente è il presidente del Senato
 
 ### Compiti del presidente
--	Atti del Capo dello Stato
-	-	Nomina ministri
-	-	Emanazione regolamenti - decreti legge - disegni di legge - decreti legislativi
--	Atti esclusivi del Presidente
-	-	Nomina 5 senatori a vita
-	-	Nomina 5 giudici costituzionali
-	-	Potere di scioglimento delle camere
-	-	designazione del Presidente del Consiglio
-	-	Concessione di grazia o pene
-	-	Concessione di onorificenze della repubblica
+-	Nomina 5 senatori a vita
+-	Nomina 5 giudici costituzionali
+-	Potere di scioglimento delle camere
+-	designazione del Presidente del Consiglio
+-	Concessione di grazia o pene
+-	Concessione di onorificenze della repubblica
 
 - Funzione Legislativa
 	- Indice elezioni - referendum
@@ -171,8 +167,9 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 	- Promulgazione leggi
 - Funzione Esecutiva
 	- Nomina Presidente del Consiglio dei Ministri e i Ministri
-	- 	-	Emanazione regolamenti - decreti legge - disegni di legge - decreti legislativi
+	- Emanazione regolamenti - decreti legge - disegni di legge - decreti legislativi
+	- Comando delle forze
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ1OTU4ODEsODE2OTQ3NzcsLTE0MD
+eyJoaXN0b3J5IjpbLTE0ODUyOTA0OTUsODE2OTQ3NzcsLTE0MD
 QzMjcwNzhdfQ==
 -->
