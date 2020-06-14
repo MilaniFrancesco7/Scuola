@@ -56,6 +56,26 @@
 
 Programma d'azione per le persone, il pianeta e la prosperità.
 Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dalla comunità internazionale.
+
+## Obiettivi (Che non imparerò MAI)
+- Obiettivo 1. Porre fine alla povertà in tutte le sue forme ovunque 5 
+-  Obiettivo 2. Porre fine alla fame, raggiungere la sicurezza alimentare e migliorare la nutrizione e promuovere un'agricoltura sostenibile 
+- Obiettivo 3. Garantire una vita sana e promuovere il benessere di tutti a tutte le età 
+-  Obiettivo 4. Garantire un'istruzione di qualità inclusiva ed equa e promuovere opportunità di apprendimento permanente per tutti 
+-  Obiettivo 5. Raggiungere l'uguaglianza di genere e potenziare tutte le donne e le ragazze 
+-  Obiettivo 6. Garantire la disponibilità e la gestione sostenibile di acqua e servizi igienici per tutti 
+- Obiettivo 7. Garantire l'accesso a un'energia accessibile, affidabile, sostenibile e moderna per tutti 
+-  Obiettivo 8. Promuovere una crescita economica sostenuta, inclusiva e sostenibile, un'occupazione piena e produttiva e un lavoro dignitoso per tutti 
+- Obiettivo 9. Costruire infrastrutture resilienti, promuovere l'industrializzazione inclusiva e sostenibile e favorire l'innovazione 
+-  Obiettivo 10. Ridurre le disuguaglianze all'interno e tra i paesi 
+-  Obiettivo 11. Rendere le città e gli insediamenti umani inclusivi, sicuri, resilienti e sostenibili 
+-  Obiettivo 12. Garantire modelli di consumo e produzione sostenibili
+- Obiettivo 13. Intraprendere azioni urgenti per combattere il cambiamento climatico e i suoi impatti 
+-  Obiettivo 14. Conservare e utilizzare in modo sostenibile gli oceani, i mari e le risorse marine per lo sviluppo sostenibile 
+-  Obiettivo 15. Proteggere, ripristinare e promuovere l'uso sostenibile degli ecosistemi terrestri, gestire in modo sostenibile le foreste, combattere la desertificazione, arrestare e invertire il degrado del suolo e arrestare la perdita di biodiversità 
+-  Obiettivo 16. Promuovere società pacifiche e inclusive per lo sviluppo sostenibile, fornire accesso alla giustizia per tutti e costruire istituzioni efficaci, responsabili e inclusive a tutti i livelli 
+-  Obiettivo 17. Rafforzar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjgxODExMywtMTQwNDMyNzA3OF19
+eyJoaXN0b3J5IjpbLTE4MTM3MTIyNjMsLTE0MDQzMjcwNzhdfQ
+==
 -->
