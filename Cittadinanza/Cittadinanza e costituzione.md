@@ -74,8 +74,14 @@ Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dal
 -  Obiettivo 14. Conservare e utilizzare in modo sostenibile gli oceani, i mari e le risorse marine per lo sviluppo sostenibile 
 -  Obiettivo 15. Proteggere, ripristinare e promuovere l'uso sostenibile degli ecosistemi terrestri, gestire in modo sostenibile le foreste, combattere la desertificazione, arrestare e invertire il degrado del suolo e arrestare la perdita di biodiversità 
 -  Obiettivo 16. Promuovere società pacifiche e inclusive per lo sviluppo sostenibile, fornire accesso alla giustizia per tutti e costruire istituzioni efficaci, responsabili e inclusive a tutti i livelli 
--  Obiettivo 17. Rafforzar
+-  Obiettivo 17. Rafforzare i mezzi di attuazione e rivitalizzare il partenariato globale per lo sviluppo sostenibile
+
+
+# Organi Costituzionali
+
+## Date da ricordare
+- 2 Giugno 1946 Suffragio Universale, voto per le donne al referendum Monda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM3MTIyNjMsLTE0MDQzMjcwNzhdfQ
+eyJoaXN0b3J5IjpbLTEzNjQ3NTAwNjcsLTE0MDQzMjcwNzhdfQ
 ==
 -->
