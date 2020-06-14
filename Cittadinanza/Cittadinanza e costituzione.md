@@ -154,11 +154,6 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 	- Il vicepresidente è il presidente del Senato
 
 ### Compiti del presidente
-
--	designazione del Presidente del Consiglio
--	
-
-
 - Funzione Legislativa
 	- Indice elezioni - referendum
 	- Nomina 5 senatori a vita
@@ -174,7 +169,10 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 	- Presiede il Consiglio superiore della Magistratura
 	- Concessione di grazia o pene
 	- Nomina 5 giudici costituzionali
+
+## IL GOVERNO
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDc5NDUyLDgxNjk0Nzc3LC0xNDA0Mz
-I3MDc4XX0=
+eyJoaXN0b3J5IjpbLTkwNzE2NjcyNywxNTg0Nzk0NTIsODE2OT
+Q3NzcsLTE0MDQzMjcwNzhdfQ==
 -->
