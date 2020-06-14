@@ -80,8 +80,12 @@ Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dal
 # Organi Costituzionali
 
 ## Date da ricordare
-- 2 Giugno 1946 Suffragio Universale, voto per le donne al referendum Monda
+- 2 Giugno 1946 - Suffragio Universale, voto per le donne al referendum Monarchia/Repubblica
+- 1 Gennaio 1948 - Entra in vigore la costituzione che sostituisce lo statuto albertino
+
+## Organi costituzionali
+-Sono 5, prevedono l'organizzazione e il funzionamento dello stato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ3NTAwNjcsLTE0MDQzMjcwNzhdfQ
+eyJoaXN0b3J5IjpbLTEyNzY2MzIwMjYsLTE0MDQzMjcwNzhdfQ
 ==
 -->
