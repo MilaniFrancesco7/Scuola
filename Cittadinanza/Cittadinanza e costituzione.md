@@ -98,11 +98,16 @@ Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dal
 	- Suffragio universale
 	- Votano i cittadini che abbiano almeno 18 anni
 	- 630 Deputati, almeno 25 anni
+	- Palazzo Montecitorio (Roma)
 
 - Senato della repubblica
 	- Suffragio universale
-	- Vota
+	- Votano i cittadini che abbiano almeno 25 anni
+	- 315 senatori + senatori a vita (Ex presidenti + personalità importanti) almeno 25 anni
+	- Palazzo Madama (Roma)
+
+- Si riuniscono per 3 casi:
+	- Elezione p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzIyMzMzNjIsLTE0MDQzMjcwNzhdfQ
-==
+eyJoaXN0b3J5IjpbMTczNzc1NTkxOCwtMTQwNDMyNzA3OF19
 -->
