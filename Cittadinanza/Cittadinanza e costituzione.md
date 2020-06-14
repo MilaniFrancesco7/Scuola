@@ -48,9 +48,14 @@
 - 25 settembre 2015: **Agenda 2030**
 
 ## Agenda 2030
+- Entra in vigore il 1 Gennaio 2016
 - 17 obiettivi di sviluppo sostenibile
 	- Sustainable Developement Goals (SDGs)
-- 169 Tar
+- 169 Target
+- 240 Indicatori
+
+Programma d'azione per le persone, il pianeta e la prosperità.
+Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dalla comunità internazionale.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjAwMTQyNiwtMTQwNDMyNzA3OF19
+eyJoaXN0b3J5IjpbMjAwNjgxODExMywtMTQwNDMyNzA3OF19
 -->
