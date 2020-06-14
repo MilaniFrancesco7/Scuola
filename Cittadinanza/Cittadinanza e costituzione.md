@@ -173,7 +173,8 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 	- Ratifica i trattati internazionali
 - Funzione Giudiziaria
 	- Presiede il Consiglio superiore della Magistratura
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTA3ODczOCw4MTY5NDc3NywtMTQwND
-MyNzA3OF19
+eyJoaXN0b3J5IjpbLTIzMDc4NjM5LDgxNjk0Nzc3LC0xNDA0Mz
+I3MDc4XX0=
 -->
