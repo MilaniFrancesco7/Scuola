@@ -115,7 +115,13 @@ Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dal
 - All'interno di ogni camera vengono costituite le commissioni parlamentari
 	- Straordinarie (Terrorismo)
 	- Permanenti (Difesa, giustizia, esteri)
+
+Il Parlamento è un organo molto importante in quanto, oltre a legiferare e accordare la fiducia al Governo, ne controlla l’attività e può costringerlo a dimettersi togliendogli, appunto, la fiducia. 
+Per questo motivo la nostra Repubblica è detta parlamentare.
+
+
+- Svolge la funzione legislativa
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc3NjkyNTgsLTE0MDQzMjcwNzhdfQ
-==
+eyJoaXN0b3J5IjpbODE2OTQ3NzcsLTE0MDQzMjcwNzhdfQ==
 -->
