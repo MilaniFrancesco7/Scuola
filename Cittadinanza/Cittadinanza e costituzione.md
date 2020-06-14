@@ -165,10 +165,14 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 	-	Concessione di grazia o pene
 	-	Concessione di onorificenze della repubblica
 
-- Funzione legislativa
-	- Indice elezioni
-	- 
+- Funzione Legislativa
+	- Indice elezioni - referendum
+	- Nomina 5 senatori a vita
+	- Promulgazione leggi
+- Funzione Esecutiva
+	- Nomina Presidente del Consiglio dei Ministri e i Ministri
+	- 	-	Emanazione regolamenti - decreti legge - disegni di legge - decreti legislativi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDcwMjM3NzMsODE2OTQ3NzcsLTE0MD
+eyJoaXN0b3J5IjpbLTE5NTQ1OTU4ODEsODE2OTQ3NzcsLTE0MD
 QzMjcwNzhdfQ==
 -->
