@@ -2,9 +2,11 @@
 
 ## Cos'è l'ONU
 - Organizzazione delle Nazioni Unite
-- Fondate il 24 ottobre 1945 da 51 nazioni
-	- Al giorno d'oggi ne fanno parte 193 (Quasi tutto il pianeta)
-	- 
+	- Preservazione della pace e della sicurezza collettiva grtaz
+- Fondata il 24 ottobre 1945 da 51 nazioni
+	- Oggi 193 nazioni (Quasi tutto il pianeta)
+- I membri sono gli "Stati Sovrani"
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQzMjcwNzhdfQ==
+eyJoaXN0b3J5IjpbLTU5ODk0NjMwNSwtMTQwNDMyNzA3OF19
 -->
