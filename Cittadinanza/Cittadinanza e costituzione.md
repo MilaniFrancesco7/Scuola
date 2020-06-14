@@ -106,7 +106,7 @@ Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dal
 	- 315 senatori + senatori a vita (Ex presidenti + personalità importanti) almeno 25 anni
 	- Palazzo Madama (Roma)
 
-- Si riuniscono per 4 casi:
+- Si riuniscono in 4 casi:
 	- Elezione presidente della repubblica
 	- Messa in stato d'accusa presidente della repubblica
 	- Elezione di 5 giudici costituzionali
@@ -116,12 +116,15 @@ Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dal
 	- Straordinarie (Terrorismo)
 	- Permanenti (Difesa, giustizia, esteri)
 
-Il Parlamento è un organo molto importante in quanto, oltre a legiferare e accordare la fiducia al Governo, ne controlla l’attività e può costringerlo a dimettersi togliendogli, appunto, la fiducia. 
+- Immunità parlam
+
+Il Parlamento è un organo molto importante in quanto accorda la fiducia al Governo, ne controlla l’attività e può costringerlo a dimettersi togliendogli la fiducia. 
 Per questo motivo la nostra Repubblica è detta parlamentare.
 
 
 - Svolge la funzione legislativa
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2OTQ3NzcsLTE0MDQzMjcwNzhdfQ==
+eyJoaXN0b3J5IjpbNjczNjAzNjQ2LDgxNjk0Nzc3LC0xNDA0Mz
+I3MDc4XX0=
 -->
