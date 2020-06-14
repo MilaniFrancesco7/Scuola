@@ -149,9 +149,18 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 		- 50 anni
 		- Cittadinanza italiana
 		- Diritti civili e politici
-		- Non è ri
+		- Non è richiesto titolo di studio (Uno con la 3 elementare può fare il PdR rendiamoci conto)
 	- Durata di 7 anni
+	- Il vicepresidente è il presidente del Senato
+
+### Compiti del presidente
+-	Atti del Capo dello Stato
+	-	Nomina ministri
+	-	Emanazione regolamenti
+	
+-	Atti esclusivi del Presidente
+	-	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTYyNTUxOCw4MTY5NDc3NywtMTQwND
+eyJoaXN0b3J5IjpbMTczMzUwNjUxNyw4MTY5NDc3NywtMTQwND
 MyNzA3OF19
 -->
