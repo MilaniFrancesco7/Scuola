@@ -179,8 +179,18 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 	- Presidente del Consiglio dei Ministri
 	- Ministri
 		- Insieme costituiscono il Consiglio dei ministri (Dio cristo va te che numeri)
-	- Vice presidente
+	- Vice presidente del consiglio
+	- Vice ministri
+	- Sottosegretari di stato
+	- Comitati interministeriali
+	- Consiglio di gabinetto (Esiste veramente)
+	- Commissari straordinari
+	- Pinco pallino
+	- Il n° 9 del Milan
+	- Petter Solberg
+	- Il peggiore
+	- La santissima trinità
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDY2ODQ2NSwtOTA3MTY2NzI3LDE1OD
+eyJoaXN0b3J5IjpbMjEyMzM5ODk3NywtOTA3MTY2NzI3LDE1OD
 Q3OTQ1Miw4MTY5NDc3NywtMTQwNDMyNzA3OF19
 -->
