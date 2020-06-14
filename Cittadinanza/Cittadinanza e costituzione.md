@@ -219,8 +219,16 @@ Per questo motivo la nostra Repubblica è detta parlamentare.
 
 ## CORTE COSTITUZIONALE
 - Organo di controllo costituzionale
-	- Decide 
+	- Decide sulla costituzionalità delle leggi
+	- Risolve conflitti tra gli organi costituzionali
+- Composta da 15 giudici
+	- 5 nominati dal PDR
+	- 5 nominati dal parlamento
+	- 5 da Corte di cassazione - Consiglio di stato - Corte dei Conti
+
+### Funzioni della corte
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTMzNjY3MiwtOTA3MTY2NzI3LDE1OD
+eyJoaXN0b3J5IjpbLTE3MTIwMTQwOCwtOTA3MTY2NzI3LDE1OD
 Q3OTQ1Miw4MTY5NDc3NywtMTQwNDMyNzA3OF19
 -->
