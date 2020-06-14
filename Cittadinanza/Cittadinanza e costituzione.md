@@ -91,8 +91,18 @@ Rappresenta uno dei programmi d’azione globale più ambiziosi mai adottati dal
 - Struttura bicamerale (Assoluta parità - Bicameralismo perfetto)
 	- Camera dei deputati
 	- Senato della repubblica
-	- Elette ogni 5 anni (
+- Elette ogni 5 anni (Legislatura)
+	- Le camere possono essere sciolte anticipatamente (Crisi del governo)
+
+- Camera dei deputati
+	- Suffragio universale
+	- Votano i cittadini che abbiano almeno 18 anni
+	- 630 Deputati, almeno 25 anni
+
+- Senato della repubblica
+	- Suffragio universale
+	- Vota
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM0Nzk5OTYsLTE0MDQzMjcwNzhdfQ
+eyJoaXN0b3J5IjpbLTExMzIyMzMzNjIsLTE0MDQzMjcwNzhdfQ
 ==
 -->
